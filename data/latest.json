@@ -1,21 +1,27 @@
 {
   "report": {
     "run_date": "2026-09-02",
-    "generated_at": "2026-09-01T17:30:45.323629+00:00",
+    "generated_at": "2026-09-01T17:31:40.830802+00:00",
     "timezone": "Asia/Tokyo",
     "lookback_hours": 48,
     "feeds_total": 12,
-    "feeds_ok": 11,
-    "item_count": 67,
-    "errors": [
-      {
-        "name": "Hacker News (front page)",
-        "url": "https://hnrss.org/frontpage",
-        "error": "<urlopen error timed out>"
-      }
-    ]
+    "feeds_ok": 12,
+    "item_count": 87,
+    "errors": []
   },
   "items": [
+    {
+      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+      "link": "https://news.ycombinator.com/item?id=49524704",
+      "published_at": "2026-09-01T17:00:14+00:00",
+      "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524704\">https://news.ycombinator.com/item?id=49524704</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
     {
       "title": "How AI-native companies turn workflows into operating capability",
       "link": "https://openai.com/index/ai-native-company-workflows",
@@ -28,6 +34,42 @@
       ]
     },
     {
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "link": "https://github.com/carloslfu/slotstream",
+      "published_at": "2026-09-01T16:42:46+00:00",
+      "summary": "<p>I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "link": "https://moviescenemap.com/",
+      "published_at": "2026-09-01T16:34:45+00:00",
+      "summary": "<p>Article URL: <a href=\"https://moviescenemap.com/\">https://moviescenemap.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524320\">https://news.ycombinator.com/item?id=49524320</a></p>\n<p>Points: 4</p>\n<p># Comments: 3</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
+      "link": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
+      "published_at": "2026-09-01T16:25:02+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/\">https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49524199\">https://news.ycombinator.com/item?id=49524199</a></p>\n<p>Points: 29</p>\n<p># Comments: 12</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "published_at": "2026-09-01T16:00:00+00:00",
@@ -37,6 +79,114 @@
       "tags": [
         "ai",
         "google"
+      ]
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "link": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "published_at": "2026-09-01T15:55:53+00:00",
+      "summary": "<p>Article URL: <a href=\"https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566\">https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523754\">https://news.ycombinator.com/item?id=49523754</a></p>\n<p>Points: 167</p>\n<p># Comments: 47</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+      "link": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+      "published_at": "2026-09-01T15:53:42+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/\">https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523720\">https://news.ycombinator.co",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Keenable SELECT: an agent that searches the web in SQL",
+      "link": "https://keenableai.github.io/select-showcase/",
+      "published_at": "2026-09-01T15:41:03+00:00",
+      "summary": "<p>Article URL: <a href=\"https://keenableai.github.io/select-showcase/\">https://keenableai.github.io/select-showcase/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523473\">https://news.ycombinator.com/item?id=49523473</a></p>\n<p>Points: 29</p>\n<p># Comments: 5</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "link": "https://ambientcss.vercel.app/",
+      "published_at": "2026-09-01T15:35:11+00:00",
+      "summary": "<p>Article URL: <a href=\"https://ambientcss.vercel.app/\">https://ambientcss.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523387\">https://news.ycombinator.com/item?id=49523387</a></p>\n<p>Points: 63</p>\n<p># Comments: 22</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "A browser-based viewer for Office Open XML documents",
+      "link": "https://ooxml.silurus.dev/",
+      "published_at": "2026-09-01T15:33:13+00:00",
+      "summary": "<p>Article URL: <a href=\"https://ooxml.silurus.dev/\">https://ooxml.silurus.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49523361\">https://news.ycombinator.com/item?id=49523361</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "link": "https://news.ycombinator.com/item?id=49522897",
+      "published_at": "2026-09-01T15:01:17+00:00",
+      "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+      "link": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+      "published_at": "2026-09-01T14:19:30+00:00",
+      "summary": "<p>Article URL: <a href=\"https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept\">https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49522374\">https://news.ycombinator.com/item?id=49522374</a></p>\n<p>Points: 73</p>\n<p># Comments: 56</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "published_at": "2026-09-01T13:46:49+00:00",
+      "summary": "<p>Article URL: <a href=\"https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/\">https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521973\">https://news.ycombinator.com/item?id=49521973</a></p>\n<p>Points: 128</p>\n<p># Comments: 56</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Io_uring Without Readahead",
+      "link": "https://frn.sh/io-uring/",
+      "published_at": "2026-09-01T13:19:12+00:00",
+      "summary": "<p>Article URL: <a href=\"https://frn.sh/io-uring/\">https://frn.sh/io-uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521623\">https://news.ycombinator.com/item?id=49521623</a></p>\n<p>Points: 76</p>\n<p># Comments: 18</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
       ]
     },
     {
@@ -60,6 +210,30 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "published_at": "2026-09-01T10:11:02+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 640</p>\n<p># Comments: 167</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "published_at": "2026-09-01T09:52:45+00:00",
+      "summary": "<p>Article URL: <a href=\"https://mvakde.github.io/blog/44-on-arc-1/\">https://mvakde.github.io/blog/44-on-arc-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519939\">https://news.ycombinator.com/item?id=49519939</a></p>\n<p>Points: 311</p>\n<p># Comments: 84</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
       ]
     },
     {
@@ -87,6 +261,42 @@
       ]
     },
     {
+      "title": "Restroom Archive",
+      "link": "https://restroomarchive.com",
+      "published_at": "2026-09-01T03:23:48+00:00",
+      "summary": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 300</p>\n<p># Comments: 69</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "GPU World",
+      "link": "https://www.gpuworld.org/",
+      "published_at": "2026-09-01T03:16:36+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.gpuworld.org/\">https://www.gpuworld.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517584\">https://news.ycombinator.com/item?id=49517584</a></p>\n<p>Points: 365</p>\n<p># Comments: 235</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Fastpotify",
+      "link": "https://fastpotify.rocks/",
+      "published_at": "2026-09-01T02:52:14+00:00",
+      "summary": "<p>Article URL: <a href=\"https://fastpotify.rocks/\">https://fastpotify.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517448\">https://news.ycombinator.com/item?id=49517448</a></p>\n<p>Points: 718</p>\n<p># Comments: 458</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
       "title": "SharePoint上のExcelファイルをDr.Sumに自動連携する（TROCCO活用例）",
       "link": "https://qiita.com/suzu_suzu/items/c7350a1b6bed511da9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "published_at": "2026-09-01T02:50:52+00:00",
@@ -96,6 +306,18 @@
       "tags": [
         "tech",
         "ja"
+      ]
+    },
+    {
+      "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+      "link": "https://github.com/fregacmols/RotaryCell",
+      "published_at": "2026-09-01T02:29:23+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/fregacmols/RotaryCell\">https://github.com/fregacmols/RotaryCell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517297\">https://news.ycombinator.com/item?id=49517297</a></p>\n<p>Points: 136</p>\n<p># Comments: 38</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
       ]
     },
     {
@@ -156,6 +378,18 @@
       "tags": [
         "cloudflare",
         "devtools"
+      ]
+    },
+    {
+      "title": "Has early Scratch experience led to fulfilling careers?",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2094450188911845827",
+      "published_at": "2026-08-31T23:46:38+00:00",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/ID_AA_Carmack/status/2094450188911845827\">https://twitter.com/ID_AA_Carmack/status/2094450188911845827</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516209\">https://news.ycombinator.com/item?id=49516209</a></p>\n<p>Points: 80</p>\n<p># Comments: 58</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
       ]
     },
     {
