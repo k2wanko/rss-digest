@@ -1,53 +1,43 @@
 # RSS digest — 2026-09-02
 
-- Generated (UTC): 2026-09-01T17:31:40.830802+00:00
-- Items: 87
+- Generated (UTC): 2026-09-01T22:58:50.702637+00:00
+- Items: 104
 - Feeds OK: 12 / 12
 
 
 ## Hacker News (front page)
 
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) — `2026-09-01T22:30:52+00:00`
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) — `2026-09-01T22:06:57+00:00`
+- [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears) — `2026-09-01T21:19:10+00:00`
+- [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) — `2026-09-01T20:53:35+00:00`
+- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue) — `2026-09-01T20:39:19+00:00`
+- [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) — `2026-09-01T20:30:51+00:00`
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/) — `2026-09-01T20:20:41+00:00`
+- [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) — `2026-09-01T20:19:11+00:00`
+- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) — `2026-09-01T20:07:57+00:00`
+- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) — `2026-09-01T19:55:47+00:00`
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) — `2026-09-01T18:35:15+00:00`
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) — `2026-09-01T17:53:53+00:00`
+- [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) — `2026-09-01T17:46:21+00:00`
+- [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas) — `2026-09-01T17:36:02+00:00`
+- [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) — `2026-09-01T17:35:10+00:00`
 - [Quill (YC W20) Is Hiring a Fullstack SWE](https://news.ycombinator.com/item?id=49524704) — `2026-09-01T17:00:14+00:00`
+- [Show HN: Newton's Orchard – Browser-based space/gravity playground](https://newtonsorchard.app) — `2026-09-01T16:43:40+00:00`
 - [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) — `2026-09-01T16:42:46+00:00`
 - [Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/) — `2026-09-01T16:34:45+00:00`
-- [Thanks to Lake Ontario, MapQuest is popular all over again](https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/) — `2026-09-01T16:25:02+00:00`
 - [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) — `2026-09-01T15:55:53+00:00`
-- [Dwarf Fortress' creator says the industry's in shambles over AI](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/) — `2026-09-01T15:53:42+00:00`
-- [Keenable SELECT: an agent that searches the web in SQL](https://keenableai.github.io/select-showcase/) — `2026-09-01T15:41:03+00:00`
-- [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/) — `2026-09-01T15:35:11+00:00`
-- [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/) — `2026-09-01T15:33:13+00:00`
-- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) — `2026-09-01T15:01:17+00:00`
-- [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept) — `2026-09-01T14:19:30+00:00`
-- [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) — `2026-09-01T13:46:49+00:00`
-- [Io_uring Without Readahead](https://frn.sh/io-uring/) — `2026-09-01T13:19:12+00:00`
-- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) — `2026-09-01T10:11:02+00:00`
-- [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) — `2026-09-01T09:52:45+00:00`
-- [Restroom Archive](https://restroomarchive.com) — `2026-09-01T03:23:48+00:00`
-- [GPU World](https://www.gpuworld.org/) — `2026-09-01T03:16:36+00:00`
-- [Fastpotify](https://fastpotify.rocks/) — `2026-09-01T02:52:14+00:00`
-- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell) — `2026-09-01T02:29:23+00:00`
-- [Has early Scratch experience led to fulfilling careers?](https://twitter.com/ID_AA_Carmack/status/2094450188911845827) — `2026-08-31T23:46:38+00:00`
-
-## OpenAI Blog
-
-- [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) — `2026-09-01T17:00:00+00:00`
-- [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources) — `2026-09-01T12:00:00+00:00`
-- [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) — `2026-08-31T07:00:00+00:00`
-- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — `2026-08-31T07:00:00+00:00`
-- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) — `2026-08-31T04:00:00+00:00`
-
-## Google AI Blog
-
-- [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) — `2026-09-01T16:00:00+00:00`
-
-## Cloudflare Blog
-
-- [How we could save petabytes of cache storage with Zstandard and Pingora](https://blog.cloudflare.com/cache-transcoding/) — `2026-09-01T12:59:00+00:00`
-- [Introducing Adaptive Intelligence: Undermining the economics of every bot attack](https://blog.cloudflare.com/introducing-adaptive-intelligence/) — `2026-08-31T12:59:00+00:00`
 
 ## AWS What's New
 
+- [Amazon Quick now lets you build custom apps with natural language  -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/) — `2026-09-01T21:37:00+00:00`
+- [Amazon CloudWatch Database Insights now supports self-managed PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/) — `2026-09-01T19:00:00+00:00`
+- [AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/) — `2026-09-01T18:00:00+00:00`
+- [Amazon Connect Customer dashboards now support compact mode](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/) — `2026-09-01T17:00:00+00:00`
+- [Amazon MWAA supports Apache Airflow version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/) — `2026-09-01T15:00:00+00:00`
+- [Claude Fable 5.1, Anthropic's new frontier model is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/) — `2026-09-01T14:00:00+00:00`
 - [Amazon CloudWatch now supports warm-up periods for alarms](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period) — `2026-09-01T08:00:00+00:00`
+- [Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/) — `2026-09-01T07:30:00+00:00`
 - [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/) — `2026-08-31T22:30:00+00:00`
 - [Partner Revenue Measurement expands service coverage for User Agent string capability](https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/) — `2026-08-31T22:00:00+00:00`
 - [AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance](https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard) — `2026-08-31T21:35:00+00:00`
@@ -69,31 +59,56 @@
 - [Automated Security Response on AWS adds AI Toolkit for custom remediations](https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/) — `2026-08-31T06:00:00+00:00`
 - [AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments](https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/) — `2026-08-31T04:00:00+00:00`
 
+## Google AI Blog
+
+- [The latest AI news we announced in August 2026](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/) — `2026-09-01T20:45:00+00:00`
+- [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) — `2026-09-01T16:00:00+00:00`
+
 ## Qiita Trending (official)
 
+- [API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた](https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T19:08:55+00:00`
+- [耳で聞く！Python で学ぶ マクロ経済学 入門 7](https://qiita.com/maskot1977/items/93e5b63cbf52c425459e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T15:11:23+00:00`
+- [(新試験)「AWS Certified AI Business Strategist」が登場](https://qiita.com/yama3133/items/ca7ac26f593b541b0ac0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T14:17:36+00:00`
+- [Connection Poolの理解。Supabaseで接続数の検証](https://qiita.com/o68606007/items/d7207d8cb01187a25c7d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T13:01:30+00:00`
+- [ゲーム制作における Herdrとgit worktreeの自立型マルチエージェント環境](https://qiita.com/yuji_yasuhara/items/99c589264a006658a15a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T09:56:25+00:00`
+- [「10万円以上は部長承認」をどこに書くか。Goのドメインサービスと、使いすぎない線引き](https://qiita.com/shinchi-pmtech/items/9046380853c316b68bf7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T07:34:28+00:00`
+- [New Relic Mobile Agentにおける広告ブロックの影響と回避策](https://qiita.com/matsukawa/items/5ad2525fea421db66c3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T06:12:53+00:00`
 - [2026年今から WordPress を立ち上げるなら — AWS Lightsail + Cloudflare WAF を使った構築手順](https://qiita.com/sugumura/items/2f32c69f11bbc97b2fd9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T03:25:00+00:00`
 - [SharePoint上のExcelファイルをDr.Sumに自動連携する（TROCCO活用例）](https://qiita.com/suzu_suzu/items/c7350a1b6bed511da9ed?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T02:50:52+00:00`
+- [塩尻サイバーセキュリティ勉強会に参加しよう！](https://qiita.com/thetakei/items/7414a8ff73a83cde1474?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T02:46:53+00:00`
 - [「いい感じに分けといて」と頼まれたので、「いい感じ」を定義してみた](https://qiita.com/KYoshiyama/items/50f50f39fd0da34e3dce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T02:11:47+00:00`
+- [2026年9月1日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/69b158b4833efe5742db?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T01:48:56+00:00`
+- [企業様に呼ばれて、1時間Copilotについて登壇してきました](https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T01:45:24+00:00`
 - [Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍](https://qiita.com/jqit_suwa/items/5fe930eb46d064b3da06?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T00:03:06+00:00`
-- [野党は何のためにあるのか？ ― 政権交代と政策改善から考える日本経済 : システム設計視点の行動経済学 (23)](https://qiita.com/maskot1977/items/170b23b7b2738975f021?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T17:58:29+00:00`
+- [AWS Agentic Football Cupについて調べた](https://qiita.com/ry-harada/items/441725ff1b451ed8042f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T23:57:51+00:00`
+- [IBM Bobを使って、量子コンピュータで量子機械学習(QSVM)を作成してみる。](https://qiita.com/harrowharrow16/items/442fad900d9aff31a45c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T23:23:30+00:00`
 - [ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？　34製品の利用規約を読み比べてみた](https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T15:18:40+00:00`
-- [900件のテストが緑でも、本番では壊れる──LLM製プロダクトの品質保証で学んだこと](https://qiita.com/tanabata-kitajima/items/89edab6694989422af69?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T14:01:38+00:00`
 - [良いダッシュボードとは — 「誰の何を見せる画面か」から考える](https://qiita.com/YushiYamamoto/items/608f236ec0f0c694def9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T13:12:40+00:00`
+- [AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた](https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T12:57:20+00:00`
 - [【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ](https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T11:53:39+00:00`
-- [Google Cloud の Data Agent Kit を Claude Code から使ってみた](https://qiita.com/asahide/items/ac483a79cd8cf40977c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T10:54:16+00:00`
-- [Autonomous Database Serverless(ADB-S) で Private Endpoint同士の DBLINK を作成する(Oracle Cloud Infrastructure)](https://qiita.com/ora_gonsuke777/items/b4d9a4b6f692afa24dad?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T10:19:23+00:00`
-- [劇的な成長はいらない。毎日0.01ずつでいい — 1.01の法則という「仕組み化」の思想](https://qiita.com/teppei19980914/items/bedc33037b6e7e76a120?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T10:05:37+00:00`
 - [「いつもの一言」を置き換えるだけで、AIへの指示の精度はかなり変わる](https://qiita.com/sumomoo/items/7bd7345600b1ed09d5a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:18:00+00:00`
 - [元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと](https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:16:17+00:00`
 - [未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です](https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:14:13+00:00`
 - [新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話](https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:12:20+00:00`
-- [Amazon CognitoのLambdaトリガー完全ガイド（基礎編）](https://qiita.com/sasachan/items/4cca789f40e0dd84498c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T06:42:48+00:00`
+- [GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など](https://qiita.com/kkkkkou/items/90be6651d4d012c3f107?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T02:27:38+00:00`
 - [New Relic Slack App と 自然言語で自律自動の障害調査を行う New Relic Autopilot が連携してみた](https://qiita.com/seamoooooo/items/63002f5805be172b6059?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T02:03:14+00:00`
-- [AIコードレビュー、エージェントを増やしても見落としたバグが一文を足すと見つかった](https://qiita.com/YIS_HOSHI/items/d08592ce7a56cd0f69a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T00:54:21+00:00`
 - [LLMが「1+1」を計算するとき、中で何が起きているのか](https://qiita.com/nolanlover0527/items/7650fe71fa0bca85a727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T00:18:12+00:00`
-- [【2026年版】生成AIを学ぶための51冊 ― LLM・RAG・AIエージェント・LLMOps・Physical AIまで](https://qiita.com/aokikenichi/items/97b326122334c7f8eea3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-30T23:55:25+00:00`
 - [LangGraphが渡すのは、設計図](https://qiita.com/haru-qiita/items/e93ba2ec0cc317d8cac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-30T23:51:21+00:00`
 - [スター6万のAgent Skillを入れたら、呼ぶたびに9万トークン必要だった](https://qiita.com/jqit_suwa/items/817a26e02cd1f08c7edd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-30T23:35:15+00:00`
+
+## OpenAI Blog
+
+- [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) — `2026-09-01T17:00:00+00:00`
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra) — `2026-09-01T13:00:00+00:00`
+- [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources) — `2026-09-01T12:00:00+00:00`
+- [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) — `2026-08-31T07:00:00+00:00`
+- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — `2026-08-31T07:00:00+00:00`
+- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) — `2026-08-31T04:00:00+00:00`
+
+## Cloudflare Blog
+
+- [How we could save petabytes of cache storage with Zstandard and Pingora](https://blog.cloudflare.com/cache-transcoding/) — `2026-09-01T12:59:00+00:00`
+- [Introducing Adaptive Intelligence: Undermining the economics of every bot attack](https://blog.cloudflare.com/introducing-adaptive-intelligence/) — `2026-08-31T12:59:00+00:00`
 
 ## Zenn Trending
 
@@ -110,11 +125,13 @@
 - [202608個人的claude code設定](https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a) — `2026-08-31T02:30:18+00:00`
 - [PR の概要や動作確認結果を HTML で共有するのに、zip 不要の GitHub Actions Artifact がちょうどよかった](https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip) — `2026-08-31T00:00:06+00:00`
 
-## Cloudflare Changelog
-
-- [D1 - D1 enforces free tier daily query limits](https://developers.cloudflare.com/changelog/post/2026-09-01-d1-free-tier-limit-enforcement/) — `2026-09-01T00:00:00+00:00`
-- [Browser Run - Crawl endpoint now respects the Content Signals `use` directive](https://developers.cloudflare.com/changelog/post/2026-08-31-crawl-content-use/) — `2026-08-31T00:00:00+00:00`
-
 ## Anthropic News (mirror)
 
+- [Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards) — `2026-09-01T00:00:00+00:00`
 - [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts) — `2026-08-31T00:00:00+00:00`
+
+## Cloudflare Changelog
+
+- [AI Gateway - AI Gateway consolidates monthly usage invoice line items and standardizes model names](https://developers.cloudflare.com/changelog/post/2026-09-01-billing-and-model-names/) — `2026-09-01T00:00:00+00:00`
+- [D1 - D1 enforces free tier daily query limits](https://developers.cloudflare.com/changelog/post/2026-09-01-d1-free-tier-limit-enforcement/) — `2026-09-01T00:00:00+00:00`
+- [Browser Run - Crawl endpoint now respects the Content Signals `use` directive](https://developers.cloudflare.com/changelog/post/2026-08-31-crawl-content-use/) — `2026-08-31T00:00:00+00:00`
