@@ -1,0 +1,53 @@
+# RSS sources — add/remove freely. Public feeds only.
+timezone: Asia/Tokyo
+lookback_hours: 48
+max_items_per_feed: 30
+
+feeds:
+  - name: Hacker News (front page)
+    url: https://hnrss.org/frontpage
+    tags: [tech, news]
+
+  - name: GitHub Blog
+    url: https://github.blog/feed/
+    tags: [github, devtools]
+
+  - name: Cloudflare Blog
+    url: https://blog.cloudflare.com/rss/
+    tags: [cloud, infra]
+
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    tags: [ai]
+
+  - name: Anthropic News (mirror)
+    url: https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml
+    tags: [ai]
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    tags: [ai, google]
+
+  - name: Cursor Blog (mirror)
+    url: https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/cursor-blog.xml
+    tags: [ai, devtools]
+
+  - name: Cloudflare Changelog
+    url: https://developers.cloudflare.com/changelog/rss/index.xml
+    tags: [cloudflare, devtools]
+
+  - name: AWS What's New
+    url: https://aws.amazon.com/about-aws/whats-new/recent/feed/
+    tags: [aws, cloud]
+
+  - name: Stripe Blog
+    url: https://stripe.com/blog/feed.rss
+    tags: [fintech, devtools]
+
+  - name: Zenn Trending
+    url: https://zenn.dev/feed
+    tags: [tech, ja]
+
+  - name: Qiita Trending (official)
+    url: https://qiita.com/popular-items/feed
+    tags: [tech, ja]

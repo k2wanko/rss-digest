@@ -1,0 +1,63 @@
+# rss-digest
+
+Public, zero-cost RSS collector powered by GitHub Actions.
+
+Every day the workflow fetches configured feeds, writes JSON + Markdown digests under `data/`, and commits the result back to this repo. No servers, no API keys, no database.
+
+## Cost
+
+| Item | Cost |
+|------|------|
+| GitHub Actions (public repo) | Free |
+| RSS feeds | Free |
+| Storage (small JSON/MD files) | Free |
+
+## Layout
+
+```
+feeds.yaml          # sources and settings
+scripts/collect.py  # fetch + normalize + write
+data/
+  YYYY-MM-DD.json   # machine-readable snapshot
+  YYYY-MM-DD.md     # human-readable digest
+  latest.json
+  latest.md
+```
+
+## Customize feeds
+
+Edit `feeds.yaml`:
+
+```yaml
+timezone: Asia/Tokyo
+lookback_hours: 48
+max_items_per_feed: 30
+
+feeds:
+  - name: Example Blog
+    url: https://example.com/feed.xml
+    tags: [example]
+```
+
+## Run locally
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python scripts/collect.py
+```
+
+## Manual trigger
+
+GitHub → Actions → **Collect RSS** → **Run workflow**
+
+## Schedule
+
+Daily at 06:00 JST (`0 21 * * *` UTC).
+
+## Notes
+
+- Public repos get unlimited Actions minutes for standard jobs.
+- Some feeds block datacenter IPs; errors are recorded in the digest report.
+- `continue-on-error` keeps partial results even when a feed fails; the job still fails so you notice broken sources.
