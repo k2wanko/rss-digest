@@ -1,32 +1,21 @@
 # RSS digest — 2026-09-02
 
-- Generated (UTC): 2026-09-01T17:29:38.548103+00:00
-- Items: 85
-- Feeds OK: 12 / 12
+- Generated (UTC): 2026-09-01T17:30:45.323629+00:00
+- Items: 67
+- Feeds OK: 11 / 12
+
+## Feed errors
+
+- **Hacker News (front page)**: <urlopen error timed out>
 
 
-## Hacker News (front page)
+## OpenAI Blog
 
-- [Quill (YC W20) Is Hiring a Fullstack SWE](https://news.ycombinator.com/item?id=49524704) — `2026-09-01T17:00:14+00:00`
-- [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) — `2026-09-01T16:42:46+00:00`
-- [Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/) — `2026-09-01T16:34:45+00:00`
-- [Thanks to Lake Ontario, MapQuest is popular all over again](https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/) — `2026-09-01T16:25:02+00:00`
-- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) — `2026-09-01T15:55:53+00:00`
-- [Dwarf Fortress' creator says the industry's in shambles over AI](https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/) — `2026-09-01T15:53:42+00:00`
-- [Keenable SELECT: an agent that searches the web in SQL](https://keenableai.github.io/select-showcase/) — `2026-09-01T15:41:03+00:00`
-- [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/) — `2026-09-01T15:35:11+00:00`
-- [A browser-based viewer for Office Open XML documents](https://ooxml.silurus.dev/) — `2026-09-01T15:33:13+00:00`
-- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897) — `2026-09-01T15:01:17+00:00`
-- [Saab Enters Collaborative Combat Aircraft Race with High-End Concept](https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept) — `2026-09-01T14:19:30+00:00`
-- [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) — `2026-09-01T13:46:49+00:00`
-- [Io_uring Without Readahead](https://frn.sh/io-uring/) — `2026-09-01T13:19:12+00:00`
-- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) — `2026-09-01T10:11:02+00:00`
-- [I trained a small transformer in 1.5hrs and it beats many LLMs](https://mvakde.github.io/blog/44-on-arc-1/) — `2026-09-01T09:52:45+00:00`
-- [Restroom Archive](https://restroomarchive.com) — `2026-09-01T03:23:48+00:00`
-- [GPU World](https://www.gpuworld.org/) — `2026-09-01T03:16:36+00:00`
-- [Fastpotify](https://fastpotify.rocks/) — `2026-09-01T02:52:14+00:00`
-- [RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3](https://github.com/fregacmols/RotaryCell) — `2026-09-01T02:29:23+00:00`
-- [Has early Scratch experience led to fulfilling careers?](https://twitter.com/ID_AA_Carmack/status/2094450188911845827) — `2026-08-31T23:46:38+00:00`
+- [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) — `2026-09-01T17:00:00+00:00`
+- [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources) — `2026-09-01T12:00:00+00:00`
+- [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) — `2026-08-31T07:00:00+00:00`
+- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — `2026-08-31T07:00:00+00:00`
+- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) — `2026-08-31T04:00:00+00:00`
 
 ## Google AI Blog
 
@@ -106,12 +95,6 @@
 
 - [D1 - D1 enforces free tier daily query limits](https://developers.cloudflare.com/changelog/post/2026-09-01-d1-free-tier-limit-enforcement/) — `2026-09-01T00:00:00+00:00`
 - [Browser Run - Crawl endpoint now respects the Content Signals `use` directive](https://developers.cloudflare.com/changelog/post/2026-08-31-crawl-content-use/) — `2026-08-31T00:00:00+00:00`
-
-## OpenAI Blog
-
-- [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) — `2026-08-31T07:00:00+00:00`
-- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — `2026-08-31T07:00:00+00:00`
-- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) — `2026-08-31T04:00:00+00:00`
 
 ## Anthropic News (mirror)
 
