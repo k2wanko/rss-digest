@@ -30,8 +30,6 @@ jobs:
 
       - name: Fetch feeds
         run: python scripts/collect.py
-        continue-on-error: true
-        id: collect
 
       - name: Commit digest
         run: |
@@ -44,7 +42,3 @@ jobs:
           fi
           git commit -m "chore: update RSS digest for $(date -u +%Y-%m-%d)"
           git push
-
-      - name: Fail if feed errors
-        if: steps.collect.outcome == 'failure'
-        run: exit 1

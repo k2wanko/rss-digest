@@ -59,5 +59,4 @@ Daily at 06:00 JST (`0 21 * * *` UTC).
 ## Notes
 
 - Public repos get unlimited Actions minutes for standard jobs.
-- Some feeds block datacenter IPs; errors are recorded in the digest report.
-- `continue-on-error` keeps partial results even when a feed fails; the job still fails so you notice broken sources.
+- Some feeds block datacenter IPs or time out; errors are recorded in each digest's report section.

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -51,11 +52,20 @@ def parse_published(entry: dict[str, Any]) -> datetime | None:
     return None
 
 
-def fetch_feed(url: str, timeout: int = 20) -> feedparser.FeedParserDict:
-    request = Request(url, headers={"User-Agent": USER_AGENT})
-    with urlopen(request, timeout=timeout) as response:
-        payload = response.read()
-    return feedparser.parse(payload)
+def fetch_feed(url: str, timeout: int = 20, retries: int = 3) -> feedparser.FeedParserDict:
+    last_error: Exception | None = None
+    for attempt in range(retries):
+        try:
+            request = Request(url, headers={"User-Agent": USER_AGENT})
+            with urlopen(request, timeout=timeout) as response:
+                payload = response.read()
+            return feedparser.parse(payload)
+        except (HTTPError, URLError, TimeoutError, ValueError) as exc:
+            last_error = exc
+            if attempt + 1 < retries:
+                time.sleep(2 * (attempt + 1))
+    assert last_error is not None
+    raise last_error
 
 
 def normalize_entry(feed_meta: dict[str, Any], entry: dict[str, Any]) -> dict[str, Any]:
@@ -190,7 +200,6 @@ def main() -> int:
     print(f"Wrote {len(items)} items to {day_json.relative_to(ROOT)}")
     if errors:
         print(f"Feed errors: {len(errors)}", file=sys.stderr)
-        return 1
     return 0
 
 
