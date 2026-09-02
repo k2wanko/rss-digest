@@ -34,6 +34,11 @@ GitHub Pages publishes a readable digest after each run:
 
 Features: source grouping, tag filters, archive of past days.
 
+Raw JSON is published alongside the HTML:
+
+- https://k2wanko.github.io/rss-digest/data/latest.json
+- https://k2wanko.github.io/rss-digest/data/YYYY-MM-DD.json
+
 ## Customize feeds
 
 Edit `feeds.yaml`:

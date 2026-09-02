@@ -81,6 +81,24 @@ def page_shell(title: str, body: str, active: str = "latest") -> str:
 """
 
 
+def copy_json_files(output_root: Path) -> None:
+    data_out = output_root / "data"
+    data_out.mkdir(parents=True, exist_ok=True)
+    copied = 0
+    for path in sorted(DATA_DIR.glob("*.json")):
+        shutil.copy2(path, data_out / path.name)
+        copied += 1
+    print(f"Copied {copied} JSON file(s) to {data_out.relative_to(ROOT)}")
+
+
+def json_links(run_date: str) -> str:
+    return f"""<div class="json-links">
+  <span>JSON:</span>
+  <a href="/rss-digest/data/{html.escape(run_date)}.json">{html.escape(run_date)}.json</a>
+  <a href="/rss-digest/data/latest.json">latest.json</a>
+</div>"""
+
+
 def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -> str:
     report = payload["report"]
     items = payload["items"]
@@ -137,6 +155,7 @@ def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -
           <div><dt>Feeds</dt><dd>{report.get('feeds_ok', '?')} / {report.get('feeds_total', '?')}</dd></div>
           <div><dt>Generated</dt><dd>{html.escape(format_time(report.get('generated_at')))}</dd></div>
         </dl>
+        {json_links(run_date)}
         {errors_html}
       </div>
       <div class="filters">{''.join(filter_buttons)}</div>
@@ -167,14 +186,23 @@ def render_archive_page(digests: list[tuple[str, dict[str, Any]]]) -> str:
         count = payload["report"].get("item_count", len(payload["items"]))
         rows.append(
             f"""<li>
-  <a href="/rss-digest/digest/{html.escape(run_date)}.html">{html.escape(run_date)}</a>
-  <span class="count">{count} items</span>
+  <div class="archive-row">
+    <a href="/rss-digest/digest/{html.escape(run_date)}.html">{html.escape(run_date)}</a>
+    <span class="count">{count} items</span>
+  </div>
+  <div class="json-links">
+    <a href="/rss-digest/data/{html.escape(run_date)}.json">{html.escape(run_date)}.json</a>
+  </div>
 </li>"""
         )
     body = f"""
     <article>
       <div class="meta-card">
         <p>過去のダイジェスト一覧です。</p>
+        <div class="json-links">
+          <span>Latest JSON:</span>
+          <a href="/rss-digest/data/latest.json">latest.json</a>
+        </div>
       </div>
       <ul class="archive-list">{''.join(rows) or '<li>No digests yet.</li>'}</ul>
     </article>
@@ -197,6 +225,7 @@ def main() -> int:
     digest_dir.mkdir(parents=True)
     assets_dir.mkdir(parents=True)
     shutil.copytree(ASSETS_SRC, assets_dir, dirs_exist_ok=True)
+    copy_json_files(output_root)
 
     latest_date, latest_payload = digests[-1]
     for run_date, payload in digests:
