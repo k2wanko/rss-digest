@@ -15,14 +15,24 @@ Every day the workflow fetches configured feeds, writes JSON + Markdown digests 
 ## Layout
 
 ```
-feeds.yaml          # sources and settings
-scripts/collect.py  # fetch + normalize + write
+feeds.yaml            # sources and settings
+scripts/collect.py    # fetch + normalize + write
+scripts/build_site.py # static site for GitHub Pages
+site/assets/          # CSS
 data/
-  YYYY-MM-DD.json   # machine-readable snapshot
-  YYYY-MM-DD.md     # human-readable digest
+  YYYY-MM-DD.json     # machine-readable snapshot
+  YYYY-MM-DD.md       # human-readable digest
   latest.json
   latest.md
 ```
+
+## Site
+
+GitHub Pages publishes a readable digest after each run:
+
+**https://k2wanko.github.io/rss-digest/**
+
+Features: source grouping, tag filters, archive of past days.
 
 ## Customize feeds
 
@@ -46,6 +56,8 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python scripts/collect.py
+python scripts/build_site.py
+# open site/output/index.html
 ```
 
 ## Manual trigger
