@@ -1,20 +1,21 @@
 # RSS digest — 2026-09-02
 
-- Generated (UTC): 2026-09-01T22:58:50.702637+00:00
-- Items: 104
-- Feeds OK: 12 / 12
+- Generated (UTC): 2026-09-02T03:13:27.464564+00:00
+- Items: 105
+- Feeds OK: 16 / 16
 
 
 ## Hacker News (front page)
 
+- ['Idiocracy' Predicted All of This](https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/) — `2026-09-02T02:18:42+00:00`
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) — `2026-09-01T23:48:05+00:00`
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) — `2026-09-01T23:17:43+00:00`
 - [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) — `2026-09-01T22:30:52+00:00`
 - [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) — `2026-09-01T22:06:57+00:00`
 - [Fluorescent lamps (don't) have ears](https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears) — `2026-09-01T21:19:10+00:00`
 - [Show HN: HN Match Maker – Matching "Who Wants to Be Hired?" With "Who's Hiring?"](https://hnmatchmaker.com/) — `2026-09-01T20:53:35+00:00`
-- [Dyson CameraJet electric toothbrush](https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue) — `2026-09-01T20:39:19+00:00`
 - [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) — `2026-09-01T20:30:51+00:00`
 - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra/) — `2026-09-01T20:20:41+00:00`
-- [Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) — `2026-09-01T20:19:11+00:00`
 - [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) — `2026-09-01T20:07:57+00:00`
 - [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html) — `2026-09-01T19:55:47+00:00`
 - [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) — `2026-09-01T18:35:15+00:00`
@@ -23,7 +24,6 @@
 - [Atlas: A World Model for Spatial Intelligence](https://www.worldlabs.ai/blog/atlas) — `2026-09-01T17:36:02+00:00`
 - [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) — `2026-09-01T17:35:10+00:00`
 - [Quill (YC W20) Is Hiring a Fullstack SWE](https://news.ycombinator.com/item?id=49524704) — `2026-09-01T17:00:14+00:00`
-- [Show HN: Newton's Orchard – Browser-based space/gravity playground](https://newtonsorchard.app) — `2026-09-01T16:43:40+00:00`
 - [Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s](https://github.com/carloslfu/slotstream) — `2026-09-01T16:42:46+00:00`
 - [Movie Scene Map – 13,312 films, series, games, anime and manga](https://moviescenemap.com/) — `2026-09-01T16:34:45+00:00`
 - [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) — `2026-09-01T15:55:53+00:00`
@@ -31,7 +31,9 @@
 ## AWS What's New
 
 - [Amazon Quick now lets you build custom apps with natural language  -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/) — `2026-09-01T21:37:00+00:00`
+- [AWS Deadline Cloud now supports sharing job bundles](https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing) — `2026-09-01T20:16:00+00:00`
 - [Amazon CloudWatch Database Insights now supports self-managed PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/) — `2026-09-01T19:00:00+00:00`
+- [Amazon Kinesis Data Streams now supports a dry run feature to validate API requests](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/) — `2026-09-01T19:00:00+00:00`
 - [AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/) — `2026-09-01T18:00:00+00:00`
 - [Amazon Connect Customer dashboards now support compact mode](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/) — `2026-09-01T17:00:00+00:00`
 - [Amazon MWAA supports Apache Airflow version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/) — `2026-09-01T15:00:00+00:00`
@@ -64,6 +66,10 @@
 - [The latest AI news we announced in August 2026](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/) — `2026-09-01T20:45:00+00:00`
 - [Try Google Pics: Easy image creation and editing in Google Workspace](https://blog.google/products-and-platforms/products/workspace/google-pics/) — `2026-09-01T16:00:00+00:00`
 
+## Google Cloud Status
+
+- [RESOLVED: Multiple products in us-central1-b are experiencing network service degradation.](https://status.cloud.google.com/incidents/J5ia5t9p3g9Q5Wi7r8Ev) — `2026-09-01T19:12:35+00:00`
+
 ## Qiita Trending (official)
 
 - [API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた](https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-01T19:08:55+00:00`
@@ -90,20 +96,20 @@
 - [元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと](https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:16:17+00:00`
 - [未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です](https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:14:13+00:00`
 - [新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話](https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T07:12:20+00:00`
-- [GoFデザインパターンを実務で使うものに絞って解説する — Adapter, Facade, Strategy, Observer など](https://qiita.com/kkkkkou/items/90be6651d4d012c3f107?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T02:27:38+00:00`
-- [New Relic Slack App と 自然言語で自律自動の障害調査を行う New Relic Autopilot が連携してみた](https://qiita.com/seamoooooo/items/63002f5805be172b6059?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T02:03:14+00:00`
-- [LLMが「1+1」を計算するとき、中で何が起きているのか](https://qiita.com/nolanlover0527/items/7650fe71fa0bca85a727?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-31T00:18:12+00:00`
-- [LangGraphが渡すのは、設計図](https://qiita.com/haru-qiita/items/e93ba2ec0cc317d8cac1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-30T23:51:21+00:00`
-- [スター6万のAgent Skillを入れたら、呼ぶたびに9万トークン必要だった](https://qiita.com/jqit_suwa/items/817a26e02cd1f08c7edd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-08-30T23:35:15+00:00`
 
 ## OpenAI Blog
 
 - [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) — `2026-09-01T17:00:00+00:00`
 - [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra) — `2026-09-01T13:00:00+00:00`
 - [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources) — `2026-09-01T12:00:00+00:00`
+- [How law firm Gilbert + Tobin governs and scales AI with OpenAI](https://openai.com/index/gilbert-tobin) — `2026-09-01T01:00:00+00:00`
 - [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) — `2026-08-31T07:00:00+00:00`
 - [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) — `2026-08-31T07:00:00+00:00`
 - [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) — `2026-08-31T04:00:00+00:00`
+
+## Google Cloud Blog
+
+- [What Google Cloud announced in AI this month](https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/) — `2026-09-01T16:00:00+00:00`
 
 ## Cloudflare Blog
 
@@ -112,26 +118,30 @@
 
 ## Zenn Trending
 
+- [社内限定サービスの認証を Google Workspace でサクッと作る](https://zenn.dev/dress_code/articles/6134e6bd5e46c6) — `2026-09-01T10:00:05+00:00`
+- [OOMKill の犯人は CPU だった：GOGC と GOMEMLIMIT を実測で設計し直す](https://zenn.dev/reality_tech/articles/f6305331bccee0) — `2026-09-01T09:12:59+00:00`
+- [Google提唱の「SKILL.state」について。プロンプトに型の概念を導入](https://zenn.dev/knowledgesense/articles/ad123283bdea26) — `2026-09-01T08:46:36+00:00`
+- [Web 標準動向 2026年8月版](https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608) — `2026-09-01T08:00:05+00:00`
+- [PRレビューもエラー調査も定額で自動化する、Claude Codeのroutine活用実例](https://zenn.dev/atamaplus/articles/6be03483c0110b) — `2026-09-01T07:50:31+00:00`
+- [Kiro に野良 MCP を繋がせない。AWS Agent Registry × Kiro for Enterprise で配布を統制する](https://zenn.dev/aws_japan/articles/agent-registry-kiro-governance) — `2026-09-01T02:17:59+00:00`
 - [社内アプリをもっと気軽に届けたい — 開発者とともに育てるPlatformづくり](https://zenn.dev/simplex/articles/0ce703ef0b877c) — `2026-09-01T01:19:36+00:00`
 - [会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ](https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor) — `2026-09-01T01:03:04+00:00`
-- [STORES Tech Conf 2026 "World 2" 体験記](https://zenn.dev/nemut_ai/articles/stores-tech-conf-2026-world2) — `2026-08-31T20:55:26+00:00`
+- [無音で文字起こしすると「ご視聴ありがとうございました」になる理由を検証](https://zenn.dev/trtd56/articles/994f43aebd2057) — `2026-09-01T00:39:17+00:00`
 - [AIエージェントの品質、どう測る？ Google ADKの評価機能を使い倒す](https://zenn.dev/phper8080/articles/91ffb94fe75b45) — `2026-08-31T15:16:23+00:00`
-- [Google ADK・Microsoft Agent Framework・Amazon Strands の違いを偽のモデルサーバで測ってみた](https://zenn.dev/acntechjp/articles/930d899e62943e) — `2026-08-31T15:04:15+00:00`
-- [Spannerのback joinを読み解く](https://zenn.dev/kauche/articles/23c490c3872f77) — `2026-08-31T14:42:08+00:00`
 - [小学校の夏休みの宿題をプロジェクトマネジメントしてみた](https://zenn.dev/nextbeat/articles/8f5d24529caea6) — `2026-08-31T11:01:11+00:00`
-- [Anthropic公式のClaude Code講座で学んだ「4つのD」](https://zenn.dev/karamage/articles/2ef2c2aea7dfdf) — `2026-08-31T10:49:32+00:00`
-- [数億の画像を溜めるS3のコストを、ストレージクラス使い分けでコスト削減する](https://zenn.dev/dely_jp/articles/22a2c10b2e130d) — `2026-08-31T10:45:50+00:00`
+- [なりすましメール送ってみた - SPF / DKIM / DMARC の歴史と仕組み](https://zenn.dev/kitacom_blog/articles/20260828-mail-auth) — `2026-08-31T08:11:19+00:00`
 - [個人向け Coding Agent サブスクリプションのコストパフォーマンス比較](https://zenn.dev/kimuson/articles/compare-ai-subscription-20260818) — `2026-08-31T04:50:01+00:00`
-- [202608個人的claude code設定](https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a) — `2026-08-31T02:30:18+00:00`
-- [PR の概要や動作確認結果を HTML で共有するのに、zip 不要の GitHub Actions Artifact がちょうどよかった](https://zenn.dev/she_techblog/articles/github-actions-artifact-no-zip) — `2026-08-31T00:00:06+00:00`
+
+## Google Cloud Release Notes
+
+- [September 01, 2026](https://docs.cloud.google.com/release-notes#September_01_2026) — `2026-09-01T07:00:00+00:00`
+- [August 31, 2026](https://docs.cloud.google.com/release-notes#August_31_2026) — `2026-08-31T07:00:00+00:00`
 
 ## Anthropic News (mirror)
 
 - [Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards) — `2026-09-01T00:00:00+00:00`
-- [Improving our alignment and security efforts](https://www.anthropic.com/news/improving-alignment-security-efforts) — `2026-08-31T00:00:00+00:00`
 
 ## Cloudflare Changelog
 
 - [AI Gateway - AI Gateway consolidates monthly usage invoice line items and standardizes model names](https://developers.cloudflare.com/changelog/post/2026-09-01-billing-and-model-names/) — `2026-09-01T00:00:00+00:00`
 - [D1 - D1 enforces free tier daily query limits](https://developers.cloudflare.com/changelog/post/2026-09-01-d1-free-tier-limit-enforcement/) — `2026-09-01T00:00:00+00:00`
-- [Browser Run - Crawl endpoint now respects the Content Signals `use` directive](https://developers.cloudflare.com/changelog/post/2026-08-31-crawl-content-use/) — `2026-08-31T00:00:00+00:00`
