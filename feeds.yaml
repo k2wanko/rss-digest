@@ -40,6 +40,22 @@ feeds:
     url: https://aws.amazon.com/about-aws/whats-new/recent/feed/
     tags: [aws, cloud]
 
+  - name: Google Cloud Release Notes
+    url: https://cloud.google.com/feeds/gcp-release-notes.xml
+    tags: [gcp, cloud]
+
+  - name: Google Cloud Blog
+    url: https://cloudblog.withgoogle.com/products/gcp/rss/
+    tags: [gcp, cloud]
+
+  - name: Google Cloud Blog (日本語)
+    url: https://cloudblog.withgoogle.com/ja/products/gcp/rss/
+    tags: [gcp, cloud, ja]
+
+  - name: Google Cloud Status
+    url: https://status.cloud.google.com/en/feed.atom
+    tags: [gcp, cloud, status]
+
   - name: Stripe Blog
     url: https://stripe.com/blog/feed.rss
     tags: [fintech, devtools]
