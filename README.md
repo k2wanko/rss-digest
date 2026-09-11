@@ -59,17 +59,21 @@ feeds:
 
 ## AI summaries
 
-After each collection run, `scripts/summarize.py` asks an OpenCode agent (model: `nvidia/nvidia/nemotron-3-ultra-550b-a55b`, NVIDIA's Nemotron 3 Ultra) to read that day's `data/YYYY-MM-DD.json` and write back three tiers of Japanese summaries in one pass:
+After each collection run, `scripts/summarize.py` calls an OpenCode agent once per service (model: `nvidia/nvidia/nemotron-3-super-120b-a12b`, NVIDIA's Nemotron 3 Super — see "Model" below) plus one final rollup call, producing three tiers of Japanese summaries:
 
 - **Article-level**: `items[].ai_summary`, one sentence per article
 - **Service-level**: `service_summaries[<source name>]`, the day's trend per feed
-- **Day-level**: `day_summary`, an overview across all feeds
+- **Day-level**: `day_summary`, an overview across all feeds, built from the service summaries
 
-The agent reads the digest and can fetch an article's actual page (`webfetch`) when the raw RSS snippet is too thin to summarize (e.g. Hacker News' metadata-only entries). It writes its result to a temporary `data/YYYY-MM-DD.summary.json`, which `summarize.py` merges into the real digest and then deletes.
+Each service's articles (title/link/raw snippet) are embedded directly in the prompt — the agent doesn't read the digest JSON file itself. It can fetch an article's actual page (`webfetch`) when the raw RSS snippet is too thin to summarize (e.g. Hacker News' metadata-only entries), and writes its result as JSON to a temporary `data/YYYY-MM-DD.summary.<service-slug>.json` (or `.summary.day.json` for the rollup), which `summarize.py` reads, merges into the real digest, and deletes. If the agent replies in chat instead of writing the file, `summarize.py` parses the JSON out of its reply as a fallback.
 
-Requires a `NVIDIA_API_KEY` repository secret (free tier at [build.nvidia.com](https://build.nvidia.com)). The `summarizer` agent (defined in `opencode.json`) has `webfetch` and file `edit` permission but no `bash` — RSS content is untrusted third-party text, so this caps a prompt-injected feed entry to reading/writing files and fetching URLs, not running commands.
+Requires a `NVIDIA_API_KEY` repository secret (free tier at [build.nvidia.com](https://build.nvidia.com)). The `summarizer` agent (defined in `opencode.json`) has `webfetch` and file `edit` permission but no `bash` — RSS content is untrusted third-party text, so this caps a prompt-injected feed entry to reading/writing files and fetching URLs, not running commands. In practice the agent has occasionally created small unrelated test files in `data/` on its own initiative; harmless so far, but worth knowing given the permission is this broad. It has also generally ignored the prompt's request to limit how many articles it fetches per service — research volume isn't reliably prompt-controllable.
 
-Summarization is best-effort: if it fails (rate limits, bad output) after retrying with exponential backoff, the digest still ships without AI summaries for that day (`report.summary_error` records why), falling back to the raw RSS blurb on the site.
+Summarization is best-effort: each call retries with exponential backoff, a failing service doesn't block the others, and if everything fails the digest still ships without AI summaries for that day (`report.summary_error` records why), falling back to the raw RSS blurb on the site. Even on a normal run, an occasional article ends up without `ai_summary` when the agent's returned link doesn't exactly match the source RSS link — same fallback applies.
+
+### Model
+
+`nvidia/nvidia/nemotron-3-super-120b-a12b` is a temporary stand-in for `nvidia/nvidia/nemotron-3-ultra-550b-a55b` (NVIDIA's larger flagship), whose inference backend was unresponsive at the time this was built. Swap the `MODEL` constant in `scripts/summarize.py` back to Ultra once it's confirmed healthy.
 
 To (re)generate summaries locally:
 
