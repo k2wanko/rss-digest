@@ -36,6 +36,27 @@ jobs:
       - name: Fetch feeds
         run: python scripts/collect.py
 
+      - name: Cache OpenCode
+        id: opencode-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.opencode
+          key: opencode-${{ runner.os }}-1.18.30
+
+      - name: Install OpenCode
+        if: steps.opencode-cache.outputs.cache-hit != 'true'
+        run: curl -fsSL https://opencode.ai/install | bash -s -- --version 1.18.30 --no-modify-path
+
+      - name: Add OpenCode to PATH
+        run: echo "$HOME/.opencode/bin" >> "$GITHUB_PATH"
+
+      - name: Summarize with OpenCode
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: python -u scripts/summarize.py
+        timeout-minutes: 45
+        continue-on-error: true
+
       - name: Build site
         run: python scripts/build_site.py
 

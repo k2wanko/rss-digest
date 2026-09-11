@@ -116,19 +116,30 @@ def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -
         )
         errors_html = f'<div class="errors"><strong>Feed errors</strong><ul>{error_items}</ul></div>'
 
+    day_summary_html = ""
+    if payload.get("day_summary"):
+        day_summary_html = (
+            f'<div class="day-summary"><span class="ai-badge">AI要約</span>'
+            f'{html.escape(payload["day_summary"])}</div>'
+        )
+
     filter_buttons = ['<button type="button" class="filter-btn active" data-filter="all">All</button>']
     for tag in tags:
         filter_buttons.append(
             f'<button type="button" class="filter-btn" data-filter="{html.escape(tag)}">{html.escape(tag)}</button>'
         )
 
+    service_summaries = payload.get("service_summaries", {})
+
     sections: list[str] = []
     for source, source_items in by_source.items():
         rows: list[str] = []
         for item in source_items:
             tag_attr = " ".join(html.escape(tag) for tag in item.get("tags", []))
-            summary = strip_html(item.get("summary", ""))
-            summary_html = f'<p class="item-summary">{html.escape(summary)}</p>' if summary else ""
+            ai_summary = item.get("ai_summary")
+            summary = ai_summary or strip_html(item.get("summary", ""))
+            badge = '<span class="ai-badge">AI</span>' if ai_summary else ""
+            summary_html = f'<p class="item-summary">{badge}{html.escape(summary)}</p>' if summary else ""
             rows.append(
                 f"""<li class="item" data-tags="{tag_attr}">
   <a class="item-title" href="{html.escape(item['link'])}" target="_blank" rel="noopener noreferrer">{html.escape(item['title'])}</a>
@@ -139,9 +150,14 @@ def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -
   {summary_html}
 </li>"""
             )
+        service_summary = service_summaries.get(source)
+        service_summary_html = (
+            f'<p class="service-summary">{html.escape(service_summary)}</p>' if service_summary else ""
+        )
         sections.append(
             f"""<section class="section">
   <h2>{html.escape(source)}</h2>
+  {service_summary_html}
   <ul class="item-list">{''.join(rows)}</ul>
 </section>"""
         )
@@ -155,6 +171,7 @@ def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -
           <div><dt>Feeds</dt><dd>{report.get('feeds_ok', '?')} / {report.get('feeds_total', '?')}</dd></div>
           <div><dt>Generated</dt><dd>{html.escape(format_time(report.get('generated_at')))}</dd></div>
         </dl>
+        {day_summary_html}
         {json_links(run_date)}
         {errors_html}
       </div>

@@ -211,6 +211,35 @@ a:hover {
   color: var(--muted);
 }
 
+.ai-badge {
+  display: inline-block;
+  padding: 0.05rem 0.4rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--surface);
+  font-size: 0.72rem;
+  font-weight: 600;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.day-summary {
+  margin-top: 0.85rem;
+  padding: 0.9rem 1.1rem;
+  border-radius: calc(var(--radius) - 4px);
+  background: var(--accent-soft);
+  font-size: 0.95rem;
+}
+
+.service-summary {
+  margin: 0;
+  padding: 0.6rem 1.1rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  border-bottom: 1px solid var(--border);
+  background: color-mix(in srgb, var(--surface) 96%, var(--accent-soft));
+}
+
 .archive-list {
   list-style: none;
   margin: 0;

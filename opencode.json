@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "agent": {
+    "summarizer": {
+      "mode": "primary",
+      "permission": {
+        "bash": "deny",
+        "webfetch": "allow",
+        "edit": "allow"
+      }
+    }
+  }
+}

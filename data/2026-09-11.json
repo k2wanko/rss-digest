@@ -20,7 +20,8 @@
       "tags": [
         "github",
         "devtools"
-      ]
+      ],
+      "ai_summary": "GitHub Copilotアプリでdiff、ターミナル、ブラウザーパネルを使い、エージェントコードのレビュー・実行・プレビューを一つの画面で完結。"
     },
     {
       "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
@@ -32,7 +33,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "NTSBがマイアミでのB-767滑走路逸脱事故の調査進捗を発表"
     },
     {
       "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
@@ -44,7 +46,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "OpenAIがナヴィエ・ストークス方程式の証明とLean 4による形式証明を公開"
     },
     {
       "title": "RESOLVED: Multiple products in us-central1-b are experiencing network service degradation.",
@@ -57,7 +60,8 @@
         "gcp",
         "cloud",
         "status"
-      ]
+      ],
+      "ai_summary": "us-central1-bでファイバーケーブルの物理的切断によるネットワーク劣化が発生し、複数のGCPサービスに影響。復旧済み。"
     },
     {
       "title": "Bodily Oddities",
@@ -69,7 +73,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "人体の奇妙な現象や異常を紹介する記事"
     },
     {
       "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
@@ -81,7 +86,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "欧州ソブリンクラウドでAWS Lambdaの再帰ループ検出が利用可能になり、無限再帰を自動停止。"
     },
     {
       "title": "AWS Transform for .NET now generates unit tests for modernized code",
@@ -93,7 +99,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Transform for .NETが現代化したコードに対してユニットテストを自動生成する機能を追加。"
     },
     {
       "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
@@ -105,7 +112,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon API Gatewayが実行ログのサイズを1MBに拡張し、配信先を設定可能に。"
     },
     {
       "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
@@ -117,7 +125,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "オープンソースのステガノグラフィーで画像の撮影証明を実現"
     },
     {
       "title": "OpenAI Agents API",
@@ -129,7 +138,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "OpenAIがエージェント向けAPIをリリース、ツール利用やタスク自動化を支援"
     },
     {
       "title": "Creativity is the New Moat",
@@ -141,7 +151,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "創造性がビジネスにおける新たな参入障壁となっている"
     },
     {
       "title": "AWS Lambda durable functions integrates with Pydantic AI",
@@ -153,7 +164,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Lambda Durable FunctionsがPydantic AIと統合され、Python AIエージェントの状態を保存。"
     },
     {
       "title": "Amazon MQ now supports RabbitMQ 4.3",
@@ -165,7 +177,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon MQがRabbitMQ 4.3をサポートし、クォラムキューの機能強化を提供。"
     },
     {
       "title": "Announcing second-generation single-rack AWS Outposts",
@@ -177,7 +190,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "第二世代シングルラックAWS OutpostsがGAとなり、42Uラックにコンピュート・ストレージ・ネットワークを統合。"
     },
     {
       "title": "JEP 544: Ahead-of-Time Code Compilation",
@@ -189,7 +203,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "JavaのJEP 544でAhead‑of‑Timeコンパイルが導入され起動高速化"
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
@@ -201,7 +216,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "AnthropicがAI悪用の検出と対策を9月2026年版レポートで公開"
     },
     {
       "title": "Music Theory for the 21st-Century Classroom",
@@ -213,7 +229,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "21世紀の教室向け音楽理論教材が公開、デジタル時代に対応"
     },
     {
       "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
@@ -225,7 +242,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon OpenSearch ServerlessがVercel v0で利用可能になり、AI駆動のスタックで検索・AIアプリを迅速構築。"
     },
     {
       "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
@@ -237,7 +255,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "CognitionのSWE-2モデルがTerminal-Bench 2.1で92.8点を達成"
     },
     {
       "title": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
@@ -249,7 +268,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon ECSがRunTaskとStartTask APIでCPU・メモリリソースのIAM条件キーをサポート。"
     },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -260,7 +280,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "セザール・デ・ラ・フエンテ博士のチームがCodexとChatGPTを使ってゲノムから抗菌物質候補を探索し、耐性菌対策に応用している。"
     },
     {
       "title": "3 ways to prep for your next big race with Search",
@@ -272,7 +293,8 @@
       "tags": [
         "ai",
         "google"
-      ]
+      ],
+      "ai_summary": "Google SearchのAIでトレーニングプラン、プレイリスト、ギア選択をサポートしレース準備を効率化。"
     },
     {
       "title": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
@@ -284,7 +306,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Redshift RGインスタンスがヨーロッパ（チューリッヒ）リージョンで利用可能に、Gravitonプロセッサで性能向上。"
     },
     {
       "title": "What’s new with Google Cloud",
@@ -296,7 +319,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Google Cloudの最新アップデートとして、Voice Agentのセッション監査やPub/SubのAI推論、PostgreSQLコネクターのGAなどが発表された。"
     },
     {
       "title": "Forgejo <=16.0.3 Critical RCE",
@@ -308,7 +332,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Forgejo 16.0.3以前に重大なリモートコード実行の脆弱性が見つかった"
     },
     {
       "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
@@ -320,7 +345,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "シリコンバレーが軍需産業複合体を変革し、防衛技術に影響"
     },
     {
       "title": "Neki",
@@ -332,7 +358,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "PlanetScaleが新機能Nekiを発表、データベース操作を簡素化"
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
@@ -344,7 +371,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "CognitionがSWE-2モデルを発表、Fable 5.1やGPT‑Astraに匹敵する性能"
     },
     {
       "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
@@ -356,7 +384,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "NASAの火星向け色補強技術が地球の岩絵画解析に応用"
     },
     {
       "title": "Don't let anyone take away your big box of cables",
@@ -368,7 +397,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ケーブルコレクションを守る重要性と整理術を説くエッセイ"
     },
     {
       "title": "Now everyone can put data to work",
@@ -379,7 +409,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "ChatGpt WorkのData agentが登場。自然言語で企業データに接続し、インサイト抽出やインタラクティブダッシュボード構築が可能に。"
     },
     {
       "title": "Shopify moves back to Native from React Native",
@@ -391,7 +422,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ShopifyがLLM進化によりReact Nativeからネイティブ開発へ戻す"
     },
     {
       "title": "Rust is tier-1 language at Microsoft",
@@ -403,7 +435,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "MicrosoftがRustをTier-1言語として採用、MSVCバックエンド連携でC++と統合"
     },
     {
       "title": "AIの「できる・できない」を、ベンチマークではなく326の仕事で数えた",
@@ -415,7 +448,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIの能力をベンチマークではなく実際の326の仕事で評価し、実務での使えやすさを測る新手法を提案"
     },
     {
       "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
@@ -427,7 +461,8 @@
       "tags": [
         "cloud",
         "infra"
-      ]
+      ],
+      "ai_summary": "1.1.1.1がNISTのML‑DSA‑44アルゴリズムでDNSSEC署名検証を開始。2,420バイト署名の管理とダウングレードリスク低減方法を解説。"
     },
     {
       "title": "ハーネスの次に来るもの ― Causal ReasoningでAIエージェントはどう変わるか？",
@@ -439,7 +474,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "因果推論と内省を組み込んだCausal LLMにより、AIエージェントの意思決定と学習能力が大きく向上する"
     },
     {
       "title": "AWS Blocksの概要をふわっと理解したい",
@@ -451,7 +487,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AWS Blocksの基本概念と特徴を初心者向けにわかりやすく解説し、実践的な使い方を紹介"
     },
     {
       "title": "List of references on Sony websites to players \"owning\" their digital games",
@@ -463,7 +500,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ソニーがウェブサイトでデジタルゲーム所有権に関する参照リストを公開"
     },
     {
       "title": "Workflows - Default instance retention for new Workflows on Workers Paid is seven days",
@@ -475,7 +513,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "有料プランの新しいWorkflowでは、完了・エラーインスタンスの保持期間が従来の30日から7日間に変更されました。"
     },
     {
       "title": "3匹のAIエージェントだけで、Webアプリを企画〜本番デプロイまで作った話（人間はほぼ指示しただけ）",
@@ -487,7 +526,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "人間が「作って」と指示しただけで、3つのAIエージェントが自律的にWebアプリの企画からデプロイまでを完遂"
     },
     {
       "title": "Geminiを開くたびに「3.8 Flash 思考モード」を選び直すのが面倒すぎたので、自動で切り替わるスクリプトを作った",
@@ -499,7 +539,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "TampermonkeyスクリプトでGeminiの思考モードを自動選択し、毎回の手動切り替えの面倒を解消"
     },
     {
       "title": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
@@ -511,7 +552,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon CloudWatchが合成モニターでTGW間リージョンピアリングのネットワーク健康状態を監視可能に。"
     },
     {
       "title": "What algorithm did Windows XP use to choose your initial user picture?",
@@ -523,7 +565,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Windows XPが初期ユーザー画像を選択するアルゴリズムが明らかに"
     },
     {
       "title": "AWS Elemental Inference now generates contextual metadata from live video in real time",
@@ -535,7 +578,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Elemental InferenceがAIでライブビデオからリアルタイムにシーンレベルのコンテキストメタデータを生成。"
     },
     {
       "title": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
@@ -547,7 +591,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Elemental MediaTailorがYield Optimizationを提供し、SSAIで未使用広告枠をAmazon Ads需要で自動埋め。"
     },
     {
       "title": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
@@ -559,7 +604,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Elemental MediaLiveがA/Bフォレンジックウォーターマーキングをサポートし、不正再配布の追跡を可能に。"
     },
     {
       "title": "AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion",
@@ -571,7 +617,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Elemental MediaTailorがLow-Latency HLS広告挿入をサポートし、HLSインタスティシャルを使用。"
     },
     {
       "title": "AWS Elemental introduces Dynamic Multiview for live video",
@@ -583,7 +630,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Elemental MediaPackageがDynamic Multiviewを提供し、ライブビデオソースを viewer が選択したタイルレイアウトに合成。"
     },
     {
       "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
@@ -595,7 +643,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Storage GatewayがAmazon S3 File Gateway向けにFIPS 140-3準拠のPrivateLink接続をサポート。"
     },
     {
       "title": "Introducing ChatGPT for Financial Services",
@@ -606,7 +655,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "金融サービス向けChatGPTが発表。組み込まれた金融データとGPT-6 Astraを組み合わせ、リサーチやモデリング、クライアント向け資料作成を支援。"
     },
     {
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
@@ -617,7 +667,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "OpenAIとGSAが政府機関向けにAIアクセス拡大を発表。ライセンス料無料、利用料50%オフ、サイバー防衛支援強化を提供。"
     },
     {
       "title": "Amazon EVS is now available in more regions",
@@ -629,7 +680,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon EVSが追加のリージョン（大阪、台北、スペイン、テルアビブ）で利用可能に拡張。"
     },
     {
       "title": "September 10, 2026",
@@ -641,7 +693,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "BigQueryパイプラインがメタデータ自動付与をサポート、Data Engineering Agentが意図からメタデータを生成"
     },
     {
       "title": "【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る",
@@ -653,7 +706,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "見積もり1週間のバッチ処理が実際3ヶ月かかった経験から、要件理解と計画の重要性を学んだ体験談"
     },
     {
       "title": "良いAIの行動、メモ",
@@ -665,7 +719,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "個人が望むAIの動き方をメモ化し、設計方針や拡張性を重視し、間違いを指摘してもらう姿勢を示す。"
     },
     {
       "title": "GitOpsのマルチクラスタ運用にRancher Fleetを選ぶ理由｜Argo CD比較とAI時代の設計",
@@ -677,7 +732,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "マルチクラスタ環境でのGitOps運用において、Rancher FleetがArgo CDより適している理由をAI時代の要件を踏まえて比較検討"
     },
     {
       "title": "【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由",
@@ -689,7 +745,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AI時代において、採用面接で「なぜ？」を繰り返すことで応募者の思考プロセスと問題解決能力を深く見極める"
     },
     {
       "title": "M5StickS3のPlatformIO開発環境を構築してプログラムの書き込みからボタンによる画面切り替えまで試す",
@@ -701,7 +758,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "M5StickS3とPlatformIOを使った開発環境構築から、ボタンによる画面切り替えまでの実装手順を初心者向けに解説"
     },
     {
       "title": "GitHub availability report: August 2026",
@@ -713,7 +771,8 @@
       "tags": [
         "github",
         "devtools"
-      ]
+      ],
+      "ai_summary": "GitHubは8月に5つのインシデントが発生し、ActionsやCopilotなどのサービスに影響が出たが、容量監視やリトライポリシーの改善などで対応している。"
     },
     {
       "title": "メモリに載らないGROUP BYをDuckDBはどう処理するのか",
@@ -725,7 +784,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "DuckDBはメモリに収まらないGROUP BYでも外部ソートや段階的集約で処理し、大規模データでも高速に集約を行う。"
     },
     {
       "title": "勉強会文化ゼロの支社で、2026 Japan AWS Jr. Championsの私が立ち上げたクラウド勉強会——部署の壁を越えた交流とアウトプットの文化を作る",
@@ -737,7 +797,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "勉強会文化がない支社でAWS Jr. Championとしてクラウド勉強会を立ち上げ、部署を超えた知識共有と実践的なアウトプット文化を創出"
     },
     {
       "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
@@ -749,7 +810,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "SoutherはDDDトリレンマをDecisionパターンで解決し、ドメイン関数が許可・拒否・保留の3値を返す設計を提案する。"
     },
     {
       "title": "近畿大学と Google Cloud が包括連携協定を締結 - 約 2 万人超へ「Google AI Pro for Education」を導入し、「AI ネイティブ大学」の実現を支援",
@@ -762,7 +824,8 @@
         "gcp",
         "cloud",
         "ja"
-      ]
+      ],
+      "ai_summary": "近畿大学とGoogle Cloudが包括連携、約2万人にGoogle AI Pro for Educationを導入しAIネイティブ大学を支援。"
     },
     {
       "title": "Introducing the Agents API",
@@ -773,7 +836,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "Agents APIが発表。Codexハーネスを基盤とするマネージドサービスで、エージェントのオーケストレーション、長時間実行、ツール使用を可能に。"
     },
     {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
@@ -784,7 +848,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "GPT‑Live‑1がAPIに追加。自然な全二重音声会話を実現し、指示従順性向上、カスタムボイス、テレフォニーサポートを提供。"
     },
     {
       "title": "Cursor Projects",
@@ -796,7 +861,8 @@
       "tags": [
         "ai",
         "devtools"
-      ]
+      ],
+      "ai_summary": "Cursor Projects がベータリリース。月単位の作業コンテキストを維持し、数千のサブエージェントでタスクを委譲。"
     },
     {
       "title": "Containers - Use Cloudflare Containers with Codex via the OpenAI Agents API",
@@ -808,7 +874,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "Cloudflare ContainersでOpenAI Agents APIを使い、Codexへのアクセスが提供され、セッション管理などがOpenAI側で行われます。"
     },
     {
       "title": "WAF - WAF Release - 2026-09-10 - Emergency",
@@ -820,7 +887,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "緊急リリースで、Adobe CommerceおよびMagento向けの重大なゼロデイ脆弱性に対する即時防御が提供されました。"
     },
     {
       "title": "Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債",
@@ -832,7 +900,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "NuxtからNextへのリプレイスでハーネスエンジニアリングを整備し、Claude Codeによる開発フローをスキル化して理解負債を低減する。"
     },
     {
       "title": "【雑記】1年目の自分に伝えたい仕事の進め方",
@@ -844,7 +913,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "1年目の失敗を振り返り、仕事の進め方の基本と改善点を後輩に伝えるための具体的なアドバイスをまとめ"
     },
     {
       "title": "日本初日本発AWS GameDayで優勝して思ったこと",
@@ -856,7 +926,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "育児と両立しながら日本初の日本発AWS GameDayで優勝し、チーム協力と粘り強さの重要性を実感した優勝者の感想"
     },
     {
       "title": "なぜエージェントハーネスで開発パイプラインを作っているのか",
@@ -868,7 +939,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "docker-agentを用いたエージェントハーネスで、POがMarkdown仕様書を書くと自動的にPRが生成される開発パイプラインを構築している。"
     },
     {
       "title": "Claude Code v2.1.266〜v2.1.267｜maxEffortLevel で effort に上限がつく｜毎日Changelog解説",
@@ -880,7 +952,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Claude Code v2.1.267でmaxEffortLevel設定が追加され、AIの思考深度に上限を設定可能になり、コスト管理が容易に"
     },
     {
       "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
@@ -892,7 +965,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Connect Customerがタスクとメールの種類ごとに具体的なキャパシティ制限を設定可能に。"
     },
     {
       "title": "AWS Transform for .NET modernization is now generally available via CLI",
@@ -904,7 +978,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Transform for .NETの近代化がCLI経由で一般提供開始、1行のコマンドでトリガー可能。"
     },
     {
       "title": "Cloudflare One Client - Cloudflare One Client for macOS (version 2026.8.1290.1)",
@@ -916,7 +991,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "macOS用Cloudflare One Clientのベータ版がリリースされ、ルートサポートなどの改善が行われました。"
     },
     {
       "title": "Cloudflare One Client - Cloudflare One Client for Windows (version 2026.8.1290.1)",
@@ -928,7 +1004,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "Windows用Cloudflare One Clientのベータ版がリリースされ、ルートサポートなどの改善が行われました。"
     },
     {
       "title": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
@@ -940,7 +1017,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS LambdaがLambda Managed Instancesで非同期およびESM呼び出しのタイムアウトを90分に拡張。"
     },
     {
       "title": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
@@ -952,7 +1030,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS LambdaがLambda Managed InstancesでGraviton5駆動のC9g/M9g系インスタンスをサポート。"
     },
     {
       "title": "Paul Christiano joins OpenAI Foundation Board",
@@ -963,7 +1042,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "AI調整・安全性専門家のポール・クリスチャノ氏がOpenAI財団理事会および安全・安全保障委員会に参加。"
     },
     {
       "title": "Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control",
@@ -975,7 +1055,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Bedrock Managed Knowledge BaseがドキュメントレベルACLのデバッグ用APIとコンソールサポートを追加。"
     },
     {
       "title": "Get ready for the game with new football features in Search",
@@ -987,7 +1068,8 @@
       "tags": [
         "ai",
         "google"
-      ]
+      ],
+      "ai_summary": "Google検索に新機能：ライブフィード、詳細統計、ファンタジー連携、AIインサイト。今すぐモバイルで利用可能。"
     },
     {
       "title": "Recreating a 70-year love story frame by frame",
@@ -999,7 +1081,8 @@
       "tags": [
         "ai",
         "google"
-      ]
+      ],
+      "ai_summary": "AIで夫婦の未記録の過去を画像復元とパフォーマンスキャプチャで復元し、若い姿を再現。そして記憶を呼び戻す技術を紹介。"
     },
     {
       "title": "Amazon Quick adds always-on agents, a sharper feed, and enterprise controls",
@@ -1011,7 +1094,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Quickが常時オンエージェント、シャープなフィード、エンタープライズ制御を追加し、業務整理とガバナンスを向上。"
     },
     {
       "title": "「人手不足対策」の先にあるもの ― 日本の未来を誰が決めるのか？ : システム設計視点の行動経済学 (27)",
@@ -1023,7 +1107,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "人手不足対策の先にある日本の未来を左右する意思決定構造を、システム設計と行動経済学の視点で分析"
     },
     {
       "title": "Amazon Quick activity feed now available on iOS and Android mobile devices",
@@ -1035,7 +1120,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon QuickのアクティビティフィードがiOSとAndroidのモバイルアプリで利用可能に。"
     },
     {
       "title": "Amazon Quick desktop app is now generally available on macOS and Windows",
@@ -1047,7 +1133,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon QuickデスクトップアプリがmacOSとWindowsで一般提供開始、ローカルファイルと直接連携。"
     },
     {
       "title": "GPT-6 Astra x Unityでゲームを作る",
@@ -1059,7 +1146,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "GPT-6 AstraがUnityを直接操作し、MCPやプラグイン不要で3D障害物ゲームを作成し、開発コスト約8.4ドルと評価。"
     },
     {
       "title": "Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector",
@@ -1071,7 +1159,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Bedrock Managed Knowledge BaseがConfluence Data Centerをネイティブデータソースコネクターとしてサポート。"
     },
     {
       "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
@@ -1083,7 +1172,8 @@
       "tags": [
         "cloud",
         "infra"
-      ]
+      ],
+      "ai_summary": "Workersのモジュールレジストリを刷新し、Node.js互換性をデフォルト有効に。import.meta、遅延コンパイル、共有キャッシュなどを追加。"
     },
     {
       "title": "The AI policy window is open. We need to act.",
@@ -1094,7 +1184,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "Chris Lehaneが政策ウィンドウが開いている今こそ行動を起こすべきだと主張。より強力なAIには安全証拠・共通基準・持続可能な政策が必要。"
     },
     {
       "title": "GPT-6 Astra: The next generation in intelligence for work",
@@ -1105,7 +1196,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "GPT-6 Astraが発表。ビジネス向け最強モデルとして高度な推論、コンピュータ使用、文章・設計判断力の向上を実現。"
     },
     {
       "title": "２ヶ月運用したハニーポットのログを集計してみた。",
@@ -1117,7 +1209,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "2ヶ月間運用したハニーポットから得られた攻撃ログを分析し、サイバー攻撃の傾向と防御の重要性を明らかに"
     },
     {
       "title": "Agent Skillは振る舞いとナレッジを分けて設計する",
@@ -1129,7 +1222,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Agent Skillは振る舞いとナレッジを分離し、Claudeチームプランで全員が利用可能なルールとスキルの設計・保守を行う。"
     },
     {
       "title": "Amazon EBS Volume Clones now supports copying volumes across accounts",
@@ -1141,7 +1235,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon EBSボリュームクローンがアカウント間でのボリュームコピーをサポートし、再暗号化を行う。"
     },
     {
       "title": "AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud (US)",
@@ -1153,7 +1248,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Private CAがAWS GovCloud (US)でEKSアドオンとActive Directoryコネクターを提供開始。"
     },
     {
       "title": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
@@ -1165,7 +1261,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Systems ManagerがEC2インスタンスの管理不能となる追加の6カテゴリの問題を診断可能に。"
     },
     {
       "title": "AWS Entity Resolution adds record-level confidence scores for ML matching",
@@ -1177,7 +1274,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Entity Resolutionが機械学習ベースのマッチングに対してレコードレベルの信頼スコアを追加。"
     },
     {
       "title": "うっかり世界最強のWasmコンパイラを作ってしまった件",
@@ -1189,7 +1287,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Go言語ライクな構文で2.56KBという極小サイズのWasmコンパイラを開発し、ウェブフロントエンドでの高速処理を可能に"
     },
     {
       "title": "September 09, 2026",
@@ -1201,7 +1300,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Apigee XのSemanticCacheLookupポリシーがベクトル検索の距離測定方式を追加し、Threshold制限も撤廃"
     },
     {
       "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
@@ -1213,7 +1313,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "内製・プロダクト組織向けの実践ガイドで、計画・要件定義・実行・運用などを42章にわたって体系的に解説する。"
     },
     {
       "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった",
@@ -1225,7 +1326,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ADHD対応のClaude Codeスキルを導入したら出力が43%短縮され、前置きを削って行動を優先する形式に変化"
     },
     {
       "title": "なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話",
@@ -1237,7 +1339,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "配列の0始まりはメモリアドレスのオフセットとしての合理性から生まれた歴史的な設計選択を解説"
     },
     {
       "title": "【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴",
@@ -1249,7 +1352,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "入社1ヶ月で「採用してよかった」と思われる人の特徴として、主体的な学習姿勢と柔軟な適応能力を挙げる"
     },
     {
       "title": "AI時代にコードの理解を「習慣にする」ために1日5問の学習アプリを作った話",
@@ -1261,7 +1365,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AI時代におけるコード理解の重要性を認識し、1日5問の学習アプリで習慣化を図る実践的な取り組みを紹介"
     },
     {
       "title": "元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由",
@@ -1273,7 +1378,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AI時代でもエンジニアの仕事が奪われない理由として、創造的問題解決と人間特有の価値判断の重要性を説く"
     },
     {
       "title": "ローカルLLMには荷が重いと思っていた。39万字のエージェント作業を20回採点して見方が変わった",
@@ -1285,7 +1391,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "39万字の仕様書をローカルLLMで20回採点し、ツール呼び続けられるモデルのみが複雑なエージェント作業に適していることを発見"
     },
     {
       "title": "LLMのトークン効率化で気をつけたいことまとめ",
@@ -1297,7 +1404,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "LLMのトークン効率化ではコストを利用枠消費と捉え、プロンプト設計やキャッシュ活用などの注意点をまとめている。"
     },
     {
       "title": "AI Gateway - AI Gateway custom costs support cache tokens",
@@ -1309,7 +1417,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "AI Gatewayのカスタムコストにキャッシュ読み書きトークンレートのサポートが追加され、プロバイダー間のネゴシエートされたキャッシュ価格を反映できるようになりました。"
     },
     {
       "title": "Browser Isolation, Cloudflare One - Improved iOS tap-to-type experience for Browser Isolation",
@@ -1321,7 +1430,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "iOSデバイスでのBrowser Isolationのtap-to-type体験が改善され、フルスクリーンオーバーレイが変更されました。"
     },
     {
       "title": "CASB - New CASB integration for Zoom",
@@ -1333,7 +1443,25 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "Cloudflare CASBがZoomと連携し、事前に構築されたOAuthアプリケーションを通じて手動設定不要で統合され、継続的なスキャンが行われます。"
     }
-  ]
+  ],
+  "day_summary": "今日はいくつかのプラットフォームでAIエージェントの機能拡張や実践応用が相次いで発表され、開発者向けツールの使いやすさ向上やセキュリティ強化が横断的なテーマとなった。また、AIの医療・政府・金融など具体領域への適用や、教育分野での大学連携など、社会実装の動きも目立った。",
+  "service_summaries": {
+    "GitHub Blog": "本日のGitHub Blogは、GitHub Copilotアプリの新機能紹介と8月の可用性レポートという2つの記事が目立ち、AI開発支援ツールの使いやすさ向上とサービス信頼性の改善が今日の傾向である。",
+    "Hacker News (front page)": "AIの進展とフォーマルメソッド、Rust採用やモバイル開発のネイティブ回帰が注目された。",
+    "Google Cloud Status": "本日はus-central1-bのネットワーク劣化 incident が解決済みで、現在サービスは正常に運用されています。",
+    "AWS What's New": "今日はいくつかのLambda機能拡張、メディアサービスのAI連携、データベースとストレージのリージョン拡張、および開発者向けツールの近代化が目立つ。",
+    "OpenAI Blog": "OpenAI Blogは今日、医療・政府・金融など各分野でのAI実用応用と、Agents APIやGPT‑Live‑1など新機能の発表が目立つ。AI安全性と政策議論にも注目が集まっている。",
+    "Google AI Blog": "Google AIは検索機能に実用的なAI機能を追加し、同時に個人の思い出を復元するクリエイティブな応用も進めている。",
+    "Google Cloud Blog": "今日のGoogle Cloud Blogは、AIエージェント関連の機能拡張やデータベース・ストリーミングサービスのGA発表が多数見られた。",
+    "Qiita Trending (official)": "AIエージェントの実践応用と開発効率化がトレンドで、実際のコード生成や学習支援、基礎技術理解への関心が高まっている。",
+    "Cloudflare Blog": "今日はいずれもセキュリティと開発者体験の向上がテーマ。1.1.1.1のポスト量子DNSSEC対応と、WorkersのNode.js互換性を高めるモジュールレジストリ刷新が発表された。",
+    "Cloudflare Changelog": "本日のCloudflare Changelogは、ワークフロー保持期間の変更やコンテナとCodex連携、緊急のWAFアップデート、Cloudflare Oneクライアントベータリリース、AI Gatewayのキャッシュコストサポート、Browser IsolationのiOS体験改善、CASBとZoom連携など、セキュリティ強化とサービス拡張が中心です。",
+    "Google Cloud Release Notes": "今日のGoogle Cloudリリースノートでは、BigQueryのデータエンジニアリングエージェントによるメタデータ自動生成や生成AI関数の拡張、Apigee Xにおけるベクトル検索の柔軟性向上など、AI・データ処理の機能強化が目立ちます。",
+    "Zenn Trending": "今日のZenn TrendingはAIエージェントやLLM活用の開発手法、トークン効率化、そしてDuckDBやDDDなどの技術解説が目立つ。",
+    "Google Cloud Blog (日本語)": "本日のGoogle Cloud Blog日本語は、教育分野におけるAI活用と大学連携が中心の話題でした。",
+    "Cursor Blog (mirror)": "Cursor Blog (mirror) の今日は、Cursor Projects のベータリリースが発表され、AI エージェントが月単位の作業コンテキストを維持しながらタスクを自動委譲する新機能が紹介された。"
+  }
 }
