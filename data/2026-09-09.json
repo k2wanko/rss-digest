@@ -20,7 +20,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "トポロジーの概念を図解した電子書籍が公開され、直感的理解を助ける教育リソース。"
     },
     {
       "title": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
@@ -32,7 +33,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Timestream for InfluxDB 3がカスタムPythonプラグインをサポートし、ユーザー独自リポジトリからトリガーで実行可能に。"
     },
     {
       "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
@@ -44,7 +46,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "大規模言語モデルが適応的探索により新たな社会的バイアスを獲得することを示す研究。"
     },
     {
       "title": "How to Build a Printer",
@@ -56,7 +59,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "自作プリンターの設計と組み立て手順を詳しく解説する実践的ガイド。"
     },
     {
       "title": "Amazon SageMaker Feature Store now supports individual feature updates to lower write latency",
@@ -68,7 +72,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon SageMaker Feature Storeが個別フィーチャー更新をサポートし、書き込み遅延を低減。レコード全体書き換え不要。"
     },
     {
       "title": "Tao: Open math problems being non-renewably mined by AI",
@@ -80,7 +85,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "テオがAIによる数学問題の使い捨て的利用について警告し、持続可能な探求を促す。"
     },
     {
       "title": "AWS Transform is now available in AWS GovCloud (US-West)",
@@ -92,7 +98,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS TransformがAWS GovCloud (US-West)で利用可能に。政府機関は隔離環境で大規模移行を自動化。"
     },
     {
       "title": "Mercury 2.5",
@@ -104,7 +111,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "新しいプログラミング言語Mercury 2.5が発表され、高速かつ安全なシステム開発を可能にする。"
     },
     {
       "title": "Animation in Bevy: The Big Picture",
@@ -116,7 +124,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Bevyゲームエンジンにおけるアニメーションシステムの全体像とベストプラクティスを解説。"
     },
     {
       "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
@@ -128,7 +137,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "2.8兆パラメータのKimi K3モデルを4台のSSDからストリーミングし、1トークン/秒で動作させた実験。"
     },
     {
       "title": "Muse: Meta's personal AI agent, features and capabilities",
@@ -140,7 +150,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Metaが開発したパーソナルAIエージェントMuseの機能と能力を紹介し、日常生活への応用を示す。"
     },
     {
       "title": "Function Arguments Are Not Function Colors",
@@ -152,7 +163,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "関数の引数は「色」ではないという比喩で、型システムにおける引数の役割を論じる。"
     },
     {
       "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -164,7 +176,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "OpenAIがナビエ・ストークスミレニアム問題を解決し、流体の特異点形成を証明した。"
     },
     {
       "title": "How GPT-5.6 Sol helps run quantum computing experiments",
@@ -175,7 +188,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "MIT研究者がGPT-5.6 SolとCodexで量子実験を自動運転し、結果分析とキュービット較正を行う。"
     },
     {
       "title": "Show HN: LLM Attention Visualization",
@@ -187,7 +201,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "LLMの注意機構を可視化するインタラクティブツールが公開され、内部動作の理解を助ける。"
     },
     {
       "title": "Connecting the Machines",
@@ -199,7 +214,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "様々な機械やデバイスを接続し協調動作させるためのプロトコルと実装方法を解説。"
     },
     {
       "title": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
@@ -211,7 +227,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon RDS for MariaDBがコミュニティ版マイナーバージョン10.6.28、10.11.19などをサポート開始。"
     },
     {
       "title": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
@@ -223,7 +240,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Bedrock AgentCore Memoryが長期記憶への直接取り込みをサポート。短期イベント不要で遅延低減。"
     },
     {
       "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
@@ -235,7 +253,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS HealthOmicsがWDLワークフロー向けリソースフォールバックを導入。アクセラレータ優先順位とCPUフォールバック設定可能。"
     },
     {
       "title": "C*: Unifying Programming and Verification in C",
@@ -247,7 +266,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "C言語にプログラムと検証を統合する新しいアプローチC*を提案し、信頼性の高いコード生成を目指す。"
     },
     {
       "title": "Google DeepMind Releases AlphaGenome Atlas",
@@ -259,7 +279,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Google DeepMindがAlphaGenome Atlasをリリースし、ヒトゲノム全ての一塩基変異の影響を予測するデータベースを公開。"
     },
     {
       "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
@@ -271,7 +292,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ZX Spectrumで1ビットサウンドを実験し、制約されたハードウェアで豊かな音声を生み出す手法を探る。"
     },
     {
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
@@ -283,7 +305,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Qwen3.8 27Bモデルの量子化ベンチマークで、4ビットは性能を維持し1ビットは崩壊することを示す。"
     },
     {
       "title": "The two Christian saints who are the Buddha",
@@ -295,7 +318,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "二人のキリスト教聖人が実は仏陀であったという歴史的仮説を紹介し、宗教間のつながりを探る。"
     },
     {
       "title": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
@@ -307,7 +331,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon CloudFrontのダイナミックイメージ変換に4つの新機能追加。スマートクロッピング強化とカスタムラベル検出が可能。"
     },
     {
       "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
@@ -319,7 +344,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "DeepMindのAlphaGenome Atlasがヒトゲノムの全塩基変異の影響を予測し、1ペタバイト規模のデータを提供。"
     },
     {
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
@@ -331,7 +357,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ADHDを持つ開発者向けに、AIエージェントが答えを埋もれさせないよう支援するスキルを紹介。"
     },
     {
       "title": "AIエージェントの波に乗るべきか？MCPとAPIに関する8つの問いを調べてみた",
@@ -343,7 +370,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "MCPとAPIの違いや導入の注意点を8つの問いで解説し、API基盤の上にMCPを載せるべきだと結論付ける。"
     },
     {
       "title": "DaVinci Resolve 21.1",
@@ -355,7 +383,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "DaVinci Resolve 21.1がリリースされ、新機能とパフォーマンス向上で映像制作ワークフローを強化。"
     },
     {
       "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
@@ -367,7 +396,8 @@
       "tags": [
         "cloud",
         "infra"
-      ]
+      ],
+      "ai_summary": "自動鍵交換によりTLS 1.3オリジンハンドシェイクが高速化し、ポスト量子セキュアな接続がデフォルトに。"
     },
     {
       "title": "The Work Now Within Reach",
@@ -378,7 +408,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "能力向上と低コスト化されたAIが個人・企業の業務範囲を広げ、経済的成長を促進する。"
     },
     {
       "title": "【破門覚悟】政治学と経済学の因果推論帝国主義者に物申す",
@@ -390,7 +421,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "因果推論を万能とせず、研究質問に応じた手法選びの重要性を説き、探索や予測も価値があると主張。"
     },
     {
       "title": "AWS AgentCore Evaluationsを使ってAIエージェントを評価してみた",
@@ -402,7 +434,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AWS AgentCore Evaluationsで多角的指標によりAIエージェントを自動評価できる。"
     },
     {
       "title": "Introducing ChatGPT Images 2.5",
@@ -413,7 +446,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "ChatGPT Images 2.5はアイデアやスケッチ、参考写真からよりパーソナライズされた洗練された画像を生成する。"
     },
     {
       "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -424,7 +458,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "ナビエ・ストークスミレニアム問題のAI生成解答とLeanによる正式証明を公開した。"
     },
     {
       "title": "DatabricksのFMAPI直叩きとai_query、大きな違いはレート制御を誰が担当するか",
@@ -436,7 +471,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Databricksで基盤モデルを呼ぶFMAPI直叩きとai_queryの違いは、レート制御の責任者がユーザーかシステムかである。"
     },
     {
       "title": "Funding grants for new research into AI and teen development",
@@ -447,7 +483,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "生成AIが青少年の発達・ wellbeing・安全に与える影響を調べる独立研究に500万ドルの助成金を提供。"
     },
     {
       "title": "1,500人のカメラマンに社内NotionのQAエージェントを提供した話",
@@ -459,7 +496,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ラブグラフがNotionのナレッジを構造化し、1500人規模のカメラマン向けに高速・高精度なQAエージェントを構築した事例。"
     },
     {
       "title": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
@@ -471,7 +509,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Builder IDがサードパーティログイン向けに回復オプションとMFAを追加。アカウント保護と復旧が強化。"
     },
     {
       "title": "AWS announces Nx Plugin for AWS for scaffolding full-stack applications",
@@ -483,7 +522,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS向けNx Plugin 1.0がリリース。フルスタックアプリケーションのスキャフォールディングを支援し、AIアシスタントも数分で環境構築可能。"
     },
     {
       "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
@@ -495,7 +535,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon RDS for SQL Serverが最新のCUとGDRアップデートをサポート。セキュリティパッチと機能強化が自動適用可能。"
     },
     {
       "title": "「なんか違う」を分解するだけで、AIの出力は劇的に変わる",
@@ -507,7 +548,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AI出力の「なんか違う」を方向性・粒度・トーンに分解し、テンプレートで修正ループを減らす手法を紹介。"
     },
     {
       "title": "September 08, 2026",
@@ -519,7 +561,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Cloud Runジョブの遅延実行で最大12時間まで料金削減（Preview）。Cloud SQLのMySQL・PostgreSQL・SQL Serverで地域エンドポイントがGA。"
     },
     {
       "title": "Herdr × git worktree × Claude Codeの相性がいい話",
@@ -531,7 +574,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Herdrとgit worktreeでClaude Codeを複数並行動作させ、作業ディレクトリ分割とエージェント管理を効率化する方法。"
     },
     {
       "title": "word-break の auto-phrase が効かないのは lang 属性のせいだった。日本語の折り返し5通りを343px幅で実測してみた",
@@ -543,7 +587,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "lang属性欠如がword-breakのauto-phrase失敗原因で、日本語折り返し5パターンを343px幅で実測。"
     },
     {
       "title": "モバイルアプリ開発でもエージェントループを回したい！React Nativeで計画から検証・PRまで任せる",
@@ -555,7 +600,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "React Native開発でagent-deviceを使い、エージェントがシミュレータ/エミュレータを操作して計画から検証・PRまで自動化する手法。"
     },
     {
       "title": "立ち上げ期の技術広報が見たDroidKaigi 2026 ブースフロア",
@@ -567,7 +613,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "TrustDockのエンジニアが技術広報としてDroidKaigi 2026ブースを訪れ、SDK開発と広報活動の両方を体験したレポート。"
     },
     {
       "title": "TROCCOのカスタムコネクタ実装を楽にするAI活用 〜実装前の仕様調査編〜",
@@ -579,7 +626,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "TROCCOのカスタムコネクタ実装をAIで仕様調査から楽にし、開発効率を向上させる方法を紹介。"
     },
     {
       "title": "Amazon S3 Object Lock now supports variable retention with event holds",
@@ -591,7 +639,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon S3 Object Lockがイベントホールドによる可変リテンションをサポート。将来のイベント開始時にWORM保護を適用可能。"
     },
     {
       "title": "Agent Harness：LLMとAIエージェントの間を埋める決定的なレイヤー",
@@ -603,7 +652,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "LLMとAIエージェントの間を埋めるAgent Harnessというレイヤーを紹介し、インタラクティブなコード生成を支援。"
     },
     {
       "title": "React 19移行で学んだpnpmの依存関係解決の仕組み",
@@ -615,7 +665,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "React19移行時にpnpmのhoistとViteの解決順で古いReactが混入し、resolve.dedupeで参照を統一して解決した事例。"
     },
     {
       "title": "Kaggleコンペ紹介：AI Agent Security - Multi-Step Tool Attacks",
@@ -627,7 +678,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "KaggleのAI Agent Securityコンペで、Confused Deputy攻撃を高速化しPrivateでも安定得点した4位解法を説明。"
     },
     {
       "title": "【未経験からITへ】「将来がなんとなく不安…」なあなたへ。キャリアの答えは、走りながら一緒に探せば大丈夫です",
@@ -639,7 +691,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "未経験からIT業界を目指す人へ、不安を抱えつつ実践しながらキャリアを見つけるよう励ます記事。"
     },
     {
       "title": "Techはすぐに追ったほうがいい",
@@ -651,7 +704,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ターミナルやVimが好きなインフラエンジニアが、ハッカーも愛用するVim/Emacsの魅力と効率的な編集環境を語る。"
     },
     {
       "title": "【Windows/VSCode】社内のプライベートGitLabにSSHで安全に接続するための攻略ガイド",
@@ -663,7 +717,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "WindowsとVSCodeで社内プライベートGitLabへSSH鍵ペア作成から接続までの手順を解説。"
     },
     {
       "title": "フロント開発担当、色彩検定UC級を勉強受験してみる",
@@ -675,7 +730,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "フロント開発担当が色彩検定UC級に合格し、勉強方法と得られた知見を共有。"
     },
     {
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
@@ -686,7 +742,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "学生からニュースルームまで journalism支援を拡大し、ツール・トレーニング・パートナーシップを提供。"
     },
     {
       "title": "1Password increases engineering productivity 21% with Codex",
@@ -697,7 +754,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "1PasswordのエンジニアがCodexで機能・内部ツール開発を高速化し、セキュリティを保ちながら生産性21%向上。"
     },
     {
       "title": "Radar - Radar search now includes Internet events",
@@ -709,7 +767,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "Radar検索にインターネットイベントと障害が追加され、説明や関連エンティティで検索可能になりました。"
     },
     {
       "title": "WAF - WAF Release - 2026-09-08",
@@ -721,7 +780,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "WAFリリースでNext.js向けRCEルールのベータ規則がベースラインに統合され、検出ロジックが強化されました。"
     },
     {
       "title": "WAF - WAF Release - Scheduled changes for 2026-09-15",
@@ -733,7 +793,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "WAFのスケジュールリリースで2026-09-15に新規SSRF検出やバージョンコントロール情報漏洩ベータが追加され、ログ動作となります。"
     },
     {
       "title": "Workers - Miniflare v5 prepares local development for the cf CLI",
@@ -745,7 +806,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "Miniflare v5がcf CLI向けローカル開発基盤を整備し、設定形式の統一や非推奨API削除により基盤が刷新されました。"
     },
     {
       "title": "SanoTTS-jp がすごい 〜マイコンで動く日本語TTS〜",
@@ -757,7 +819,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "マイコン1つで動くオープンソース日本語TTS「SanoTTS-jp」を紹介、クラウドやPC不要。"
     },
     {
       "title": "量子クラウドって実際どうなの？第2の発見：待ち時間に不確実性がある",
@@ -769,7 +832,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "量子クラウド(IBM Quantum)でのジョブ実行には待ち時間の不確実性があり、即時実行されないことが第2の発見。"
     },
     {
       "title": "Select AIが Metadataから SQLを生成する仕組みと AI Ready Dataを整理してみてみた",
@@ -781,7 +845,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Select AIがメタデータから自然言語でSQLを生成し、AI Ready Dataの整理手法を解説。"
     },
     {
       "title": "企業を悪者にしない経済改革 ― 賃上げ・設備投資・生産性向上を生むインセンティブ設計 : システム設計視点の行動経済学 (26)",
@@ -793,7 +858,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "システム設計視点の行動経済学第26回：賃上げや設備投資を促すインセンティブ設計で企業を悪者にしない経済改革を提案。"
     },
     {
       "title": "「そのページ、消えるよ」AWS Blocksで1ヶ月以上デプロイしてないアプリにアクセスできなくなる話",
@@ -805,7 +871,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AWS Blocksにより1ヶ月以上デプロイされていないアプリはアクセス不能になる仕組みを解説。"
     },
     {
       "title": "gbdraw開発記：論文の図を描くPythonスクリプトがブラウザ内実行Webアプリになるまで",
@@ -817,7 +884,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "論文のゲノム図を描くPythonスクリプトがブラウザ内で実行されるWebアプリになるまでの開発過程を紹介。"
     },
     {
       "title": "「完璧に動くのに誰も使わない」を生まないためのSkillsの作り方",
@@ -829,7 +897,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIエージェントのSkillの質は要求品質・翻訳精度・実行精度の積で決まり、質の高いSkill作り方を示す。"
     },
     {
       "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート",
@@ -841,7 +910,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AI画像生成の「AIっぽさ」を消す38種類の画風プロンプトとテンプレートを提供。"
     },
     {
       "title": "Astra時代のコードファースト3Dモデリング",
@@ -853,7 +923,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AstraがBlender代わりにRealitizerライブラリを使い、Swiftコードだけでハイクオリティな3Dモデルを作成できることをデモで示す。"
     },
     {
       "title": "GitHubトレンドのスキル集を入れたら、自分のスキル2本の説明が消えた",
@@ -865,7 +936,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "GitHubトレンドのスキル集を導入したら自作スキルの説明が消えた事象とその対策を報告。"
     },
     {
       "title": "Meta XR OperatorをUnity + Claude Codeで試してみた ― AIがVRアプリを見て操作する新しい開発体験",
@@ -877,7 +949,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Meta XR OperatorをUnityとClaude Codeで試し、AIがVRアプリを観察・操作する新しい開発体験を紹介。"
     },
     {
       "title": "September 07, 2026",
@@ -889,7 +962,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Slurmクラスターの脆弱性CVE-2026-65107を修正。Privileged Access ManagerがGA。Knowledge CatalogのデータドメインがPreview。"
     },
     {
       "title": "ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く",
@@ -901,7 +975,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "DDDにおけるドメインモデル貧血の原因をDecisionパターンで解決し、ロジックをドメイン層に集約する方法を提案。"
     },
     {
       "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
@@ -913,7 +988,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ジュニアエンジニアがAI生成コードを理解しづらい問題への対応策として、段階的な解説とドキュメント整備を提案。"
     },
     {
       "title": "【XP祭り2026】エンジニアにコミュ力を求めるな、と言われて頷いた",
@@ -925,7 +1001,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "XP祭り2026で社内ナレッジをAIに学習させQAテスト設計を任せる試みと、エンジニアにコミュニケーション能力を求めない議論に共感。"
     },
     {
       "title": "「効率よく成長したい」は悪くない。でも、近道ばかり探してしまうと損をする。",
@@ -937,7 +1014,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "効率的な成長は良いが、近道ばかり追うと長期的に損するというキャリアアドバイス。"
     },
     {
       "title": "WebエンジニアのためのReact Native + NativeWind v5事始め — Webの常識が通用しない18のポイント",
@@ -949,7 +1027,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "WebエンジニアがReact NativeとNativeWind v5を使う際の、Tailwind感覚で起こりうるスタイル適用の落とし穴と対策を18点で解説。"
     },
     {
       "title": "Git リモートで削除されたローカルブランチの自動クリーンアップ",
@@ -961,7 +1040,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "リモートで削除されたブランチをローカルで自動削除する方法として、git fetch -p とgit branch --merged の活用を説明。"
     },
     {
       "title": "Astraのリリースに合わせてAGENTS.mdを修正するなら「request_user_input」も使って体験良くチューニングしよう",
@@ -973,7 +1053,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Astraリリース後、AGENTS.mdをモデル特性に合わせ更新する際、request_user_inputを活用してユーザー体験を向上させるチューニング手法を提案。"
     },
     {
       "title": "HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録",
@@ -985,7 +1066,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "HTML社内共有サービスArtifact Shareを、コードを読まずに試行錯誤しながらひとりで25万行のTypeScriptアプリとして開発した記録。"
     },
     {
       "title": "テストを生成するな、信頼を生成しろ",
@@ -997,7 +1079,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIにコードを丸投げするならテストではなく信頼を生成すべきであり、AI生成コードのレビュー過程での問題点を指摘する考察。"
     },
     {
       "title": "Supporting independent journalism in Ukraine",
@@ -1008,7 +1091,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "OpenAI等がウクライナの独立ジャーナリズム支援のためAIプログラムを立ち上げ、革新性と回復力を強化。"
     },
     {
       "title": "GPT-5.6 Lunaを2ヶ月使い倒した結果、ガチでコスパ最強だった",
@@ -1020,7 +1104,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "GPT-5.6 Lunaを2ヶ月実務で使い倒し、最安モデルながらコスパ最強であることを報告。"
     },
     {
       "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
@@ -1032,7 +1117,19 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Docker環境を極限まで軽量化する鉄板設定をまとめ、イメージサイズと起動時間を削減。"
     }
-  ]
+  ],
+  "day_summary": "本日はHacker NewsやAWS、OpenAIなど主要プラットフォームでAI関連の話題が多数を占め、大規模言語モデルやゲノム予測、AIエージェントの実装・評価が注目された。一方、Cloudflareはポスト量子暗号への移行を加速し、Google CloudやAWSでもセキュリティ強化と運用効率化が進んだ。さらに、ZennやQiitaではAIエージェントを活用した開発効率化やプロンプトエンジニアリングの技術論が活発に議論された。",
+  "service_summaries": {
+    "Hacker News (front page)": "AI関連の話題が多数を占め、特に大規模言語モデルやゲノム予測、AIによる数学問題解決が注目された。それに加えてプログラミング言語やレトロコンピューティング、映像ソフトのアップデートなど多様な話題が見られた。",
+    "AWS What's New": "本日のAWSアップデートは、AI/ML関連サービスの機能拡張とデータベースバージョンの更新、政府向けクラウドへの移行支援ツールの提供が目立つ。",
+    "OpenAI Blog": "今日 OpenAI Blog は量子コンピューティング・クリエイティブツール・数学問題・ジャーナリズム支援など、AIの社会各分野への応用拡大と独立研究・メディア支援を示した。",
+    "Qiita Trending (official)": "今回のQiita Trendingでは、AIエージェントの実装と評価、MCPとAPIの比較、因果推論の適用範囲への批判が目立つ。また、AWSのマネージド評価サービスや、プロンプトエンジニアリングの技術記事も多く見られた。",
+    "Cloudflare Blog": "Cloudflareはポスト量子暗号への移行を加速し、自動鍵交換でオリジン接続のセキュリティと速度を向上させている。",
+    "Zenn Trending": "今日のZenn Trendingは、Claude CodeやHerderを使った並列開発、React Nativeでのエージェントループ、React 19移行時のpnpm依存解決、AIエージェントセキュリティコンペ、Astraによるコードファースト3Dモデリングなど、AIエージェント活用と開発効率化の話題が中心。",
+    "Google Cloud Release Notes": "AI関連機能の拡張とセキュリティ強化が続き、Cloud Runのコスト最適化やCloud SQLの地域エンドポイントGAなど、運用効率化が進む。",
+    "Cloudflare Changelog": "本日はレーダー検索の機能拡張、WAFルールのアップデートと今後のスケジュール変更、そしてMiniflare v5によるcf CLI向けローカル開発基盤の整備が発表されました。セキュリティ強化と開発者体験の向上が主なトレンドです。"
+  }
 }

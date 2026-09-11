@@ -20,7 +20,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Chromium全バージョンでサンドボックス逃れのRCEが発見され、積極的に悪用されている脆弱性が報告された。"
     },
     {
       "title": "Icons as a Service",
@@ -32,7 +33,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "アイコンをAPIで提供する「Icons as a Service」について説明し、利用方法と利点を紹介している。"
     },
     {
       "title": "GPT-6 Astra on OpenRouter",
@@ -44,7 +46,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "OpenRouterでGPT-6 Astraが利用可能になり、高度な言語処理がAPI経由で提供される。"
     },
     {
       "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
@@ -56,7 +59,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "準同型暗号コンパイラHEIRの最新アップデートと、性能改善および新機能について解説している。"
     },
     {
       "title": "Some more thoughts on random_page_cost",
@@ -68,7 +72,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "PostgreSQLのrandom_page_costパラメータの最適値について、実験結果と考察を述べている。"
     },
     {
       "title": "Statichost.eu – 100% European static site hosting",
@@ -80,7 +85,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ヨーロッパ専用の静的サイトホスティングStatichost.euが、GDPR準拠のCDNとGit連携機能を提供している。"
     },
     {
       "title": "How to Create a Tor Exit Node",
@@ -92,7 +98,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Tor出口ノードを自分で構築する方法を、ソフトウェア設定と注意点を詳しく説明している。"
     },
     {
       "title": "An open DNS recursive service for free security and high privacy",
@@ -104,7 +111,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Quad9は無料でプライバシー重視の再帰DNSサービスを提供し、マルウェアブロック機能も備えている。"
     },
     {
       "title": "Can AI design circuit boards yet?",
@@ -116,7 +124,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "AIが回路基板設計を行えるかを評価し、現在の限界と将来の可能性について考察している。"
     },
     {
       "title": "Amazon EC2 now supports specifying compatible instance types on AMIs",
@@ -128,7 +137,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AMI所有者が対応インスタンスタイプを指定可能になり、起動時の互換性チェックが柔軟に。"
     },
     {
       "title": "Government Rails Site Hit Hours After CVE Patch",
@@ -140,7 +150,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "政府のRailsサイトがCVEパッチ適用後数時間でゼロデイ攻撃を受け、被害が報告された。"
     },
     {
       "title": "Fermat's Last Theorem in Lean 4",
@@ -152,7 +163,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Lean 4でフェルマーの最終定理の形式証明が公開され、検証可能なコードが提供されている。"
     },
     {
       "title": "Shutting down our public encrypted DNS",
@@ -164,7 +176,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Mullvadが自社の公共暗号DNSを終了し、代わりにQuad9への支援とユーザー移行を開始した。"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
@@ -176,7 +189,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "AnthropicのClaudeがLeanでフェルマーの最終定理を自動証明、11日で1300万行の証明を達成した。"
     },
     {
       "title": "The Rust React Compiler is now native in Vite",
@@ -188,7 +202,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ViteにRust製Reactコンパイラがネイティブ統合され、ビルド速度が大幅に向上したと発表されている。"
     },
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
@@ -200,7 +215,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "オープンソースの電子インク自転車コンピュータが公開され、AIがANTプロトコル実装に助力したことを紹介している。"
     },
     {
       "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
@@ -212,7 +228,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "LLMを単なる次トークン予測器と見なすのは誤りで、内部動作と外部振る舞いの違いを指摘している。"
     },
     {
       "title": "Amazon ECS introduces Early Success Criteria for service deployments",
@@ -224,7 +241,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "ECSのローリングデプロイで成功基準を柔軟に設定でき、デプロイ判断が改善。"
     },
     {
       "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
@@ -236,7 +254,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "アダルト映画プロデューサーがMetaの幹部が大規模な違法 torrent ピレートであるJohn DOEだと特定したと報じている。"
     },
     {
       "title": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
@@ -248,7 +267,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS MCP Serverにサーバーレス機能追加、Claude Code等がLambda診断を効率化。"
     },
     {
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
@@ -260,7 +280,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "GitHub Copilotが複数のAIモデルをオーケストレートし、コード生成品質を向上させるHydraFusionプロジェクトを発表した。"
     },
     {
       "title": "deSEC – Free Secure DNS",
@@ -272,7 +293,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "deSECはDNSSEC対応の無料セキュアDNSサービスを提供し、プライバシー保護と改ざん防止機能を備えている。"
     },
     {
       "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 9",
@@ -284,7 +306,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "政府支出の乗数効果が低いMPCと高税率で抑制され、国債発行だけでは成長につながらないことをシミュレーションで解説。"
     },
     {
       "title": "Amazon EC2 C8g instances now available in additional regions",
@@ -296,7 +319,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "C8gインスタンスがアジアパシフィック(台北、ニュージーランド)とGovCloud(米東)で利用可能に。"
     },
     {
       "title": "IBM Bob",
@@ -308,7 +332,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "IBMのAIコーディングアシスタントBobが、エージェントベースの開発支援と自然言語コーディングを企業向けに提供している。"
     },
     {
       "title": "🔍 審査官はQiita記事を引用した — ELYZA特許の審査記録を全部読む",
@@ -320,7 +345,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ELYZAの業務AIアプリ特許が審査官によって引用され、範囲広すぎる・新規性なしという批判と修正謝罪の経緯を詳細に記録。"
     },
     {
       "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
@@ -332,7 +358,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "SFTPコネクタが認証情報ローテーション中もファイル転送を継続、中断不要に。"
     },
     {
       "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
@@ -344,7 +371,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "SageMaker Batch TransformがG6eインスタンスをサポート、大規模データセット予測が高速化。"
     },
     {
       "title": "September 04, 2026",
@@ -356,7 +384,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Cloud SQL for SQL Server が書き込みエンドポイントへの接続を Cloud SQL Auth Proxy や言語コネクタでサポートし、フェイルオーバー時に自動リダイレクト。"
     },
     {
       "title": "What’s new with Google Cloud",
@@ -368,7 +397,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Google Cloud の最新アップデート：Voice Agent セッション監査、Pub/Sub AI 推論、PostgreSQL Kafka コネクター GA、Dataflow 一時停止機能 GA などを発表。"
     },
     {
       "title": "AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価",
@@ -380,7 +410,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "SREチームのチーム感低下に対し、AIによる週次評価とコミュニケーション場の再設計で改善を図った取り組み。"
     },
     {
       "title": "IT面接で職務経歴書で見ているのは「すごい実績」だけではありません",
@@ -392,7 +423,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "IT面接では実績だけでなく問題解決姿勢や学習意欲、チーム貢献なども評価され、未経験者にもアドバイスを提供。"
     },
     {
       "title": "OpenAIが最強モデル「GPT-6 Astra」を発表",
@@ -404,7 +436,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "OpenAIがコーディング・エージェント性能で世界最高を謳う新モデルGPT-6 Astraを発表、ベンチマークでトップスコアを記録。"
     },
     {
       "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！",
@@ -416,7 +449,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Power AutomateとPower Appsで申請状況の一括確認とTeamsリマインドを自動化し、セキュリティ担当者の月次作業を半分に削減。"
     },
     {
       "title": "2026年9月4日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
@@ -428,7 +462,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "毎日朝7時に更新されるAIポッドキャストで、前夜のQiitaトレンド記事を音声で解説し通勤中の学習を支援。"
     },
     {
       "title": "30代薬剤師が2ヶ月でITエンジニアをクビになって求職活動した",
@@ -440,7 +475,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "薬学部卒の30代男性が資格取得後ITエンジニアに転職したが2ヶ月で解雇、求職活動で400～550万円の内定を獲得中。"
     },
     {
       "title": "Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった",
@@ -452,7 +488,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ツール結果後のコンテキストに限定したキャッシュ修正により、ツール使用時のみヒット率上昇、それ以外は変わらず。"
     },
     {
       "title": "Rust + OpenTelemetryで分散トレーシング入門 ― ECS FargateからAWS X-Rayへ",
@@ -464,7 +501,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "RustとOpenTelemetryを使いECS FargateのトレースデータをAWS X-Rayに送信し、分散トレーシングの基本を実装例で解説。"
     },
     {
       "title": "AgentCore Memory connector と FGAC でメモリーアクセスを統制する",
@@ -476,7 +514,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AgentCore Memory connector と FGAC で、JWT の sub と actorId を一致させるマルチテナント向けメモリーアクセス制御。"
     },
     {
       "title": "Oracle Databaseのアクセス制御 - VPDの仕組みとDeep Data Securityとの違い -",
@@ -488,7 +527,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "従来の行・列レベルアクセス制御VPDと、新機能Deep Data Securityの違いを仕組みと使い方で比較解説。"
     },
     {
       "title": "TanStack Virtual を使ってみた話",
@@ -500,7 +540,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "TanStack Virtual で行・列両方を仮想化し、66 万セルの在庫表を滑らかに描画。データは型付き配列で保持しメモリ効率化。"
     },
     {
       "title": "How Basis builds long-horizon accounting agents with Cursor",
@@ -512,7 +553,8 @@
       "tags": [
         "ai",
         "devtools"
-      ]
+      ],
+      "ai_summary": "BasisはCursorで会計エージェントを開発し、税務申告を6倍速くし、トップ25社の40%に導入されている。"
     },
     {
       "title": "Workers - Deploy larger Workers — up to 64 MiB for both free and paid plans",
@@ -524,7 +566,8 @@
       "tags": [
         "cloudflare",
         "devtools"
-      ]
+      ],
+      "ai_summary": "無料プランでも有料プランでも Workers のサイズ上限が 64 MiB に引き上げられ、大規模な依存関係やフレームワークもデプロイ可能になりました。"
     },
     {
       "title": "Database Link使用時のADBからBaseDBへアクセス時の性能比較",
@@ -536,7 +579,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Autonomous AI Databaseと外部データソース間のフェデレーテッドクエリにおけるDatabase Linkの性能をベンチマークで評価。"
     },
     {
       "title": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
@@ -548,7 +592,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "C9g/C9gdインスタンスが東京リージョンで提供開始、Graviton5プロセッサ搭載。"
     },
     {
       "title": "Amazon ECS Managed Daemons now support non-critical daemons",
@@ -560,7 +605,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "ECS管理デーモンに非クリティカル設定が追加、ミッションクリティカルアプリへの影響を低減。"
     },
     {
       "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 8",
@@ -572,7 +618,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ゼロ金利下での財政出動は1年後の実質GDP成長を押し上げ、為替ノイズとタイムラグを除去して効果を実証。"
     },
     {
       "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
@@ -584,7 +631,8 @@
       "tags": [
         "cloud",
         "infra"
-      ]
+      ],
+      "ai_summary": "Cloudflare Managed Defense と OpenAI Daybreak を連携し、WAF データと AI で脆弱性の優先順位付けとパッチ提案を提供する新サービスが早期アクセス開始。"
     },
     {
       "title": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
@@ -596,7 +644,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "M9g/M9gdインスタンスがヨーロッパ(アイルランド)とアジアパシフィック(シンガポール、シドニー、東京)で利用可能に。"
     },
     {
       "title": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
@@ -608,7 +657,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "P6-B200インスタンスがハイデラバードで提供開始、NVIDIA Blackwell GPUで最大2x性能向上。"
     },
     {
       "title": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
@@ -620,7 +670,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "P6-B300インスタンスがジャカルタで利用可能、Blackwell Ultra GPU8倍と2.1TBメモリ搭載。"
     },
     {
       "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
@@ -632,7 +683,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "CloudFrontの定額料金プランがAPIで管理可能に、CLI/SDK/CDK等から購読・操作が自動化。"
     },
     {
       "title": "RESOLVED: Multiple products in us-central1-b are experiencing network service degradation.",
@@ -645,7 +697,8 @@
         "gcp",
         "cloud",
         "status"
-      ]
+      ],
+      "ai_summary": "us-central1-bのネットワーク障害が発生し、複数のGoogle Cloudサービスに影響が出ました。"
     },
     {
       "title": "ぼく、AIママに勉強を監視してもらってるんだ（マジキチスマイル）",
@@ -657,7 +710,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "作業中にサボりがちな筆者がAI監視により集中力を保ち、勉強効率向上を実感する日々の様子をコミカルに描く。"
     },
     {
       "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
@@ -669,7 +723,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Quick Maxプランが登場、プラスの5倍の使用量とストレージでパワーユーザー向けに拡張。"
     },
     {
       "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
@@ -681,7 +736,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "GWLBがTCP RSTパケット送信をサポート、不健全ターゲット時のトラフィック切断を高速化。"
     },
     {
       "title": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
@@ -693,7 +749,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "WorkSpaces ApplicationsがGraphics G7インスタンスをサポート、RTX PRO 4500 Blackwell GPUで高負荷グラフィック処理が可能に。"
     },
     {
       "title": "Amazon Redshift rg.large instances now support single-node clusters",
@@ -705,7 +762,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Redshift rg.largeインスタンスがシングルノードクラスターをサポート、P204以降パッチで利用可能。"
     },
     {
       "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
@@ -717,7 +775,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Aurora MySQL 8.4.8が一般提供開始、セキュリティ強化とパフォーマンス向上を含む複数の改善が追加。"
     },
     {
       "title": "GitHub Copilot app for Beginners: Run several agents at once",
@@ -729,7 +788,8 @@
       "tags": [
         "github",
         "devtools"
-      ]
+      ],
+      "ai_summary": "GitHub Copilotアプリで複数エージェントを並行実行。Gitワークツリーにより独立してタスク進行。"
     },
     {
       "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
@@ -741,7 +801,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Aurora MySQLにマルチソースと遅延レプリケーション機能が追加、柔軟なデータ同期が可能に。"
     },
     {
       "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
@@ -753,7 +814,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "SageMaker Unified Studio WorkflowsがPythonOperatorとBashOperatorをサポート、サーバーレスワークフローでカスタムスクリプトが直接実行可能に。"
     },
     {
       "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
@@ -765,7 +827,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "MWAAにCloudWatch組み込み監視が追加、環境詳細ページでメトリクスダッシュボードが利用可能に。"
     },
     {
       "title": "【2026年版】無料から使えるパブリックAPI 16選！定番からおもしろAPIまで",
@@ -777,7 +840,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "学習や個人開発に使える無料パブリックAPIを16選紹介、定番からユニークなものまで利用条件と例を解説。"
     },
     {
       "title": "【実験】ECSのサービス間を繋ぐ6つの繋ぎ方、実際どれくらい速さが違うのか",
@@ -789,7 +853,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ECS Service ConnectとVPC Latticeを含む6つのサービス間接続方式をハンズオンで比較、遅延とスループットの違いを測定。"
     },
     {
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -800,7 +865,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "OpenAIがフロントライン防衛者に10億ドルを提供し、サイバーエッセンシャルサービス保護のためDaybreakイニシアティブを発表。"
     },
     {
       "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
@@ -811,7 +877,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "PlaycoはGPT-6 Astraで3つのテーマゲームプロトタイプを作成し、手作業修正を50%削減。"
     },
     {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -822,7 +889,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "LegoraはGPT-6 Astraで41文書を数分でレビューし、全ての植入誤りを検出し、パフォーマンス約40%向上。"
     },
     {
       "title": "問題は「足す」より先に「減らす」を考える",
@@ -834,7 +902,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "改善時に機能追加より先に削減を検討すべき理由を自然誌Natureの実験研究に基づき、ソフト開発と日常業務に適用。"
     },
     {
       "title": "Gitのブランチとタグは同じものだし、スタッシュはコミットである",
@@ -846,7 +915,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ブランチとタグはコミットハッシュのエイリアス、スタッシュも内部的にはコミットとして実装されている仕組みを図解で説明。"
     },
     {
       "title": "Next.js 使いが React Native + Expo でモバイルアプリ開発に入門するだけ",
@@ -858,7 +928,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Next.js 経験者向けに、React Native + Expo の基本概念、ルーティング、スタイリングの違いを解説し、モバイルアプリ開発入門をガイド。"
     },
     {
       "title": "Kaggle AI Agent Securityコンペ振り返り ー345th Place Solution",
@@ -870,7 +941,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Kaggle AI Agent Security コンペに参加し、マルチステップツール攻撃に挑戦。4,186 チーム中 345 位、スコア 6.675 の銅メダルを獲得。"
     },
     {
       "title": "【学習記録ツール作成】振り返り",
@@ -882,7 +954,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Reactで学習記録ツールを振り返り、生成AIよりデバッガーやREPL、プリントデバッグの方が理解を深めると気付いた経験を共有。"
     },
     {
       "title": "トークン課金を気にせず生成AIを使いたい！OpenAI互換APIで“社内生成AI”を構築できるOracle Private AI Services Containerを試してみた",
@@ -894,7 +967,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "機密データ保護と閉域LLM実現、トークン料金不要を目的とするOracle Private AI Services Containerを試験導入し評価。"
     },
     {
       "title": "「在宅勤務って本当にラク？」未経験でIT業界を目指すなら知っておきたいリモートワークのこと",
@@ -906,7 +980,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "未経験者向けにリモートワークのメリット・デメリットと、実際の生産性やコミュニケーション課題を具体例で解説。"
     },
     {
       "title": "Amazon Linux 2027 is now available in public preview",
@@ -918,7 +993,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Amazon Linux 2027のパブリックプレビューが開始、クラウドネイティブワークロード向けにパフォーマンスとスケーラビリティが向上。"
     },
     {
       "title": "Amazon SES now supports S/MIME email signing",
@@ -930,7 +1006,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "SESがS/MIME署名をサポート、メールの真正性検証が可能になりフィッシング対策に有効。"
     },
     {
       "title": "September 03, 2026",
@@ -942,7 +1019,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "API Gateway のモデルルーティングゲートウェイが、デフォルトホスト名に gateway.dev を使用する可能性がある。"
     },
     {
       "title": "KiCad parts を LCSC からいただく easyeda2kicad の活用法",
@@ -954,7 +1032,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "EasyEDAのコンポーネントをKiCad用に変換するPythonスクリプt easyeda2kicadを使い、LCSC部品番号から部品を取得する方法を解説。"
     },
     {
       "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
@@ -966,7 +1045,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "複雑なコード読解前に、AI に中学生向けの1枚HTML図解を依頼し、構造を抽出して理解のハードルを下げる準備運動として活用。"
     },
     {
       "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
@@ -978,7 +1058,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "S3がFIPS 140-3検証済みエンドポイントにPrivateLinkをサポート、セキュリティ要件の厳しいワークロードに適合。"
     },
     {
       "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
@@ -990,7 +1071,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS TransformがFSx for NetApp ONTAPを一般提供、ブロックストレージワークロードの移行先としてEBSと並んで利用可能に。"
     },
     {
       "title": "Figmaの基本操作を学ぶためにQiitaのUIを使って操作してみる",
@@ -1002,7 +1084,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Figma初心者がQiitaのUIを実際に編集しながらコンポーネントやレイアウトの作成・調整手順を体験し、基本操作を習得するチュートリアル。"
     },
     {
       "title": "BigQuery × AI で 300 万円溶かそう",
@@ -1014,7 +1097,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "BigQueryのAI.GENERATE関数を使うと予期せぬ高額課金が発生しやすく、コスト管理のための注意点と対策を実例で示す。"
     },
     {
       "title": "Safety overview: GPT-6 Astra",
@@ -1025,7 +1109,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "GPT-6 Astraは広範囲に展開された最も能力の高いモデルで、Preparedness FrameworkのCriticalレベルに初めて到達。"
     },
     {
       "title": "Anthropic がコマース用エージェントをオープンソース化した",
@@ -1037,7 +1122,23 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Anthropicがショッピングエージェントの参考実装anthropics/commerce-agentsをApache 2.0で公開、Claudeでの実装例を提供。"
     }
-  ]
+  ],
+  "day_summary": "今日はいくつかのプラットフォームでAI関連の発表が続き、セキュリティ脆弱性とプライバシー保護への注目も高まっている。AWS・GCP・Cloudflareではインフラストラクチャの拡張や制限緩和が行われ、開発者向けツールの効率化も話題となっている。これらの動向は、AI駆動の開発支援とクラウドネイティブなサービス強化という二本柱で結びつけられる。",
+  "service_summaries": {
+    "Hacker News (front page)": "今日はセキュリティ脆弱性とプライバシー保護 DNS サービスが注目され、一方では AI による形式証明やコード生成支援が話題となっている。また、ヨーロッパ根ざした静的サイトホスティングも関心を集めている。",
+    "AWS What's New": "今日のAWS What's Newは、EC2の新しいGraviton5ベースインスタンスの地域拡充やECS・SageMakerのデプロイ・ワークフロー機能強化、さらにAI/ML向けGPUインスタンスの提供が目立ちます。",
+    "Qiita Trending (official)": "AI関連ニュースとPythonによるマクロ経済学チュートリアルが目立ち、キャリアやクラウドインフラ、開発ツールの実践記事も多い。",
+    "Google Cloud Release Notes": "Google Cloud では、Cloud SQL の機能拡張や API Gateway のホスト名変更など、既存サービスの GA 発表と新機能追加が続く。",
+    "Google Cloud Blog": "Google Cloud は AI 関連の機能強化とデータ処理サービスの GA 発表が中心であった。",
+    "Zenn Trending": "今日のZenn Trendingは、AIを活用したチーム評価やコード説明、AWSのAgentCore Memoryセキュリティ、TanStack Virtualによる大規模描画最適化、Next.jsからReact Native+Expoへの移行、Kaggle AIセキュリティコンペなど、開発効率化と最新技術への関心が高まっている。",
+    "Cursor Blog (mirror)": "Cursorブログは、会計分野でのAIエージェント開発事例を紹介し、Cursorを活用した実務効率化の取り組みを強調している。",
+    "Cloudflare Changelog": "本日のCloudflare Changelogでは、無料・有料プランを問わずWorkerのサイズ上限が64MiBに引き上げられたことが発表されました。これにより、より大規模な依存関係やフレームワークを使用したアプリケーションのデプロイが容易になります。",
+    "Cloudflare Blog": "Cloudflare は AI を活用した脆弱性検出・修正サービスを強化している。",
+    "Google Cloud Status": "本日、Google Cloudではus-central1-bのネットワーク障害が発生し、複数サービスに影響が出ましたが、現在は復旧済みです。",
+    "GitHub Blog": "今日のGitHub Blogでは、GitHub Copilotアプリで複数エージェントを並行実行する方法を解説する入門向け記事が掲載されました。",
+    "OpenAI Blog": "OpenAIは本日、GPT-6 Astraを活用したサイバーセキュリティ、ゲーム開発、法務レビューなど多様なユースケースを発表し、さらに10億ドルのDaybreakイニシアティブで防衛支援を強調した。"
+  }
 }

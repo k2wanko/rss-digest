@@ -20,7 +20,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Stuxnetのソースコードを研究・教育目的で再構築しGitHubに公開。"
     },
     {
       "title": "The Education of a Doomer",
@@ -32,7 +33,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "AIへの期待から懸念へと転じた経緯を、経済・整合性・管理・停滞の観点から説明。"
     },
     {
       "title": "Working on Economics with Fable 5",
@@ -44,7 +46,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Fable 5を使って経済モデルを構築し、実装手法を解説する記事。"
     },
     {
       "title": "Macbeth and His Problems",
@@ -56,7 +59,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "マクベスの登場人物とテーマの問題点を検討するエッセイ。"
     },
     {
       "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
@@ -68,7 +72,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "BroadcomがVDDKの配布を停止し、VMwareからの移行が難しくなったと解説。"
     },
     {
       "title": "Replaceable but Employed: Automation and the Meaning of Work",
@@ -80,7 +85,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "自動化が仕事の意味を低下させ、賃金調整が不完全だと労働者が損をするという分析。"
     },
     {
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
@@ -92,7 +98,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ロサンゼルス郡の現存する全建物を建設年に色分けし、年次スライダーで変遷を示すインタラクティブマップ。"
     },
     {
       "title": "bzip3",
@@ -104,7 +111,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "bzip2の後継として圧縮率と速度を向上させたbzip3の紹介。"
     },
     {
       "title": "「完璧に動くのに誰も使わない」を生まないためのSkillsの作り方",
@@ -116,7 +124,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIエージェントのSkill品質は要求の質・翻訳精度・実行精度の3層構造で決まり、上流の要求品質が下流の品質上限を決定するというフレームワークを提案。"
     },
     {
       "title": "Astra時代のコードファースト3Dモデリング",
@@ -128,7 +137,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Astraリリース後、コードだけで3Dモデリング可能なRealitizerライブラリを紹介。Blender品質に近づける試みを報告。"
     },
     {
       "title": "Snowflake App RuntimeがGAになったので、Public Previewからの差分を追いかけてみた（＆簡単に触ってみた）",
@@ -140,7 +150,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Snowflake App RuntimeがGAに移行。設定統一・宣言的デプロイなど変更点を解説し、実際に触ってみた。"
     },
     {
       "title": "AtCoder を始めて 7 年で水色コーダーになりました！",
@@ -152,7 +163,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AtCoderを7年続けて水色コーダーに到達した経験談。深緑コーダー時代の取り組みと、そこから抜け出すための具体的な学習方法を紹介。"
     },
     {
       "title": "AI駆動開発のためのオントロジー",
@@ -164,7 +176,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIエージェントにおけるオントロジーの概念を哲学的起源から説明し、エージェント間の理解・共有のための設計図としての必要性と実装アプローチを解説。"
     },
     {
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
@@ -176,7 +189,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Caltechが研究レベルの数学に特化したハカソンを初めて開催し、参加者と課題を紹介。"
     },
     {
       "title": "Live map of public transport in Belgium",
@@ -188,7 +202,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "ベルギーの公共交通機関のリアルタイム位置を表示するライブマップ。"
     },
     {
       "title": "DatabricksのServerlessで複数CPUアーキテクチャに対応して起動時間を遅くしない [2026年9月7日時点]",
@@ -200,7 +215,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Databricks ServerlessがCPUアーキテクチャ不保証となり、x86_64とaarch64両方のwheelを同梱して起動時間を維持。"
     },
     {
       "title": "September 07, 2026",
@@ -212,7 +228,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AI HypercomputerのSlurmクラスター向けセキュリティ脆弱性(CVE-2026-65107)が修正され、対策ガイドが公開されました。"
     },
     {
       "title": "Keep Our Servers Running",
@@ -224,7 +241,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "インターネットアーカイブが9月に寄付を2倍マッチングし、インフラ維持支援を呼びかける記事。"
     },
     {
       "title": "【react-router-dom v7】ルーティングのネスト",
@@ -236,7 +254,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "react-router-dom v7におけるルーティングのネスト方法を解説。Routesコンポーネントの使用方法と、親子コンポーネント間のパス階層の実装テクニックを紹介。"
     },
     {
       "title": "ドメインモデル貧血症はなぜ生まれるのか — Decision パターンで DDD トリレンマを解く",
@@ -248,7 +267,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ドメインモデル貧血症はDDDトリレンマの結果。Decisionパターンで判断に必要なデータを型で返し、純粋性・完全性・性能を両立。"
     },
     {
       "title": "ジュニアの「AIが書いたコードが理解できない」問題の対応策",
@@ -260,7 +280,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ジュニアエンジニアがAI生成コードを理解する際の課題を分析し、コードレビューの重要性と段階的な理解アプローチを提案する実体験に基づくアドバイス。"
     },
     {
       "title": "【XP祭り2026】エンジニアにコミュ力を求めるな、と言われて頷いた",
@@ -272,7 +293,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "XP祭り2026でコミュニケーション不要論に賛同。AIテスト設計では判断を人間が保持すべきだと主張。"
     },
     {
       "title": "「効率よく成長したい」は悪くない。でも、近道ばかり探してしまうと損をする。",
@@ -284,7 +306,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "効率的な成長欲求自体は悪いものではないが、近道ばかりを求めると基礎が疎かになり長期的には損をするというキャリア形成におけるバランスの重要性を説く。"
     },
     {
       "title": "WebエンジニアのためのReact Native + NativeWind v5事始め — Webの常識が通用しない18のポイント",
@@ -296,7 +319,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "React Native + NativeWindでWebの知識が直接通用しない点を18個挙げ、クラス名指定の挙動違いなどを解説。"
     },
     {
       "title": "Git リモートで削除されたローカルブランチの自動クリーンアップ",
@@ -308,7 +332,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "GitHubでPRマージ後のリモートブランチ削除に伴うローカルブランチの自動クリーンアップ方法を解説。git fetch -pの限界と、実際にローカルブランチを削除するコマンドを紹介。"
     },
     {
       "title": "216M Spy TVs – The LG Smart TV Problem [video]",
@@ -320,7 +345,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "LGスマートTVがユーザーの音声データを収集し、プライバシー懸念が指摘される動画。"
     },
     {
       "title": "Astraのリリースに合わせてAGENTS.mdを修正するなら「request_user_input」も使って体験良くチューニングしよう",
@@ -332,7 +358,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Astraリリース後、AGENTS.md更新時にrequest_user_inputを使って対話的にチューニングし、理想の挙動に近づける方法を提案。"
     },
     {
       "title": "HTMLを社内共有するサービスを、コードを読まずに作る - 1人で25万行を回す自動運用の記録",
@@ -344,7 +371,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "コードを読まずにHTML共有サービスを自動運用し、仕様と実装のレビューループで品質を保つ個人開発記録。"
     },
     {
       "title": "テストを生成するな、信頼を生成しろ",
@@ -356,7 +384,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIにコード生成を任せるならテストではなく信頼性を重視。テスト生成よりも人間による確認が必要。"
     },
     {
       "title": "Supporting independent journalism in Ukraine",
@@ -367,7 +396,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "OpenAI、AIRPPU、WAN‑IFRAがウクライナのニュース機関向けAIプログラムを開始し、独立ジャーナリズムの革新とレジリエンスを支援。"
     },
     {
       "title": "GPT-5.6 Lunaを2ヶ月使い倒した結果、ガチでコスパ最強だった",
@@ -379,7 +409,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "GPT-5.6 Lunaを実務で2ヶ月使用した結果、最安モデルながらコーディング・コード調査・資料作成で十分な性能を発揮し、コスパ最強と評価した使用レポート。"
     },
     {
       "title": "Docker環境をガチで軽量化するための鉄板設定まとめ",
@@ -391,7 +422,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Docker環境の重さに悩むユーザー向けに、実際に行った軽量化手順を詳細に解説。Windows環境での具体的な設定変更と効果測定結果を公開。"
     },
     {
       "title": "RustでWebフロントとモバイルの複雑なドメインロジックを共通化する（UniFFI + WASM）",
@@ -403,7 +435,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "RustとUniFFI、WASMを用いてWebフロントとモバイル間でドメインロジックを共有し、重複実装を削減。"
     },
     {
       "title": "JavaScriptを1文字ずつ削る。手ごとの削減幅を実測した10個と、壊れる境界",
@@ -415,7 +448,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "JavaScriptコードを1文字ずつ削除し、機能が保たれる限界を実測。10種類の削減パターンごとの文字数削減量と、機能が壊れる境界点を明らかにした検証結果。"
     },
     {
       "title": "【OCIR】OCIのコンテナ・レジストリを使ってみた",
@@ -427,7 +461,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "OCI（Oracle Cloud Infrastructure）のコンテナレジストリOCIRを使用して、自作nginxイメージをプッシュ・プルする手順を解説。Kubernetes連携のためのレジストリ活用方法を初心者向けに説明。"
     },
     {
       "title": "【プロンプト公開】他のAIが3日後に知る情報を、Grokは「今」教えてくれる。Grok × Xで技術ニュース収集が完全無料で「週10分」に激変した話",
@@ -439,7 +474,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Grok AIとX（旧Twitter）を組み合わせることで、他のAIが3日後に知る情報をリアルタイムで取得可能に。週10分の効率的な技術ニュース収集フローを公開。"
     },
     {
       "title": "【AWS初心者向け】インフラ構成を図解で理解しよう！ALB・ECS・RDS・Lambda・NAT Gateway・VPCエンドポイントを一気に学ぶ",
@@ -451,7 +487,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AWS初心者向けにALB・ECS・RDS・Lambda・NAT Gateway・VPCエンドポイントなどの主要サービスを図解し、インフラ全体の構成イメージを理解するための入門ガイド。"
     },
     {
       "title": "AIエージェントに判断を任せるな",
@@ -463,7 +500,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AIエージェントに重要な判断を任せるリスクを指摘し、人間が最終的な意思決定権を保持するべき理由と、適切な役割分担の枠組みを提案する考察。"
     },
     {
       "title": "マジックリンクでログインできない原因はメールのURLスキャンだった",
@@ -475,7 +513,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "マジックリンク認証が失敗する原因として、メールセキュリティソフトによるURLスキャンがリンクを使い果たす現象を特定。対応策としてスキャン除外設定を推奨。"
     },
     {
       "title": "最近取り入れたClaude Codeの個人的tips 4選",
@@ -487,7 +526,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Claude Codeの実践的な活用Tipsを4つ紹介。セッション自動命名や効率的なコマンド活用など、開発生産性を向上させる具体的なテクニックを解説。"
     },
     {
       "title": "The Dataflow Model Revisited",
@@ -499,7 +539,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Dataflowモデルの再検討と、ストリーム処理への応用を論じる学術論文。"
     },
     {
       "title": "AIエージェント14製品を徹底比較｜暴走せず社内業務を任せられるのは？ Claude・Cursor・Devin・Manus…【中小企業の導入判断ガイド】",
@@ -511,7 +552,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Claude・Cursor・Devin・ManusなどAIエージェント14製品を業務視点で比較。暴走リスク・一般業務適用性・操作ミスの復帰可能性・コスト予測可能性を軸に導入判断ガイドを提供。"
     },
     {
       "title": "不具合はCIに刻もう。「Red-Green Stacked PR」のすすめ",
@@ -523,7 +565,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Red-Green Stacked PR手法で、修正前のコードでもテストが落ちることをCIで確認し、不具合修正の信頼性を向上。"
     },
     {
       "title": "【AWS IAM Identity Center】個人アカウントで一人アドミンに挑戦してみた！(IAM Identity Center編)",
@@ -535,7 +578,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "AWS IAM Identity Centerを使用した個人アカウントでの一人アドミン構築に挑戦。Organizationsの限界を超えるマルチアカウント運用の実践的な設定手順を解説。"
     },
     {
       "title": "【AWS】Bedrock Managed Knowledge Baseの自動同期スケジューリングを試してみました",
@@ -547,7 +591,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Amazon Bedrock Managed Knowledge Baseの新機能である自動同期スケジューリングを実際に試検証。S3ファイル更新時の手動同期からの自動化による運用負荷軽減効果を評価。"
     },
     {
       "title": "Icy Moons Are Ocean Worlds",
@@ -559,7 +604,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "氷の衛星が内部に海洋を持ち、生命の可能性があることを解説。"
     },
     {
       "title": "初学者がRustに触れて感じたこと",
@@ -571,7 +617,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Rust初心者が所有権やエラーハンドリングなどに感じた率直な感想を述べる。"
     },
     {
       "title": "B2Bプロダクト設計入門 - 小さなチームでも作れるエンタープライズ対応のSaaS設計",
@@ -583,7 +630,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "小規模チーム向けB2B SaaS設計の入門書。マルチテナント、権限、SSOなどエンタープライズ要件を解説。"
     },
     {
       "title": "ルービックキューブを一撃で解く専用LLMを作った",
@@ -595,7 +643,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ルービックキューブを一手で解く専用LLM「CUBE ZERO」を作成。現在状態と過去手順から次手を予測し、高精度で解く。"
     },
     {
       "title": "An Alien Mind",
@@ -606,7 +655,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "Jakub Pachocki氏はAIの高度化と整合性の課題について考察し、より強いセーフガードと国際協力を求める。"
     },
     {
       "title": "【歴史】Next.jsが覇権を握り、そして直面した試練の物語【動画解説あり】",
@@ -618,7 +668,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Next.jsがウェブ開発で覇権を獲得した歴史的経緯と、その後に直面したパフォーマンスや複雑性などの試練を動画解説付きで振り返る技術史解説。"
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
@@ -629,7 +680,8 @@
       "source_url": "https://openai.com/blog/rss.xml",
       "tags": [
         "ai"
-      ]
+      ],
+      "ai_summary": "OpenAI内部ではコーディングエージェントがAI研究を変革し、利用データや実験速度などから研究加速の早期データが示されている。"
     },
     {
       "title": "APIあるのに手入力？ 業務システムから分かるデータ連携の罠｜「項目名1つ1つの突合」から見えてきた現実",
@@ -641,7 +693,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "API連携対応を謳うSaaS製品でも、項目名の細かい不一致により手動入力作業が発生する現実を指摘。データ連携におけるマッピング設計の重要性を業務システムの事例から説明。"
     },
     {
       "title": "Catching Crumbs from the Table (2000)",
@@ -653,7 +706,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "Natureに掲載された2000年の論文で、生態系における資源の攫取行動を分析。"
     },
     {
       "title": "September 06, 2026",
@@ -665,7 +719,8 @@
       "tags": [
         "gcp",
         "cloud"
-      ]
+      ],
+      "ai_summary": "Google SecOpsでケースプレイブックがプレビュー提供開始、ケース全体にわたるプレイブック実行が可能になりました。"
     },
     {
       "title": "Decapitating a MacBook (2025)",
@@ -677,7 +732,8 @@
       "tags": [
         "tech",
         "news"
-      ]
+      ],
+      "ai_summary": "MacBookを分解し、改造や修理の過程を記録したシリーズ記事。"
     },
     {
       "title": "ZOE好きが日々の開発テンションをあげるためにADAアプリを作った",
@@ -689,7 +745,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "ZOE（ZONE OF THE ENDERS）シリーズファンが、作中の戦闘支援AI・ADAを模したアプリを開発し、日々の開発テンション維持とモチベーション向上に活用する趣味プロジェクトを紹介。"
     },
     {
       "title": "代数的エフェクト指向 Flix は、次世代 ORM の夢を見るか",
@@ -701,7 +758,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "Flix言語の代数的エフェクトを用いた実験的DBライブラリsqlfxを紹介。次世代ORMの可能性を探る."
     },
     {
       "title": "UIAPduino Pro Micro CH32V006 で Elixir を動かしてみた",
@@ -713,7 +771,8 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "UIAPduino Pro Micro CH32V006ボードでElixirを動作させる試みを報告。組み込みシステム向け関数型言語の可能性を探る実験的な挑戦とその結果を共有。"
     },
     {
       "title": "Claude Codeは直さない。CodexにIssueを1件ずつ直させる開発フローを試した",
@@ -725,7 +784,16 @@
       "tags": [
         "tech",
         "ja"
-      ]
+      ],
+      "ai_summary": "複数のAIコーディングエージェントを使用する際の効果的な開発フローを提案。Claude Codeをレビュー専門、Codexを修正担当に役割分担し、Issueベースの作業フローで生産性を向上させる実践例を紹介。"
     }
-  ]
+  ],
+  "day_summary": "本日のRSSダイジェストでは、AIの社会的影響やリスク、エージェント開発の実践的ノウハウが共通のテーマとして際立っている。特にオープンソースツールの進歩やクラウドセキュリティの強化、AIによるコード生成・テスト設計への注目が高まり、技術が仕事や社会構造に与える変化への関心が集約されている。",
+  "service_summaries": {
+    "Hacker News (front page)": "今日のHacker NewsはAIのリスクや自動化による仕事の意味の変化、オープンソースツールの進歩、データ可視化など、技術が社会に与える影響に関心が高まっている様子を示している。",
+    "Qiita Trending (official)": "Qiita TrendingではAIエージェント関連の開発手法やチュートリアルが多数を占め、特にSkillsの作り方やAI活用の実践的ノウハウに注目が集まっている。また、AWSやDockerなどのクラウド/インフラ技術およびプログラミング学習記事もバランスよく見られる。",
+    "Zenn Trending": "AIを活用したコード生成やテスト設計が注目され、マルチプラットフォーム対応やDDDパターンなど設計・品質への関心も高まった。",
+    "Google Cloud Release Notes": "今週のGoogle Cloudリリースノートでは、AI Hypercomputerのセキュリティ対応とPrivileged Access ManagerのGA、およびGoogle SecOpsのプレイブック機能プレビューが目立ちました。",
+    "OpenAI Blog": "今日はウクライナのジャーナリズム支援、AIの整合性と安全性への考察、および社内でのコーディングエージェントによる研究加速がテーマとなっている。"
+  }
 }
