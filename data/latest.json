@@ -344,7 +344,7 @@
         "tech",
         "news"
       ],
-      "ai_summary": "プログラミング言語Runeがオープンソースとして公開されました。関数型と命令型の特徴を組み合わせ、安全かつ高レベルな抽象化を提供しながらも低レベル制御が可能です。WebAssemblyへのコンパイルや、並行処理、エフェクトシステムなどの機能があり、汎用的な言語設計を目指しています。"
+      "ai_summary": "Rune は Go 言語で実装された IDE がオープンソース化され、GPLv3 ライセンスで公開された。貢献者向けに Unstable Build の収益を分配する novel なプログラムが導入された。ネットワーク機能には tsnet と Headscale（Tailscale）を組み込んでいる。バージョン v1.2.1 が言及され、端末のベンチマークでは ASCII 文字のみで 1.13 秒、Unicode 文字で 1.44 秒などの結果が報告されている。"
     },
     {
       "title": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
