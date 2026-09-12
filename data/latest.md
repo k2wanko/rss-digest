@@ -1,7 +1,7 @@
 # RSS digest — 2026-09-12
 
-- Generated (UTC): 2026-09-12T03:07:30.506940+00:00
-- Items: 86
+- Generated (UTC): 2026-09-12T03:48:17.389961+00:00
+- Items: 84
 - Feeds OK: 16 / 16
 
 
@@ -17,7 +17,9 @@
 
 ## Hacker News (front page)
 
-- [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars) — `2026-09-12T01:37:06+00:00`
+- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links) — `2026-09-12T03:14:20+00:00`
+- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) — `2026-09-12T02:42:08+00:00`
+- [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google) — `2026-09-12T02:39:39+00:00`
 - [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies) — `2026-09-12T00:40:32+00:00`
 - [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp) — `2026-09-12T00:16:10+00:00`
 - [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) — `2026-09-11T23:17:42+00:00`
@@ -26,7 +28,6 @@
 - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) — `2026-09-11T21:48:00+00:00`
 - [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) — `2026-09-11T21:35:29+00:00`
 - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) — `2026-09-11T18:50:36+00:00`
-- [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/) — `2026-09-11T18:30:07+00:00`
 - [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) — `2026-09-11T18:24:55+00:00`
 - [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) — `2026-09-11T18:10:20+00:00`
 - [The EPA is planning to scrap public review rules for data center pollution](https://capitalbnews.org/data-centers-permit-rules-epa/) — `2026-09-11T18:05:21+00:00`
@@ -34,7 +35,6 @@
 - [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) — `2026-09-11T17:36:11+00:00`
 - [Mind-altering drugs played key role in rise of Andean civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization) — `2026-09-11T17:25:23+00:00`
 - [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/) — `2026-09-11T17:00:17+00:00`
-- [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) — `2026-09-11T16:03:05+00:00`
 - [Rune is now open source](https://rune.build/blog/rune-is-now-open-source) — `2026-09-11T15:31:47+00:00`
 - [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/) — `2026-09-11T11:15:13+00:00`
 
@@ -89,7 +89,6 @@
 - [Geminiを開くたびに「3.8 Flash 思考モード」を選び直すのが面倒すぎたので、自動で切り替わるスクリプトを作った](https://qiita.com/xeje/items/029d10934e6246a23e17?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T11:50:50+00:00`
 - [Copilot Studio の回答精度を疑う前に考えたい５つのこと](https://qiita.com/eigogakuto/items/f4fb1b987d1218b2e63b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T08:59:14+00:00`
 - [【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る](https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T04:47:07+00:00`
-- [【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由](https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T03:33:53+00:00`
 
 ## Cloudflare Blog
 
@@ -107,7 +106,6 @@
 - [OpenTelemetry eBPF Instrumentationの舞台裏](https://zenn.dev/ymotongpoo/books/go-ebpf-primer) — `2026-09-11T02:01:34+00:00`
 - [【VRChat/Udon】世界最速のC#コンパイラを開発した話](https://zenn.dev/bea4dev/articles/b7684e8d4c838e) — `2026-09-10T10:19:23+00:00`
 - [良いAIの行動、メモ](https://zenn.dev/imaimai17468/articles/4fe1531b71929b) — `2026-09-10T04:38:52+00:00`
-- [GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測](https://zenn.dev/peoplex_blog/articles/65768c769de4b0) — `2026-09-10T03:14:11+00:00`
 
 ## Cloudflare Changelog
 
