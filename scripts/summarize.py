@@ -13,6 +13,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 
 try:
@@ -65,6 +66,11 @@ DAY_PROMPT_TEMPLATE = """以下は本日のRSSダイジェストを構成する�
 
 def slugify(text: str) -> str:
     return SLUG_RE.sub("-", text.lower()).strip("-") or "service"
+
+
+def normalize_link(link: str) -> str:
+    parts = urlsplit(link)
+    return f"{parts.scheme}://{parts.netloc}{parts.path}"
 
 
 def strip_html(text: str) -> str:
@@ -199,6 +205,7 @@ def summarize_file(path: Path, *, force: bool, attempts: int, base_delay: float)
     print(f"{path.name}: summarizing {len(items)} items across {len(by_source)} services...")
 
     articles_by_link: dict[str, str] = {}
+    articles_by_normalized_link: dict[str, str] = {}
     service_summaries: dict[str, str] = {}
     had_failure = False
 
@@ -218,8 +225,11 @@ def summarize_file(path: Path, *, force: bool, attempts: int, base_delay: float)
             output_path.unlink(missing_ok=True)
 
         for article in result.get("articles", []):
-            if article.get("link"):
-                articles_by_link[article["link"]] = article.get("summary", "")
+            link = article.get("link")
+            if link:
+                summary = article.get("summary", "")
+                articles_by_link[link] = summary
+                articles_by_normalized_link.setdefault(normalize_link(link), summary)
         if result.get("service_summary"):
             service_summaries[source] = result["service_summary"]
 
@@ -239,7 +249,9 @@ def summarize_file(path: Path, *, force: bool, attempts: int, base_delay: float)
             day_output.unlink(missing_ok=True)
 
     for item in items:
-        summary = articles_by_link.get(item["link"])
+        summary = articles_by_link.get(item["link"]) or articles_by_normalized_link.get(
+            normalize_link(item["link"])
+        )
         if summary:
             item["ai_summary"] = summary
     payload["day_summary"] = day_summary
