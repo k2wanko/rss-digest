@@ -1,15 +1,30 @@
 # RSS digest — 2026-09-12
 
-- Generated (UTC): 2026-09-11T22:57:04.097223+00:00
-- Items: 102
+- Generated (UTC): 2026-09-12T03:07:30.506940+00:00
+- Items: 86
 - Feeds OK: 16 / 16
 
 
+## OpenAI Blog
+
+- [Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra) — `2026-09-14T00:00:00+00:00`
+- [Cognition helps Devin test its own work with GPT‑6 Astra](https://openai.com/index/cognition-devin-testing-with-astra) — `2026-09-11T16:00:00+00:00`
+- [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) — `2026-09-11T10:00:00+00:00`
+- [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials) — `2026-09-10T16:00:00+00:00`
+- [Now everyone can put data to work](https://openai.com/index/put-data-to-work) — `2026-09-10T15:00:00+00:00`
+- [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services) — `2026-09-10T07:00:00+00:00`
+- [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government) — `2026-09-10T07:00:00+00:00`
+
 ## Hacker News (front page)
 
+- [How Poor People Buy Cars](https://abio.substack.com/p/how-poor-people-buy-cars) — `2026-09-12T01:37:06+00:00`
+- [Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies](https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies) — `2026-09-12T00:40:32+00:00`
+- [Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents](https://github.com/zachsaw/graphify-csharp) — `2026-09-12T00:16:10+00:00`
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) — `2026-09-11T23:17:42+00:00`
+- [QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]](https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf) — `2026-09-11T22:16:15+00:00`
 - [Project Blinkenlights](https://blinkenlights.de/en/) — `2026-09-11T22:15:00+00:00`
 - [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) — `2026-09-11T21:48:00+00:00`
-- [Txt: A fast, keyboard-driven terminal text editor for engineers](https://txt.hellman.io/) — `2026-09-11T19:46:43+00:00`
+- [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) — `2026-09-11T21:35:29+00:00`
 - [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) — `2026-09-11T18:50:36+00:00`
 - [CIA Releases President's Daily Briefs in Commemoration of 9/11](https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/) — `2026-09-11T18:30:07+00:00`
 - [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) — `2026-09-11T18:24:55+00:00`
@@ -20,18 +35,14 @@
 - [Mind-altering drugs played key role in rise of Andean civilization](https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization) — `2026-09-11T17:25:23+00:00`
 - [Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering](https://www.getzep.com/careers/) — `2026-09-11T17:00:17+00:00`
 - [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty) — `2026-09-11T16:03:05+00:00`
-- [Global Glacier Extinction Explorer](https://glacierextinction.com) — `2026-09-11T15:58:06+00:00`
-- [118M Queries per Second on Neki](https://planetscale.com/blog/118-million-queries-per-second-on-neki) — `2026-09-11T15:56:37+00:00`
 - [Rune is now open source](https://rune.build/blog/rune-is-now-open-source) — `2026-09-11T15:31:47+00:00`
-- [Measuring the sloppiness of code](https://earendil.com/posts/measuring-code-sloppiness/) — `2026-09-11T13:42:28+00:00`
 - [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/) — `2026-09-11T11:15:13+00:00`
-- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) — `2026-09-11T10:48:00+00:00`
-- [Show HN: Bodily Oddities](https://vester.si/bodily-oddities/) — `2026-09-10T20:33:11+00:00`
 
 ## AWS What's New
 
 - [Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/) — `2026-09-11T18:35:00+00:00`
 - [Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/) — `2026-09-11T18:25:00+00:00`
+- [AWS Lambda now supports direct read configuration for Amazon S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/) — `2026-09-11T17:00:00+00:00`
 - [Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/) — `2026-09-11T15:13:00+00:00`
 - [AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/) — `2026-09-11T15:00:00+00:00`
 - [AWS DevOps Agent adds support for bidirectional Slack communication](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication) — `2026-09-11T15:00:00+00:00`
@@ -58,7 +69,6 @@
 
 - [Marketing ops as code: Automating events from planning to follow-up on GitHub](https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/) — `2026-09-11T18:26:10+00:00`
 - [GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/) — `2026-09-10T21:31:19+00:00`
-- [GitHub availability report: August 2026](https://github.blog/news-insights/company-news/github-availability-report-august-2026/) — `2026-09-10T02:05:17+00:00`
 
 ## Qiita Trending (official)
 
@@ -80,28 +90,11 @@
 - [Copilot Studio の回答精度を疑う前に考えたい５つのこと](https://qiita.com/eigogakuto/items/f4fb1b987d1218b2e63b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T08:59:14+00:00`
 - [【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る](https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T04:47:07+00:00`
 - [【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由](https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T03:33:53+00:00`
-- [M5StickS3のPlatformIO開発環境を構築してプログラムの書き込みからボタンによる画面切り替えまで試す](https://qiita.com/chaochire/items/aa972ad8152f7df900f4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T03:00:15+00:00`
-- [【2026年版】サクラエディタの最初にやってほしい設定2+1選：Win + Rから起動と自動即時保存](https://qiita.com/Minotaurasu/items/6d477770254406c25188?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T02:56:03+00:00`
-- [ChatGPTで機密資料を扱う前に --- 学習オフ・一時チャット・プロジェクト限定メモリの使い分け](https://qiita.com/ootakazuhiko/items/d3e6a741aaac9868dd81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T02:12:44+00:00`
-- [勉強会文化ゼロの支社で、2026 Japan AWS Jr. Championsの私が立ち上げたクラウド勉強会——部署の壁を越えた交流とアウトプットの文化を作る](https://qiita.com/MikuMatsuo/items/dd8295164f2d84c9bf61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T01:37:51+00:00`
-- [Oracle Base Database Service(BaseDB)のEasy Createを試す](https://qiita.com/mo__mo/items/15ede0531a010001163a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-10T00:43:42+00:00`
-- [【雑記】1年目の自分に伝えたい仕事の進め方](https://qiita.com/mk3kohei/items/290489403cb475ced1f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-09T23:42:01+00:00`
-- [日本初日本発AWS GameDayで優勝して思ったこと](https://qiita.com/takano0131/items/86c54a078fefa954ce76?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-09-09T23:05:30+00:00`
 
 ## Cloudflare Blog
 
 - [Introducing automatic remediation policies with Cloudflare CASB](https://blog.cloudflare.com/casb-policies/) — `2026-09-11T13:00:00+00:00`
 - [1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it](https://blog.cloudflare.com/post-quantum-dnssec-1111/) — `2026-09-10T13:00:00+00:00`
-
-## OpenAI Blog
-
-- [Rapidly scaling online storage to serve over 1 billion ChatGPT users](https://openai.com/index/scaling-storage-one-billion-users-part-one) — `2026-09-11T10:00:00+00:00`
-- [How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials) — `2026-09-10T16:00:00+00:00`
-- [Now everyone can put data to work](https://openai.com/index/put-data-to-work) — `2026-09-10T15:00:00+00:00`
-- [Introducing ChatGPT for Financial Services](https://openai.com/index/introducing-chatgpt-financial-services) — `2026-09-10T07:00:00+00:00`
-- [Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government) — `2026-09-10T07:00:00+00:00`
-- [Build more natural voice experiences with GPT‑Live‑1 in the API](https://openai.com/index/introducing-gpt-live-1-in-the-api) — `2026-09-10T00:00:00+00:00`
-- [Introducing the Agents API](https://openai.com/index/introducing-the-agents-api) — `2026-09-10T00:00:00+00:00`
 
 ## Google Cloud Release Notes
 
@@ -115,18 +108,12 @@
 - [【VRChat/Udon】世界最速のC#コンパイラを開発した話](https://zenn.dev/bea4dev/articles/b7684e8d4c838e) — `2026-09-10T10:19:23+00:00`
 - [良いAIの行動、メモ](https://zenn.dev/imaimai17468/articles/4fe1531b71929b) — `2026-09-10T04:38:52+00:00`
 - [GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測](https://zenn.dev/peoplex_blog/articles/65768c769de4b0) — `2026-09-10T03:14:11+00:00`
-- [メモリに載らないGROUP BYをDuckDBはどう処理するのか](https://zenn.dev/loglass/articles/7c140c6689d8c2) — `2026-09-10T01:42:07+00:00`
-- [ドメインモデル実装におけるトリレンマに対するSoutherの回答](https://zenn.dev/kawasima/articles/souther-ddd-trilemma) — `2026-09-10T01:11:08+00:00`
-- [Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債](https://zenn.dev/mediba/articles/7d0d7d70678546) — `2026-09-09T23:49:11+00:00`
-- [なぜエージェントハーネスで開発パイプラインを作っているのか](https://zenn.dev/xtm_blog/articles/689d035440c0ae) — `2026-09-09T23:00:05+00:00`
 
 ## Cloudflare Changelog
 
 - [Agents - Inspect Voice Agent turn latency and outcomes](https://developers.cloudflare.com/changelog/post/2026-09-11-voice-diagnostics-turn-metrics/) — `2026-09-11T00:00:00+00:00`
 - [AI Search - AI Search supports extensionless R2 objects with Content-Type metadata](https://developers.cloudflare.com/changelog/post/2026-09-11-extensionless-r2-content-type/) — `2026-09-11T00:00:00+00:00`
 - [Workflows - Default instance retention for new Workflows on Workers Paid is seven days](https://developers.cloudflare.com/changelog/post/2026-09-10-paid-retention-default/) — `2026-09-10T12:00:00+00:00`
-- [Containers - Use Cloudflare Containers with Codex via the OpenAI Agents API](https://developers.cloudflare.com/changelog/post/2026-09-10-using-openai-agents-api-with-cloudflare-containers/) — `2026-09-10T00:00:00+00:00`
-- [WAF - WAF Release - 2026-09-10 - Emergency](https://developers.cloudflare.com/changelog/post/2026-09-10-emergency-waf-release/) — `2026-09-10T00:00:00+00:00`
 
 ## Google Cloud Status
 
@@ -139,15 +126,3 @@
 ## Google Cloud Blog
 
 - [What’s new with Google Cloud](https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/) — `2026-09-10T16:00:00+00:00`
-
-## Google Cloud Blog (日本語)
-
-- [近畿大学と Google Cloud が包括連携協定を締結 - 約 2 万人超へ「Google AI Pro for Education」を導入し、「AI ネイティブ大学」の実現を支援](https://cloud.google.com/blog/ja/products/gcp/kinki-uni-and-google-cloud-sign-a-comprehensive-partnership-agreement/) — `2026-09-10T01:00:00+00:00`
-
-## Anthropic News (mirror)
-
-- [Detecting and countering misuse of AI: September 2026](https://www.anthropic.com/threat-intelligence-report-september-2026) — `2026-09-10T00:00:00+00:00`
-
-## Cursor Blog (mirror)
-
-- [Cursor Projects](https://cursor.com/changelog/projects) — `2026-09-10T00:00:00+00:00`
