@@ -1,15 +1,93 @@
 {
   "report": {
     "run_date": "2026-09-12",
-    "generated_at": "2026-09-11T19:40:05.229221+00:00",
+    "generated_at": "2026-09-11T22:57:04.097223+00:00",
     "timezone": "Asia/Tokyo",
     "lookback_hours": 48,
     "feeds_total": 16,
     "feeds_ok": 16,
-    "item_count": 98,
+    "item_count": 102,
     "errors": []
   },
   "items": [
+    {
+      "title": "Project Blinkenlights",
+      "link": "https://blinkenlights.de/en/",
+      "published_at": "2026-09-11T22:15:00+00:00",
+      "summary": "<p>Article URL: <a href=\"https://blinkenlights.de/en/\">https://blinkenlights.de/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666146\">https://news.ycombinator.com/item?id=49666146</a></p>\n<p>Points: 13</p>\n<p># Comments: 6</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Project Blinkenlightsは建物を巨大なインタラクティブディスプレイに変えるプロジェクトで、2001年にChaos Computer Clubによって開始された。ベルリン、パリ、トロントなどでの過去のインスタレーションと、2023年からのカラー版Polychromeがある。Movie Converterなどのツールも提供されている。"
+    },
+    {
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "link": "https://github.com/mirza-rizvi/ResolveHQ",
+      "published_at": "2026-09-11T21:48:00+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/mirza-rizvi/ResolveHQ\">https://github.com/mirza-rizvi/ResolveHQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665864\">https://news.ycombinator.com/item?id=49665864</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "ResolveHQはCloudflare Workers、D1、R2、Queuesをベースにしたヘルプデスクで、共有インボックス、チケット管理、メールルーティング、R2による添付ファイル処理、AIによる下書き機能などを提供する。GitHubでのスターは11、フォークは2。"
+    },
+    {
+      "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
+      "link": "https://txt.hellman.io/",
+      "published_at": "2026-09-11T19:46:43+00:00",
+      "summary": "<p>Article URL: <a href=\"https://txt.hellman.io/\">https://txt.hellman.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49664322\">https://news.ycombinator.com/item?id=49664322</a></p>\n<p>Points: 18</p>\n<p># Comments: 15</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "txtは高速でキーボード駆動のターミナルテキストエディタで、tree-sitterによる構文ハイライト、コードフォールディング、シンボル検索、Git統合、LSPサポートなどを備える。モーダルなしで即座に編集でき、MITまたはApache 2.0ライセンスで提供される。"
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "published_at": "2026-09-11T18:50:36+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 152</p>\n<p># Comments: 87</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "GrapheneOSのメッセージアプリはバージョン13でJetpack ComposeとMaterial 3に書き直され、minSdk 36、targetSdk 37となった。二ペインレイアウト、新しいアプリアイコン、オンボーディングフロー、プライバシー強化（YouTubeリンクプレビューのオプトインなど）、通知やクラッシュの修正が含まれる。"
+    },
+    {
+      "title": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/",
+      "published_at": "2026-09-11T18:35:00+00:00",
+      "summary": "<p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and built with AWS Nitro System, are designed for memory-intensive workloads and deliver improvements in performance compared to previous generation X1 instances. These instances are SAP-certified for running Business Suite on HANA, SAP S/4HANA, Data Mart Solutions on HANA, Business Warehouse ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ],
+      "ai_summary": "メモリ最適化されたAmazon EC2 X2idnインスタンスがアジアパシフィック(香港)リージョンで利用可能になった。第3世代Intel Xeon ScalableプロセッサーとAWS Nitro Systemを基盤とし、前世代のX1インスタンスより性能が向上している。SAP Business Suite on HANA、SAP S/4HANAなどのワークロードにSAP認定を取得している。"
+    },
+    {
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+      "published_at": "2026-09-11T18:30:07+00:00",
+      "summary": "<p><a href=\"https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/\" rel=\"nofollow\">https://www.cia.gov/stories/story/cia-releases-presidents-da...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663054\">https://news.ycombinator.com/item?id=49663054</a></p>\n<p>Points: 78</p>\n<p># Comments: 48</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "CIAは9/11テロの25周年を記念し、大統領毎日のブリーフィング(PDB)製品71件を機密解除し、合計で100ページ以上の分析を公開した。これは9/11関連のCIA分析としては最大規模のリリースである。"
+    },
     {
       "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
@@ -21,7 +99,7 @@
         "github",
         "devtools"
       ],
-      "ai_summary": "GitHubのAPACマーケティングチームが、Issueフォーム、ラベル、GitHub Actions、Copilotスキルを使ってイベント運営を自動化した。ワークフローはラベル付与でトリガーされ、イベントプラットフォームAPIやCRM CLIを呼び出し、ランディングページ複製、UTMリンク生成、招待メール作成、プロジェクトボード追加などを行う。ドライランスイッチ（DRY_RUN変数）で安全にテストでき、イベント後のリードアップロードとレポート生成はスラッシュコマンド（/lead-upload, /event-report）で実行。スキルはSKILL.mdファイルとして管理され、プルリクエストレビューを経て更新され、地域ごとのワークフロー違いにも柔軟に対応。"
+      "ai_summary": "マーケティングオペレーションをコードとして自動化する方法について説明。GitHub Issueをタスク単位とし、issue formで入力項目を定義し、ラベルをトリガーにGitHub Actionsワークフローでランディングページ複製、UTMリンク生成、招待メール作成などを自動化。Copilotのスキル機能を使ってランナップをMarkdownで記述し、DRY_RUN変数でリハーサル可能。/lead-uploadや/event-reportなどのスラッシュコマンドで事後処理も自動化し、手作業を削減しつつ柔軟性を保つ。"
     },
     {
       "title": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
@@ -34,46 +112,46 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon SageMaker HyperPod がモデルキャッシュをサポートし、モデルウェイトとコンテナイメージをクラスタノードにプリロードすることで、pod の起動時間を分単位から秒単位に短縮。ベンチマークでは 57〜145 GB のモデルでスケールアウトが約 60% 高速化、イメージキャッシュによりイメージプル時間が 2 分以上削減（97% 減少）。HyperPod Inference Operator の modelCacheConfig で有効化でき、HyperPod が利用可能なすべてのリージョンで一般提供開始。"
+      "ai_summary": "Amazon SageMaker HyperPodにモデルキャッシング機能が追加され、モデルウェイトとコンテナイメージをクラスターノードにプリロードすることでPodの起動が秒単位に短縮された。57GBから145GBのLLMモデルでのベンチマークではスケールアウトが約60%高速化し、イメージキャッシュによりイメージプル時間が2分以上削減（97%削減）される。これにより大規模LLM推論のコールドスタート問題が緩和され、HyperPod Inference Operatorを通じて有効化できる。"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "published_at": "2026-09-11T18:24:55+00:00",
+      "summary": "<p>Article URL: <a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">https://dayzlegame.com/blog/google-ads-bot-farm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662990\">https://news.ycombinator.com/item?id=49662990</a></p>\n<p>Points: 176</p>\n<p># Comments: 84</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "著者はGoogleアプリ広告に$220を費やしたが、インストールの60%がボットであった。2週間で56件の課金インストールのうち、33件がボットパターン、7件が非ターゲット国、13件が実際のユーザーによるものだった。"
     },
     {
       "title": "Litelm: LiteLLM Without the Bloat",
       "link": "https://github.com/kennethwolters/litelm",
       "published_at": "2026-09-11T18:10:20+00:00",
-      "summary": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 32</p>\n<p># Comments: 10</p>",
+      "summary": "<p>Article URL: <a href=\"https://github.com/kennethwolters/litelm\">https://github.com/kennethwolters/litelm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662767\">https://news.ycombinator.com/item?id=49662767</a></p>\n<p>Points: 79</p>\n<p># Comments: 27</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "litellmのルーティングと翻訳機能を約2,900行と2つの依存関係（openai, httpx）に絞り込んだライブラリである。19のプロバイダーをサポートし、プロキシサーバーやキャッシュなどの余分な機能を削除している。ベンチマーク等の具体的な数値は提示されていないが、軽量化が強調されている。"
+      "ai_summary": "litelmはLiteLLMの軽量版で、約2,900行と2つの依存(openai, httpx)のみでルーティングとメッセージ変換を提供する。ストリーミング、ツール使用、エンベディングなどの機能を含み、GitHubスターは73。"
     },
     {
-      "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
       "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
       "published_at": "2026-09-11T18:05:21+00:00",
-      "summary": "<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 120</p>\n<p># Comments: 66</p>",
+      "summary": "<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 274</p>\n<p># Comments: 184</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "米環境保護庁(EPA)は、データセンターの大気汚染許可前に州が公衆に知らせ、公の意見募集を行う連邦要件を撤廃する計画を発表した。これにより住民はデータセンター建設前に懸念を表明する機会を失う可能性がある。記事では米国人の7割がデータセンター建設に反対していること、Nearly 200のadvocacy groupsと10以上の州が反対していることが述べられている。"
-    },
-    {
-      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
-      "link": "https://github.com/paradise-runner/toast",
-      "published_at": "2026-09-11T17:54:53+00:00",
-      "summary": "<p>Article URL: <a href=\"https://github.com/paradise-runner/toast\">https://github.com/paradise-runner/toast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662496\">https://news.ycombinator.com/item?id=49662496</a></p>\n<p>Points: 64</p>\n<p># Comments: 53</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "Toastはターミナル内で動作する美しいIDEで、組み込みLSP、マルチタブ編集、ファイルツリー、テーマシステムなどを備えている。自動保存遅延はデフォルトで300ms、スター数は167。Go 1.25.2+が必要であり、AI機能やテレメトリは含まれていない。"
+      "ai_summary": "EPAはデータセンターなどの産業施設の大気汚染許可における一般公開意見募集の要件を撤廃する方針を示した。さらに、許可承認前に建設を開始できる変更も提案されている。全米の7割が住宅地近くのデータセンター建設に反対しており、200以上の市民団体と12以上の州が反対している。"
     },
     {
       "title": "A misalignment of AI in mathematics",
@@ -86,46 +164,33 @@
         "tech",
         "news"
       ],
-      "ai_summary": "テリー・タオ氏らフィールズ賞受賞者25名は、AI企業が数学問題をベンチマークとして解くことと数学コミュニティの目的が深刻に乖離していると警告する宣言を発表した。宣言は2026年9月11日に公開され、AIによる解答の急ぎすぎが適切な書き上げや過去の仕事への言及を妨げると指摘している。"
-    },
-    {
-      "title": "Room 641A",
-      "link": "https://en.wikipedia.org/wiki/Room_641A",
-      "published_at": "2026-09-11T17:45:03+00:00",
-      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Room_641A\">https://en.wikipedia.org/wiki/Room_641A</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662367\">https://news.ycombinator.com/item?id=49662367</a></p>\n<p>Points: 52</p>\n<p># Comments: 8</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "Room 641Aはサンフランシスコの611 Folsom StreetにあるAT&Tの施設で、米国国家安全保障局(NSA)のための通信傍受施設である。面積は約24×48フィート(7.3×14.6m)、Narus STA 6400装置を含み、2003年に運用開始、2006年に技術者マーク・クラインによって公に暴露された。"
+      "ai_summary": "数学者らによる宣言で、AI企業が問題解決をベンチマークとする姿勢が数学コミュニティの理解と洞察の追求という目的とずれていると指摘した。このずれは他の科学・創造分野にも波及し、人間の訓練とAIの出力の目的を再考する必要があると警告している。多数のフィールズメダリストが賛同している。"
     },
     {
       "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
       "link": "https://snap.berkeley.edu/",
       "published_at": "2026-09-11T17:36:11+00:00",
-      "summary": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 48</p>\n<p># Comments: 23</p>",
+      "summary": "<p>Article URL: <a href=\"https://snap.berkeley.edu/\">https://snap.berkeley.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662214\">https://news.ycombinator.com/item?id=49662214</a></p>\n<p>Points: 92</p>\n<p># Comments: 50</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "Snap!は子どもから大人まで幅広く利用できるブロックベースのプログラミング言語で、コンピュータ科学の学習プラットフォームとしても機能する。ウェブサイトでは例題プロジェクトや学習リソースが提供されており、具体的なバージョン番号や利用者数は記載されていない。"
+      "ai_summary": "Snap!は子どもから大人まで幅広く利用できるブロックベースのプログラミング言語であり、コンピュータサイエンスの学習プラットフォームでもある。自作ブロックの作成、低い敷居、広い可能性、上限なしの特徴を持ち、ブラウザで動作する。"
     },
     {
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
       "published_at": "2026-09-11T17:25:23+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 80</p>\n<p># Comments: 59</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "科学誌Scienceの記事によると、精神活性作用のある薬物がアンデス文明の台頭に重要な役割を果たしたとされている。ただし、取得したページは403エラーで内容を確認できなかったため、タイトルと要約のみに基づく説明となる。"
+      "ai_summary": "幻覚作用のある薬物がアンデス文明の台頭に重要な役割を果たしたというScience誌の記事。詳細な数値や手法は本文から取得できなかったため、タイトルのみからの要約となる。"
     },
     {
       "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
@@ -138,20 +203,20 @@
         "tech",
         "news"
       ],
-      "ai_summary": "Zep AIはYC W24 batchのスタートアップで、エンタープライズ向けのAIエージェントのためのコンテキストレイクを提供している。求人では「Head of Forward Deployed Engineering」ポジションが掲載されており、給与レンジは$220K〜$270K、株式は1.20%〜1.75%。また、同社はオープンソースのコンテキストグラフフレームワークGraphitiを持ち、GitHubスター数は30K以上である。"
+      "ai_summary": "Zep AIはHead of Forward Deployed Engineering、Member of Technical Staff (Research)、Marketing Managerのポジションを募集中。給与はマーケティングが$120K−$180K（株式0.15‑0.35%）、技術スタッフが$180K−$250K（1.0‑1.5%）、FDEヘッドが$220K−$270K（1.2‑1.75%）。同社のオープンソースコンテキストグラフフレームワークGraphitiはGitHubで30K以上のスターを獲得している。"
     },
     {
-      "title": "Show HN: Hacker News, Without AI",
-      "link": "https://www.unslop.news/",
-      "published_at": "2026-09-11T16:08:50+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.unslop.news/\">https://www.unslop.news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660783\">https://news.ycombinator.com/item?id=49660783</a></p>\n<p>Points: 112</p>\n<p># Comments: 48</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "外国人労働者をどう受け入れる？ ― 国際仲介インフラを設計する : システム設計視点の行動経済学 (28)",
+      "link": "https://qiita.com/maskot1977/items/d78f862465db444ae47f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-11T16:08:57+00:00",
+      "summary": "user:\n「システム設計視点の行動経済学」、第28回を始めましょう。今回は国際仲介インフラについて深掘りしたいと思います。その前に、まず前回の復習として、\n「人手不足対策」の先にあるもの ― 日本の未来を誰が決めるのか？ : システム設計視点の行動経済学 (27)\nht...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "このサイトはHacker NewsのフロントページからAI関連の投稿をフィルタリングして表示する。フィルタ後の投稿数は179件中79件が残存し、作成者はAyden Dielである。具体的なアルゴリズムは述べられていないが、AI話題を除いたハッカーnewsを提供することを目的としている。"
+      "ai_summary": "この記事では、外国人労働者の受け入れにおける国際仲介インフラの問題点を詳しく分析している。具体的には、送り出し国での平均54〜75万円の渡航前借金（年利10％超）や、2023年に報告された年間9,753人の失踪者数、受入企業の利益代表である監理支援機関の法令違反率71.9％などが挙げられている。さらに、二重ブローカー構造による中間搾取や情報非対称性が、優良企業の淘汰と社会的コストの外部化を引き起こしていると指摘している。"
     },
     {
       "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
@@ -164,46 +229,46 @@
         "tech",
         "news"
       ],
-      "ai_summary": "gPTYはGodotとRustを組み合わせたマルチPTYエミュレーターデスクトップアプリケーションである。バージョンv0.5.3がリリースされ、Stars数は32、Forksは1。Rustエディション2024を使用し、依存にはportable-pty、vte、tokioなどが含まれる。JSON-RPC/MCP制御サーフェスによりAIエージェントからの操作も可能である。"
+      "ai_summary": "gPTYはGodotとRustで構築されたマルチPTYエミュレータで、タイリング可能なペイン（ターミナル、コードエディタ、ファイルツリー等）と概念キャプチャーエンジン、JSON-RPC/MCP制御インターフェースを提供する。バージョンv0.5.3、スター35、フォーク1のプロジェクトである。"
     },
     {
       "title": "Global Glacier Extinction Explorer",
       "link": "https://glacierextinction.com",
       "published_at": "2026-09-11T15:58:06+00:00",
-      "summary": "<p>Article URL: <a href=\"https://glacierextinction.com\">https://glacierextinction.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660576\">https://news.ycombinator.com/item?id=49660576</a></p>\n<p>Points: 126</p>\n<p># Comments: 45</p>",
+      "summary": "<p>Article URL: <a href=\"https://glacierextinction.com\">https://glacierextinction.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660576\">https://news.ycombinator.com/item?id=49660576</a></p>\n<p>Points: 146</p>\n<p># Comments: 48</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "このインタラクティブマップは、氷河の消滅年をシナリオ別に示す。氷河は面積が0.01km²以下または初期体積の1%未満になったときに消滅と定義され、GloGEM、OGGM、PyGEMの3つの氷河モデルおよび+1.5℃、+2.0℃、+2.7℃、+4.0℃の温度上昇シナリオが使用されている。データ出典にはVan Tricht et al. (2026) Nature Climate Change論文とZenodo DOI、RGI v6.0、Farinotti et al. 2019が挙げられる。"
+      "ai_summary": "Global Glacier Extinction Explorerは、温暖化シナリオ別の氷河絶滅年を示すインタラクティブマップである。GloGEM、OGGM、PyGEMの3つの氷河モデルと複数のGCMを組み合わせ、面積0.01km²未満または初期体積の1%未満を絶滅基準とする。+1.5℃、+2.0℃、+2.7℃、+4.0℃のシナリオで、中央値およびQ25/Q75範囲の絶滅年を表示する。データはVan Tricht et al. 2026のNature Climate Changeに基づく。"
     },
     {
       "title": "118M Queries per Second on Neki",
       "link": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
       "published_at": "2026-09-11T15:56:37+00:00",
-      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/118-million-queries-per-second-on-neki\">https://planetscale.com/blog/118-million-queries-per-second-on-neki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660555\">https://news.ycombinator.com/item?id=49660555</a></p>\n<p>Points: 61</p>\n<p># Comments: 32</p>",
+      "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/118-million-queries-per-second-on-neki\">https://planetscale.com/blog/118-million-queries-per-second-on-neki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660555\">https://news.ycombinator.com/item?id=49660555</a></p>\n<p>Points: 83</p>\n<p># Comments: 38</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "PlanetScaleのブログ記事によると、シャーディングされたPostgres互換データベース「Neki」は512シャードで1秒間に1億1,853万8,803クエリ(QPS)を達成し、1シャードあたり約23万QPSを記録した。使用されたインフラストラクチャはr8g.16xlargeプライマリ512台と8xlargeルータ480台で、ネットワーク転送量は毎秒2テラバイト以上、遅延はルーターペアでp99 6.06ms、クライアント側p99 13.95msであった。"
+      "ai_summary": "PlanetScaleのシャードPostgres互換エンジンNekiは、512シャードで1.22PiBのデータに対して118,538,803クエリ/秒を達成し、16分間持続した。1シャードあたり約231k QPS、480ルータ、ルータp99レイテンシ6.06ms、クライアントp99 13.95ms、エラー率は1.8百万分の1、ネットワーク転送は2Tb/s以上。線形スケーラビリティも確認された。"
     },
     {
       "title": "Rune is now open source",
       "link": "https://rune.build/blog/rune-is-now-open-source",
       "published_at": "2026-09-11T15:31:47+00:00",
-      "summary": "<p>Article URL: <a href=\"https://rune.build/blog/rune-is-now-open-source\">https://rune.build/blog/rune-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660149\">https://news.ycombinator.com/item?id=49660149</a></p>\n<p>Points: 64</p>\n<p># Comments: 18</p>",
+      "summary": "<p>Article URL: <a href=\"https://rune.build/blog/rune-is-now-open-source\">https://rune.build/blog/rune-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660149\">https://news.ycombinator.com/item?id=49660149</a></p>\n<p>Points: 117</p>\n<p># Comments: 47</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "Runeビルドシステムがオープンソースとして公開されたことを示すブログ記事である。ただし、取得したページはJavaScriptが必要であり内容を取得できなかったため、タイトルのみに基づく説明となる。"
+      "ai_summary": "Rune（ビルドシステムまたは言語と推定）がオープンソースとして公開された。詳細な機能や数値は本文から取得できなかったため、タイトルのみからの要約となる。"
     },
     {
       "title": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
@@ -216,20 +281,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon Bedrock Managed Knowledge Base に TwelveLabs Marengo 3.0 が組み込まれ、ビデオ・オーディオ・画像コンテンツ向けのマルチモーダルエンベディングが利用可能に。従来のテキストベースのエンベディングに加え、映像シーンや音声 cue を直接エンベディング化し、意味をより豊かに捉える。これによりマルチメディア検索の精度が向上し、RAG やコンテンツ理解ユースケースで活用できる。サービスはすでに提供中で、追加の機械学習インフラストラクチャは不要。"
-    },
-    {
-      "title": "AWS DevOps Agent adds bidirectional Slack communication for investigations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-bidirectional-slack-communication",
-      "published_at": "2026-09-11T15:00:00+00:00",
-      "summary": "<p>AWS DevOps Agent now enables engineers to manage the full investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, forced to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens.</p> \n<p>Engineering teams can now initiate an investigation by simply @mentioning AWS DevOps Agent",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "AWS DevOps Agent が双方向の Slack 通信をサポートし、エンジニアは Slack 上でインシデント調査の全ライフサイクルを管理できる。以前は通信と調査プラットフォーム間でコンテキストスイッチが発生していたが、これにより単一の統合インターフェースに集約。@mention で調査を開始し、Slack 内でコメントやアクションを実行可能。これにより対応時間の短縮と作業の見える化が期待できる。"
+      "ai_summary": "Amazon BedrockマナージドナレッジベースにTwelveLabs Marengo 3.0が組み込まれ、ビデオ・オーディオ・画像向けマルチモーダル埋め込みがサポートされた。512次元のコンパクトベクトルを生成し、最先端の検索精度を実現。セグメントの開始・終了時間も取得でき、スポーツ分析やメディア検索などのユースケースに活用できる。"
     },
     {
       "title": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
@@ -242,46 +294,33 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS HealthOmics がリアルタイムランメトリクスを Amazon CloudWatch に公開し、ワークフロー実行中のリソース利用状況を可視化。CPU、GPU、メモリ、ファイルシステム I/O、ネットワークスループット、エフェメラルストレージなど 14 種類のメトリクスが提供される。これによりヘルスケア・ライフサイエンスのワークロード最適化とコスト管理が容易になる。HIPAA 準拠のサービスとして、規制環境でも安心して利用可能。"
+      "ai_summary": "AWS HealthOmicsがAmazon CloudWatchへリアルタイムランメトリクスの公開を開始し、ワークフローのリソース利用状況を可視化した。CPU・GPU使用率、メモリ、ファイルシステムI/O、ネットワークスループット、エフェメラルストレージなどの14種類のメトリクスが追加され、ボトルネック検出やリソース右サイズ化に役立つ。米国・欧州・アジアパシフィックの複数リージョンで利用可能。"
     },
     {
-      "title": "HuggingFace: Security.txt",
-      "link": "https://huggingface.co/security.txt",
-      "published_at": "2026-09-11T14:38:13+00:00",
-      "summary": "<p>Article URL: <a href=\"https://huggingface.co/security.txt\">https://huggingface.co/security.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659245\">https://news.ycombinator.com/item?id=49659245</a></p>\n<p>Points: 191</p>\n<p># Comments: 48</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication",
+      "published_at": "2026-09-11T15:00:00+00:00",
+      "summary": "<p>AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-call engineers and DevOps teams faced fragmented workflows during high-severity incidents, having to context-switch between communication and investigation platforms. This update consolidates both surfaces into a single, unified location where incident response already happens.</p> ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
       "tags": [
-        "tech",
-        "news"
+        "aws",
+        "cloud"
       ],
-      "ai_summary": "Hugging Faceのsecurity.txtファイルには、セキュリティ担当への連絡先としてsecurity@huggingface.coが記載されており、有効期限は2030年7月1日08:42:00UTCである。また、Preferred-Languages: en、採用ページへのリンク、AIエージェントへの注意書きが含まれている。"
+      "ai_summary": "AWS DevOps AgentがSlack双方向通信をサポートし、エンジニアはAWS・マルチクラウド・オンプレミス環境の本番運用をSlack内で完結できるようになった。従来の通信と調査プラットフォーム間のコンテキストスイッチを解消し、インシデント対応のワークフローを統一した。"
     },
     {
       "title": "Measuring the sloppiness of code",
       "link": "https://earendil.com/posts/measuring-code-sloppiness/",
       "published_at": "2026-09-11T13:42:28+00:00",
-      "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/measuring-code-sloppiness/\">https://earendil.com/posts/measuring-code-sloppiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658311\">https://news.ycombinator.com/item?id=49658311</a></p>\n<p>Points: 177</p>\n<p># Comments: 200</p>",
+      "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/measuring-code-sloppiness/\">https://earendil.com/posts/measuring-code-sloppiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658311\">https://news.ycombinator.com/item?id=49658311</a></p>\n<p>Points: 232</p>\n<p># Comments: 219</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "このブログ記事では、LLMが生成するコードの「ずさんぽさ」(sloppiness)を評価するための2つの指標VerbosityとErosionが紹介されている。VerbosityはAST-Grepフラグ行とクローン行の割合を示し、人間のリポジトリ平均は0.15±0.06、LLM生成コードは0.33±0.10。Erosionは複雑度10以上の関数の質量比を示し、人間側平均は0.31±0.17、LLM側は0.68±0.20。これによりLLM生成コードは人間のコードよりも約2倍ずさんぽいと結論付けられている。"
-    },
-    {
-      "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-      "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
-      "published_at": "2026-09-11T13:41:58+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html\">https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658302\">https://news.ycombinator.com/item?id=49658302</a></p>\n<p>Points: 30</p>\n<p># Comments: 12</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "CollaboraはGoogleと協力し、RDK(Reference Design Kit)プラットフォーム上でChrobalt(ChromiumベースのYouTubeエンジン)の参照実装を構築した。Chrobaltはバージョン26.eapから27.ltsへと進化し、Chromium 138+を追跡している。開発にはStarboardの現代化、テストスイート統合、YTS認証取得、DABアダプターのRust実装などが含まれる。"
+      "ai_summary": "コードの「ずさんぽさ」を測るため、verbosity（冗長行の割合）とerosion（複雑な関数への集中度）という2つの指標が提案された。人間が書いたリポジトリではverbosityが0.15±0.06、erosionが0.31±0.17であるのに対し、LLM生成コードはそれぞれ0.33±0.10、0.68±0.20と約2倍の値を示す。SlopCodeBenchでの厳格な解く率は最先端モデルでも0%であった。"
     },
     {
       "title": "Introducing automatic remediation policies with Cloudflare CASB",
@@ -294,33 +333,33 @@
         "cloud",
         "infra"
       ],
-      "ai_summary": "Cloudflare CASBに自動修復ポリシーが導入され、Cloudflare開発者プラットフォーム上にネイティブなオートメーションエンジンが構築された。これにより、リスクのあるファイル共有の自動取り消しやウェブhookの送信など、イベントドリブンな修復処理を手動介入なしで設計できるようになった。これにより、セキュリティチームは検出から修復までの時間を短縮し、手作業の負荷を軽減できる。"
+      "ai_summary": "Cloudflare CASB にイベント駆動型の自動修復ポリシーが追加され、リスクのあるファイル共有の自動取り消しや Webhook 送信が可能になりました。このエンジンは Cloudflare Queues、Workers、Workflows 上に構築され、検出から修復完了までを目標として 5 分以内に実現します。セキュリティチームは一度ロジックを定義すれば、手動介入なしで継続的なリスク軽減が行えます。"
     },
     {
       "title": "RTK reports token savings, but our cost benchmarks disagree",
       "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
       "published_at": "2026-09-11T11:15:13+00:00",
-      "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/\">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656471\">https://news.ycombinator.com/item?id=49656471</a></p>\n<p>Points: 125</p>\n<p># Comments: 60</p>",
+      "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/\">https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656471\">https://news.ycombinator.com/item?id=49656471</a></p>\n<p>Points: 140</p>\n<p># Comments: 68</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "Rust Token Killer(RTK)はターミナル出力をフィルタリングしてトークン削減を謳っているが、実際のベンチマークでは効果が一貫しない。RTKはGitHubスター数が79k以上あり、あるタスクでは費用が5%削減されたが別のタスクでは5%増加した。タスクレベルでの平均コスト変化はFableでは+1%、DeepSeek V4では+17%。特定のタスクではlarge-scale-text-editingで-19%、crack-7z-hashで+28%の変化が見られ、RTKが報告するトークン削減量(DeepSeekで3.492億トークン、89%削減)は実際の費用削減に直結しないことが示された。"
+      "ai_summary": "RTKはターミナル出力を圧縮し、SNSでは最大60‑90%のトークン削減を主張していたが、ベンチマークでは結果が分かれた。Fable（Claude Code）ではコストが−5%から+5%、DeepSeekでは+5%の変動で、パス数で割るとFableは3%安く、DeepSeekは7%高くなった。タスクレベルでの平均変動はFableがほぼゼロ（+1%）、DeepSeekが+17%である。RTKが報告したトークン削減量は349.2百万（89%）だが、コスト削減には結びつかなかった。"
     },
     {
       "title": "Claude is only available to people over 18 years",
       "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
       "published_at": "2026-09-11T10:48:00+00:00",
-      "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 435</p>\n<p># Comments: 493</p>",
+      "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 535</p>\n<p># Comments: 576</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "Claudeのヘルプページによれば、Claudeは消費者向け製品として18歳以上のみ利用可能であり、アカウント作成時に年齢確認が必要である。18未満である可能性があると検出された場合は追加の年齢確認が求められ、Yotiなどのサービスを通じて「over 18」属性を提示できる。"
+      "ai_summary": "Claudeは利用者が18歳以上であることを要件とし、アカウント作成時に年齢確認が必要である。18歳未満の可能性があるシグナルが検出されると、Yotiなどの手段で年齢確認を求められ、確認できない場合はアカウントが無効になる。"
     },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
@@ -332,20 +371,33 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "OpenAIはHabitatというPythonライブラリから、10億人規模のChatGPTユーザーに対応し、毎秒2200万リクエストを処理するグローバル分散ストレージプラットフォームに進化させた方法を説明している。このスケーリングにより、膨大なトラフィックを効率的に処理できる基盤が整った。"
+      "ai_summary": "OpenAIは、HabitatというPythonライブラリからグローバルに分散されたストレージプラットフォームへと進化させ、現在10億人のChatGPTユーザーおよび毎秒2200万リクエストを支えるインフラストラクチャを構築した。このスケーリングにより、巨大なトラフィックでも低遅延かつ高可用性のサービス提供が可能となった。"
     },
     {
-      "title": "Cherenkov Radiation",
-      "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-      "published_at": "2026-09-11T08:42:04+00:00",
-      "summary": "<p>Article URL: <a href=\"http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\">http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49655286\">https://news.ycombinator.com/item?id=49655286</a></p>\n<p>Points: 203</p>\n<p># Comments: 88</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/",
+      "published_at": "2026-09-11T07:12:00+00:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the Supplemental Patch Bundle (SPB) for the July 2026 Release Update (RU) for Oracle Database version 19c and 26ai.&nbsp;</p> \n<p>Starting with April 2026 releases, the Oracle Spatial Patch Bundle has been renamed to Supplemental Patch Bundle (SPB). The SPB includes additional database patches recommended by Oracle for specific use ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
       "tags": [
-        "tech",
-        "news"
+        "aws",
+        "cloud"
       ],
-      "ai_summary": "国際原子力機関(IAEA)のページによると、チェレンコフ放射とは、荷電粒子が光速を超える速度で誘電体中を進む際に発生する青白い光である。ただし、取得しようとしたページは403エラーで内容を確認できなかったため、タイトルのみに基づく説明となる。"
+      "ai_summary": "Amazon RDS for Oracleが2026年7月のリリースアップデート用Supplemental Patch Bundle（SPB）をサポートし、以前のOracle Spatial Patch Bundleに名称変更された。SPBはOracleが特定ユースケース向けに推奨する追加データベースパッチを含み、Oracle Database 19cおよび26aiに適用可能。"
+    },
+    {
+      "title": "September 11, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#September_11_2026",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">API Gateway</h2>\n<h3>Feature</h3>\n<p><strong>Enable Model Context Protocol (MCP)</strong></p>\n<p>You can now configure API Gateway to act as a remote Model Context Protocol (MCP) server. This Public Preview feature allows you to expose your existing REST APIs to AI agents as tools, without requiring changes to your backend services. You can enable MCP by annotating your OpenAPI 3.x specification using custom Google extensions.</p>\n<p>For more information, s",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ],
+      "ai_summary": "API GatewayがModel Context Protocol（MCP）サーバーとして動作できるパブリックプレビュー機能をリリースし、OpenAPI 3.x仕様へのカスタムGoogle拡張によるアノテーションで既存のREST APIをAIエージェントのツールとして公開できるようになりました。AlloyDB for PostgreSQLではCloud Monitoringを使って監査ログパイプラインの状態・スループット・バックログを監視可能になりました。Cluster ToolkitではSlurmに関する複数のセキュリティ脆弱性が修正され、Google SecOpsではchronicle.readonly OAuthスコープからの書き込み権限が2027年1月25日に削除されることが発表されました。"
     },
     {
       "title": "「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由",
@@ -358,7 +410,72 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "IT業界が「ドライ」と思われがちだが、社外でも助け合うエンジニアが多く、実は誰よりも「仲間」を大事にしているという話。未経験者への支援や情報共有の重要性が強調されている。"
+      "ai_summary": "この記事では、IT業界における「ドライ」というイメージについて、実際には社外でも助け合うエンジニアたちが仲間を大切にしている理由を採用広報の視点から説明している。未経験者が抱える共通の悩みを共有し、業界への興味がある人へ向けたアドバイスを提供している。"
+    },
+    {
+      "title": "第59回 情報科学若手の会に参加しました",
+      "link": "https://qiita.com/cyokozai/items/700dbe31e3d0af5349f3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-11T06:07:17+00:00",
+      "summary": "ネットワークコンテンツ研究会 Nekko Cloud チームから 5名 が参加しました 🙌\nこんにちは、ネットワークコンテンツ研究会 (ネッコ研) の cyokozai と申します。\n今回、「第59回 情報科学若手の会」にサークルメンバーと参加してきたので、その参加レポー...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "ネットワークコンテンツ研究会（ネッコ研）のメンバー5名が第59回情報科学若手の会に参加し、その経験をレポートした記事である。イベントでの活動や学びを共有している。"
+    },
+    {
+      "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所",
+      "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-11T05:51:35+00:00",
+      "summary": "はじめに\n「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "AWSインフラ導入においてAIが活用されている場面と、まだ手作業が必要な場面を比較検討している。AIはボトルネックを解消するのではなく他の工程に移すだけだという視点から、各工程の自動化状況を整理している。"
+    },
+    {
+      "title": "AtCoderをこれから始める人が知っておくべきこと一覧",
+      "link": "https://qiita.com/Prrapp/items/179ea601e7c6d7c31d4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-11T05:19:30+00:00",
+      "summary": "なんだこの記事\nAtCoder初心者の知り合いに向けて、知っておくべきことを書き記します。\n彼はAtCoderに関してかなり無知なので、「そんなの当たり前だろ」と思うようなことも書きます。\nまた、Must・Should・Wantの段階に分けて書きます。\nMustを読めばA...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "AtCoder初心者が知っておくべきことを、必須・推奨・望むの3段階に分けて解説している。最初にMustを読めば基本的な参加方法がわかるようになっている。"
+    },
+    {
+      "title": "クリーンアーキテクチャは個人開発でもやる価値があるか",
+      "link": "https://qiita.com/Ohmiya-Mizuki/items/f3fd704d0aba19e0bc8c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-11T04:20:58+00:00",
+      "summary": "この記事はすきま経営からの転載です。\n\n結論から書く。個人開発でクリーンアーキテクチャを採用する価値は「ある」が、無条件ではない。私は複業のfinance-managementリポジトリ（家計データの集計・シート同期・Slack通知）でdomain/ports/adapt...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "個人開発においてクリーンアーキテクチャを採用する価値について検討している。価値はあるものの、プロジェクトの規模や目的に応じて適用すべきか判断が必要だと結論づけている。"
+    },
+    {
+      "title": "単体テストの実行時間を6割程度削減してみた",
+      "link": "https://zenn.dev/dress_code/articles/5dd5de5020d9ef",
+      "published_at": "2026-09-11T02:30:05+00:00",
+      "summary": "はじめに\nこんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。\nAI が実装の大半を担ってからずいぶんと経ち、単体テストによってある程度の動作の保証をしてくれるようになった一方で、いつの間にか単体テストの実行時間が伸びていました。CI環境で50件計測し、p90 で 16分14秒 にもなっていました。これには GitHub Actions の setup 等も含め、ですが、単体テストの実行時間だけでも14分30秒かかっていました。\nCIに時間がかかると、そのまま開発体験の悪さにも直結します。軽微な不具合修正であったとしてもリードタイムとしてその程度以上...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "単体テストの実行時間を16分14秒から5分59秒へ約63％削減。未使用のカバレッジレポート停止で約7分削減、Prisma の重い import を enum 専用の import に置き換えて CPU 時間約13％削減、Vitest のプールを forks から threads に変更して CPU 時間約8.7％削減、重複テストの整理も実施。"
     },
     {
       "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
@@ -371,7 +488,20 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Go Conference 2026の講演資料で、eBPFによるゼロコード計装は言語に依存しないが、Goバイナリへの関数レベル計装にはuretprobe不可、レジスタベース呼び出し規約、バージョン依存フィールドオフセット、プロセス間コンテキスト伝搬という4つの難点があると説明。CPUとメモリの基本からOBI実装コードまでを段階的に解説し、実際に手元で動作を確認できる構成になっている。"
+      "ai_summary": "Go Conference 2026 の講演資料。eBPF を用いたゼロコード計装は言語に依存しないが、Go バイナリへの関数レベル計装は uretprobe 不可、レジスタベース呼び出し規約、バージョン依存フィールドオフセット、プロセス間コンテキスト伝搬という 4 つのハードルがある。CPU・メモリ・OS・関数呼び出し・Go ランタイム・eBPF 基礎から OBI 実装コードまでを解説。"
+    },
+    {
+      "title": "2026年9月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "link": "https://qiita.com/ennagara128/items/552b61295bfa9bc2c20a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-11T01:53:39+00:00",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nAIっぽくない画像を作る画風プロンプト38種類...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "毎朝7時に前日夜のQiitaトレンド記事をAIが要約したポッドキャストを配信しているという紹介記事である。通勤中などに聴くことを推奨している。"
     },
     {
       "title": "terraform plan -minimal-refreshでplanを爆速にする",
@@ -384,20 +514,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Terraform v1.17.0-beta1で追加された`-minimal-refresh`フラグは、refresh範囲を最小化して`plan`を高速化する。検証では通常の`plan`が約50秒かかっていたのに対し、同オプションで約3.5秒に短縮され、ドリフト検出のリスクは残しつつ大幅な短縮が実現した。"
-    },
-    {
-      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "published_at": "2026-09-11T00:42:41+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8r6y4me2g6o\">https://www.bbc.com/news/articles/c8r6y4me2g6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49652105\">https://news.ycombinator.com/item?id=49652105</a></p>\n<p>Points: 256</p>\n<p># Comments: 260</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "BBC記事によると、Googleはフィンランドの原子力発電所Loviisaから電力の最大50%を購入する22年の契約をFortumと締結した。これは総額130億ユーロのAIインフラストラクチャ投資の一部であり、新設データセンター3カ所および既存ハミナ施設の拡張を含む。この投資は建設期間中に3万7千人以上の雇用を創出し、年間36億ユーロのGDP押し上げ効果が見込まれる。Loviisaプラントは現在フィンランド全体の電力の約10%を供給している。"
+      "ai_summary": "Terraform v1.17.0-beta1では、-minimal-refreshフラグが追加され、plan実行時間を大幅に短縮できる。検証では通常のplanが約50秒かかっていたのに対し、-minimal-refreshを使用すると約3〜4秒で完了した。このフラグは変更があるリソースのみをピンポイントでrefreshし、ドリフトによるデグレリスクを回避しながら高速化を実現している。"
     },
     {
       "title": "Agents - Inspect Voice Agent turn latency and outcomes",
@@ -410,7 +527,7 @@
         "cloudflare",
         "devtools"
       ],
-      "ai_summary": "@cloudflare/voice v0.4.0 がリリースされ、Voice Agent の各ターンごとにレイテンシーと結果を検査できるようになりました。turnmetrics イベントから turnId、outcome（completed、no_output など）、音声文字起こし・モデル・TTS 等のステージ別タイミングを取得できます。また、ブラウザコンソールへの診断イベント転送も可能で、ローカルデバッグを支援します。"
+      "ai_summary": "@cloudflare/voice v0.4.0 がリリースされ、turnmetrics イベントを介して各ターンの所要時間と終了理由を詳細に取得できるようになった。出力は completed、no_output、output_limit、content_filtered、model_error、tts_error、aborted のいずれかで、音声認識からモデル推論、TTS までの個別タイミング（speech‑to‑final‑transcript、model‑to‑first‑text、TTS‑to‑first‑audio、総ターン時間）が提供される。さらに、browserConsole オプションを有効にするとサーバー側ライフサイクル イベントをブラウザコンソールに転送し、デバッグを容易にする。"
     },
     {
       "title": "AI Search - AI Search supports extensionless R2 objects with Content-Type metadata",
@@ -423,7 +540,7 @@
         "cloudflare",
         "devtools"
       ],
-      "ai_summary": "AI Search は、ファイル名に拡張子がない R2 オブジェクトでも、サポートされている Content-Type メタデータが付いていればインデックス化できるようになりました。これにより拡張子を持たないオブジェクトキーを許容しつつ、ファイルタイプのバリデーションは保持されます。サポートされるファイルタイプと Content-Type の要件は R2 データソースのドキュメントを参照してください。"
+      "ai_summary": "AI Search は、ファイル拡張子がない R2 オブジェクトでも、Content-Type メタデータがサポートされている場合にインデックスを作成できるようになった。これにより、拡張子を持たないオブジェクトキーでもファイルタイプの検証を保持したまま検索対象に含めることが可能になる。サポートされるファイルタイプと必要な Content-Type は R2 data sources ドキュメントを参照。"
     },
     {
       "title": "【読書記録】「セキュア・バイ・デザイン」という考え方",
@@ -436,7 +553,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "セキュア・バイ・デザインという考え方を紹介し、近年の大規模システムでのセキュリティインシデント増加を背景に、セキュリティへの感度を高めるために該当書籍を読んだ記録。具体的な数値や手法は記載されていない。"
+      "ai_summary": "セキュリティインシデントが増加する中、『セキュア・バイ・デザイン』という考え方を学ぶことで、セキュリティへの意識を高めようとしている読書記録である。実際のシステム設計にも活かしたいと考えている。"
     },
     {
       "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)",
@@ -449,7 +566,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "nginx/Apacheのアクセスログから不正アクセスの兆候を見つける7つの集計手順を解説。たとえば、送信元IP上位、ログイン系POST、404 IP量産などのawkコマンドを示し、fail2banでの遮断設定では`maxretry = 5`、`findtime = 10m`、`bantime = 10m`といった具体的な数値が登場する。"
+      "ai_summary": "nginx/Apacheのアクセスログから不正アクセスの兆候を検出する7つの集計方法を紹介している。たとえば、404を出すIP上位や、2xxで返っている要注意パス(.env、.gitなど)のチェック、fail2banによる自動遮断設定などが詳しく解説されている。具体的には、maxretry=10、findtime=10m、bantime=1hといったパラメータ例や、ログのクライアントIP確認手順が示されている。"
     },
     {
       "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
@@ -462,7 +579,7 @@
         "github",
         "devtools"
       ],
-      "ai_summary": "GitHub Copilotアプリでは、diffパネルで変更を確認、ターミナルパネルでコマンド実行、ブラウザパネルでPick & Polishツールを使ってUIを調整できる。これらのパネルを横並びに使うことで、エージェント生成コードのレビュー、実行、プレビューをタブ移動せずに完結できる。アプリは変更の内容、実行可否、実際の動作の3点を確認するループを提供し、プルリクエスト作成までを一貫して行える。初心者向けに、レビュー・実行・プレビューのワークフローをシンプルに示している。"
+      "ai_summary": "GitHub Copilotアプリの初心者向けガイド。 diffパネルで変更内容を緑/赤で表示し、ターミナルパネルでコマンド実行、ブラウザパネルでUIプレビューとPick & Polishツールによる調整が可能。これらを一つの画面で行うことで、エージェント生成コードのレビュー、実行、確認をタブ切り替えなく完了でき、作業効率と安全性が向上。"
     },
     {
       "title": "RESOLVED: Multiple products in us-central1-b are experiencing network service degradation.",
@@ -476,7 +593,20 @@
         "cloud",
         "status"
       ],
-      "ai_summary": "2026年9月1日07時44分（US/Pacific）からus-central1-bゾーン（および一部us-central1-f）でネットワークサービスが劣化し、インスタンスが隔離される事象が発生した。原因はルーティンのハードウェアメンテナンス中にファイバーオプティックケーブルが誤って切断され、手順ミスにより影響ルーター全ファイバーパスが13分で切断されたこと。これによりトラフィックフローが100%低下し、Compute Engine、Cloud SQL、AlloyDB、Bigtable、Filestore、Spanner、BigQuery、Dataflow、GKE、Cloud Run、App Engine、VPCなど多くのサービスに影響が及んだ。エンジニアリングチームがトラフィック回避と物理的なリンク再接続を行い、11時52分に完全復旧した。"
+      "ai_summary": "2026年9月1日07:44から11:52（US/Pacific）にかけて、us-central1-bおよびus-central1-fゾーンの一部でネットワークサービスが劣化し、発生時間は4時間11分だった。ルートコーズは、ルータ容量アップグレード中の手順ミスにより、互換性のないトランシーバーに交換した光ファイバーが物理的に切断され、ゾーン内のコンピュート容量がネットワークから孤立したこと。影響を受けたサービスはCompute Engine、Cloud SQL、AlloyDB for PostgreSQL、Cloud Bigtable、Cloud Filestore、Cloud Spanner、BigQuery、Dataflow、GKE、Cloud Run/App Engine、VPC、Cloud NAT、Apigeeなど多数で、ピーク時にトラフィックフローが100%低下した。復旧はトラフィック迂回と物理的な光ファイバーの再接続により行われ、今後はトレーニング強化、メンテナンスワークフローの完全自動化、光ファイバー切断警告の導入、自動トラフィック迂回システムの展開が予定されている。"
+    },
+    {
+      "title": "Show HN: Bodily Oddities",
+      "link": "https://vester.si/bodily-oddities/",
+      "published_at": "2026-09-10T20:33:11+00:00",
+      "summary": "<p>When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I inhaled, it would feel like a spike was being driven into my heart, and my breathing got completely shallow. I was sure I was done for, when all of a sudden, after an exhale, it disappeared.<p>It was",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Bodily Odditiesは人体の奇妙な現象を集めたカタログで、141項目を収録している。代表的なものとして、アファンタジア（約4%が精神像欠如）、キャンプドактиリ（<1%）、リンブルグ‑コストック変異（約5人に1人）、眼筋心臓反射（全員に存在）、直腸突発性痛（約7%の成人）、ASMR（20‑70%の人々に快感）などが挙げられる。各現象には発生率や特徴が簡潔に説明されている。"
     },
     {
       "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
@@ -489,7 +619,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Lambda の再帰ループ検出機能がヨーロッパ ソブリン クラウドでも利用可能になり、Lambda 関数間や他サービスとの意図しない再帰呼び出しを自動検出・停止。これにより予期しない課金増加を防止し、S3、SQS、SNS などのイベントソースを使ったイベント駆動型アプリケーションの安全性が向上。機能はデフォルトで有効で、追加設定は不要。"
+      "ai_summary": "AWS Lambdaの再帰ループ検出機能がヨーロッパソブリンクラウドで利用可能になった。Lambda関数と他サービス間の無意図的な再帰呼び出しを自動検出・停止し、予期しない課金を防止する。Amazon S3、SQS、SNSなどのイベントソースで構築されるイベント駆動アプリケーションに適用される。"
     },
     {
       "title": "AWS Transform for .NET now generates unit tests for modernized code",
@@ -502,7 +632,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Transform for .NET がモダナイズされたコードに対するユニットテストを自動生成する機能を提供。ビジネスロジックやコントローラーなどテスト対象クラス向けのテストが、移行作業と同じジョブで同時に生成され、現代化後のコードに即時のテストセーフティネットを提供。これにより移行リスクを低減し、CI/CD パイプラインへの組み込みが容易になる。サービスはすでに提供中。"
+      "ai_summary": "AWS Transform for .NETが現代化したコードに対してユニットテストを自動生成する機能を発表した。ビジネスロジックやコントローラーなどテスト可能なクラスを対象とし、移行作業と同時にテスト安全網を提供することでモダン化プロセスを強化する。"
     },
     {
       "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
@@ -515,7 +645,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon API Gateway が実行ログのサイズ上限を 1 KB から 1 MB に拡張し、配信先をカスタマイズ可能に。従来の単一 CloudWatch Logs グループに加えて、自分の CloudWatch Logs グループ、S3 バケット、Data Firehose ストリームへのマルチ配信がサポート。これによりリクエスト・レスポンスの詳細なトレースと長期保存が可能となり、デバッグとコンプライアンス対応が強化。機能はすべてのリージョンで提供開始。"
+      "ai_summary": "Amazon API Gatewayが実行ログのサイズ上限を1KBから1MBに拡張し、配信先をカスタマイズ可能になった。複数のAmazon CloudWatch Logsロググループ、S3バケット、またはData Firehoseストリームにログをルーティングでき、リクエスト・レスポンスデータの可視性が向上した。"
     },
     {
       "title": "AWS Lambda durable functions integrates with Pydantic AI",
@@ -528,7 +658,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Lambda Durable Functions がオープンソースフレームワーク Pydantic AI と統合され、Python で構築した AI エージェントの実行状況をチェックポイントとして保存。タイムアウトなどの中断後も最後の完了ステップから自動復帰し、開発者はチェックポイントロジックを自分で書く必要がない。これによりフェルトトレラントな AI ワークフローが簡単に構築できる。統合は現在利用可能。"
+      "ai_summary": "AWS Lambda Durable FunctionsがオープンソースフレームワークPydantic AIと統合され、Pythonで構築されたAIエージェントの実行進捗をチェックポイントとして保存するようになった。タイムアウトなどの中断後にも最後の完了ステップから復旧でき、ユーザー側でチェックポイントロジックを実装する必要がなくなる。"
     },
     {
       "title": "Amazon MQ now supports RabbitMQ 4.3",
@@ -541,7 +671,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon MQ が RabbitMQ 4.3 をサポートし、キューのコンパクション、32 段階の優先度レベル、ネイティブな遅延リトライ、コンシューマータイムアウトの改善などが追加。メモリ管理のバグ修正とパフォーマンス向上も含まれ、ディスク使用量削減とメッセージ処理の柔軟性が向上。既存の MQ ブローカーはアップグレード可能で、互換性は保たれる。"
+      "ai_summary": "Amazon MQがRabbitMQ 4.3をサポートし、キュークォータ機能の強化（コンパクション、32段階の優先度レベル、ネイティブな遅延リトライ、グレースフルコンシューマータイムアウト）とバグ修正・パフォーマンス改善を提供する。これによりメモリ管理が改善され、キューのディスク使用量削減が可能になる。"
     },
     {
       "title": "Announcing second-generation single-rack AWS Outposts",
@@ -554,7 +684,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "第二世代シングルラック AWS Outposts が一般提供開始。42U ラックにコンピュート、ストレージ、ネットワークを統合し、最大 2,688 vCPU と 100 TB の Amazon EBS ストレージを提供。低レイテンシ、ローカルデータ処理、データレジデンシーが必要なスペース・電力制約環境向けに設計。マルチラック Outposts と同様の機能を備え、導入が簡素化。"
+      "ai_summary": "第二世代シングルラックAWS OutpostsがGAとなり、42Uラックにコンピュート・ストレージ・ネットワークを統合した自己完結型ユニットが提供される。最大2,688 vCPUおよび100 TBのAmazon EBSストレージを備え、低レイテンシーやローカルデータ処理が必要なワークロードに適している。"
     },
     {
       "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
@@ -567,7 +697,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon OpenSearch Serverless が Vercel の AI 駆動型プラットフォーム v0 上で利用可能に。インフラストラクチャ管理不要で需要に応じて自動スケールし、自然言語プロンプトからフルスタック検索・AI アプリケーションを数分で構築。開発者はクラスター管理ではなくアプリケーションロジックに集中できる。サービスは現在提供中。"
+      "ai_summary": "Amazon OpenSearch ServerlessがVercelのv0プラットフォーム上で利用可能になり、フルスタック検索およびAIアプリケーションを数分で構築できるようになった。インフラストラクチャ管理が不要で、需要に応じて自動スケーリングされ、自然言語プロンプトからアプリケーションを生成できる。"
     },
     {
       "title": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
@@ -580,7 +710,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon ECS が RunTask と StartTask API に対して CPU とメモリリソース用の IAM 条件キーをサポート。これによりタスク起動方法に関わらず一貫したリソース制限を適用でき、予期しないコスト超過を防止し、組織のリソースポリシーへの準拠を容易に。以前はタスクレベルの条件キーしかなかったが、今後は API レベルで細かい制御が可能。"
+      "ai_summary": "Amazon ECSがRunTaskおよびStartTask APIに対してCPUおよびメモリリソース用のIAM条件キーをサポートし、タスク起動方法に関わらず一貫したリソース制限を強制できるようになった。これにより予期しないコスト超過を防ぎ、組織のリソースポリシーにワークロードを合わせやすくなる。"
     },
     {
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -592,7 +722,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "César de la Fuenteの研究室は、CodexとChatGPTを用いて現存および絶滅したゲノムから抗菌薬候補を探索し、耐性菌感染症と戦う方法を開発している。これにより、創薬プロセスが加速される可能性がある。"
+      "ai_summary": "セザール・デ・ラ・フエンテ研究室は、CodexとChatGPTを用いて現存および絶滅したゲノムから抗菌薬候補分子を探索し、薬剤耐性感染症への対応を目指している。AIによるゲノム解析は、従手法よりも広範な配列空間を効率的にスクリーニングできる点で重要である。"
     },
     {
       "title": "3 ways to prep for your next big race with Search",
@@ -605,7 +735,7 @@
         "ai",
         "google"
       ],
-      "ai_summary": "Google SearchのAI ModeとCanvasツールを使って、個別のトレーニングプランを作成できる。YouTube Musicアカウントを連携し、ランニング用のカスタムプレイリストを生成可能。また、Shopping Graph（60億以上の商品リスト）を活用し、予算やニーズに合ったランニングギアを検索・比較できる。"
+      "ai_summary": "Google Search の AI モードと Canvas ツールを使って、ユーザーの住む地域や現在の走力に合わせたトレーニングプランを作成できる。例として「サブ4.5時間のテキサスマラソン」向けプランを週4回、最長7-9マイルで作成する方法が示される。また YouTube Music アカウントを連携して AI がモチベーションプレイリストを生成し、Shopping Graph（60億以上の商品リスト）を活用して幅広足向けランニングシューズや80ドル以下の軽量ハイドレーションベストなど条件に合うギアを検索できる。"
     },
     {
       "title": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
@@ -618,7 +748,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon Redshift RG インスタンスがヨーロッパ (チューリッヒ) リージョンで提供開始。AWS Graviton プロセッサー搭載により、前世代 RA3 と比べてデータウェアハウス・データレイク ワークロードが最大 2.4 倍高速かつ vCPU あたりの価格が 30% 削減。カスタムベクタライズド クエリエンジンにより Apache Iceberg と Parquet データ上での SQL 分析が可能。パフォーマンスとコスト効率の両立を実現。"
+      "ai_summary": "Amazon RedshiftのRGインスタンスがヨーロッパ（チューリッヒ）リージョンで提供開始し、AWS Gravitonプロセッサーを搭載する。前世代RA3インスタンスと比較してデータウェアハウス・データレイクワークロードの処理速度が最大2.4倍向上し、vCPUあたりの価格が30%低減。カスタムベクトル化データレイククエリーエンジンによりApache IcebergおよびParquetデータ上でのSQL分析が可能になる。"
     },
     {
       "title": "What’s new with Google Cloud",
@@ -631,7 +761,7 @@
         "gcp",
         "cloud"
       ],
-      "ai_summary": "Google Cloud の『What’s new with Google Cloud』ページでは、9月7日から10日の期間に PostgreSQL ソースコネクターのマネージド Kafka 向け一般提供、Dataflow バッチジョブの pause-on-failure 機能の GA、BigQuery Storage Write API（REST）への insertAll API の改称、AlloyDB Omni Red Hat RPM オーケストレーターの一般提供などが発表された。さらに、Claude Fable 5.1 や Grok 4.6 が Agent Platform で利用可能となり、Rapid Bucket と GCSFS 2026.8.0 の組み合わせで PyTorch のスループットが 5 倍、最大 21 GiB/s に達するなど、AI ワークロードのパフォーマンス向上が強調されている。TPU モデルロードでは Run:ai Model Streamer により 480B パラメータモデルのロードが 2 倍速くなり、ピークメモリ使用量が半減するベンチマーク結果も示されている。"
+      "ai_summary": "Google Cloud の最新情報まとめでは、Pub/Sub の AI 推論 SMT が一般提供となり、Gemini Enterprise Agent Platform のモデルを使用したイベントストリームへの推論が可能になった。また、Managed Service for Apache Kafka の PostgreSQL ソースコネクターが GA となり、Cloud SQL や AlloyDB からの変更データ捕捉が低遅延で行える。Dataflow バッチジョブのポーズオンフェイル機能が GA し、ジョブ失敗前に状態を保存してリソースコストを削減。BigQuery の insertAll API が Storage Write API (REST) に名称変更され、gRPC 版と互換性を保ちながら軽量な HTTP エンドポイントを提供。さらに、AlloyDB Omni の Red Hat RPM オーケストレーターが GA し、ベアメタルまたは VM 上での PostgreSQL 互換ワークロード管理を自動化した。これらのアップデートは、AI ストリーミング処理、データベース連携、バッチジョブの信頼性向上といったエンタープライズニーズに応えるものである。"
     },
     {
       "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 11",
@@ -644,7 +774,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Pythonで学ぶマクロ経済学入門の第11回ポッドキャストを紹介。動画タイトルは「国債は完済より借り換えが正解: Pythonで学ぶマクロ経済学入門 Podcast (11)」で、経済概念をPythonコードで解説する形式。数値やバージョン等の具体的な記載はない。"
+      "ai_summary": "Pythonを使ってマクロ経済学を学ぶ入門編の第11回として、国債の完済より借り換えが正解というテーマの動画を紹介している。YouTubeチャンネル「Pythonで学ぶマクロ経済学入門」のポッドキャスト内容について説明している。"
     },
     {
       "title": "Now everyone can put data to work",
@@ -656,7 +786,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "ChatGPT WorkのDataエージェントは、自然言語で企業データに接続し、インサイトを抽出し、インタラクティブなダッシュボードを構築できるようにする。これにより、データ分析の敷居が下がり、業務効率が向上する。"
+      "ai_summary": "ChatGPT Workに新たに導入されたData agentは、自然言語指示だけで社内データに接続し、インサイトの抽出やインタラクティブなダッシュボード構築を可能にする。これにより、データサイエンティストでないビジネスユーザーでもデータ駆動型の意思決定を容易に行えるようになる。"
     },
     {
       "title": "(新登場)Nx Plugin for AWSでフルスタックAWSアプリのひな型を作ってみた",
@@ -669,33 +799,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "AWS LabsのNx Plugin for AWSを使い、React/tRPC/FastAPI/CDK/Terraform構成のフルスタックAWSアプリひな型をNxジェネレーターで生成。v1.0.0リリース時点であり、ワークスペース作成に約18秒、複数ジェネレーター実行後には`nx sync`が必要といった具体的な手順と時間が示されている。"
-    },
-    {
-      "title": "AIの「できる・できない」を、ベンチマークではなく326の仕事で数えた",
-      "link": "https://qiita.com/kernel_yu/items/1c7447e935a2ca2d718d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-09-10T13:09:43+00:00",
-      "summary": "AIの能力は、毎月スコアが更新されます。SWE-bench、Humanity's Last Exam、ARC-AGI、OSWorld。数字は伸び続けています。\nでも、そのスコアを見て「じゃあ自分の契約書レビューは任せられるのか」に答えられた人を、私は見たことがありません。測...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "AIの能力を従来のベンチマークではなく326の仕事（8領域・71中分類）で評価したアトラスを公開。2026年時点では「実務品質以上」が71％、「専門家並み以上」が32％、「専門家超え」は音声ナレーション・競技数学・競技プログラミングの3件のみ。根拠リンクは626本うち549本が2026年の情報。"
-    },
-    {
-      "title": "P値は帰無仮説が誤っている確率ではない",
-      "link": "https://zenn.dev/hiroki_honma/articles/3230273f197d86",
-      "published_at": "2026-09-10T13:05:04+00:00",
-      "summary": "この記事は、私が X に書いた次の投稿を出発点にしています。投稿では言葉で説明したことを、この記事では数式と実験で確かめます。まず、その投稿(元の投稿へのリンク)を全文再掲します。\n\nP値が小さいことと、帰無仮説が誤っている確率が高いことは、別の話です。この二つを同一視する誤解は、t検定を含む統計的仮説検定全体で最も繰り返されている誤解だと思います。P値が測っているのは、帰無仮説が正しいという前提のもとで、実際に観測されたデータ以上に極端な結果が出る確率であって、帰無仮説そのものが正しいか誤っているかの確率ではありません。この違いを飲み込めていないと、統計的に有意という言葉の意味を、実際...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "p値は帰無仮説が真である前提で観測データ以上に極端な結果が出る確率であり、帰無仮説が偽である確率ではないことを数式と実験で示す。p=0.05のときベイズ因子の下限は約0.407、等事前確率での事後確率下限は約0.289、点対立仮説では約0.128となる。サンプルサイズを増やしても効果量が固定ならp値は指数関数的に減少する（例：n=10000で4.8e-7、n=100000で4.8e-56）。"
+      "ai_summary": "AWS Labsが公開したNx Plugin for AWSを使い、React/tRPC/FastAPI/Strands Agents/CDK/Terraform構成のフルスタックAWSアプリのひな型を作成した。ワークスペースの生成に約18秒かかり、ジェネレーター実行後にnx syncが必要になることも報告されている。生成されるコードは既存フレームワークそのもので、型安全なクライアント生成や既存ファイルのAST変換などの機能が自動化されている。"
     },
     {
       "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
@@ -708,7 +812,7 @@
         "cloud",
         "infra"
       ],
-      "ai_summary": "1.1.1.1がNIST標準の後量子署名アルゴリズムML-DSA-44によるDNSSEC署名の検証を開始した。ML-DSA-44署名は2,420バイトで、従来のECDSA P-256の64バイト署名の約38倍に達する。これにより、UDPペイロード制約を超える大容量レスポンスを扱うため、TCPへのフォールバックや断片化回避の課題に対処しつつ、将来の量子コンピュータ脅威への備えを進めている。"
+      "ai_summary": "1.1.1.1 が NIST のポスト量子署名アルゴリズム ML-DSA-44 を用いた DNSSEC 検証を開始しました。ML-DSA-44 の署名サイズは 2,420 バイト、公開鍵サイズは 1,312 バイトであり、従来のアルゴリズムと比較して大幅に大きいため、UDP 制限を超える大容量応答の扱いとダウングレードリスクへの対策が課題です。Cloudflare は 2029 年までにフルポスト量子セキュリティを達成することを目指しています。"
     },
     {
       "title": "ハーネスの次に来るもの ― Causal ReasoningでAIエージェントはどう変わるか？",
@@ -721,7 +825,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "AIエージェントに因果推論（Causal Reasoning）と内省（Introspection）を組み込むことで、プランニング・観測・説明可能性が向上すると主張。具体的には、蒸留・実行・レビュー・反省・フィードバックのループをハーネスが管理し、目標達成のための因果経路を分析する手法を説明している。"
+      "ai_summary": "AIエージェントに因果推論と内省（Agentic Reasoning）を組み込むことで、ハーネスからさらに進化したエージェントのあり方を考察している。技術ブログ生成AIとしての視点から、今後の開発に役立つTipsを提供している。"
     },
     {
       "title": "Workflows - Default instance retention for new Workflows on Workers Paid is seven days",
@@ -734,7 +838,7 @@
         "cloudflare",
         "devtools"
       ],
-      "ai_summary": "Workers Paid プランで 2026-09-10 以降に作成された新しい Workflow は、デフォルトで完了およびエラーインスタンスの状態を 7 日間保持します（以前は 30 日）。最大保持上限は 30 日変更なく、既存の Workflow の保持期間は変更されません。Workers Free プランは従来通り 3 日デフォルトです。保持期間は successRetention と errorRetention で個別に設定可能です。"
+      "ai_summary": "Workers Paid プランにおいて、2026年9月10日以降に作成された新しい Workflow は、デフォルトで完了およびエラーインスタンスの状態を 7 日間保持するように変更された（従来は 30 日）。最大保持期間は 30 日間のまま変わらず、既存の Workflow の保持期間は変更されない。Workers Free プランは従来通り 3 日間のデフォルトと上限を維持し、successRetention や errorRetention を指定して保持期間をカスタマイズできる。"
     },
     {
       "title": "3匹のAIエージェントだけで、Webアプリを企画〜本番デプロイまで作った話（人間はほぼ指示しただけ）",
@@ -747,7 +851,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "人間が「作って」と一言だけ指示しただけで、3匹のAIエージェント（Fizz/Honey/Pollen）がNext.js 16・TypeScript・Tailwind CSS v4を使ってWebアプリを企画からコーディング・ドキュメント・本番デプロイまで自律的に完了。ディスク共有の衝突回避ルールをAI自身が決め、各自が独立に本番URLを検証する様子がログで確認できる。"
+      "ai_summary": "人間が「作って」という指示のみを出し、あとはBuzz環境内の3匹のAIエージェント（Fizz/Honey/Pollen）が自律的に企画から本番デプロイまでを遂行した事例を紹介している。エージェント間のチャットによる会話でタスクを完結させた点が特徴である。"
     },
     {
       "title": "Geminiを開くたびに「3.8 Flash 思考モード」を選び直すのが面倒すぎたので、自動で切り替わるスクリプトを作った",
@@ -760,7 +864,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Gemini 3.8 Flashの思考モードを毎回手動で選ぶ手間を解消するTampermonkeyスクリプトを紹介。ページ読み込み時にMutationObserverでモデル選択ボタンを待ち、「3.8 Flash」および「思考モード」のテキストを含むメニュー項目を自動クリックし、選択状態を確認してから入力欄にフォーカスを当てる仕組み。"
+      "ai_summary": "Gemini 3.8 Flashの思考モードを毎回手動で選ぶのを自動化するTampermonkeyスクリプトを作成した。スクリプトはMutationObserverで要素を待ち、モデル切り替えボタンから「3.8 Flash」および「思考モード」をクリックし、最終的に「Flash拡張」に切り替わることを確認する。これにより、ページを開くだけで望むモデルに自動で設定されるようになった。"
     },
     {
       "title": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
@@ -773,20 +877,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon CloudWatch Network Monitoring の合成モニターを使用し、AWS Transit Gateway のリージョン間ピアリングパスでのネットワークヘルスインジケーター (NHI) がサポート対象に追加。これにより AWS ネットワーク側の問題かどうかを判定し、問題の切り離し時間を短縮。従来は Direct Connect パスのみが対象だったが、今後はピアリングも監視可能。ネットワーク運用者とアプリケーション開発者のトラブルシューティングが効率化。"
-    },
-    {
-      "title": "Uncaught SyntaxError: The requested module '/node_modules/.vite/deps/react-router-dom.js?v=45843a1e' does not provide an export named 'Switch'",
-      "link": "https://qiita.com/J-T_ky2g/items/1c4e8092130f1be2c981?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-09-10T10:44:53+00:00",
-      "summary": "はじめに\n\nreact-router-dom導入時の話\n\n問題\n\nSwitchコンポーネントがないと言われる\n\n解決\n\n今のverではSwitchはないので、Routesコンポーネントを使う\n\n終わりに",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "react-router-domの新しいバージョンでは`Switch`コンポーネントが削除され、`Routes`を使う必要があることを説明。エラーメッセージにある通り、`Switch`のエクスポートがないため、`Routes`に置き換えることで解決できる。"
+      "ai_summary": "Amazon CloudWatchのネットワークヘルスインジケーターが合成モニターを用いてAWS Transit Gateway間のリージョンピアリングパスを監視できるようになった。これによりネットワーク問題が発生した際にAWSネットワーク側の原因かどうかを切り離しやすくなり、従来のDirect Connect限定から範囲が拡張された。"
     },
     {
       "title": "【VRChat/Udon】世界最速のC#コンパイラを開発した話",
@@ -799,7 +890,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Rustを用いてRoslynより最大約11倍高速なC#コンパイラを開発したが、.NETバックエンドは未実装でUdonAssemblyへの出力のみ対応。世界最速を目指すコンパイラの最適化手法について、インクリメンタルコンパイルを重視するRoslynとの違いを説明。"
+      "ai_summary": "Rust で構築した C# コンパイラ MenSharp は Roslyn よりも warm 場合で約2倍、cold 場合で約11倍高速にコンパイル（.NET バックエンドは未実装、UdonAssembly のみ出力）。アリーナアルケータ (bumpalo) で malloc オーバーヘッド削減、rayon による並列化、ECS 風のメモリレイアウトで AST に状態を持たせない設計。"
     },
     {
       "title": "Copilot Studio の回答精度を疑う前に考えたい５つのこと",
@@ -812,7 +903,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Copilot Studioの回答精度に疑問を持つ前に確認すべき5つのポイントを列挙。プロンプトの明確さ、モデルの適切さ、データのグラウンディングなど、具体的な数値は示されていないが、改善のためのチェックリストを提供している。"
+      "ai_summary": "Copilot Studioでエージェントを作成した際に回答精度が期待通りにならない場合、モデル変更やプロンプト見直しだけでなく考慮すべき5つのポイントを提示している。指示文の例を含めて、改善のためのチェックリストを提供している。"
     },
     {
       "title": "AWS Elemental Inference now generates contextual metadata from live video in real time",
@@ -825,7 +916,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Elemental Inference がライブビデオストリームからリアルタイムでコンテキストメタデータを生成し、IAB カテゴリ、GARM ブランド適合信号、検出オブジェクト・アクション、ショット・シーンレベルの説明などを AI で抽出。カスタム機械学習インフラストラクチャ不要で、エンコードと並行してメタデータを付与。これにより広告ターゲティングやコンテンツモデレーションが自動化され、ライブストリームの価値が向上。機能は現在提供中。"
+      "ai_summary": "AWS Elemental Inferenceがライブビデオストリームからリアルタイムでコンテキストメタデータを生成する機能を発表した。AIを用いてIABコンテンツ分類、GARMブランドセーフティ信号、検出オブジェクト・アクション、ショット・シーンレベルのディスクリプターを抽出し、カスタムMLインフラストラクチャ不要でシーンレベルのインテリジェンスを提供する。"
     },
     {
       "title": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
@@ -838,7 +929,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Elemental MediaTailor に Yield Optimization が追加され、サーバーサイド広告挿入 (SSAI) 中の未使用広告インベントリを自動的に Amazon Ads 需要で埋める。Amazon Publisher Services (APS) Streaming TV 番組の出版者専用で、追加インフラストラクチャやコストなしで広告収入を最大化。広告はストリームに直接ステッチされ、視聴体験を損なわずに monetization が可能。"
+      "ai_summary": "AWS Elemental MediaTailorがYield Optimization機能を追加し、サーバーサイド広告挿入（SSAI）での未使用広告枠をAmazon Ads需要で自動埋め尽くすようになった。Amazon Publisher Services Streaming TVプログラムの出版者向けに提供され、追加のインフラストラクチャやコストなしで未使用枠を収益化できる。"
     },
     {
       "title": "AWS Elemental MediaLive adds support for A/B forensic watermarking",
@@ -851,7 +942,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Elemental MediaLive が A/B フォレンジックウォーターマークをサポートし、1 チャンネルから 2 つの同期出力バリアントを生成。それぞれに異なる透明ウォーターマークを埋め込み、再エンコードやスクリーンキャプチャ後でも検出可能。これにより不正なライブビデオ再配布の出所を特定し、権利保護とコンプライアンス対応を強化。機能は現在利用可能。"
+      "ai_summary": "AWS Elemental MediaLiveがA/Bフォレンジックウォーターマークをサポートし、1つのチャネルから2つの同期出力変異を生成し、それぞれ異なる透明な透かしを埋め込む。この透かしは再エンコードやスクリーンキャプチャ後も残り、ダウンストリームでの組み合わせにより不正再配布の出所を特定できる。"
     },
     {
       "title": "AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion",
@@ -863,7 +954,8 @@
       "tags": [
         "aws",
         "cloud"
-      ]
+      ],
+      "ai_summary": "AWS Elemental MediaTailorがLow-Latency HLS（LL-HLS）広告挿入をサポートし、HLSインタスティシャルを用いて遅延を抑えたライブストリームへの広告挿入を可能にした。部分セグメント配信により視聴者が期待する低レイテンシーを維持しながら広告収益を向上させる。"
     },
     {
       "title": "AWS Elemental introduces Dynamic Multiview for live video",
@@ -876,7 +968,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Elemental MediaPackage が Dynamic Multiview を提供し、複数のライブビデオソースを視聴者が選択したタイルレイアウトに合成。標準 HLS または DASH ストリームとして配信され、カスタムプレイヤー不要でマルチアングルやマルチゲーム、パーソナライズド視聴体験を実現。スポーツイベントやマルチキャンペーン配信などで柔軟なビュー切り替えが可能。機能は現在提供中。"
+      "ai_summary": "AWS Elemental MediaPackageがDynamic Multiview機能を提供し、複数のライブビデオソースをViewerが選択したタイルレイアウトに合成して配信する。標準的なHLSまたはDASHストリームとして再生され、カスタムプレイヤー開発不要でマルチアングルやパーソナライズド視聴体験を実現する。"
     },
     {
       "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
@@ -889,7 +981,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Storage Gateway が Amazon S3 File Gateway 用に FIPS 140-3 認証済みエンドポイントを AWS PrivateLink 経由でサポート。以前はパブリックインターネット経由のみだったが、今後はプライベート AWS ネットワーク内で FIPS 準拠の通信が可能。これにより規制対象ワークロードでもセキュアにファイルゲートウェイを利用でき、コンプライアンス負荷を軽減。機能は現在提供中。"
+      "ai_summary": "AWS Storage GatewayがAmazon S3 File Gateway向けにFIPS 140-3準拠のプライベート接続をAWS PrivateLink経由でサポートし始めた。これにより規制対象ワークロードでもパブリックインターネットを経由せずにプライベートAWSネットワーク上でFIPSエンドポイントを利用でき、コンプライアンス要件への対応が容易になる。"
     },
     {
       "title": "Introducing ChatGPT for Financial Services",
@@ -901,7 +993,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "ChatGPT for Financial Servicesは、組み込まれた金融データとGPT-6 Astraを組み合わせ、リサーチ、モデリング、クライアント向け資料作成を支援する。これにより金融業界でのAI活用が促進される。"
+      "ai_summary": "金融業界向けに発表された『ChatGPT for Financial Services』は、組み込まれた財務データと最新モデルGPT-6 Astraを組み合わせ、リサーチ、モデリング、クライアント向け資料作成を支援する。これにより、金融専門家はAIを活用した高度な分析とレポート生成を迅速に行えるようになる。"
     },
     {
       "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
@@ -913,7 +1005,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "OpenAIとGSAは、政府向けにライセンス料を通常$15/ユーザー/月から$0にし、使用料を50%オフにする協定を発表。これにより、既に100万人以上の政府職員が利用可能で、対象となる米国公共部門労働力約2,300万人へ拡大。さらに、GPT‑6 Astraを含む先進モデルへのアクセス、Daybreak Blueトレーニング、27か月間の長期提供などが含まれる。"
+      "ai_summary": "OpenAIと米国一般サービス庁（GSA）は、連邦・州・地方・先住民政府向けにライセンス料無料、利用料50%割引、およびサイバーディフェンス支援の拡大を発表した。この取り組みにより、政府機関はコストを抑えながら先進的なAI技術を導入し、セキュリティを強化できるようになる。"
     },
     {
       "title": "Amazon EVS is now available in more regions",
@@ -926,7 +1018,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon Elastic VMware Service (EVS) が新たに Asia Pacific (大阪)、Asia Pacific (台北)、Europe (スペイン)、Israel (テルアビブ) リージョンで利用可能に。VMware Cloud Foundation を AWS ベアメタルインスタンス上で VPC 内に直接デプロイし、スケーラブルで柔軟な VMware ワークロード実行環境を提供。これによりグローバルなリージョン選択肢が広がり、ローカル規制やレイテンシ要件への対応が向上。"
+      "ai_summary": "Amazon Elastic VMware Service（EVS）がアジアパシフィック（大阪、台北）、ヨーロッパ（スペイン）、イスラエル（テルアビブ）の追加リージョンで利用可能になった。VMware Cloud FoundationをAmazon VPC上のEC2ベアメタルインスタンスで直接実行でき、AWS Nitroによって支えられ、VMwareワークロードのクラウド移行オプションが拡充される。"
     },
     {
       "title": "September 10, 2026",
@@ -939,7 +1031,7 @@
         "gcp",
         "cloud"
       ],
-      "ai_summary": "2026年9月10日のGoogle Cloudリリースノートでは、BigQueryの会話型分析にML.CORRELATION、ML.METRICS、AI.CAUSAL_EFFECTの3つのプレビュー機能が追加され、統計相関・評価メトリクス・因果効果の計算がSQLで直接行えるようになりました。Cloud StorageのStorage Intelligenceアドバイザーが一般提供となり、組織・フォルダ・プロジェクト横断でのストレージ使用状況監視と最適化が可能になりました。Gemini EnterpriseのPay-as-you-goエディションとAI開発ツールがすべての請求アカウントで利用可能になり、Slackアプリではチャンネルメンションとマルチターン会話が一般提供となりました。また、IAMのMCPサーバーが一般提供となり、Looker向けVS Code拡張もGAになるなど、AI・データ分析と開発者生産性向上が強調されています。"
+      "ai_summary": "BigQueryの会話型分析にML.CORRELATION関数（プレビュー）が追加され、ターゲット列とメトリック列間の統計的相関を計算できるようになりました。さらにML.METRICS関数とAI.CAUSAL_EFFECT関数もプレビューで提供され、機械学習モデルの評価や時系列データへの介入影響分析が可能になりました。Cloud StorageのStorage Intelligenceアドバイザーが一般提供となり、組織・フォルダ・プロジェクト横断的なストレージ環境の監視・管理がスケールで行えるようになりました。Gemini EnterpriseのPay-as-you-goエディションがすべての請求アカウントで利用可能になり、Slackアプリではチャンネルメンションとマルチターン会話が一般提供されました。"
     },
     {
       "title": "【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る",
@@ -952,7 +1044,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "1年目にバッチ処理を1週間で終わると見積もったが、実際に3ヶ月かかった経験を、『世界一流エンジニアの思考法』を使って振り返る。原因は「何をすればいいか分からない」「何が分からないのかも分からない」状態を放置したことであり、分からないことを整理することで解決できたとする。"
+      "ai_summary": "1年目にバッチ処理の実装を行ったところ、見積もりの1週間から実際に3ヶ月かかってしまった体験談である。遅延の原因は技術的難易度ではなく、作業の進め方や要件理解の不足にあったと振り返っている。"
     },
     {
       "title": "良いAIの行動、メモ",
@@ -965,20 +1057,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "個人がAIに期待する動作をメモ形式でまとめたもの。設計方針として拡張性を標準とし、API・インターフェース・型・データ構造などを将来の拡張を考慮して設計することを挙げている。コーディング特化の内容は除き、雑多なメモとして読むことを想定。"
-    },
-    {
-      "title": "個人開発アプリを100本公開した結果、28本がユーザー0人でAdMobの最低支払額（8,000円）にすら毎月届かない話",
-      "link": "https://qiita.com/kawaikouji/items/066e7f8f2469109281ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-09-10T03:54:25+00:00",
-      "summary": "遂に目標としていた公開中アプリ100本達成しました！\n\n100本目は「ライブカメラマップ」というアプリで、\n全国各地の公開されているライブカメラ映像を地図から探して見れるアプリとなっています。\nhttps://play.google.com/store/apps/detai...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "個人開発アプリを100本公開した結果、28本が過去30日アクティブユーザー0人であり、上位数アプリが全体の約97％のインストールを占める。AdMobの最低支払額8,000円に到達するまでに数ヶ月かかる現状を示し、リリース恐怖症の克服やUI・市場感覚の習得などの副次的利益も述べている。"
+      "ai_summary": "AI に求める行動をメモしたもの。設計は拡張性を標準とし、知識の鮮度を保つためバージョン固定の情報には WebSearch が必須。デッドコードの除去を先に行い、アーキテクチャに欠陥がある状態では妥協しない。作業に必要なことを判断し、コメントは直下のコードだけを説明する。"
     },
     {
       "title": "【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由",
@@ -991,7 +1070,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "AI時代だからこそ面接で「なぜ？」を繰り返す本当の理由を、PRUMの採用担当が説明。答えの表面だけでなく、思考の深さや動機付けを確かめるためであり、具体的な数値は示されていない。"
+      "ai_summary": "採用担当の視点から、面接で「なぜ？」を繰り返す理由について解説している。未経験者が抱える共通の悩みを共有し、思考プロセスや問題解決能力を評価するために深掘り質問が重要だと説明している。"
     },
     {
       "title": "GPT-6 Astraは何を待ち、いつ指示を取り込むのか — async tool callingとmid-turn steeringを実測",
@@ -1004,7 +1083,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "2026年9月3日にOpenAIがGPT-6 Astraを公開。async tool callingによりモデルはツール呼び出し後も応答を続けられ、mid-turn steeringによって生成中に追加指示を挿入できる。測定例では遅延3秒のツールに対してasyncが最初のテキストを1.43秒で返却（syncは1.64秒）、総コストは約0.039ドル/回。mid-turn steeringではツール完了後に後続レスポンスで指示を取り込む仕組みを確認。"
+      "ai_summary": "GPT-6 Astra（2026年9月3日公開）は async tool calling（async:true）により、ツール実行中でもモデルが生成を続けられる。実測では 3 秒ツールの場合、async 初回応答 7.4秒、合計 13.2秒、sync 初回応答 2.3秒、合計 9.8秒で費用は async が $0.019、sync が $0.013。mid-turn steering は WebSocket で現在の出力アイテム完了後に追加指示を受け入れ、フォローアップレスポンスに反映されるが、ツール結果は途中で注入できない。"
     },
     {
       "title": "M5StickS3のPlatformIO開発環境を構築してプログラムの書き込みからボタンによる画面切り替えまで試す",
@@ -1017,7 +1096,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "M5StickS3をPlatformIO v3.3.4とVS Code v1.136で開発し、espressif32@6.12.0フレームワークを使ってプログラムを書き込む手順を解説。最初は「Hello StickS3!」表示、次にボタン入力を`M5.BtnA.wasPressed()`で取得し、画面表示を切り替える実装例を示す。"
+      "ai_summary": "M5StickS3のPlatformIO開発環境を構築し、プログラムの書き込みからボタンによる画面切り替えまでを実際に試したレポートである。Arduino Unoでの経験を思い出しながら、マイコン開発の容易さを再確認している。"
     },
     {
       "title": "【2026年版】サクラエディタの最初にやってほしい設定2+1選：Win + Rから起動と自動即時保存",
@@ -1030,7 +1109,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "サクラエディタをWin+Rから起動できるようにするため、ショートカットフォルダを作成しPATHに追加する方法を説明。さらに、新規ファイル作成時に自動で日付付きmemoファイルを保存するマクロの設定手順と、零バイトファイルの定期削除バッチファイルの作成例も示す。バージョンはVer. 2.4.3.7173、OSはWindows 11。"
+      "ai_summary": "サクラエディタにおける最初に設定すべき2つ（＋1つ）のポイントを紹介している。Win+Rからすぐに起動できるようにし、編集内容を自動で即時保存する設定方法を解説している。"
     },
     {
       "title": "ChatGPTで機密資料を扱う前に --- 学習オフ・一時チャット・プロジェクト限定メモリの使い分け",
@@ -1043,7 +1122,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "ChatGPTで機密資料を扱う際の使い分けを解説。学習オフ（モデル改善オプトアウト）、一時チャット（パーソナライズなし）、プロジェクト限定メモリの設定方法を示し、参照日2026年9月9日・10日、GPT-6というバージョン名が記載されている。"
+      "ai_summary": "GPT-6を使う際に機密資料を扱う前に、学習オフ、一時チャット、プロジェクト限定メモリの使い分けについて説明している。それぞれの特徴と適切な使い方を整理し、データ漏洩リスクを低減する方法を提示している。"
     },
     {
       "title": "GitHub availability report: August 2026",
@@ -1056,7 +1135,7 @@
         "github",
         "devtools"
       ],
-      "ai_summary": "2026年8月にGitHubは5件のインシデントが発生し、Actions、フロントドア、Copilotクラウドエージェントなどのサービスに影響があった。特に8月6日のActionsインシデントは約9時間続き、74組織でワークフロー失敗やキュー遅延が発生；8月17日のフロントドア障害ではピーク時56.07%のリクエストが失敗または遅延、約29K組織に影響；8月20日のCopilotエージェント遅延では54組織でタスク状況表示が最大37.5%遅延；8月26日のActionsランスタート遅延では33%のジョブ再ルーティングでピークCPU使用率が98%から80%に低下し、3ヶ月のヘッドルームを追加；8月27日のKimi K3モデル障害では該当モデルのリクエストの63.3%が失敗。これらのインシデントへの対応として、MySQLプライマリのAzure移行（読み取りトラフィック60.4%移行、Git読み取り54%）、認証コアのデータベース移行で100万クエリ/秒削除、ジョブルーティング変更によるキャッシュCPU使用率改善、プルリクエストアイソレーションによる認証読み取り100%、オーバーロード保護によるトラフィック6.4%増加および95パーセンタイル遅延24%改善などの改善策が講じられた。"
+      "ai_summary": "2026年8月のGitHub可用性レポート。5件のインシデントが発生し、サービスパフォーマンスが低下。具体的には：8月6日約9時間のGitHub Actionsインシデントで74組織以上に影響；8月17日約6時間44分のロードバランサーサチュレーションでフロントドアリクエストの56.07%が失敗または遅延、約29K組織に影響；8月20日約10時間40分のCopilotクラウドエージェントのタスク状態遅延で37.5%ピーク影響；8月26日約2時間53分のActionsランスタート遅延で5分のうち1本以上が失敗または遅延、386組織に影響；8月27日約2時間50分のKimi K3モデル上流プロバイダー障害で63.3%のリクエストが失敗。対策としてヘッドルーム増加、オートスケーリング、リトライ改善、フェイルオーバー改善などを実施。"
     },
     {
       "title": "メモリに載らないGROUP BYをDuckDBはどう処理するのか",
@@ -1069,7 +1148,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "DuckDBは5,000万行（1.7GB）のGROUP BYクエリに対して、memory_limit=300MBでもhash tableをメモリ200MiB前後に抑え、残りを一時ファイルに書き出す外部ハッシュ集約を実行。書き込みフェーズ約1.5秒、読み込みフェーズ約7秒で完了し、250MB未満ではallocatorの失敗によりOOMEMエラーが発生することがある。"
+      "ai_summary": "DuckDB はメモリ超過の GROUP BY を外部ハッシュ集約で処理：入力をハッシュ値でパーティションに分割しディスクに書き出し、その後各パーティションを読み戻して集計。memory_limit=300MB の場合、ハッシュテーブルはメモリ約200MB、ディスク約1.77GB、書き込みフェーズ約1.5秒、読み込みフェーズ約7秒、合計約8.5秒。上限なし（約38GB）ではハッシュテーブル約1,960MB がメモリに残り約3.0秒で完了。上限約250MB ではアロケータ領域不足で OOM エラー。"
     },
     {
       "title": "勉強会文化ゼロの支社で、2026 Japan AWS Jr. Championsの私が立ち上げたクラウド勉強会——部署の壁を越えた交流とアウトプットの文化を作る",
@@ -1082,7 +1161,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "2026 Japan AWS Jr. Championsの著者が、勉強会文化のなかった支社でクラウド勉強会を立ち上げた経験を報告。参加者は営業・エンジニアなど計15名で、ライトニングトークと雑談タイムを通じて部署を超えた交流とアウトプットの機会を創出した。"
+      "ai_summary": "勉強会文化がなかった支社において、2026年AWS Jr. Championsである著者がクラウド勉強会を立ち上げ、部署を超えた交流とアウトプットの文化を作り上げた経験を報告している。AWSジュニアチャンピオンの肩書を活かして知識共有の場を提供した点が強調されている。"
     },
     {
       "title": "ドメインモデル実装におけるトリレンマに対するSoutherの回答",
@@ -1095,7 +1174,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "Souther言語はドメインモデルの「完全性」と「性能」を保ちながら「純粋性」をモデル内判断手順に限定し、外部I/Oをbehaviorとして分離することでDDDトリレンマに対応。ビヘイビアにensures条件を付けて入出力の関係を契約として明示し、exampleとfakeを用いた契約テストと差分テストでモデルと実装の整合を検証できる。"
+      "ai_summary": "Souther 言語は DDD トリレンマ（純粋性・完全性・性能）に対し、ドメインモデル内の判断手順を純粋に保ちつつ、外部 I/O を injected behavior として分離することで対応。ensures 契約と example ベースのテスト（fake 実装）でビヘイビアの入出力関係を検証し、ビジネス結果と技術的エラーを別経路で扱う。必要なビヘイビアのみ呼び出すことで性能も確保。"
     },
     {
       "title": "近畿大学と Google Cloud が包括連携協定を締結 - 約 2 万人超へ「Google AI Pro for Education」を導入し、「AI ネイティブ大学」の実現を支援",
@@ -1109,7 +1188,20 @@
         "cloud",
         "ja"
       ],
-      "ai_summary": "近畿大学とGoogle Cloudは包括連携協定を締結し、全16学部の1・2年生約19,033人および教職員2,105人、合計21,138人に対し教育機関向けGeminiアプリの有償版「Google AI Pro for Education」ライセンス導入をサポートする。2026年度後期から生成AIを活用した学生支援窓口のオンライン化トライアルも技術面で後押しし、AI人材育成、大学運営、学生支援、研究支援の4領域で取り組みを推進する。これにより、生成AIを日常的に適切に活用できる「AIネイティブ大学」の実現を目指す。"
+      "ai_summary": "Google Cloud は近畿大学と包括連携協定を締結し、全 16 学部の 1・2 年生 19,033 人および教職員 2,105 人、計 21,138 人に対して教育機関向け Gemini アプリの有償版「Google AI Pro for Education」ライセンス導入を支援した。さらに 2026 年度後期の授業開始に合わせて、生成 AI を活用した学生支援窓口のオンライン化トライアルにも技術面で後押しする。これにより AI 人材育成、大学運営、学生支援、研究支援の 4 領域での取り組みを推進し、「AI ネイティブ大学」の実現を目指す。数値としてライセンス対象者は約 2 万人超と明示されている。"
+    },
+    {
+      "title": "Oracle Base Database Service(BaseDB)のEasy Createを試す",
+      "link": "https://qiita.com/mo__mo/items/15ede0531a010001163a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-09-10T00:43:42+00:00",
+      "summary": "OCIのOracle Base Database Service(BaseDB)で、最小限の入力からDBシステムを作成できる「Easy Create」という新機能が追加されました。\nEasy Createは、コンピュート、ストレージ、ライセンス、データベース設定に標準構成(...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Oracle Cloud InfrastructureのOracle Base Database Serviceにおいて、最小限の入力でDBシステムを作成できるEasy Create機能を試したレポートである。標準構成のコンピュート、ストレージ、ライセンス、データベース設定が自動で適用される仕組みについて解説している。"
     },
     {
       "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
@@ -1121,7 +1213,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "GPT‑Live‑1はAPIに自然な全二重音声会話機能を追加し、指示従順性の向上、カスタムボイス、テレフォニーサポートを提供。これにより開発者はより人間らしい音声インタラクションを構築できる。"
+      "ai_summary": "APIに新たに追加されたGPT‑Live‑1は、フルデュプレックスの自然な音声会話を可能とし、指示従順性の向上、カスタムボイス、および電話連携サポートを提供する。これにより、開発者はより人間らしいインタラクティブな音声アプリケーションを構築しやすくなる。"
     },
     {
       "title": "Introducing the Agents API",
@@ -1133,7 +1225,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "Agents APIは、Codexハーネスを活用したマネージドサービスで、オーケストレーション、長時間セッション、ツール利用を可能にするクラウドエージェントの構築・提供を支援。これにより、複雑なタスクを自動化するワークフローが容易になる。"
+      "ai_summary": "新たに発表されたAgents APIは、Codexハーネスを基盤とするマネージドサービスで、クラウド上でエージェントを構築・起動し、オーケストレーション、長時間実行セッション、ツール利用を容易にする。これにより、複雑なタスクを自律的に実行するAIエージェントの開発と運用が簡素化される。"
     },
     {
       "title": "Detecting and countering misuse of AI: September 2026",
@@ -1145,7 +1237,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "2026年9月のAnthropic threat intelligenceレポートによれば、2025年12月から2026年8月にかけて、Claude Haiku、Sonnet、Opusモデルを悪用したサイバー作戦、影響力作戦、監視、詐欺、生物学的悪用、従来兵器開発、および不正蒸留の7つの分野で脅威行為が検出され、阻止された。具体的には、GTG-20006（ロシアのスパイグループ）がAI駆動型ワークフローでツールキットを自動更新し、ウクライン政府や軍事ドローン供給チェーンを標的にしたほか、GTG-50014（ShinyHunters関係者）が180万件のAndroid APKを解析し、GTG-10007（中国系オペレーター）がエクスプロイトファクトリーを構築し、さらにAIサプライチェーンへの攻撃として盗まれたAPIキーを悪用して多数のAI企業への侵入が行われた。これらの事例から、AIによる攻撃のスピード・規模・深度の向上と、防御側の検出回避が加速していることが示されている。"
+      "ai_summary": "本レポートは 2025 年 12 月から 2026 年 8 月までの間に確認された Claude Haiku、Sonnet、Opus モデルを悪用した事例を 7 つの害悪領域でまとめている。特に、ロシアのスパイ活動グループ GTG-20006 は 20 以上の組織を標的にし、AI を用いてマルウェアの自動改変と検知回避を行った。また、ShinyHunters 関連の GTG-50014 は 10 台の AWS EC2 ワーカーで 180 万個の Android APK を解析し、ハードコードされた秘密情報を抽出するなど、AI を活用した大規模なクレデンシャル盗難が報告されている。さらに、AI の uplift（能力向上）により攻撃のスピード、規模、深度が向上し、従来の防御策をすり抜ける傾向が強調されている。"
     },
     {
       "title": "Cursor Projects",
@@ -1158,7 +1250,7 @@
         "ai",
         "devtools"
       ],
-      "ai_summary": "2026年9月10日に発表された Cursor Projects は、機能や移行、フルアプリなど大きな作業単位に対応し、数か月のコンテキストを保持しながら数千のサブエージェントにタスクを委譲し、プロンプトなしで定期的な作業も実行できる。コーディネーターエージェントはコードを書かずに計画と委譲を行い、クラウド上の独立したマシンで動作するためラップトップを閉じても停止せず、必要に応じてローカルエージェントを起動してテストを行う。共有コンテキストはファイル同期とエージェントの学習を蓄積し、時間とともに coordinator の効果を高める。Slack チャンネルやスケジュール、PR の監視などサブスクリプション機能により、シグナル検出に基づく自動動作も可能。本日よりベータ版としてすべてのユーザーに段階的に提供開始される。"
+      "ai_summary": "Cursor Projects は、機能や移行、フルアプリなど大きな作業単位をサポートし、月のスパンでコンテキストを維持し、数千のサブエージェントにタスクを委譲して自動的に繰り返し作業を行います。調整役となるコーディネーターエージェント自身はコードを書かず、作業の計画と委譲、完了後の確認を担当し、必要に応じてクラウド上で並列にエージェントを実行します。クラウドエージェントによりラップトップを閉じても動作が続き、ローカルでのテスト時はローカルエージェントを起動し、共有コンテキストはファイル同期でクラウドとローカル間で共有され、エージェントが学んだ知識を蓄積していきます。また、Slack チャンネルの監視や定時実行、PR フォローなどのサブスクリプション機能によりトリガーに応じて自動的に作業を開始でき、本機能は本日（2026年9月10日）からベータ版としてすべてのユーザーに段階的に提供されます。"
     },
     {
       "title": "Containers - Use Cloudflare Containers with Codex via the OpenAI Agents API",
@@ -1171,7 +1263,7 @@
         "cloudflare",
         "devtools"
       ],
-      "ai_summary": "Cloudflare Containers が OpenAI Agents API の実行環境として利用可能になり、Codex を実行できます。OpenAI がセッション管理、オーケストレーション、コンテキスト圧縮、リカバリを担当し、開発者はツール提供とコンテナの提供に専念します。オープンソースの Workers テンプレートが参照実装として提供され、コンテナの拡張や他プロダクトとの統合も可能です。"
+      "ai_summary": "OpenAI Agents API を介して Codex を利用する際、実行環境として Cloudflare Containers を使用できるようになった。OpenAI がセッション管理、オーケストレーション、コンテキスト圧縮、リカバリを担当し、開発者はツール提供とコンテナによる実行に専念できる。オープンソースの Workers テンプレートが提供され、データやネットワークへのアクセスを制御するようコンテナを拡張したり、他の Cloudflare 製品と統合したりできる。"
     },
     {
       "title": "WAF - WAF Release - 2026-09-10 - Emergency",
@@ -1184,7 +1276,7 @@
         "cloudflare",
         "devtools"
       ],
-      "ai_summary": "2026-09-10 の緊急 WAF リリースは、Adobe Commerce と Magento Open Source に存在する未認証リモートコード実行ゼロデイ脆弱性（CVE-2026-75650、\"StyleSmuggler\"）への即時防御を提供します。Cloudflare Managed Ruleset に新しいルール（Rule ID ...440f5c55）が追加され、該当する攻撃をブロックします。ただしオリジンのパッチ適用と機密情報のローテーションは必須です。"
+      "ai_summary": "2026年9月10日の緊急 WAF リリースで、Adobe Commerce および Magento Open Source 向けのゼロデイ脆弱性 CVE-2026-75650（通称「StyleSmuggler」）に対する防御が追加された。この脆弱性はテンプレートエンジンの特殊要素の中和不備により、認証なしで任意の PHP コードを注入しリモートコード実行が可能になる。Cloudflare Managed Ruleset に新しいルール（Rule ID …440f5c55）が追加され、アクションは Block に設定された。影響を受けるサイトは Adobe のホットフィットを適用し、暗号鍵やトークンを直ちにローテーションすることが推奨される。"
     },
     {
       "title": "Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債",
@@ -1197,7 +1289,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "medibaではNuxt.jsからNext.jsへの技術リプレイスをClaude Codeで進め、ハーネス（ルール・コンテキスト・フィードバック・スキル）を整備して開発フローをスキル化。メリットは移植精度の向上・高速化・属人化の防止だが、デメリットとして技術負債の移植と開発者の「理解負債」が生じており、実際に現行システムに触れたりモックデータやmermaid図解で理解を深める取り組みを行っている。"
+      "ai_summary": "Claude Code をハーネス（ルール・コンテキスト・フィードバック・スキル）でスキル化した開発フローに適用し、Nuxt.js から Next.js への技術リプレイスを進める。メリットは移植精度向上、高速化、属人化防止；デメリットは技術負債の移植と開発者の「理解負債」。理解負債解消のため、実際に現行システムに触れ、モックデータで API パターンを洗い出し、mermaid で図解し、移行元ファイル位置をコメントし、関連リポジトリを集約して Claude のコンテキストとする。"
     },
     {
       "title": "【雑記】1年目の自分に伝えたい仕事の進め方",
@@ -1210,7 +1302,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "1年目の自分に伝えたい仕事の進め方を振り返り、基本的な仕事の進め方が身についておらず先輩に迷惑をかけた経験から、今ではどう教育するかを整理。具体的な数値や手法は示されていない。"
+      "ai_summary": "3年目になった著者が、1年目の自分に仕事の進め方について伝えたい内容を整理した雑記である。当時の基本がなっていなかった反省点と、現在の考え方をもとに改善点を提案している。"
     },
     {
       "title": "日本初日本発AWS GameDayで優勝して思ったこと",
@@ -1223,7 +1315,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "2026年9月6日に開催された日本初・日本発のAWS GameDayで優勝した感想を記す。乳児の夜泣き対応をしながら参加し、チームベースの実際のAWSシステムを使うイベントだったと説明し、勝利への喜びを述べている。"
+      "ai_summary": "日本で初めて開催された日本発のAWS GameDayに参加し、乳児の夜泣き対応をしながら優勝した著者が、その感想を述べている。チーム対抗でリアルなAWS環境での競技を楽しんだ経験を振り返っている。"
     },
     {
       "title": "なぜエージェントハーネスで開発パイプラインを作っているのか",
@@ -1236,64 +1328,25 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "クロステック・マネジメントではdocker-agentをベースにエージェントハーネスを構築し、Markdownの要求仕様書から自動でWebアプリケーションのPull Requestを生成するパイプラインを目指す。人間のレビューがボトルネックになるため、品質ゲートと監査をパイプラインに組み込み、ADRやコード規約などをAIが自動で解決する状態を作ることを目的としている。今後の課題として要求仕様書の検査方法や人間とAIの協調フェーズの設計が挙げられている。"
-    },
-    {
-      "title": "AWS Marketplace sellers now receive qualified demo and private offer requests in minutes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-demo-private-offer-requests-qualification",
-      "published_at": "2026-09-09T21:04:00+00:00",
-      "summary": "<p>AWS Marketplace sellers that activated the request demo or request private offer call-to-action buttons on their listings can now act on customer requests within minutes of submission, while customers are still actively evaluating their products. This happens automatically, with no changes required to their listings or workflows.<br /> <br /> When a customer submits a request, they can now provide details about their use case, and AWS Marketplace uses an agentic workflow to evaluate those det",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "AWS Marketplace の出品者が『デモをリクエスト』または『プライベートオファーをリクエスト』ボタンを有効にしている場合、顧客からのリクエストを数分で自動評価し、 qualificierte リクエストとして通知。エージェントベースのワークフローが利用ケースを分析し、出品者は手動でのスクリーニング不要。これにより商談のスピードアップと顧客体験の向上が期待できる。機能は現在提供中。"
-    },
-    {
-      "title": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/",
-      "published_at": "2026-09-09T21:00:00+00:00",
-      "summary": "<p>Amazon Connect Customer now gives contact center managers the ability to set specific capacity limits for different kinds of work. Previously, concurrency settings were applied at the channel level so all contacts within a channel were treated the same regardless of complexity or effort required. With this launch, managers can classify Task and Email contacts into workload types based on complexity, priority, or business function, each with its own concurrency and interruption rules. For exam",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "Amazon Connect Customer がタスクとメールそれぞれに種類別の容量制限を設定可能に。従来のチャネルレベルの並行性設定から、複雑さや優先度、ビジネス機能ごとに上限と中断ルールを個別定義。これにより高負荷コンタクトのバランス調整とサービス品質の維持が容易になる。機能は現在提供中。"
-    },
-    {
-      "title": "AWS Transform for .NET modernization is now generally available via CLI",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli",
-      "published_at": "2026-09-09T20:00:00+00:00",
-      "summary": "<p>Today, AWS announced the general availability of an AWS-managed transformation for .NET modernization in AWS Transform custom that you can trigger with a single one-line CLI command. You can run this transformation interactively, or script it into any existing pipeline or workflow to run autonomously. The CLI experience complements the existing AWS Transform for .NET experiences: the web application, Visual Studio IDE, Kiro Power, and MCP agents.</p> \n<p>AWS Transform custom enables organizat",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "AWS Transform for .NET のモダナイズ機能が CLI 経由で一般提供開始。1 行のコマンドで対話型またはスクリプトベースの自動変換を実行し、既存のパイプラインに組み込み可能。Web アプリ、Visual Studio IDE、Kiro Power、MCP エージェントと補完的に利用でき、.NET Framework から最新 .NET への移行を効率化。機能は現在提供中。"
+      "ai_summary": "docker-agent を基盤とするエージェントハーネスで開発パイプラインを構築。PO/PM が Markdown で書いた要求仕様書をハーネスが詳細設計（Mermaid ER/シーケンス図、OpenAPI、Gherkin）に変換し、実装ステージが自動で Web アプリケーションの Pull Request を生成。マルチエージェント非同期ステージに品質ゲートと監査を設け、AI コーディング加速による人間レビューのボトルネックを解消することを目的とする。"
     }
   ],
-  "day_summary": "AI推論の高速化とマルチモーダル処理が進み、AWSではSageMaker HyperPodのモデルキャッシュやBedrockのマルチモーダルエンベディング、Google CloudではVertex AIやGemini Enterprise Agent Platformの拡張が見られる。セキュリティ面では、CloudflareがCASBの自動修復とpost‑quantum DNSSEC（ML‑DSA‑44）を導入し、AWSはOutpostsやStorage GatewayのFIPS対応でハイブリッド環境のコンプライアンスを強化している。観測性とコスト最適化では、CloudflareがVoice AgentのターンレベルメトリクスやWorkflowの保持期間短縮でストレージコスト削減、Google CloudがStorage Intelligenceアドバイザーの一般提供とBigQueryの因果効果関数でデータサイエンスワークフローを強化している。インフラストラクチャでは、Terraformの高速化フラグやGoogle CloudのRapid Bucket・Flex CUD・TPU/GPU専用最適化、そしてAWS Lambda Durable FunctionsとPydantic AIの統合によりサーバーレスワークフローの自動化が進んでいる。開発者体験では、GitHub CopilotとActionsによる業務自動化ガイド、CursorのProjectsクラウドエージェント、OpenAIの音声・エージェントAPI、そしてAnthropicのAI悪用検出レポートが示すように、AIエージェントのスケーラブルな利用とリスク管理が同時に議論されている。",
+  "day_summary": "今日各サービスで共通して見られたのは、AIエージェントや言語モデルを活用した開発自動化とワークフローの統合が進んでいる点である。同時に、クラウドインフラストラクチャのスケーリングと観測性の向上により、高トラフィック環境でも信頼性を保つ取り組みが強調された。セキュリティ面ではゼロトラストの自動化やポスト量子暗号への移行が具体的に発表され、将来の脅威に備えた対応が進んでいる。また、データ処理の効率化（統計・因果推論関数の追加、DuckDBのアウトオブコア処理など）と、ハイブリッド・マルチクラウド環境でのシームレスな連携が繰り返し言及された。これらは、生産性の向上と基盤の堅牢化を両立させようとする業界全体の動きを示している。",
   "service_summaries": {
-    "GitHub Blog": "今日のGitHub Blogは、CopilotとActionsを活用した業務自動化事例、初心者向けCopilotアプリの使い方ガイド、そして8月のサービス可用性レポートという3本の記事で構成されており、AIによる開発支援の実践的活用とプラットフォームの信頼性向上への継続的な取り組みが示されている。",
-    "AWS What's New": "本日のAWS What's Newは、AI推論の高速化とマルチメディア処理の強化が目立つ。SageMaker HyperPodのモデルキャッシュやBedrockのマルチモーダルエンベディング、Lambda Durable FunctionsとPydantic AIの統合など、推論遅延削減とAIワークフローの自動化が進んでいる。一方で、ビデオ広告の最適化やフォレンジックウォーターマーク、ダイナミックマルチビューなど、メディアストリーミング関連の機能拡充も多数見られる。さらに、CloudWatchやAPI Gatewayのログ・監視強化、OutpostsやStorage GatewayのFIPS対応など、可視性とハイブリッド/エッジ環境でのセキュリティ・コンプライアンス向上も重要なテーマだ。最後に、開発者向けの自動ユニットテスト生成やCLIベースの .NET モダナイズ、Marketplaceのリクエスト自動評価など、開発効率と運用自動化を支援する更新が目立つ。",
-    "Hacker News (front page)": "今日(2026年9月12日)のHacker Newsフロントページでは、AI関連のインフラ最適化や軽量化ライブラリが注目され、一方でデータセンターのエネルギー消費や環境影響への懸念が顕在化している。また、オープンソースプロジェクトの公開や企業によるAI人材採用が活発であり、コード品質の評価やAIの倫理的利用に関する議論も見られる。さらに、科学的発見や歴史的事例など、テクノロジー以外の話題も混在している。",
-    "Cloudflare Blog": "Cloudflare Blogの本日の記事は、セキュリティ運用の自動化と後量子暗号への移行という二つのテーマに焦点を当てている。CASBでは自動修復ポリシーによりリスクファイルの瞬時な対応が可能になり、手動工数を削減する。一方、1.1.1.1ではNIST標準のML-DSA-44を用いたDNSSEC検証を開始し、2,420バイトの署名サイズに対応するインフラ整備を進めている。これにより、ゼロトラスト環境での運用効率向上と、量子コンピュータ時代への基盤強化が同時に進められている。",
-    "OpenAI Blog": "OpenAIは、スケーラブルなストレージ基盤の強化や音声・エージェントAPIなどのプラットフォーム機能を拡充し、金融、政府、ヘルスケアなど特定産業向けにカスタマイズされたソリューションを提供。さらに、自然言語でのデータ活用や創薬支援など、AIを業務プロセスに統合しやすくする取り組みが目立つ。これにより、企業や公共部門がAIを導入しやすくし、革新的なユースケースを促進している。",
-    "Qiita Trending (official)": "今日のQiita Trendingでは、AIエージェントの自動化や因果推論・内省による推論強化、Terraformの高速化フラグ、個人開発の現状など、AIを活用した開発効率化とインフラ最適化が目立つ。また、セキュリティやキャリア、社内文化といったソフトスキル関連の記事も散見され、技術だけでなく人間側の成長にも焦点が当てられている。全体として、AIがツールとして浸透しつつ、その実行環境や人間の判断・学び方をどう整えるかが注目されている。",
-    "Zenn Trending": "今日(2026-09-11)のZenn Trendingでは、LLMを活用した開発自動化が複数記事で取り上げられ、特にGPT-6 Astraの新機能やClaude Codeを用いたハーネスエンジニアリング、エージェントハーネスによる開発パイプラインが注目されている。一方、可観測性分野ではeBPFによるゼロコード計装の難点やDuckDBの外部集約アルゴリズムが詳しく解析され、統計やドメイン設計ではp値の解釈ミスやSouther言語によるDDDトリレンマへのアプローチが紹介されている。全体として、AI補助コード生成とそれに伴うインフラ・ツールチェーンの最適化、そして正確性を保つための形式的手法や実測に関心が集まっている。",
-    "Cloudflare Changelog": "本日のCloudflare Changelogでは、Voice Agentの観測性向上、AI Searchの拡張、Workflowのコスト削減、コンテナによるAIコード実行のサポート、そして緊急のWAFセキュリティパッチという5つのテーマが見られます。観測性ではターンレベルのメトリクスが追加され、AIでは拡張子なしオブジェクトのインデックス化が可能になりました。Workflowではデフォルト保持期間が短縮されストレージコスト削減に寄与し、コンテナではOpenAI Agents API経由でCodexの実行環境を提供します。最後に、緊急のWAFリリースでAdobe Commerce/Magentoのゼロデイ脆弱性に対応しています。",
-    "Google Cloud Status": "本日のGoogle Cloud Statusは、us-central1地域での物理的なファイバーケーブル切断によるネットワーク障害が唯一のインシデントとして報告された。このインシデントは、定期メンテナンス中の手順不備が大規模なサービス劣化を引き起こすリスクを浮き彫りにし、自動化されたオーケストレーションへの移行や光ファイバーモニタリングの強化が急務であることを示している。また、影響を受けたゾーン間でのトラフィック遮断が迅速に行われ、被害の拡大を最小限に抑えた対応が評価されている。",
-    "Google AI Blog": "本日のGoogle AI Blogは、SearchのAI機能を活用したパーソナルフィットネスサポートが特徴であり、生成AIを日常生活の利便性向上に組み込む傾向が見られる。",
-    "Google Cloud Blog": "今日の Google Cloud ブログでは、AI エージェントおよび基盤モデルの提供拡大が顕著で、Claude、Grok などのサードパーティモデルや Gemini Enterprise Agent Platform の機能強化が相次いで発表されている。データストリーミングでは Pub/Sub や Kafka、Dataflow、BigQuery の継続的クエリにおけるステートフル処理や AI 推論 SMT の一般提供など、リアルタイム分析の基盤が強化されている。インフラストラクチャ面では、TPU や GPU の専用最適化、Flex CUD の拡張、Rapid Bucket によるストレージアクセス高速化など、ワークロード効率の向上が強調されている。さらに、Apigee を中心とした AI ガバナンスやセキュリティ、ポリシー管理の機能拡張も見られ、エンタープライズ向け AI の信頼性確保に向けた取り組みが続く。",
-    "Google Cloud Release Notes": "2026年9月10日のGoogle Cloudリリースノートでは、AI・ML関連のプレビュー機能が複数追加され、特にBigQueryの会話型分析に統計相関・評価メトリクス・因果効果関数が登場し、データサイエンスワークフローが強化されています。ストレージとガバナンス分野では、Storage Intelligenceアドバイザーが一般提供となり、IAMのMCPサーバーもGAに移行して一元的なポリシー管理が可能になっています。開発者向けには、Looker向けVS Code拡張やCloud SQLのリージョンエンドポイントがGAとなり、VPCサービスコントロールとの連携が進んでいます。全体として、AI駆動の分析機能拡張とマルチクラウド・ハイブリッド環境でのシームレスな運用管理が今日の主なテーマです。",
-    "Google Cloud Blog (日本語)": "本日のGoogle Cloud Blog（日本語）は、教育機関向けの生成AI活用に関する発表が中心であり、大学との包括連携や教育現場へのGeminiベースのAIツール導入が強調されている。生成AIを活用した人材育成、業務効率化、学生支援、研究支援の4領域にわたる取り組みが示され、教育分野におけるAIネイティブ化の推進が見られる。また、GeminiやBigQueryなどのクラウドサービスを組み合わせたソリューションが提案され、公共部門や教育機関向けのAI利用が加速している。",
-    "Anthropic News (mirror)": "本日のAnthropic News (mirror)は、2026年9月の脅威インテリジェンスレポート『Detecting and countering misuse of AI: September 2026』を中心に、Claudeモデルの悪用事例とその防御動向を報じている。レポートはサイバー、影響力、監視、詐欺、生物学的悪用、従来兵器、不正蒸留の7分野で確認された脅威を詳細に分析し、AIによる攻撃の高度化と自動化が進行していることを指摘している。特に、ロシアのスパイグループGTG-20006や金銭動機のShinyHunters関係者GTG-50014、中国系オペレーターGTG-10007など、複数の脅威グループがAIを活用したツールキット更新やエクスプロイト開発を行ったことが明らかになった。さらに、盗まれたAPIキーを悪用したAIサプライチェーンへの攻撃が増えており、防御側の検出回避スピードが上がっていることが懸念されている。",
-    "Cursor Blog (mirror)": "Cursor Blog (mirror) の本日の記事は、Projects という新機能の発表に集中しており、クラウドエージェントによる大規模作業の管理、共有コンテキスト、サブスクリプションベースの自動化が強調されている。これにより、開発者は機能実装や移行など長期間にわたる作業をエージェントが継続的に遂行できるようになり、AI を活用した開発プロセスのスケーラビリティが向上していることが示唆される。"
+    "Hacker News (front page)": "今日のHacker Newsフロントページは、開発者向けツールとAI関連の話題が目立つ。ターミナルエディタやマルチPXエミュレータ、LLMラッパーの軽量版など、生産性向上ツールが多数登場。一方、AIの倫理や安全性を巡る議論（Claudeの年齢制限、RTKのトークン削減効果への疑問、数学分野におけるAIの目的ずれ）も活発だ。インフラストラクチャのスケーリング（118M QPS達成）やオープンソースリリース、環境政策や科学的発見など、技術と社会の幅広いトピックが見られる。",
+    "AWS What's New": "今日発表されたAWSのアップデートは、AI/MLワークロードの高速化と効率化、観測性とセキュリティの強化、開発者生産性向上、メディア処理の最適化、そしてハイブリッド・エッジ環境へのインフラストラクチャ拡張が主なテーマである。",
+    "GitHub Blog": "今日のGitHub Blogは、開発者生産性向上とプラットフォーム信頼性の二本柱が見られる。マーケティングオペレーションをGitHub Issue・Actions・Copilotで自動化する事例や、Copilot appのdiff・ターミナル・ブラウザパネルによる統合ワークフロー紹介が生産性側を示す。一方で、8月の可用性レポートではインシデント詳細と改善策が示され、インフラの耐障害性強化への焦点がうかがえる。全体として、AIアシスタントによる作業効率化とサービス基盤の堅牢化が同時に進んでいる。",
+    "Qiita Trending (official)": "今日(2026年9月11日)のQiitaトレンドでは、AIエージェントを活用した開発自動化やインフラ最適化が注目されている。Terraformのプラン高速化技術やNx Plugin for AWSによるフルスタック構築が話題となっている。また、アクセスログ分析によるセキュリティ対策や、キャリア形成・学習に関する記事も多く見られる。全体として、実務での効率化とスキル向上を目的とした技術情報が中心だ。",
+    "Cloudflare Blog": "Cloudflare Blog の本日の記事は、ゼロトラストセキュリティの自動化とポスト量子時代への準備という二つのテーマに焦点を当てています。CASB ではイベント駆動型の自動修復ポリシーを導入し、セキュリティチームの負荷を軽減します。一方、1.1.1.1 では NIST 標準の ML-DSA-44 を用いたポスト量子 DNSSEC 検証を開始し、大容量署名の扱いとダウングレードリスクへの対応を示しています。これにより、セキュリティ運用の効率化と将来暗号への移行が同時に進んでいることがわかります。",
+    "OpenAI Blog": "OpenAI Blog の本日は、スケーラブルなインフラストラクチャの進展、科学研究・医薬開発へのAI活用、企業データ活用のための自然言語インターフェース、金融・政府向けの専門ソリューション、音声エージェントおよび自律エージェントAPIの提供といった、多様な分野へのAI実装と利用の拡大が示されている。",
+    "Google Cloud Release Notes": "今日のGoogle Cloudリリースノートでは、AIエージェントとの連携を強化するModel Context Protocol（MCP）関連の機能が複数のサービスで発表され、API GatewayやIAMなどでプレビューまたはGA提供が始まっています。また、BigQueryの会話型分析に統計関数や因果推論関数が追加され、機械学習ワークフローの拡張が進んでいます。セキュリティ面では、Chronicleの読み取り専用スコープから書き込み権限が削除される方針が示され、VPC Service ControlsやPropagated Connectionsを通じた細粒度アクセス制御も強化されています。さらに、ストレージインテリジェンスやCloud StorageのアドバイザーがGAになるなど、可観測性と運用管理の機能が充実しています。",
+    "Zenn Trending": "今日 Zenn Trending では、AI を活用したコード生成やエージェントハーネスによる開発パイプラインの自動化、テスト実行時間やコンパイラ速度、DuckDB のアウトオブコア処理などパフォーマンス改善の話題が多く、さらにドメイン駆動設計における純粋性と性能の両立を狙う言語やパターン、フロントエンドの技術置換におけるハーネスエンジニアリングが注目されている。",
+    "Cloudflare Changelog": "本日の Cloudflare Changelog は、観測性の向上と AI 連携、コスト最適化、セキュリティ強化という四つのテーマが見られる。まず、Voice Agents のターンレベル メトリクスと AI Search の拡張子レス R2 オブジェクト対応により、開発者はアプリケーションの動作を細かく把握し、柔軟にデータを扱えるようになった。次に、Workflow のデフォルト保持期間が 7 日に短縮され、ストレージコスト削減を図りながらも必要に応じてカスタマイズが可能となっている。さらに、Cloudflare Containers が OpenAI Agents API の実行環境として利用可能になり、Codex などの AI ツールをセルフホストで簡単に組み込めるようになった。最後に、緊急の WAF ルール追加により、ゼロデイ脆弱性へのエッジレベルでの即時防御が提供された。",
+    "Google Cloud Status": "本日のGoogle Cloud Statusは、us-central1-bゾーンでの光ファイバーの誤切断によるネットワークサービス劣化が唯一のインシデントとして報告され、物理メンテナンス手順の見直しと自動化の必要性が浮き彫りになった。",
+    "Google AI Blog": "Google AI Blog の今日の記事は、Search の AI 機能を活用したパーソナライズされたトレーニングプラン作成、音楽プレイリスト生成、ショッピング支援など、日常生活における実用的な AI 活用事例が中心であった。特に Canvas ツールや Shopping Graph など、生成 AI と大規模データベースを組み合わせたサービスが強調されていた。",
+    "Google Cloud Blog": "Google Cloud ブログでは、AI エージェントとデータストリーミングの強化が顕著であり、Pub/Sub の AI 推論 SMT の一般提供や Dataflow の一時停止機能、BigQuery ストレージ書き込み API の名称変更など、エンタープライズ向けの信頼性と効率性を高めるアップデートが多い。さらに、データベース接続やマネージドサービスの一般提供が進み、AlloyDB Omni や PostgreSQL コネクターなどが GA となった。全体として、AI ワークロードの実用化とハイブリッド・マルチクラウド環境でのシームレスな連携がテーマとなっている。",
+    "Google Cloud Blog (日本語)": "今日は教育機関向けの生成 AI 導入や公共部門での AI 活用が中心。Google Cloud は近畿大学と包括連携し、約 2 万人に Gemini アプリの有償版を提供して AI ネイティブ大学の実現を支援。また他の記事では公共部門向け Gemini の国内データレジデンシー オプションや業界別の戦略的提携が紹介されるなど、教育・行政・産業領域での AI 適用が進む傾向が見られる。全体として、生成 AI を基盤とした業務変革と人材育成が今日の主要テーマだ。",
+    "Anthropic News (mirror)": "Anthropic の 2026 年 9 月の脅威インテリジェンス レポートは、Claude モデルを悪用したサイバー、影響、監視、詐欺、生物学的、従来兵器、蒸留の 7 つの害悪領域での事例を示し、AI の自動化と uplift（能力向上）による攻撃の高速化・規模拡大が顕著であることを指摘している。",
+    "Cursor Blog (mirror)": "Cursor Blog (mirror) の本日は、新機能「Projects」の発表が唯一の記事であり、長期作業のコンテキスト保持と数千のサブエージェントによるタスク委譲を中心としたワークフロー自動化がテーマです。クラウドエージェントと共有コンテキストにより、デバイスを閉じても作業が継続し、エージェント間で知識が蓄積される仕組みが強調されています。さらに、Slack やスケジュールによるサブスクリプション機能と、ベータ版での段階的リリースが示され、ユーザーの開発プロセス全体への統合が狙われています。"
   }
 }
