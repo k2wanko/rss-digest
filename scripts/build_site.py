@@ -76,6 +76,7 @@ def page_shell(title: str, body: str, active: str = "latest") -> str:
     {body}
     <footer class="site-footer">Auto-updated daily via GitHub Actions</footer>
   </div>
+  <script src="/rss-digest/assets/broadcast.js"></script>
 </body>
 </html>
 """
@@ -99,6 +100,33 @@ def json_links(run_date: str) -> str:
 </div>"""
 
 
+def render_paragraphs(text: str) -> str:
+    chunks = [part.strip() for part in re.split(r"\n{2,}", text.strip()) if part.strip()]
+    if len(chunks) <= 1:
+        chunks = [part.strip() for part in text.splitlines() if part.strip()]
+    return "".join(f"<p>{html.escape(chunk)}</p>" for chunk in chunks)
+
+
+def render_overview(payload: dict[str, Any]) -> str:
+    broadcast = (payload.get("broadcast") or "").strip()
+    day_summary = (payload.get("day_summary") or "").strip()
+    if broadcast:
+        label = "キャスター要約"
+        body = render_paragraphs(broadcast)
+    elif day_summary:
+        label = "AI要約"
+        body = f"<p>{html.escape(day_summary)}</p>"
+    else:
+        return ""
+    return f"""<div class="broadcast" data-broadcast>
+  <div class="broadcast-toolbar">
+    <span class="ai-badge">{html.escape(label)}</span>
+    <button type="button" class="broadcast-play" hidden aria-label="要約を読み上げる">読み上げる</button>
+  </div>
+  <div class="broadcast-script">{body}</div>
+</div>"""
+
+
 def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -> str:
     report = payload["report"]
     items = payload["items"]
@@ -116,12 +144,7 @@ def render_digest_page(run_date: str, payload: dict[str, Any], *, active: str) -
         )
         errors_html = f'<div class="errors"><strong>Feed errors</strong><ul>{error_items}</ul></div>'
 
-    day_summary_html = ""
-    if payload.get("day_summary"):
-        day_summary_html = (
-            f'<div class="day-summary"><span class="ai-badge">AI要約</span>'
-            f'{html.escape(payload["day_summary"])}</div>'
-        )
+    day_summary_html = render_overview(payload)
 
     filter_buttons = ['<button type="button" class="filter-btn active" data-filter="all">All</button>']
     for tag in tags:

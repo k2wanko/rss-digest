@@ -5,6 +5,11 @@ on:
     # 06:00 JST daily (21:00 UTC previous day)
     - cron: "0 21 * * *"
   workflow_dispatch:
+    inputs:
+      deploy_only:
+        description: "Build and deploy the site from existing data without collecting"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -34,9 +39,11 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch feeds
+        if: ${{ !inputs.deploy_only }}
         run: python scripts/collect.py
 
       - name: Cache OpenCode
+        if: ${{ !inputs.deploy_only }}
         id: opencode-cache
         uses: actions/cache@v4
         with:
@@ -44,13 +51,15 @@ jobs:
           key: opencode-${{ runner.os }}-1.18.30
 
       - name: Install OpenCode
-        if: steps.opencode-cache.outputs.cache-hit != 'true'
+        if: ${{ !inputs.deploy_only && steps.opencode-cache.outputs.cache-hit != 'true' }}
         run: curl -fsSL https://opencode.ai/install | bash -s -- --version 1.18.30 --no-modify-path
 
       - name: Add OpenCode to PATH
+        if: ${{ !inputs.deploy_only }}
         run: echo "$HOME/.opencode/bin" >> "$GITHUB_PATH"
 
       - name: Summarize with OpenCode
+        if: ${{ !inputs.deploy_only }}
         env:
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
         run: python -u scripts/summarize.py
@@ -61,6 +70,7 @@ jobs:
         run: python scripts/build_site.py
 
       - name: Commit digest
+        if: ${{ !inputs.deploy_only }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

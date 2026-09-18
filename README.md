@@ -23,7 +23,7 @@ scripts/summarize.py  # AI summaries via an OpenCode agent
 scripts/build_site.py # static site for GitHub Pages
 site/assets/          # CSS
 data/
-  YYYY-MM-DD.json     # machine-readable snapshot (items + ai_summary/day_summary/service_summaries)
+  YYYY-MM-DD.json     # machine-readable snapshot (items + ai_summary/day_summary/broadcast/service_summaries)
   YYYY-MM-DD.md       # human-readable digest (raw, no AI summaries)
   latest.json
   latest.md
@@ -35,7 +35,7 @@ GitHub Pages publishes a readable digest after each run:
 
 **https://k2wanko.github.io/rss-digest/**
 
-Features: source grouping, tag filters, archive of past days.
+Features: source grouping, tag filters, archive of past days, newscaster-style day readout with in-browser speech.
 
 Raw JSON is published alongside the HTML:
 
@@ -59,11 +59,12 @@ feeds:
 
 ## AI summaries
 
-After each collection run, `scripts/summarize.py` calls an OpenCode agent once per service (model: `nvidia/nvidia/nemotron-3-super-120b-a12b`, NVIDIA's Nemotron 3 Super — see "Model" below) plus one final rollup call, producing three tiers of Japanese summaries:
+After each collection run, `scripts/summarize.py` calls an OpenCode agent once per service (model: `nvidia/nvidia/nemotron-3-super-120b-a12b`, NVIDIA's Nemotron 3 Super — see "Model" below) plus one final rollup call, producing four tiers of Japanese summaries:
 
 - **Article-level**: `items[].ai_summary`, 2-5 sentences per article, going into technical specifics (numbers, versions, benchmark results) when the source material actually supports them
 - **Service-level**: `service_summaries[<source name>]`, the day's trend per feed
 - **Day-level**: `day_summary`, an overview across all feeds, built from the service summaries
+- **Broadcast**: `broadcast`, a spoken newscaster script (です・ます調, about 60–90 seconds) generated in the same day-rollup call. The site shows it as キャスター要約 with a browser speech-synthesis play button. Days that already have `day_summary` but no `broadcast` generate only the script on the next `summarize.py` run (including `--backfill`), without re-summarizing every article.
 
 Each service's articles (title/link/raw snippet) are embedded directly in the prompt — the agent doesn't read the digest JSON file itself. It can fetch an article's actual page (`webfetch`) when the raw RSS snippet is too thin to summarize (e.g. Hacker News' metadata-only entries), and writes its result as JSON to a temporary `data/YYYY-MM-DD.summary.<service-slug>.json` (or `.summary.day.json` for the rollup), which `summarize.py` reads, merges into the real digest, and deletes. If the agent replies in chat instead of writing the file, `summarize.py` parses the JSON out of its reply as a fallback. When the article page itself fails to fetch (JS-required, 403, etc.) and the raw snippet has a secondary URL such as an HN comments link, the prompt tells it to try that too rather than give up.
 
@@ -89,6 +90,7 @@ python scripts/summarize.py                 # today's digest
 python scripts/summarize.py --date 2026-09-05
 python scripts/summarize.py --backfill       # every data/*.json missing a summary
 python scripts/summarize.py --date 2026-09-05 --force  # redo even if already summarized
+python scripts/summarize.py --date 2026-09-05 --broadcast-only  # redo only the newscaster script
 ```
 
 ## Run locally
