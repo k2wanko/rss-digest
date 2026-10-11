@@ -1,40 +1,404 @@
 {
   "report": {
-    "run_date": "2026-10-10",
-    "generated_at": "2026-10-10T00:28:42.863538+00:00",
+    "run_date": "2026-10-11",
+    "generated_at": "2026-10-11T00:05:04.184156+00:00",
     "timezone": "Asia/Tokyo",
     "lookback_hours": 48,
     "feeds_total": 16,
     "feeds_ok": 16,
-    "item_count": 88,
+    "item_count": 70,
     "errors": []
   },
   "items": [
     {
-      "title": "Rewriting Prime Agent in Rust",
-      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
-      "published_at": "2026-10-09T23:06:25+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent-rust\">https://www.primeintellect.ai/blog/prime-agent-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027694\">https://news.ycombinator.com/item?id=50027694</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "published_at": "2026-10-10T22:50:10+00:00",
+      "summary": "<p>Article URL: <a href=\"https://nishtahir.com/build-your-own-decision-model/\">https://nishtahir.com/build-your-own-decision-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50037949\">https://news.ycombinator.com/item?id=50037949</a></p>\n<p>Points: 36</p>\n<p># Comments: 2</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "Prime AgentはTypeScriptからRustに完全書き直し、ダウンロード数30万回以上、処理トークン8兆以上を達成。2週間で2000以上のエージェントが10,000以上のサンドボックスで2000億トークンを使用し、自己書き換えを行った。Rust版は冷起動遅延が14.18倍高速化し、メモリ使用量を80%削減するなど、ベンチマークで顕著な性能向上を示した。"
+      "ai_summary": "この記事では、Qwen/Qwen3-1.7Bを使用した制約デコーディングによる意思決定モデルの構築法が説明される。CommonsenseQAデータセットでのファインチューン前の精度は0.5938（マクロF1 0.5844）であり、ファインチューン後に0.6241（マクロF1 0.6234）へ向上。さらに温度スケーリングT≈3.797により校正が改善された。"
     },
     {
-      "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
-      "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
-      "published_at": "2026-10-09T22:05:53+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344\">https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027167\">https://news.ycombinator.com/item?id=50027167</a></p>\n<p>Points: 38</p>\n<p># Comments: 20</p>",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "published_at": "2026-10-10T20:31:50+00:00",
+      "summary": "<p>Article URL: <a href=\"https://housing.over.pizza/\">https://housing.over.pizza/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036864\">https://news.ycombinator.com/item?id=50036864</a></p>\n<p>Points: 125</p>\n<p># Comments: 44</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "寿司チェーン経営者の木村潔氏は、ソマリア沿岸で4隻の漁船を提供し、イエローフィンマグロの漁法を教え、冷凍施設を整備して安定した買い取りを約束した。これにより海賊攻撃件数は2011年の237件から2012年に75件、2013年に15件まで減少し、2015年には事実上廃絶した。また、2026年1月にオマ産マグロを5億1000万円（約320万ドル）で落札したことも報じられている。"
+      "ai_summary": "サンフランシスコの住宅シミュレーションゲームが紹介されている。プレイヤーが建設を試みるが、都市側がそれを好まない仕組みとなっている。具体的な数値やバージョンは記載されていない。"
+    },
+    {
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "published_at": "2026-10-10T19:12:55+00:00",
+      "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Takeshi%27s_Castle\">https://en.wikipedia.org/wiki/Takeshi%27s_Castle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50036119\">https://news.ycombinator.com/item?id=50036119</a></p>\n<p>Points: 90</p>\n<p># Comments: 30</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "1986年から1990年にかけて放送された日本のゲームショー『たけし城』について説明される。全133話が放送され、2023年にAmazon Prime Videoでリブート版が配信された。レーザーガン版では優勝賞金が100万円（約8000ドル相当）であった。"
+    },
+    {
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "published_at": "2026-10-10T18:48:35+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035886\">https://news.ycombinator.com/item?id=50035886</a></p>\n<p>Points: 104</p>\n<p># Comments: 71</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "FT誌によると、NvidiaがオープンモデルスタートアップのReflection AIの買収を検討している。詳細な条件や金額は記事から確認できなかった。"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "published_at": "2026-10-10T18:08:49+00:00",
+      "summary": "<p>Article URL: <a href=\"https://motherduck.com/blog/why-duckdb-20-is-faster/\">https://motherduck.com/blog/why-duckdb-20-is-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50035530\">https://news.ycombinator.com/item?id=50035530</a></p>\n<p>Points: 121</p>\n<p># Comments: 41</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "DuckDB 2.0アルファ版では、非同期I/OによりS3上の2.2GB Parquetファイル（2268行グループ）のクエリ時間がDuckDB 1.5.5の18.8秒から7.7秒へ短縮された。ネットワークとCPUのオーバーラップによって実現された。"
+    },
+    {
+      "title": "MrBeast 'spends millions reverse engineering the algorithms on each platform'",
+      "link": "https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas",
+      "published_at": "2026-10-10T15:51:39+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas\">https://www.barchart.com/story/news/5472260/mrbeast-told-billionaire-mark-cuban-he-spends-millions-of-dollars-reverse-engineering-the-algorithms-on-each-platform-so-he-never-runs-out-of-ideas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034123\">https://n",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "MrBeastは各プラットフォームのアルゴリズムを逆エンジニアリングするために数百万ドルを費やしていると語られているが、具体的な金額や根拠は示されていない。"
+    },
+    {
+      "title": "Knuth reward check",
+      "link": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "published_at": "2026-10-10T15:47:01+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.thomas-huehn.com/knuth-reward-check/\">https://www.thomas-huehn.com/knuth-reward-check/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50034081\">https://news.ycombinator.com/item?id=50034081</a></p>\n<p>Points: 132</p>\n<p># Comments: 48</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "著者はComputer Modern Typefacesの第1巻第1ページの誤りを見つけたことで、Knuth賞の小切手2.88ドル（0x$1.20）を受け取ったと報告している。後に別の誤り提案で0.32ドルの小切手も得られた。Knuthの誤りに対する賞金はコンピュータサイエンスの folklore とされている。"
+    },
+    {
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "published_at": "2026-10-10T14:32:50+00:00",
+      "summary": "<p>Article URL: <a href=\"https://community.bitwarden.com/t/published-version-update-in-app-stores/102750\">https://community.bitwarden.com/t/published-version-update-in-app-stores/102750</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033407\">https://news.ycombinator.com/item?id=50033407</a></p>\n<p>Points: 332</p>\n<p># Comments: 243</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Bitwardenコミュニティの投稿によれば、今後公開されるアプリは商用ライセンスビルドとなるが、GPLv3オープンソース版はGitHub上で継続的に更新される。現在の機能は両バージョンで利用可能であり、将来的なコンポーネントはケースバイケースでライセンスが決まる。"
+    },
+    {
+      "title": "Unikernels were hard. key word: were",
+      "link": "https://ghuntley.com/unikernels/",
+      "published_at": "2026-10-10T14:27:09+00:00",
+      "summary": "<p>Article URL: <a href=\"https://ghuntley.com/unikernels/\">https://ghuntley.com/unikernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50033357\">https://news.ycombinator.com/item?id=50033357</a></p>\n<p>Points: 77</p>\n<p># Comments: 34</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Unikernelはかつては難しかったが、現在はAIによるライブラリ移植やS3をストレージとして利用することで障壁が低くなっている。記事ではKVM逃脱により50,000ドルの賞金が得られた例や、言語『Cursed』の開発に約6,000ドルかかったことが言及されている。"
+    },
+    {
+      "title": "I would like the value of my home to rise, while my property taxes fall",
+      "link": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "published_at": "2026-10-10T13:29:03+00:00",
+      "summary": "<p>Article URL: <a href=\"https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/\">https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50032758\">https://news.ycombinator.com/item?id=50032758</a></p>\n<p>Points: 196</p>\n<p># Comments: 472</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "米国では過去3年間でフロリダ州やテキサス州など複数州が所有者居住用不動産への課税を軽減し、商業物件へ税負担を移す改革を行っている。これにより住宅所有者の資産増大がさらに顕著になる一方、新規購入者にとって住宅取得コストが上昇する可能性がある。具体的な税率や数値は示されていない。"
+    },
+    {
+      "title": "AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる",
+      "link": "https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T12:16:28+00:00",
+      "summary": "人月見積もりで食べてきた皆さんは今、「AI時代に、この見積もり詐欺なんじゃないか？」と悩まされているのではないでしょうか。\n実装も設計書の執筆もAIがやるようになると、人月で積み上げるものがなくなります。\nでは開発費は何で決まるのか。よく出てくるのは「顧客が得る利益の何%か...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "AIが実装や設計書作成を担うようになると、従来の人月見積もりが機能しなくなる。開発費は顧客が得る利益の何パーセントかで決まる考え方が示されている。記事では、価値ベースの見積もりへの転換が必要だと主張している。"
+    },
+    {
+      "title": "飲食店ヒアリングでみるDDD",
+      "link": "https://qiita.com/o68606007/items/ed509abcae244a4f3ae8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T11:51:08+00:00",
+      "summary": "はじめに\nドメイン駆動設計についての記事です。\n今回、コードはなく、エンジニアと専門家（今回は店主）との会話から、DDDについての学びを深めていきます。\n\n背景・目的\nDDDは、業務を正しくとらえ理解し、コードに落とし込むことまでが大切になります。\nでは、その業務はどうや...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "ドメイン駆動設計（DDD）を学ぶため、実際の飲食店店主へのヒアリングを行った。業務を正しく捉え、それをコードに落とし込むプロセスを会話から抽出している。コードは登場せず、ドメイン理解の重要性が強調される。"
+    },
+    {
+      "title": "Apple/macOS removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "published_at": "2026-10-10T10:57:31+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.opengroup.org//openbrand/register/\">https://www.opengroup.org//openbrand/register/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031653\">https://news.ycombinator.com/item?id=50031653</a></p>\n<p>Points: 235</p>\n<p># Comments: 213</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "The Open GroupのUNIX®認定製品リストからApple/macOSが除外されていることが確認できる。これによりmacOSが公式のUNIX登録から外れたことを示唆している。バージョンなどの具体的な数値は記載されていない。"
+    },
+    {
+      "title": "【Ruby on Rails】自己結合を使ってコメントへのリプライ（返信）機能を実装する",
+      "link": "https://qiita.com/ka_07/items/ae8e717f57ea83f73124?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T10:53:17+00:00",
+      "summary": "はじめに\nRuby on Railsで掲示板アプリなどのコメント機能を作っているとき、「コメントに対する返信（リプライ）機能」を実装したいと思い、自己結合を使って実装しました。\n実装する中で、フォームの挙動で少しハマったポイントがあったため、解決策や実装の流れを備忘録とし...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Ruby on Railsで掲示板アプリのコメント機能に自己結合を利用し、返信機能を実装した。実装時にフォームの挙動でつまずいた点があり、その解決策を備忘録として残している。自己結合による親子関係の表現方法が示されている。"
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "published_at": "2026-10-10T10:52:09+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rociiu/talorys\">https://github.com/rociiu/talorys</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50031614\">https://news.ycombinator.com/item?id=50031614</a></p>\n<p>Points: 233</p>\n<p># Comments: 118</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "GitHubリポジトリ『talorys』は、Cloudflare Pages、Workers、Durable Objects、Workers AIを使用して個人向けAIエージェントを構築するプロジェクトである。スター数は357、フォークは21であり、Cloudflare無料枠内での動作を目指している。バージョン番号は記載されていない。"
+    },
+    {
+      "title": "「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本",
+      "link": "https://zenn.dev/zhidao/articles/e5982e81b6dbbf",
+      "published_at": "2026-10-10T09:41:00+00:00",
+      "summary": "Morikazu Takegaki and Suguru Arimoto, A New Feedback Method for Dynamic Control of Manipulators, Journal of Dynamic Systems, Measurement, and Control, Vol. 102, pp. 119-125, 1981.\n元論文へのリンク\n\n 1. 導入\nマニピュレータは非線形で複雑なダイナミクスを持っている．非線形項を補償して制御を簡単にする方法[1-3]（訳注※いわゆる厳密な線形化）が開発されてきたが，これらは計算が複雑でマイコンに実装するのが難し...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "1981年に発表された『A New Feedback Method for Dynamic Control of Manipulators』は、ジャーナル『Journal of Dynamic Systems, Measurement, and Control』Vol. 102, pp. 119-125に掲載された。マニピュレータの非線形ダイナミクスに対し、従来の厳密線形化では計算が複雑でマイコン実装が困難だった問題に対して、新しいフィードバック制御手法を提案している。"
+    },
+    {
+      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス",
+      "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T07:41:11+00:00",
+      "summary": "はじめに\n2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。\nその侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。\nまた今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "2026年9月下旬以降、国内でサイバー攻撃による被害が相次いで報告されている。侵入経路はネットワーク機器の脆弱性やフィッシングメールなど多様であり、今後はAIエージェントによる外部コンテンツへのアクセスも懸念される。記事では実践的なセキュリティベストプラクティスを提示している。"
+    },
+    {
+      "title": "【Prisma 8】Docker起動時にTodoアプリへ初期データを投入する",
+      "link": "https://qiita.com/keikeigo/items/eddf5a3d844174f72c3a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T07:06:21+00:00",
+      "summary": "はじめに\n現在Todoアプリを React/Hono/Prisma/PostgreSQL/Docker で作成しています。\nその際に初期データの投入機能をつけたので備忘録として残しておきます。\n\n前提\n\nDockerですでにTodoアプリが完成している\nPrisma v8...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Prisma v8を用いたTodoアプリにおいて、Dockerコンテナ起動時に初期データを自動投入する仕組みを構築した。Prismaのマイグレーション機能とシードスクリプトを組み合わせ、開発環境でのデータ準備を自動化している。記事では具体的な設定手順が説明されている。"
+    },
+    {
+      "title": "October 10, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_10_2026",
+      "published_at": "2026-10-10T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Cloud SQL for MySQL</h2>\n<h3>Change</h3>\n<p>MySQL 8.0.46 is now the\n<a href=\"https://docs.cloud.google.com/sql/docs/mysql/db-versions#database-version-support\">default minor version</a>\nfor Cloud SQL for MySQL 8.0.</p>\n<p>For more information about minor version support in Cloud SQL for MySQL,\nsee <a href=\"https://docs.cloud.google.com/sql/docs/mysql/db-versions#mysql-8.0\">MySQL 8.0</a>.</p>",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ],
+      "ai_summary": "Cloud SQL for MySQLにおいて、マイナーバージョン8.0.46がCloud SQL for MySQL 8.0のデフォルトマイナーバージョンに変更されました。これにより、新規インスタンスは自動的にこのバージョンが適用されます。マイナーバージョンサポートの詳細はMySQL 8.0ドキュメントを参照してください。"
+    },
+    {
+      "title": "中国発オープンウェイトAIモデルのリスク網羅調査",
+      "link": "https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T06:13:15+00:00",
+      "summary": "調査基準日：2026年10月10日（土）｜対象：DeepSeek、Qwen、GLM、Kimi、MiniMaxほか中国発の公開ウェイトモデル\n\n調査の基本結論\n今回の調査では、オープンウェイトのモデルをローカル実行しても消えない危険が、複数の独立した研究によって実証されてい...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "2026年10月10日を基準日に、DeepSeek、Qwen、GLM、Kimi、MiniMaxなど中国発のオープンウェイトモデルを対象にリスク調査を実施した。調査結果によると、これらのモデルをローカルで実行しても消えない危険が複数の独立した研究で実証されている。具体的なリスク内容については、調査レポートを参照する必要がある。"
+    },
+    {
+      "title": "Food processing influences metabolism and brain activity",
+      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "published_at": "2026-10-10T05:22:30+00:00",
+      "summary": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html\">https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029830\">https://news.ycombinator.com/item?id=50029830</a></p>\n<p>Points: 96</p>\n<p># Comments: 78</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "バージニア工科大学の研究では、健康な成人57人を対象とし、そのうち32人だけがfMRIと代謝測定の両方を完了した。300kcalの食事をマクロ栄養素で1%以内にマッチさせ、超加工食品ではインスリン反応が上昇し、エネルギー消費も変化した。結果はNature Metabolismに掲載され、DOIは10.1038/s42255-026-01618-5である。"
+    },
+    {
+      "title": "Satori GCをMSBuild SDKとして公開しました！",
+      "link": "https://qiita.com/hez2010/items/7334840a4e96851f5a0b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T04:20:27+00:00",
+      "summary": "はじめに\nSatori GCは、高スループット、短い停止時間と低リソース消費を特徴とするGCですが、手元やプロジェクトでも手軽に使いたかったため、今回導入用のSDKとして公開しました。\n\n導入方法\nプロジェクトファイル（.csproj など）に以下の  要素を1...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "高スループット、短い停止時間、低リソース消費を特徴とするSatori GCを、MSBuild SDKとして公開した。導入方法はプロジェクトファイル（.csproj等）に特定の要素を追加することで行われる。これにより、.NETプロジェクトでも手軽にSatori GCを利用できるようになった。"
+    },
+    {
+      "title": "Rust製の自作ゲームエンジンを日中韓対応した話：3万9千行を書き換えずに翻訳する",
+      "link": "https://qiita.com/mattbusel/items/21fadc696bf5e40a3000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T04:15:19+00:00",
+      "summary": "自作ゲーム「O'BLOCK」(スニーカー転売で10億ドルを目指すローグライト)を日本語・中国語・韓国語に対応させました。問題は、ゲームが自作の Rust エンジン(Proof Engine)で動いていて、フォントアトラスに ASCII と記号しか入っていなかったこと。そして...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "自作ゲーム「O'BLOCK」（スニーカー転売で10億ドルを目指すローグライト）を日本語・中国語・韓国語に対応させた。ゲームエンジンはRustで実装され、フォントアトラスにASCIIと記号しかなかったため、3万9千行のコードを書き換えることなく多言語対応を実現した。フォントリソースの拡張とテキスト描画ロジックの調整がキーとなった。"
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "link": "https://lightbulbcomputer.com/",
+      "published_at": "2026-10-10T04:12:26+00:00",
+      "summary": "<p>Article URL: <a href=\"https://lightbulbcomputer.com/\">https://lightbulbcomputer.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029487\">https://news.ycombinator.com/item?id=50029487</a></p>\n<p>Points: 181</p>\n<p># Comments: 39</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "プロジェクターとコンピュータビジョンを組み合わせた『Lightbulb Computer』は、電球の形状で環境に情報を投影する空間的インターフェースを提案する。2026年9月に公開され、具体的な性能数値は示されていない。"
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "published_at": "2026-10-10T03:02:47+00:00",
+      "summary": "<p>Article URL: <a href=\"https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/\">https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50029123\">https://news.ycombinator.com/item?id=50029123</a></p>\n<p>Points: 398</p>\n<p># Comments: 251</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Telegram Desktopバージョン7.2.8以前には、IPCインジェクションによる1クリックアカウント乗っ取りの脆弱性（CVE-2026-107181）が存在した。これにより攻撃者は任意のファイルを読み取り、セッションファイルを盗聴できる。修正はバージョン7.2.9（コミットdb3405699f）で行われ、CVSSスコアは8.1のHighと評価された。"
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "published_at": "2026-10-10T00:37:07+00:00",
+      "summary": "<p>Article URL: <a href=\"https://rea.tools/\">https://rea.tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028275\">https://news.ycombinator.com/item?id=50028275</a></p>\n<p>Points: 685</p>\n<p># Comments: 297</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "REAはコーディングエージェント向けのリバースエンジニアリングツールで、Windows Calculator 11.2508.4.0上でREA 4.1.0を使用して%ボタンのロジックを解析した例が示される。また、恐竜ゲームの速度ルールも抽出され、加速度0.001、最高速度13、初期速度6であることがわかった。"
+    },
+    {
+      "title": "How strong is the strong interaction?",
+      "link": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+      "published_at": "2026-10-10T00:13:16+00:00",
+      "summary": "<p>Article URL: <a href=\"https://cerncourier.com/how-strong-is-the-strong-interaction/\">https://cerncourier.com/how-strong-is-the-strong-interaction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50028162\">https://news.ycombinator.com/item?id=50028162</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "格子QCDによる最新測定では、強い結合定数αsが0.11876±0.00058（4.9パーツパーミル）と決定された。これはParticle Data Groupの世界平均0.1180±0.0009（7.6パーツパーミル）より精度が向上している。入力にはパイオンとカオンの質量が使用された。"
+    },
+    {
+      "title": "寄りの巻き戻しと、横に並べている14本の参考記録を図で整理した（振り返り第6回）",
+      "link": "https://zenn.dev/denny/articles/open-revert-reference-records",
+      "published_at": "2026-10-10T00:00:16+00:00",
+      "summary": "先に前提を書く\n私はプログラムが書けない会社員である。楽天証券のマーケットスピードII RSSとClaudeを使って、自動売買の仕組みを作っている。この記事の数字は、すべて次の条件で得たものだ。\n\n\n戦略の売買では一円も動かしていない。 発注しない常駐エージェントが、実データで売買判断だけをシミュレートしている\n東証の監視86銘柄の1分ごとの値（8月11日〜10月9日）を使う。約2年分の数字は Yahoo の1時間足による代わりの計算である\n資金1,800万円・1銘柄あたり300万円・6銘柄はシミュレーションの設定値である\n損益の絶対額に意味は無い。シミュレーションであって、私の口座...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "プログラミング未経験の会社員が、楽天証券のマーケットスピードII RSSとClaudeを使って自動売買シミュレーションを構築した。対象は東証監視86銘柄の1分足データ（8月11日〜10月9日）で、約2年分のデータをYahooの1時間足で補完し、資金1,800万円、1銘柄あたり300万円、6銘柄を設定値としている。実際には発注せず、売買判断のみをシミュレーションしている。"
+    },
+    {
+      "title": "Agents - Cloudflare API MCP server serves Cloudflare skills",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-10-cloudflare-mcp-skills/",
+      "published_at": "2026-10-10T00:00:00+00:00",
+      "summary": "<p>The <a href=\"https://developers.cloudflare.com/agents/model-context-protocol/cloudflare/servers-for-cloudflare/#cloudflare-api-mcp-server\">Cloudflare API MCP server</a> now serves <a href=\"https://github.com/cloudflare/skills\" rel=\"noopener\" target=\"_blank\">Cloudflare skills<span class=\"external-link\"> ↗︎</span></a> through the <a href=\"https://modelcontextprotocol.io/extensions/skills/overview\" rel=\"noopener\" target=\"_blank\">Skills over MCP extension<span class=\"external-link\"> ↗︎</span></a>",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ],
+      "ai_summary": "Cloudflare API MCP サーバーが、Skills over MCP 拡張を通じて Cloudflare スキルを提供し始めました。MCP 対応クライアントは skills/list でスキル一覧を取得し、skill://<name>/<path> からファイルを読み込むことができます。利用するには、MCP クライアントに https://mcp.cloudflare.com/mcp を追加する必要があります。"
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "link": "https://epoch.ai/publications/innovationeval",
+      "published_at": "2026-10-09T22:14:40+00:00",
+      "summary": "<p>Article URL: <a href=\"https://epoch.ai/publications/innovationeval\">https://epoch.ai/publications/innovationeval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50027257\">https://news.ycombinator.com/item?id=50027257</a></p>\n<p>Points: 68</p>\n<p># Comments: 54</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "InnovationEvalによる評価では、Claude Fable 5は人間のアルゴリズムイノベーション(SDPO)に対して2%（0-10%区間）のスコアにとどまり、GPT-5.6 Solは15%（2-28%）にとどまった。SolはフルGPU予算3,000時間（約14,000ドル）と100億トークンのうち24%を消費し、Fable 5はGPU予算の46%（約6,700ドル）とトークンの1.8%を使用した。論文を提供した後の追試では、Fable 5.1は58%、GPT-6 Astraは86%のスコア（スコープ外修正後）を記録した。"
     },
     {
       "title": "AWS Security Hub now exports findings to S3 in CSV or JSON format",
@@ -47,46 +411,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Security Hubは、発見結果をAmazon S3にCSVまたはJSON（OCSF）形式でエクスポートできるようになりました。コンソールの各種発見ページ（脅威、露出、脆弱性、姿勢管理、機密データ、すべての発見など）からオンデマンドでエクスポートを開始し、自分のS3バケットに結果を配信できます。これにより、独自の抽出パイプラインを構築・保守する必要がなくなり、コンプライアンス報告や監査証拠などのユースケースに利用できます。"
-    },
-    {
-      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-      "link": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-      "published_at": "2026-10-09T21:25:09+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/\">https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026734\">https://news.ycombinator.com/item?id=50026734</a></p>\n<p>Points: 39</p>\n<p># Comments: 2</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "OpenAIはナヴィエ-ストークス方程式の証明において数学的記述をコードに誤って変換したとの指摘がある。"
-    },
-    {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "published_at": "2026-10-09T21:06:59+00:00",
-      "summary": "<p>Article URL: <a href=\"https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\">https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50026555\">https://news.ycombinator.com/item?id=50026555</a></p>\n<p>Points: 363</p>\n<p># Comments: 193</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "YouTuberは警察追跡用のフロックスタイルカメラを製作したところ、実際に警察が訪れたと主張している。"
-    },
-    {
-      "title": "No Man Is an Island",
-      "link": "https://borretti.me/article/no-man-is-an-island",
-      "published_at": "2026-10-09T20:04:00+00:00",
-      "summary": "<p>Article URL: <a href=\"https://borretti.me/article/no-man-is-an-island\">https://borretti.me/article/no-man-is-an-island</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50025935\">https://news.ycombinator.com/item?id=50025935</a></p>\n<p>Points: 255</p>\n<p># Comments: 153</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "個人の知的活動は他者との知的コミュニティに依存しており、AIの普及によりそのコミュニティが溶けると私的知的営みが希薄になると論じている。ソフトウェアエンジニアリングにおける議論の質低下やオープンソースへの貢献動機の減少を例に挙げている。"
+      "ai_summary": "AWS Security Hubは、調査結果をAmazon S3にCSVまたはJSON（OCSF）形式でエクスポートできるようになった。コンソールの各調査結果ページ（Threats、Exposure、Vulnerabilities、Posture Management、Sensitive Data、All Findings）から直接エクスポートでき、独自の抽出パイプラインを構築する必要がなくなった。この機能はすべてのSecurity Hub利用可能なAWSリージョンで利用可能。"
     },
     {
       "title": "Amazon EC2 R8gd instances are now available in additional regions",
@@ -99,7 +424,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon EC2 R8gdインスタンスがAWSヨーロピアン・ソブリン・クラウド（ドイツ）リージョンで利用可能になりました。これらのインスタンスは最大11.4 TBのローカルNVMeベースSSDブロックレベルストレージを備え、AWS Graviton4プロセッサで駆動され、Graviton3ベースのインスタンスと比較して最大30%のパフォーマンス向上を提供します。また、AWS Nitro System上に構築され、高速・低レイテンシのローカルストレージが必要なアプリケーションに適しています。さらに、12種類のサイズがあり、ネットワーク帯域幅は最大50 Gbps、EBS帯域幅は最大40 Gbpsで、帯域幅ウェイト設定により25%調整可能です。"
+      "ai_summary": "Amazon EC2 R8gdインスタンスがAWS European Sovereign Cloud（ドイツ）リージョンで利用可能になった。これらのインスタンスは最大11.4 TBのローカルNVMeベースSSDブロックレベルストレージを備え、AWS Graviton4プロセッサーで駆動され、Graviton3ベースのインスタンスと比較して最大30%のパフォーマンス向上を提供する。また、12のサイズがあり、ネットワーク帯域幅最大50 Gbps、EBS帯域幅最大40 Gbps、帯域幅ウェイティング設定により25%の調整が可能で、特定のサイズではElastic Fabric Adapter（EFA）ネットワーキングもサポートする。"
     },
     {
       "title": "Amazon EC2 R8g instances now available in additional regions",
@@ -112,20 +437,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon EC2 R8gインスタンスもAWSヨーロピアン・ソブリン・クラウド（ドイツ）リージョンで利用可能になりました。これらのインスタンスはAWS Graviton4プロセッサで駆動され、Graviton3ベースのインスタンスと比較して最大30%のパフォーマンス向上を提供し、メモリ集約型ワークロード（データベース、インメモリキャッシュ、リアルタイムビッグデータ分析など）に適しています。R8gはGraviton3ベースのR7gと比較してvCPUが最大3倍（48xlargeまで）、メモリが最大1.5TBまで増え、ウェブアプリケーションで最大30%、データベースで最大40%、大規模Javaアプリケーションで最大45%のパフォーマンス向上を実現します。ネットワーク帯域幅は最大50 Gbps、EBS帯域幅は最大40 Gbpsです。"
-    },
-    {
-      "title": "Microsoft-Decision-1, our model for fast decision-making",
-      "link": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-      "published_at": "2026-10-09T18:38:44+00:00",
-      "summary": "<p>Article URL: <a href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\">https://commandline.microsoft.com/microsoft-decision-1-model-foundry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024913\">https://news.ycombinator.com/item?id=50024913</a></p>\n<p>Points: 128</p>\n<p># Comments: 51</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "Microsoftは意思決定専用モデルMicrosoft-Decision-1を発表し、36ベンチマークでほぼ15万問を含む評価にて最高精度を達成し、Quyet-1.0-Largeの4.5倍、GPT-6 Solの35倍の速度を記録。入力トークンあたり0.042ドル、出力トークン無料で提供され、ルーティングや分類などのタスクに適している。"
+      "ai_summary": "Amazon EC2 R8gインスタンスがAWS European Sovereign Cloud（ドイツ）リージョンで利用可能になった。これらのインスタンスはAWS Graviton4プロセッサーで駆動され、Graviton3ベースのインスタンスと比較して最大30%のパフォーマンス向上を提供する。メモリ集約型ワークロード（データベース、インメモリキャッシュ、リアルタイムビッグデータ分析）に適しており、AWS Nitro System上に構築されている。最大3xのvCPU（48xlargeまで）とメモリ（最大1.5TB）を提供し、ウェブアプリケーションで最大30%、データベースで最大40%、大規模Javaアプリケーションで最大45%の高速化を達成する。12のインスタンスサイズ（うち2つはベアメタル）があり、拡張ネットワーク帯域幅最大50 Gbps、EBS帯域幅最大40 Gbpsを提供する。"
     },
     {
       "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
@@ -138,46 +450,20 @@
         "cloud",
         "infra"
       ],
-      "ai_summary": "Clef-omni マルチモーダルモデルを発表、音声・動画・画像・テキストを単一パイプラインで処理。Clef-flash の価格を従来の $0.09/百万トークンから $0.038/百万トークンに引き下げ、コンテキストウィンドウを 24k に縮小。Clef の推論速度が最大 2.0x 向上（800トークンで 262→152 ms、3,400トークンで 616→305 ms）。ベンチマークでは BFCL case exact 98.2、API-Bank accuracy 92.7 などを報告。"
+      "ai_summary": "Clef-omni が発表され、音声・動画・画像・テキストを単一パイプラインで処理可能になった。Clef-flash の価格が従来の $0.09/百万入力トークン から $0.038/百万入力トークン に引き下げられ、コンテキストウィンドウが 64k から 24k に削減された。Clef の推論速度が最大 2.0x 向上し、テキスト入力で中央値約 130 ms、画像入力で約 150 ms、音声クリップで数百 ms、21 秒動画で約 1.5 秒となった。"
     },
     {
-      "title": "M7.6 Earthquake in Panama",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "published_at": "2026-10-09T18:22:20+00:00",
-      "summary": "<p>Article URL: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive\">https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024669\">https://news.ycombinator.com/item?id=50024669</a></p>\n<p>Points: 120</p>\n<p># Comments: 35</p>",
+      "title": "Rampart: Browser native on-device PII radaction",
+      "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "published_at": "2026-10-09T17:52:07+00:00",
+      "summary": "<p>Article URL: <a href=\"https://ndstudio.gov/posts/say-hello-to-rampart\">https://ndstudio.gov/posts/say-hello-to-rampart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024242\">https://news.ycombinator.com/item?id=50024242</a></p>\n<p>Points: 66</p>\n<p># Comments: 28</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "パナマでマグニチュード7.6の地震が発生したと米国地質調査所が報告している。"
-    },
-    {
-      "title": "Ideas aren't getting harder to find (2022)",
-      "link": "https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find",
-      "published_at": "2026-10-09T18:16:03+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find\">https://www.experimental-history.com/p/ideas-arent-getting-harder-to-find</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024571\">https://news.ycombinator.com/item?id=50024571</a></p>\n<p>Points: 116</p>\n<p># Comments: 52</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "著者はアイデアの発見難易度が上がっているという主張に反論し、過去にも同様の懸念が誤りであったことを歴史的例で示し、新しい発見がさらに発見を促す好循環や、ツールの進歩が低 hanging fruitをさらに下げることを指摘している。"
-    },
-    {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "link": "https://carrierexplode.com/",
-      "published_at": "2026-10-09T18:10:55+00:00",
-      "summary": "<p>Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024499\">https://news.ycombinator.com/item",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "開発者はiPhone、Pixel、Galaxyのキャリア設定をデコードするツールCarrier-Explodeを公開し、APN、VoLTE、Wi-Fi通話、5Gなどの設定をJSONやデータセットとして提供している。現在2.0版がリリースされ、バックエンドが改善中である。"
+      "ai_summary": "National Design Studioが開発したブラウザ内PIIフィルタリングツール『Rampart』は、決定的正規表現とMiniLM言語モデルを組み合わせる。モデルサイズは14.7MB、ブラウザ(WebGPU)における中央値レイテンシは3.9ms、私的語再現率は98.4%である。比較対象としてOpenAI Privacy Filterは約2.8GBである。"
     },
     {
       "title": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
@@ -190,33 +476,20 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon BedrockはOpenAIモデルに対してreasoning.summaryパラメータをサポートし、Responses APIを通じてモデルの推論の人間が読める要約を回答とともに取得できるようになりました。これにより、コーディングや分析、マルチステップ問題解決などの複雑なタスクにおけるモデルのアプローチを理解しやすくなり、開発者は応答の評価やアプリケーションのデバッグ、ユーザーへの説明に追加のコンテキストを得られます。この機能は、OpenAI GPTモデルが利用可能なすべてのAWSリージョン（インリージョン、ジオクロスリージョン、グローバルクロスリージョン）で利用できます。"
+      "ai_summary": "Amazon Bedrockは、OpenAIモデルに対してResponses APIのreasoning.summaryパラメータをサポートし、モデルの推論の人間が読める要約を応答とともに取得できるようになった。これにより、コーディング、分析、マルチステップ問題解決などの複雑なタスクにおけるモデルのアプローチを理解しやすくなる。要約はreasoning出力アイテムのsummary配列に返され、すべてのOpenAIモデルがBedrockで利用可能なAWSリージョン（インフェア、GEOクロスリージョン、グローバルクロスリージョン）で利用できる。"
     },
     {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "link": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "published_at": "2026-10-09T17:42:12+00:00",
-      "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/\">https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024090\">https://news.ycombinator.com/item?id=50024090</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "Claudeが書いたaxx general assembler導入論文",
+      "link": "https://qiita.com/fygar256/items/2a3622aadad36eeb75ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T17:13:51+00:00",
+      "summary": "axx: 命令型アセンブリ言語の一般化 — 自由構文パターン言語と三層構造による一般アセンブラの設計と実装\n前川 田井介 (fygar256) の axx.py / caxx.c に関する紹介論文（2026 年 10 月版）\n\n要旨\naxx (Arbitrary eXte...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "Lean定理証明器は数学の形式化において人気で、mathlibには約30万の定理、10万以上の定義、250万行のコードがあり、700人以上の貢献者がいる。Autoformalizationによりフェルマーの最終定理の証明に1300万行のLeanコードが11日で生成され、ナヴィエ-ストロkes吹き上げ証明も同様に自動化されている。カーネルの健全性バグが2026年夏に複数見つかったが、AIと共同で修正され、検証済みカーネルCon-Lecheが登場している。"
-    },
-    {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "link": "https://readrare.com/",
-      "published_at": "2026-10-09T17:39:44+00:00",
-      "summary": "<p>Article URL: <a href=\"https://readrare.com/\">https://readrare.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50024055\">https://news.ycombinator.com/item?id=50024055</a></p>\n<p>Points: 61</p>\n<p># Comments: 9</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "ウェブサイトRead Rareは、Apple、Intel、Google、Netflix、Facebook等の内部メモや漏洩ハンドブック、忘れられた書籍計45点を無料で閲覧または貸出可能な形で公開している。例えばウォーレン・バフェットの1972年の手紙や、マイクロソフトのWord for Windowsポストモーテムなどが含まれる。"
+      "ai_summary": "axx（Arbitrary eXtended）命令型アセンブリ言語の一般化について、自由構文パターン言語と三層構造による設計が論じられている。著者はaxx.pyおよびcaxx.cの実装を紹介し、2026年10月版の導入論文としてまとめている。アセンブラの柔軟性と拡張性が主な焦点となっている。"
     },
     {
       "title": "Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)",
@@ -229,20 +502,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AnthropicのClaude Opus 5.5とClaude Sonnet 5.5が、AWS GovCloud（米国）リージョンのKiro IDEおよびCLIで利用可能になりました。Opus 5.5はOpus 5から進化し、長時間のエージェント型コーディング作業において適応的に思考し、ツールコール数を約40%削減し、トークン数を約半分に抑える内部ベンチマーク結果があります。一方、Sonnet 5.5は最も高速なSonnetモデルで、出力速度が30%以上向上し、実世界のコーディング作業においてOpus 5.5の性能に近づき、より明確な文章生成によりコラボレーション性が向上します。両モデルとも1Mコンテキストウィンドウを備え、Opus 5.5は2.0x、Sonnet 5.5は1.3xのクレジットマルチプライヤーが適用されます。"
-    },
-    {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "link": "https://typesafe.ai/blog/series-ai",
-      "published_at": "2026-10-09T17:02:31+00:00",
-      "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/series-ai\">https://typesafe.ai/blog/series-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50023450\">https://news.ycombinator.com/item?id=50023450</a></p>\n<p>Points: 240</p>\n<p># Comments: 202</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "Typesafe AIはシリーズAで8億7000万ドルを調達し、評価額は75億ドルとなった。リード投資家はAndreessen Horowitzで、シーコイア・キャピタルやDCVCも参加。開発者向けにはJevなどの機械ネイティブモデルの強化、企業向けにはフォーチュン500の3分の1が既に導入していると強調している。"
+      "ai_summary": "AnthropicのClaude Opus 5.5とClaude Sonnet 5.5が、AWS GovCloud（米国）リージョンのKiro IDEおよびCLIで利用可能になった。Opus 5.5はこれまでで最も能力の高いOpusモデルで、長時間のエージェントコーディング作業においてOpus 5に比べてツール呼び出しが約40%減少し、トークン数が約半分になる（Kiro内部ベンチマーク）。1Mコンテキストウィンドウと2.0xクレジットマルチプライヤーを提供する。Sonnet 5.5はこれまでで最も高速なSonnetモデルで、出力が30%以上高速化され、実際のコーディングおよびナレッジワークにおいてOpus 5.5のパフォーマンスに近づき、より明確な文章でコラボレーションを強化する。1Mコンテキストウィンドウと1.3xクレジットマルチプライヤーを提供する。"
     },
     {
       "title": "Amazon Connect Customer now provides automated checks to improve performance evaluation forms",
@@ -255,7 +515,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon Connect Customerは、AIが自動入力するパフォーマンス評価フォームの精度を向上させる自動チェック機能を提供します。マネージャーはフォーム設定時にベストプラクティスとの比較をワンクリックで実行し、AIが信頼性を持って採点できないコンテキストが不足している質問のリストと、具体化のための提案を受け取れます。たとえば、「エージェントが開示販売情報を提供したか？」という質問がフラグされ、開示内容の定義を促す例が挙げられています。この機能は米国東部（バージニア北部）、米国西部（オレゴン）、カナダ（中央）、ヨーロッパ（フランクフルト、ロンドン）、アジア太平洋（シンガポール、シドニー、東京）リージョンで利用可能です。"
+      "ai_summary": "Amazon Connect Customerは、パフォーマンス評価フォームの精度を向上させる自動チェック機能を追加した。フォーム作成時にワンクリックでベストプラクティスとの比較が実行され、AIが信頼性を持ってスコアリングできない文脈が欠けている質問のリストと、具体化のための提案が提供される。たとえば、「エージェントが売り上げの開示を行ったか？」という質問がflagされ、売り上げ前に開示すべき具体的内容を定義するよう促される。これにより、人間およびAIエージェントの公平かつ正確なスコアリングが自動化され、フォームの改良にかかる時間が削減される。米国東部（バージニア北部）、米国西部（オレゴン）、カナダ（中部）、ヨーロッパ（フランクフルト）、ヨーロッパ（ロンドン）、アジア太平洋（シンガポール）、アジア太平洋（シドニー）、アジア太平洋（東京）の各リージョンで利用可能。"
     },
     {
       "title": "Amazon S3 Vectors metadata pre-filtering is now available in AWS GovCloud (US) Regions",
@@ -268,7 +528,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon S3 VectorsのメタデータプレフィルタリングがAWS GovCloud（米国東部および米国西部）リージョンで利用可能になりました。プレフィルタリングは類似検索の実行前にメタデータフィルターを評価し、選択的なフィルターではマッチするベクトルを最大5倍多く返します。さらに、パスやURLなどの値のフィルタリングにプレフィックスマッチ演算子（$startsWith）が追加されました。これにより、検索拡張生成（RAG）、エージェント、セマンティック検索アプリケーションはフィルタリング時にさらに関連性の高い結果を得られます。新しいベクトルバケットではプレフィルタリングがデフォルトで適用され、既存のインデックスはUpdateIndexMode APIまたはクエリパラメータで更新できます。追加コストはかかりません。"
+      "ai_summary": "Amazon S3 VectorsのメタデータプリフィルタリングがAWS GovCloud（米国東部および米国西部）リージョンで利用可能になった。プリフィルタリングは類似度検索の実行前にメタデータフィルターを評価し、選択的なフィルターではマッチングベクトルを最大5倍多く返す。また、パスやURLなどの値に対するプレフィックスマッチ演算子（$startsWith）が追加された。これらの改善により、RAG、エージェント、セマンティック検索アプリケーションはフィルタリング時にさらに完全な結果を得られ、より関連性の高い回答が返される。S3 VectorsはS3上でベクトルの保存とクエリをネイティブにサポートし、億ベクトルスケールでのコスト最適化を提供する。新しいベクトルバケットではデフォルトでプリフィルタリングが適用され、既存のインデックスではUpdateIndexMode APIで更新できる。クエリごとにパラメータを指定してプリフィルタリングと現在のフィルタリングを比較することも可能。"
     },
     {
       "title": "RESOLVED: Google Cloud Storage customers are experiencing elevated latencies and error rates when performing upload or write operations.",
@@ -282,7 +542,7 @@
         "cloud",
         "status"
       ],
-      "ai_summary": "2026年10月8日05:19（US/Pacific）に開始され、同日16:30に終了したGoogle Cloud Storageのインシデントでは、us-central1（アイオワ）地域でアップロードおよび書き込み操作のレイテンシが上昇し、エラー率が増加した。影響期間は12時間30分で、主にHTTP 503エラーやクライアントサイドタイムアウトが観測された。根本原因として、トラフィックソート最適化によるバックエンドノードのリソース枯渇およびメタデータデータベースサービスの問題が挙げられ、エンジニアはトラフィックのドレイン、最適化の無効化、データベース更新のロールバックにより復旧した。"
+      "ai_summary": "2026年10月8日05:19（US/Pacific）に開始され、同日の16:30に終了したインシデントにより、us-central1地域のGoogle Cloud Storageでのアップロードおよび書き込み操作でレイテンシが上昇し、エラー率が増加しました。根本原因は、トラフィックソーティング最適化が特定のバックエンドストレージノードでリソース枯渇を引き起こし、これに加えてベースのデータベースサービスの問題がメタデータ処理エラーを招いたことです。影響として、WriteObject操作でのHTTP 503エラーやクライアント側タイムアウトが発生し、読み込み操作にも一部遅延が観測されましたが、ワークアラウンドは報告されていません。"
     },
     {
       "title": "AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources",
@@ -295,7 +555,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "AWS Lambdaは、セルフマネージドのApache Kafkaイベントソースマッピング（ESM）に対してOAuth認証をサポートし始めました。これにより、お客様自身が運用するKafkaクラスターやConfluent Cloud、Aiven、Redpandaなどのマネージドサービスを、エンタープライズアイデンティティプロバイダー（Amazon CognitoやOktaなど）経由で認証できます。従来はSASL/PLAIN、SASL/SCRAM、相互TLS（mTLS）のみがサポートされていましたが、OAuth対応により規制産業のセキュリティおよびコンプライアンス要件を満たせるようになります。この機能は、セルフマネージドKafka ESMが利用可能なすべてのAWS商用リージョンで利用できます。"
+      "ai_summary": "AWS Lambdaは、セルフマネージドApache Kafkaイベントソースマッピング（ESM）に対してOAuth認証をサポートするようになった。これには顧客が自ら運用するKafkaクラスターおよびConfluent Cloud、Aiven、Redpandaなどのマネージドサービスが含まれる。これにより、Amazon CognitoやOktaなどのエンタープライズアイデンティティプロバイダーを通じてLambda Kafkaコンシューマーを認証し、セキュリティおよびコンプライアンス要件を満たすことが可能になる。以前はSASL/PLAIN、SASL/SCRAM、相互TLS（mTLS）のみがサポートされていた。この機能は、セルフマネージドKafka ESMが利用可能なすべてのAWS商用リージョンで提供される。"
     },
     {
       "title": "Hack the World: Why hackathons are still the best place to learn to build",
@@ -308,59 +568,33 @@
         "github",
         "devtools"
       ],
-      "ai_summary": "ハッカソンはソフトウェア構築のハードルが下がった今でも、学ぶ最適な場である。参加者は 2 日間の集中でプロトタイプを作り、AI ツールの GitHub Copilot や自然言語プログラミングにより CS 学位がなくても開発を開始できる。ピザが無料で提供される中、新しいスキル獲得、開発者同士の友情、キャリアへの影響が語られている。"
+      "ai_summary": "ハッカソンは今でもソフトウェア開発を学ぶ最高の場であり、参加者は2日間の集中作業でプロトタイムを作り上げる。記事では、GitHub Copilot を使ってフロントエンドを30分で作り実際の API と連携した事例が紹介されており、AI ツールが開発のハードルを下げていることが示される。失敗を恐れず実験できる環境がスキル獲得と仲間作りにつながり、ある参加者は週末のハッカソンで大学の学位以上のことを学んだと述べている。"
     },
     {
-      "title": "Triple-A Minesweeper",
-      "link": "https://minesweeper.mikelacher.com/",
-      "published_at": "2026-10-09T15:51:05+00:00",
-      "summary": "<p>Article URL: <a href=\"https://minesweeper.mikelacher.com/\">https://minesweeper.mikelacher.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022292\">https://news.ycombinator.com/item?id=50022292</a></p>\n<p>Points: 565</p>\n<p># Comments: 108</p>",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "published_at": "2026-10-09T15:26:33+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.cockroachlabs.com/blog/experiment-running-hospital-code/\">https://www.cockroachlabs.com/blog/experiment-running-hospital-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021899\">https://news.ycombinator.com/item?id=50021899</a></p>\n<p>Points: 29</p>\n<p># Comments: 7</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
       ],
-      "ai_summary": "トリプルA級の機能を備えた Minesweeper ゲームがウェブで公開されている。"
+      "ai_summary": "Cockroach Labsでは、GitHub Issueを患者と見立てたエージェントパイプライン『MOLT Sinai』を5か月間運用した。その結果、100万行以上のコードがマージされ、リバートはわずか7件にとどまった。IBM Db2サポートは人間のコードなしで2日以内に完了し、トークン代は4,172ドル（従来のOracleサポート比で164倍高速、38倍安価）だった。全体でのClaudeトークン消費は約135,000ドルで、1件あたり平均84ドルであった。"
     },
     {
-      "title": "A statement on the Tor Project's relationship with Mullvad",
-      "link": "https://blog.torproject.org/on-tor-relationship-with-mullvad/",
-      "published_at": "2026-10-09T15:49:31+00:00",
-      "summary": "<p>Article URL: <a href=\"https://blog.torproject.org/on-tor-relationship-with-mullvad/\">https://blog.torproject.org/on-tor-relationship-with-mullvad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50022266\">https://news.ycombinator.com/item?id=50022266</a></p>\n<p>Points: 107</p>\n<p># Comments: 248</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "Tor ProjectはMullvad創設者の政治的寄附を巡る懸念に対し、関係を終了しないものの明確な境界を設けると発表した。技術的協力は継続し、Tor Browserのコードベースの保守性向上やユーザーフィードバックの拡大に寄与しているが、共同プロモーションは一時停止している。"
-    },
-    {
-      "title": "Germany transforms former coal mines into Europe's largest lake landscape",
-      "link": "https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands",
-      "published_at": "2026-10-09T15:05:24+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands\">https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50021540\">https://news.ycombinator.com/item?id=50021540</a></p>\n<p>Points: 178</p>\n<p># Comments: 96</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ],
-      "ai_summary": "ドイツ東部の Lausatian Lakeland では、かつての lignite 採掘跡地を水没させ、現在約130km2、最終的に144km2 の人工湖群を造成中で、これはイタリアの Lake Como（146km2）に匹敵する規模。採掘再編成にはこれまで約70億ユーロ、総コストは約138億ユーロが見込まれ、1つの湖あたり200〜600百万ユーロかかる。財源は連邦政府75%、州政府25%であり、今後25年でさらに48億ユーロが必要とされる。"
-    },
-    {
-      "title": "「国にお金がない」は本当か？ ― 通貨主権・学校教育・財政言説から考える国家レジリエンス : システム設計視点の行動経済学 (39)",
-      "link": "https://qiita.com/maskot1977/items/4ac81e4b11bf162de955?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-09T15:02:21+00:00",
-      "summary": "user:\n「システム設計視点の行動経済学」、第39回を始めましょう。その前に、まず前回の復習として、\n「沈黙の螺旋」は誰の利益を守るのか？ ― 経団連・政官財のインセンティブと「利益の私有化・コストの外部化」から考える国家レジリエンス : システム設計視点の行動経済学 ...",
+      "title": "【書評】 C++ソフトウェア設計 ―高品質設計の原則とデザインパターン",
+      "link": "https://qiita.com/io0323/items/8366f4fba6eb079d287d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T15:01:32+00:00",
+      "summary": "はじめに\nKlaus Iglberger 著『C++ソフトウェア設計 ―高品質設計の原則とデザインパターン』（オライリー・ジャパン）を読みました。\nC++ の本というと、新しい言語機能や細かな文法を扱うものが多い印象があります。本書はその逆で、言語機能の解説にはほとんどペ...",
       "source": "Qiita Trending (official)",
       "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
         "ja"
       ],
-      "ai_summary": "記事は日本が通貨発行主体であるため「国にお金がない」というのは財源幻想であり、実際の制約はインフレと実物供給能力だけだと主張する。国家債務1000兆円超は民間純金融資産の裏返しで、潜在労働力830〜960万人、約46〜49%が既存技術で自動化可能である。企業内部留保304兆円超、現預金168兆円超などの内部資産があり、財政出動の余地はある。財政破綻リスクはなく、政策の焦点は需要と供給能力のバランス、所得再分配、通貨の流通強制に置くべきだ。"
+      "ai_summary": "オライリー・ジャパンから発売されたKlaus Iglberger著『C++ソフトウェア設計 ―高品質設計の原則とデザインパターン』を読んだ感想を述べている。本書は新しい言語機能よりも設計原則とパターンに焦点を当てており、C++開発者にとって実践的なガイドとなっている。"
     },
     {
       "title": "Amazon Quick now supports brand templates for on-brand presentations and documents",
@@ -373,7 +607,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon Quickは、ブランドテンプレートのアップロードをサポートし、承認されたビジュアルアイデンティティに合ったプレゼンテーションやドキュメントを作成できるようになりました。ブランドマネージャーはPowerPointまたはWordテンプレートをアップロードするか、SharePointなどの接続ファイルストアから取得し、Quickが色、フォント、ロゴ、レイアウト、ブランドルールを抽出します。ブランドマネージャーは抽出内容をレビュー・編集した後、組織全体に公開し、テンプレートに従って新しいアセットが生成されます。ルールに違反するリクエストには、Quickが理由を説明し、オンブランドの代替案を提示します。さらに、管理者はカスタム権限を設定して、誰がブランドテンプレートを作成・公開できるかを制御できます。"
+      "ai_summary": "Amazon Quickは、ブランドテンプレートのアップロードをサポートし、承認されたビジュアルアイデンティティに合ったプレゼンテーションおよびドキュメントの作成を可能にした。ブランドマネージャーはPowerPointまたはWordテンプレートをアップロードするか、SharePointなどの接続されたファイルストアから取得し、一度設定すれば全員がオンブランドのアウトプットを得られる。Quickはテンプレートから色、フォント、ロゴ、レイアウト、ブランドルールを抽出し、ブランドマネージャーがレビューと編集後に組織全体に公開する。テンプレートのルールに従って新しいアセットを生成し、ルールに違反するリクエストについては理由を説明しオンブランドな代替案を提案する。ブランドマネージャーのガイダンスに基づいて最適なテンプレートを選択し、管理者はカスタムパーミッションでテンプレートの作成・公開権限を制御できる。ブランドアセットはAmazon Quickデスクトップアプリで一般提供されている。"
     },
     {
       "title": "【Vercel / microCMS】ローカル環境で閲覧できたmicroCMSの記事がVercelでは閲覧できなくなっていた現象",
@@ -386,46 +620,46 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "ローカルでは個別記事ページが表示できるが、Vercelにデプロイするとトップページとカテゴリ一覧は見えるが個別記事が404になる。原因はisomorphic-dompurifyがjsdom依存のためrequire()でESモジュールを読もうとするが、VercelのAWS Lambdaでは--no-experimental-require-moduleフラグによりこれが禁止されているため。対策としてVercelの環境変数NODE_OPTIONSに--experimental-require-moduleを設定し再デプロイすることで解決した。"
+      "ai_summary": "Next.jsとmicroCMSを使ったブログサイトをVercelにデプロイ後、トップページやカテゴリ一覧は閲覧できるが個別記事ページが表示できなくなる問題が発生した。約2〜3週間前から発生し、原因と対策を調査した結果を報告している。詳細な原因については本文を参照する必要がある。"
     },
     {
-      "title": "'Wallace and Gromit,' 90% Alone",
-      "link": "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
-      "published_at": "2026-10-09T13:49:31+00:00",
-      "summary": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone\">https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020533\">https://news.ycombinator.com/item?id=50020533</a></p>\n<p>Points: 150</p>\n<p># Comments: 19</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）",
+      "link": "https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T14:12:41+00:00",
+      "summary": "はじめに\nDDD（ドメイン駆動設計）でよく登場する「値オブジェクト」は、classで実装する例が多く見られます。しかしReactでは、classのインスタンスはstate管理やシリアライズ（Server Components、localStorage、状態管理ライブラリな...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "アニメーション『ウォレスとグルミット』について、90%が孤独であるという考察がなされているようである。"
+      "ai_summary": "DDDにおける値オブジェクトを、Reactでclassを使わずにzodのbrand機能を用いて実装する方法を示している。classインスタンスはstate管理やシリアライズに問題があるため、ブランド型による軽量な値オブジェクトが推奨されている。サンプルコードとともに実装手順が説明されている。"
     },
     {
-      "title": "Our $445M Series D",
-      "link": "https://oxide.computer/blog/our-445m-series-d",
-      "published_at": "2026-10-09T13:12:47+00:00",
-      "summary": "<p>Article URL: <a href=\"https://oxide.computer/blog/our-445m-series-d\">https://oxide.computer/blog/our-445m-series-d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50020014\">https://news.ycombinator.com/item?id=50020014</a></p>\n<p>Points: 572</p>\n<p># Comments: 249</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない",
+      "link": "https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T13:33:04+00:00",
+      "summary": "はじめに\n\n仮でコードを書いてみたい\n\n問題\n\nこれでは最初の変数しかエラー抑制されない\n\n/* eslint-disable @typescript-eslint/no-unused-vars */\n/* @ts-expect-error テスト用 */\n\nconst...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "Oxide Computer はシリーズDで4億4500万ドルを調達した。既存投資家の Eclipse がリードし、USIT、Riot Ventures、Jane Street などが参加し、新たに Atreides Management と AMD が戦略的投資家として加わった。資金はバックログ消化と製造能力増強、長期的な会社構築に充てられる。"
+      "ai_summary": "TypeScriptで一時的なコードを書く際に、変数が宣言のみで使用されないとTS6133警告が出る。eslint-disableコメントでも最初の変数しか抑制されず、その後の変数には効かない現象が発生する。記事ではこの挙動の理由と適切な抑制方法を検証している。"
     },
     {
-      "title": "Cloudflare acquires Deno",
-      "link": "https://deno.com/blog/cloudflare",
-      "published_at": "2026-10-09T13:03:48+00:00",
-      "summary": "<p>Article URL: <a href=\"https://deno.com/blog/cloudflare\">https://deno.com/blog/cloudflare</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019911\">https://news.ycombinator.com/item?id=50019911</a></p>\n<p>Points: 1035</p>\n<p># Comments: 536</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "社外の人はPower BIのゲートウェイを立てられなかった話",
+      "link": "https://zenn.dev/tomojoz/articles/dac7b46967c993",
+      "published_at": "2026-10-09T13:08:24+00:00",
+      "summary": "はじめに\n社外のベンダーを Entra ID にゲスト（B2B）として招き、AWS の EC2 にオンプレミス データ ゲートウェイを立ててもらう構成で、ゲートウェイの登録が2回止まりました。\n\nベンダー（ゲスト）のアカウントでは登録できなかった\nテナントの社員のアカウントに切り替えると、サインインが 0xCAA80000 で止まった\n\nこの2つの原因と対応をまとめます。ベンダーをゲストで招いて Power BI を構築する方（招く側・招かれる側のどちらも）向けです。\n\n 結論\n\n\n\n登録するアカウント\nゲートウェイ インストーラーの制限\n登録\n理由\n\n\n\n\nベンダー（ゲスト／B2B...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "Deno の開発チーム全体が Cloudflare に加入したことを発表した。Deno ランタイムのサポートはさらに1年間月次リリースで継続され、その後開発は終了。Deno Deploy は6か月間運用後に停止し、移行支援が行われる。JSR や rusty_v8 のインフラは Cloudflare へ移行される。"
+      "ai_summary": "社外のベンダーをEntra IDのゲスト（B2B）として招き、AWS EC2上にオンプレミスデータゲートウェイを構築しようとしたが、ゲートウェイの登録が2回停止した。ベンダーアカウントでは登録できず、テナント社員アカウントに切り替えるとサインインがエラーコード0xCAA80000で止まった。原因はアカウントの種類とゲートウェイインストーラーの制限にあると結論付けている。"
     },
     {
       "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
@@ -438,7 +672,7 @@
         "cloud",
         "infra"
       ],
-      "ai_summary": "Workers と Durable Objects に対するオンデマンド CPU・メモリプロファイリングが利用可能になり、ダッシュボードまたは CLI からインタラクティブな flamegraph を生成。プロファイリング期間は例として 5000 ms、メモリプロファイリングで P999 メモリ使用量が 133 MB から 118 MB に削減され、OOM エラーが緩和。継続的プロファイリングの開発も進行中。"
+      "ai_summary": "Workers と Durable Objects に対してオンデマンド CPU・メモリプロファイリングが提供され、ダッシュボードまたは CLI からインタラクティブなフレームグラフを生成できる。プロファイリングは指定した期間（例：5000 ms）で実行され、サンプリング間隔は 1 ms。内部でのメモリ最適化例では P999 メモリ使用量が 133 MB から 118 MB に削減された。"
     },
     {
       "title": "Deno is joining Cloudflare",
@@ -451,33 +685,72 @@
         "cloud",
         "infra"
       ],
-      "ai_summary": "Deno チームが Cloudflare に参加し、自己ホスティング可能な Workers と Durable Objects を実現するため workerd と celld の統合を進める。workerd は既にオープンソースで、celld は Rust で書かれた単一バイナリの実装。これにより開発者は同じプリミティブをより多くの環境で利用できるようになる。"
+      "ai_summary": "Deno チームが Cloudflare に加入し、workerd と celld の統合を通じてセルフホスティング可能な Workers と Durable Objects を提供する方針が示された。これにより開発者は同じプリミティブをより多くの環境で利用できるようになる。特定のバージョン番号や数値は記載されていない。"
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "published_at": "2026-10-09T11:36:20+00:00",
-      "summary": "<p>Article URL: <a href=\"https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/\">https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50019056\">https://news.ycombinator.com/item?id=50019056</a></p>\n<p>Points: 98</p>\n<p># Comments: 49</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "昔書いたRSpecのand_invokeの記事を最新のrspec-mocksで検証し直した",
+      "link": "https://zenn.dev/kyto64/articles/rspec-and-invoke-revisited",
+      "published_at": "2026-10-09T12:00:05+00:00",
+      "summary": "検証環境:\n\nruby 3.3.8 (Debian の apt パッケージ) / ruby 4.0.7 (ソースからビルド)\nrspec-mocks 3.13.8 (2026-10-09 時点の最新安定版)\nrspec-core 3.13.6\n比較用: rspec-mocks 3.12.6 (元記事の版) / rspec 4.0.0.beta1 一式 (core・expectations・mocks・support, ruby 4.0.7 の別環境)\n\n\n 背景:\n2024年1月に「RSpecでメソッドの呼び出し回数に応じてエラーを発生させたい」を書いた。元記事の検証環境は ruby...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "歴史的アーカイブにAIを適用したところ、1812年のインドネシア新聞で4ポンド（約1.8kg）の鉄隕石落下記事を発見し、マハラシュトラ州における最初の記録より26年早くなった。また、1738〜1740年のジャワゾウサイ 3頭の輸送記録や、1722年のガムコノラ火山噴火など、標準火山リストに欠けていた3つの噴火も見つかった。総ページ数は435万ページ、うち570万パッセージを処理した。"
+      "ai_summary": "rspec-mocksの最新安定版3.13.8（2026-10-09時点）とrspec-core 3.13.6を使い、過去のand_invokeに関する記事を検証し直した。比較対象として旧バージョンのrspec-mocks 3.12.6およびrspec 4.0.0.beta1一式（ruby 4.0.7環境）を用いている。検証環境はruby 3.3.8（Debian apt）およびruby 4.0.7（ソースビルド）である。"
     },
     {
-      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-      "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "published_at": "2026-10-09T11:03:48+00:00",
-      "summary": "<p>Article URL: <a href=\"https://github.com/franzenzenhofer/big-arrow-on-the-screen\">https://github.com/franzenzenhofer/big-arrow-on-the-screen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50018817\">https://news.ycombinator.com/item?id=50018817</a></p>\n<p>Points: 368</p>\n<p># Comments: 161</p>",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
+      "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+      "link": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+      "published_at": "2026-10-09T10:40:07+00:00",
+      "summary": "はじめに\n株式会社アイデアログで取締役CTOをしている松川です。\n当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。\n今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。\n!\n本記事は筆者個人の考えであり、正解を示すものではありません。また後半で「役割」の話にも触れますが、特定の職種や人を否定する意図はありません。\n\n\n 作るスピードと量は、確かに上がった\nAIエージェントの台頭により、システムを作る「スピード」と「量」は飛躍的に上がりました。\n当社の開発チームでも、C...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
       "tags": [
         "tech",
-        "news"
+        "ja"
       ],
-      "ai_summary": "macOS 用ツール big-arrow-on-the-screen は、AI エージェントが画面上に矢印・ボックス・テキストを表示できるようにする。現在 449 スター、6 フォーク、154 コミットを獲得し、CLI 一発で描画でき、クリック透過かつフォーカスを奪わない仕組みとなっている。"
+      "ai_summary": "AIエージェントの台頭によりシステム開発のスピードと量が飛躍的に向上したが、その結果生まれた時間を「もっと作る」ことに使っているかを問いかけている。筆者はAIで効率化された時間の使い方について個人的な考えを述べており、特定の職種や人を否定する意図はない。開発チームでもAIによる生産性向上を実感しているという。"
+    },
+    {
+      "title": "初AIコーディング記録：Brain第1世代でLinuxを動くようにした話",
+      "link": "https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d",
+      "published_at": "2026-10-09T10:29:52+00:00",
+      "summary": "タイトルの通り、今流行りのAIと一緒にBrain第1世代でLinuxを動くようにしました。\nどういう作戦を立てて何をやったか、どういうトラブルが起きてどう対処したか、良かった点と反省点について記録しておきます。\nもっと良い方法があるよなどあれば教えていただけると嬉しいです。\nなお、この文章はすべて人間が心を込めて書いています。\n\n 開発環境\n\nエディタ\n\nZed\n\n\nコーディングエージェント\n\nCodex\n\n\nモデル\n\n途中までGPT-5.6 Sol Medium\n途中からGPT-5.6 Luna XHigh\n\n\n\n\n 背景と前提\nBrainはSharpの作っている電子辞書ですが、最近は...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "AIとBrain第1世代（Sharpの電子辞書）を組み合わせてLinuxを動作させた記録である。開発環境はエディタZed、コーディングエージェントCodex、途中までGPT-5.6 Sol Mediumモデル、途中からGPT-5.6 Luna XHighモデルを使用した。作戦の立案、トラブル対応、良かった点と反省点を記録している。"
+    },
+    {
+      "title": "AWS Cost ExplorerのAmazon Bedrock製品属性で、できることとできないことを確認してみた",
+      "link": "https://zenn.dev/fusic/articles/c34f48e0ab811e",
+      "published_at": "2026-10-09T10:22:57+00:00",
+      "summary": "はじめに\nFusicのレオナです。\n2026年10月8日に、AWS Cost ExplorerなどでAmazon Bedrockの費用を製品属性で分けられるようになりました[1]。対象はAWS Cost Explorer、AWS Budgets、AWS Cost Management Dashboardsの3つです。\nAmazon Bedrockを複数人で使うと、どのモデルにいくらかかっているかに加えて、誰がいくら使ったのかも気になります。これまでのAWS Cost Explorerでは、Anthropicのモデルの費用はモデルごとのサービス名に分かれていました。「Claude Op...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "2026年10月8日より、AWS Cost ExplorerなどでAmazon Bedrockの費用を製品属性で分割できるようになった。対象はAWS Cost Explorer、AWS Budgets、AWS Cost Management Dashboardsの3つであり、これまではAnthropicモデルの費用がサービス名ごとに分かれていた。複数人での利用時にモデル別・利用者別のコスト把握が可能になる。"
+    },
+    {
+      "title": "dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた",
+      "link": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
+      "published_at": "2026-10-09T10:00:05+00:00",
+      "summary": "!\n本記事はこんな方におすすめです。\n\ndbtで開発・運用をしていて、AIエージェントの導入を検討している方\nClaude Codeのような汎用エージェントと、dbt特化のエージェントのどちらを使うか迷っている方\ndbt Wizardが気になっているものの、まだ試せていない方\n\n\nこんにちは、インテージのデータエンジニアの川満と申します。\n今回は、dbt Labsが提供するdbt特化のAIエージェント「dbt Wizard」（CLI版・ベータ）を試してみました。普段使っているClaude Codeと同じタスクを依頼し、どのような挙動の違いがあるかを見ていきます。両者とも裏側のモデルは同じ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "dbt Labsが提供するdbt特化AIエージェント『dbt Wizard』（CLI版・ベータ）と、普段使っている汎用エージェントClaude Codeを同じdbtタスクで比較した。両者は裏側のモデルは同じだが、挙動の違いを観察し、dbtでのAIエージェント導入を検討している人向けに挙動の違いをレポートしている。"
     },
     {
       "title": "コード検索で使える正規表現の基本メタ文字まとめ",
@@ -490,7 +763,33 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "コード検索での正規表現メタ文字について解説。.は改行以外の任意1文字、^と$は行の先頭と末尾、*+?{}は直前の表現の繰り返し回数、[]は文字クラス、|は論理和、()はグループとキャプチャ、\\はエスケープ。\\d\\w\\sはそれぞれ数字・英数字・空白の省略形。ログから日時とレベルを抽出するパターンや、郵便番号、画像ファイル名、先頭がsewiiで後ろが数字のマッチング例も示されている。"
+      "ai_summary": "コード内を検索する際に役立つ正規表現の基本メタ文字（例: ., *, ?, [], ^, $ など）をまとめている。各メタ文字の意味と典型的な使い方を簡潔に説明している。実務でのgrepやIDE検索での活用シーンが示されている。"
+    },
+    {
+      "title": "コメント欄にはなぜチンパンジーしかいないのか",
+      "link": "https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T08:28:24+00:00",
+      "summary": "チンパンジーに失礼なタイトルです。先に謝罪しておきます。\n\nチンパンジーだらけに見えるのは、人のせいではなく場の設計のせい\nYouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。\n本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "コメント欄が「チンパンジーだらけ」に見えるのは、人間のせいではなく場の設計の問題であると指摘している。YouTube、X、ヤフコメなどで共通して見られる断定的短文や罵り、マウント行為は設計が誘発している。記事ではコメント設計の改善点について考察している。"
+    },
+    {
+      "title": "論文まとめ：semantic world model",
+      "link": "https://qiita.com/masataka46/items/b9cba5b5f68c0ab3a4a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T08:19:15+00:00",
+      "summary": "はじめに\nRSS2026 workshopより以下のSemantic World Models。\n[1] C. Zhu, et. al. \"Semantic World Models\"\n\nプロジェクトページ：https://weirdlabuw.github.io/swm...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "RSS2026ワークショップで紹介されたSemantic World Modelsについて、C. Zhu et al. の論文 [1] を中心にまとめている。論文では世界モデルと意味情報を結合するアプローチが提案されている。詳細な手法や実験結果については原論文を参照する必要がある。"
     },
     {
       "title": "Amazon SageMaker Unified Studio now supports custom Tooling blueprints",
@@ -503,7 +802,7 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon SageMaker Unified StudioはカスタムToolingブループリントをサポートし、ドメイン管理者が独自のAWS CloudFormationテンプレートを使用してプロジェクト環境の基盤を定義できるようになりました。管理者はテンプレートを作成し、カスタムToolingブループリントとして登録すると、サービスが登録時および各プロジェクトデプロイ時にテンプレートを検証し、必要なリソースが存在することを確認します。テンプレートにはLake Formation給付、Athenaワークグループ、VPCセキュリティグループなど、CloudFormationでサポートされる任意のリソースを含め、複数のAWSアカウントおよびリージョンにわたってプロジェクト固有の編集不要で利用できます。デプロイ時にはプロジェクトIDやドメインIDなどの予約済みテンプレートパラメータが自動で埋められ、テンプレートを一度定義すればどこでも適用可能です。この機能は、SageMaker Unified Studioが利用可能なすべてのAWSリージョンで利用できます。"
+      "ai_summary": "Amazon SageMaker Unified StudioはカスタムToolingブループリントのサポートを開始し、ドメイン管理者が独自のAWS CloudFormationテンプレートを使用してプロジェクト環境の基盤を定義できるようになった。管理者はIAMロール名が社内命名基準に準拠することや、AWS管理ポリシーの代わりにカスタムパーミッション境界を設けるなど、組織固有の要件に合わせて環境をカスタマイズできる。CloudFormationテンプレートを作成して登録すると、サービスが登録時および各プロジェクトデプロイ後にテンプレートを検証し、必要なリソースが存在することを確認する。テンプレートにはLake Formationグラント、Athenaワークグループ、VPCセキュリティグループなどのあらゆるCloudFormationサポートリソースを含め、複数のAWSアカウントおよびリージョンにわたってプロジェクトごとの編集不要で利用できる。デプロイ時にプロジェクトIDやドメインIDなどの予約済みテンプレートパラメータが自動的に設定され、テンプレートを一度定義すればどこでも適用できる。この機能はSageMaker Unified Studioが利用可能なすべてのAWSリージョンで提供される。"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -515,7 +814,7 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "SophosはOpenAIのDaybreakを導入し、サイバー脅威の調査時間を96%削減し、MDRケースの52%を自動化しました。これにより調査の効率が大幅に向上しつつ、人間の監視は維持されています。"
+      "ai_summary": "Sophos は OpenAI の Daybreak を活用し、サイバー脅威の調査時間を 96% 削減し、MDR ケースの 52% を自動化しながら人間の監視を維持している。"
     },
     {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -527,20 +826,33 @@
       "tags": [
         "ai"
       ],
-      "ai_summary": "AsanaはGPT‑6 AstraをCodexで使用することで、ブラウザーエージェントのコストを76倍削減し、テストでは5倍高速化を達成しました。これによりお客様により高性能なモデルを提供できるようになりました。"
+      "ai_summary": "Asana は GPT-6 Astra を Codex に組み込むことで、ブラウザーエージェントのテストにおいてコストを 76 倍削減し、速度を 5 倍向上させ、顧客により高性能なモデルを提供できるようになった。"
     },
     {
       "title": "October 09, 2026",
       "link": "https://docs.cloud.google.com/release-notes#October_09_2026",
       "published_at": "2026-10-09T07:00:00+00:00",
-      "summary": "<h2 class=\"release-note-product-title\">Datastream</h2>\n<h3>Feature</h3>\n<p>Datastream now supports replicating SQL Server <code>GEOMETRY</code> and\n<code>GEOGRAPHY</code> spatial data types.</p>\n<p>For more information, see the following:</p>\n<ul>\n<li><a href=\"https://docs.cloud.google.com/datastream/docs/unified-types#map-sqlserver\">Map SQL Server data types to Datastream unified\ntypes</a></li>\n<li><a href=\"https://docs.cloud.google.com/datastream/docs/bq-map-data-types\">Data type mappings in B",
+      "summary": "<h2 class=\"release-note-product-title\">BigQuery</h2>\n<h3>Feature</h3>\n<p>The <a href=\"https://docs.cloud.google.com/gemini/data-agents/data-engineering-agent/agent-overview\">BigQuery Data Engineering Agent</a>\nis now available in the <code>asia-northeast1</code> (Tokyo) regional endpoint and supports\nthe gemini-3.5-flash model. For more information, see\n<a href=\"https://docs.cloud.google.com/bigquery/docs/gemini-locations#bigquery-data-engineering-agent\">Where Gemini in BigQuery processes your d",
       "source": "Google Cloud Release Notes",
       "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
       "tags": [
         "gcp",
         "cloud"
       ],
-      "ai_summary": "DatastreamはSQL ServerのGEOMETRYおよびGEOGRAPHY空間データ型のレプリケーションをサポート開始しました。Gemini Code Assistの新規サブスクリプション販売が2026年10月9日をもって終了し、既存のサブスクリプションは2026年末まで自動更新されますが、2027年に更新が終了します。Managed Service for Apache Kafkaでは新規クラスターのブートストラップアドレスとブローカーURLの形式が変更され、取得方法についてはドキュメントを参照してください。Model ArmorはWorkspaceデータに対するプロンプトインジェクションとジェイルブレイク保護を強化し、usおよびeuマルチリージョンエンドポイントでfilter version v3以降を利用可能です。Security Command Centerでは、gcloud CLIやREST APIなどを使ってPub/SubおよびBigQueryへの継続的エクスポートを設定し、データ保持ポリシーによる削除時に通知を受け取れるようになりました。"
+      "ai_summary": "BigQueryのData Engineering Agentがasia-northeast1（東京）リージョンエンドポイントで利用可能になり、gemini-3.5-flashモデルをサポートします。この機能は一般提供（GA）となりました。詳細については、BigQueryでのGeminiデータ処理場所ドキュメントを参照してください。"
+    },
+    {
+      "title": "産業用振動センサーデータを用いた高速フーリエ変換（FFT）と異常周波数検知アルゴリズムの実装",
+      "link": "https://qiita.com/NKKTechGlobal/items/f6fd261c319cb4556310?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T06:53:28+00:00",
+      "summary": "産業用振動センサーデータを用いた高速フーリエ変換（FFT）と異常周波数検知アルゴリズムの実装\n\nはじめに\nこんにちは、NKKTech Global 技術チームです。\n工場の稼働停止（ダウンタイム）を防ぐ状態基準保全（CBM: Condition-Based Mainte...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "工場の設備振動データに高速フーリエ変換（FFT）を適用し、異常周波数を検知するアルゴリズムを実装した。これにより、状態ベース保全（CBM）によるダウンタイム低減が期待できる。実装ではPythonまたはC++を用いたFFTライブラリと閾値ベースの異常判定が組み合わされている。"
     },
     {
       "title": "TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock",
@@ -553,46 +865,33 @@
         "aws",
         "cloud"
       ],
-      "ai_summary": "Amazon BedrockはTwelveLabs Pegasus 1.5モデルをサポートし始めました。このビデオ・トゥ・テキストモデルはビデオ全体を読み取り、何が起こったかといつ起こったかをラベル付けし、構造化されたタイムコード付きメタデータとして出力します。これにより、エディターセグメント、話者交代、スポーツプレイ、ブランド露出など、ビジネスにとって重要な瞬間をタイムスタンプ付きで抽出し、アプリケーションからクエリ可能なデータに変換します。Pegasus 1.5は映像、音声、画面内テキストを一度のパスで分析し、事前インデックスや取り込みパイプラインは不要です。米国およびグローバルクロスリージョンのインファレンスプロファイルで利用でき、詳細についてはAmazon Bedrockドキュメントを参照してください。"
+      "ai_summary": "Amazon BedrockはTwelveLabs Pegasus 1.5モデルをサポートし、ビデオから構造化されたタイムコードメタデータを生成するビデオ・トゥ・テキストモデルを提供する。これにより、大規模なビデオライブラリ内の特定の瞬間を事前に場所を知らなくても検索できるようになる。Pegasus 1.5はビデオ全体を読み取り、何が起こりいつ起きたかをラベル付けし、アプリケーションがクエリ可能なデータに変換する。ユーザーは編集セグメント、話者変更、スポーツプレイ、ブランド露出などビジネスに重要なものを定義し、それらの瞬間にタイムスタンプを付けて返す。映像、音声、画面内テキストをシングルパスで分析し、事前のインデックス作成や摂取パイプラインは不要である。米国およびグローバルクロスリージョンインフェアランスプロファイルを通じてアクセス可能。"
     },
     {
-      "title": "return await は付けても付けなくても同じ？ try の中では catch と finally の動きが変わる",
-      "link": "https://qiita.com/ennagara128/items/6abdd7057d7b50dba194?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-09T04:22:32+00:00",
-      "summary": "async 関数の最後で return await fetchData() と書くと、「await は要らない、return fetchData() で同じ」と言われることがあります。ESLint にも、return await を警告する no-return-await ...",
+      "title": "AI駆動開発手法ってなんだか胡散臭いですよね",
+      "link": "https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T04:45:57+00:00",
+      "summary": "はじめに\n「当社独自のAI駆動開発手法を確立しました」「AI駆動開発で工数を90%削減！」という提案書や研修案内を、この1年で山ほど見ました。\n多方面かつ主に前線を退いたおじさん方から叱られそうな主張ですが、ぶっちゃけ誰でもそれなりに品質の高いアプリケーションが作れるのが...",
       "source": "Qiita Trending (official)",
       "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
         "ja"
       ],
-      "ai_summary": "try/catchの外ではreturn awaitとreturnは機能的に同一だが、try/catchの中ではawaitがないとPromiseのrejectがcatchを素通りし、finallyも非同期処理より先に走る。awaitをつけるとcatchで例外を捕捉でき、finallyはawait解決後に実行される。ESLintのno-return-awaitルールはv8.46.0で非推奨となった（マイクロタスクオーバーヘッドが無くなり、スタックトレースが見やすくなるため）。Node.js v24.14.1での動作確認が示されている。"
+      "ai_summary": "「AI駆動開発で工数を90%削減」などの主張が多く見られるが、実際にはそう簡単ではないという疑問を提起している。過去1年間で多くの提案書や研修資料が散見されるが、現実的な開発現場では慎重な評価が必要である。記事では過大広告に惑わされず、実証に基づく導入を促している。"
     },
     {
-      "title": "約 0.5 GiB のダウンロードで SSD に 6 GiB 書いていた — Steam のゲーム更新 1 件を実測し、減らせる場所を探した",
-      "link": "https://zenn.dev/berobero/articles/steam-update-ssd-writes",
-      "published_at": "2026-10-09T03:32:28+00:00",
-      "summary": "!\n3 行まとめ\n\nSteam の実際の更新 1 件（『Rust』の専用サーバー版、開発版ブランチ間の差分、steamcmd で測定）で、ダウンロードは約 0.5 GiB だったのに、SSD には約 6 GiB が書かれた。ゲームを入れ直す量より 1 割ほど多い。\n主な原因は、大きなファイルの中身が少しずれるだけで、ファイルを丸ごと書き直すことと見られる。試した範囲では、ファイルシステムの機能（ReFS の block clone）で約 2 割減ったが、更新プログラム側の書き方の工夫そのものの効果（クラッシュに強い方式）は 2% ほどで、どちらも桁は変わらなかった。\n大きく減らせる見込み...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
+      "title": "【Vite】Could not resolve entry module “react-router” の解決方法",
+      "link": "https://qiita.com/shun123/items/07f09fd8602cc186d8ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-09T04:15:14+00:00",
+      "summary": "はじめに\nReact Router を v7 に上げたところ、Vite の本番ビルドが Could not resolve entry module \"react-router\". で失敗するようになりました。\n最初は「node_modules のインストールがうまくいっ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
       "tags": [
         "tech",
         "ja"
       ],
-      "ai_summary": "Steamのゲーム更新1件を実測したところ、ダウンロードは約0.5GiBだったのにSSDへの書き込みは約6GiBとなり、ゲームを入れ直す量より1割ほど多かった。主な原因は大きなファイルの中身が少しずれただけでファイル丸ごと書き直すことであり、ReFSのblock clone機能で約2割削減できたが、更新プログラム側の書き方工夫の効果は約2%にとどまった。大きく削減できる見込みは、ファイル内の中身をずらさない設計や書き換えずにつなげて見せる方式にある。"
-    },
-    {
-      "title": "Notion や Slack から AI に仕事を依頼できる仕組みを Claude Code Routines で作った",
-      "link": "https://zenn.dev/terass_dev/articles/6e6562d54d5505",
-      "published_at": "2026-10-09T02:47:29+00:00",
-      "summary": "Notion のチケットや Slack 上から Claude Code に仕事を依頼できる仕組みを、Claude Code Routines を使って実装し、チーム内で運用しています。\nClaude Code Routines は、あらかじめ保存しておいたプロンプトで Claude Code のセッションをクラウド上に起動する機能です。API の呼び出しや、スケジュールでの定期実行、GitHub のイベントなどから起動できます。\n個人で Routines を使ってこういった仕組みを実現した記事は見かけますが、これをチームで使えるようにした事例は見当たらなかったので、ここで共有したいと思い...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "NotionのチケットやSlack上からClaude Codeに仕事を依頼できる仕組みをClaude Code Routinesを使ってチーム内で実装した。Claude Code Routinesは事前に保存したプロンプトでクラウド上のClaude Codeセッションを起動し、API呼び出し、スケジュール実行、GitHubイベントなどからトリガーできる。個人利用の事例はあるがチームでの利用例は少なかったため共有した。"
+      "ai_summary": "React Routerをv7にアップグレードしたところ、Viteの本番ビルドで「Could not resolve entry module 'react-router'」エラーが発生するようになった。原因はViteの設定や依存関係の解釈変更にあると考えられている。記事では具体的な設定修正や代替手段を提示している。"
     },
     {
       "title": "「最大30日」と回答する前に、Amazon BedrockでOpenAIのモデルに送った文がどこに何日残るか確かめた話（2026年版）",
@@ -605,7 +904,7 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "BedrockのResponses APIでGPT-6 Lunaをglobalプロファイル経由で東京から呼ぶと、storeを指定しない（デフォルトtrue）だと入力・出力が処理リージョン（us-east-1）に30日間保存され、GETで取得可能。store=falseで保存を抑制、あるいはDELETEで削除可能。さらに、抜き取り検知により分類器がフラグした通信は最大30日間保持される。GPT-6 Luna系は保存設定noneでは利用不可。他社ではGeminiが55日、Vertex AIが90日、Anthropicがポリシー違反で最大2年保持。"
+      "ai_summary": "OpenAI APIに送信したユーザー文が不正利用監視のために最大30日保存されるという主張を、Amazon Bedrockを介して検証した。検証結果として、実際に送信テキストが指定期間保存されるかどうかを確認した経験を報告している。詳細な検証手順と結果については本文を参照する必要がある。"
     },
     {
       "title": "【学習メモ】EC2からS3へのアクセスを例に、AWS IAMを整理する",
@@ -618,551 +917,21 @@
         "tech",
         "ja"
       ],
-      "ai_summary": "EC2からS3のプライベートバケットへアクセスするには、信頼ポリシーでec2.amazonaws.comがAssumeRoleできるロールを作り、権限ポリシーで s3:GetObject on arn:aws:s3:::bucket/images/* を許可する。そのロールをEC2インスタンスにインスタンスプロファイル経由で関連付けると、アプリケーションはAWS SDKを通じて一時的な認証情報を取得し、長期アクセスキー不要でS3オブジェクトを取得できる。"
-    },
-    {
-      "title": "Claude Code の Explore を Haiku にする設定は、2.1.293 に上げるだけで Haiku 5.5 になった。費用は34〜43%減",
-      "link": "https://qiita.com/suwa_nobu/items/837c03e66ba03ee636ea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-09T00:33:47+00:00",
-      "summary": "前回の記事で、Explore サブエージェントを Haiku に戻す設定を紹介しました。\n.claude/agents/Explore.md に model: haiku と書くだけのものです。\nそのあと、Claude Code 2.1.293（2026-10-07）の c...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Claude Codeバージョン2.1.293（2026-10-07）にアップデートするだけで、.claude/agents/Explore.mdにmodel: haikuと書くだけでExploreサブエージェントがHaiku 5.5になり、従来の設定と比較して利用コストが34〜43%削減される。バージョンアップ以外に特別な設定は不要。"
-    },
-    {
-      "title": "Cloudflare Fundamentals - Improved HTTP/3 client cancellation reporting",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-09-http3-499-reporting-improvement/",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "<p>Cloudflare has improved how it handles and reports client-cancelled HTTP/3 requests across Free, Pro, Business, and Enterprise plans. Customers now get a clearer view of client behavior in Cloudflare analytics and, where available, logs.</p>\n<p>Previously, Cloudflare did not always stop an HTTP/3 request when the client cancelled its request stream. Some cancellations were already recorded as <code>499</code>, while others continued to the origin and showed the eventual upstream status.</p>\n<",
-      "source": "Cloudflare Changelog",
-      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
-      "tags": [
-        "cloudflare",
-        "devtools"
-      ],
-      "ai_summary": "CloudflareはFree、Pro、Business、Enterpriseすべてのプランで、HTTP/3リクエストのクライアント側キャンセルをより早く検知し、499ステータスとして記録するように改善しました。以前はキャンセルがオリジンにまで伝わることがあり、アナリティクスやログでの一貫性が欠けていました。今回の変更により、オリジンへの不要な負荷が減少し、顧客はキャンセル動作を正確に把握できるようになります。"
-    },
-    {
-      "title": "Cloudflare Fundamentals - More efficient Markdown for Agents conversion",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-09-markdown-for-agents-in-process-conversion/",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "<p><a href=\"https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/\">Markdown for Agents</a> now converts HTML with an in-process streaming engine at the edge. It processes content as it arrives instead of buffering the HTML response and sending it to a separate conversion service. This reduces conversion overhead and memory use.</p>\n<p>This release also changes the conversion limit and response headers:</p>\n<ul>\n<li>Conversion supports up to 6 MiB (6,291,456 bytes) of deco",
-      "source": "Cloudflare Changelog",
-      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
-      "tags": [
-        "cloudflare",
-        "devtools"
-      ],
-      "ai_summary": "Markdown for Agentsはエッジでインプロセスストリーミングエンジンを導入し、HTMLをバッファリングせずに到着時に変換することでオーバーヘッドとメモリ使用量を削減しました。同時に変換可能なHTMLサイズを2 MiBから6 MiB（6,291,456バイト）に引き上げ、デコンプレッサー後のサイズに適用されます。レスポンスヘッダーからx-markdown-tokensやx-original-tokens、Content-Lengthが削除され、クライアント側でトークン数を自前で計算する必要が出てきました。"
-    },
-    {
-      "title": "R2 - R2 bandwidth by Cloudflare location",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-09-r2-bandwidth-by-location/",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "<p>You can now view R2 bandwidth by the Cloudflare location that served each request in the Cloudflare UI. This helps you see which locations consume the most bandwidth with options to select a specific bucket and download (read) vs upload (write) bandwidth.</p>\n<a class=\"group inline-flex w-max shrink-0 items-center justify-center rounded-full font-medium whitespace-nowrap no-underline shadow-xs transition-colors cursor-pointer select-none focus-visible:outline-2 focus-visible:outline-ring focu",
-      "source": "Cloudflare Changelog",
-      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
-      "tags": [
-        "cloudflare",
-        "devtools"
-      ],
-      "ai_summary": "Cloudflare UIでR2の帯域幅を、リクエストを処理したCloudflareのロケーションごとに表示できるようになりました。特定のバケットを選択し、ダウンロード（読み込み）とアップロード（書き込み）の帯域幅を分けて確認することも可能です。デフォルトでは選択期間内の上位5ロケーションがグラフに表示され、ドロップダウンから最大6ロケーションまで選択できます。"
-    },
-    {
-      "title": "WAF, Rules - Failed detections field available in Rules",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-09-failed-detections/",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "<p>You can now use <code>cf.appsec.request.failed_detections</code> to control how your rules handle requests when a security detection reports a failure.</p>\n<p>The field is an <code>Array&lt;String&gt;</code> of detection IDs that reports failures from content scanning, WAF attack score, attack signature detection, leaked credentials detection, and AI prompt detections for personally identifiable information (PII), prompt injection, custom topics, and unsafe topics.</p>\n<p>The field does not a",
-      "source": "Cloudflare Changelog",
-      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
-      "tags": [
-        "cloudflare",
-        "devtools"
-      ],
-      "ai_summary": "WAFルールで新たに利用可能になったcf.appsec.request.failed_detectionsフィールドは、コンテンツスキャン、WAF攻撃スコア、攻撃シグニチャ、 leaked credentials、AIプロンプト検出（PII、プロンプトインジェクション、カスタムトピック、安全でないトピック）などの失敗を表す検出IDの配列を返します。このフィールドは検出動作自体を変更せず、ルール内で失敗が発生したリクエストの扱いを自由に制御するために使用でき、失敗がない場合は空配列[]となります。カスタムルール、レート制限ルール、ゾーンレベルのリクエストヘッダー変換ルールで利用可能で、例としてlen(cf.appsec.request.failed_detections) gt 0やany(cf.appsec.request.failed_detections[*])などで特定の失敗を検出できます。"
-    },
-    {
-      "title": "Workers AI - Clef-omni adds audio and video input, Clef-flash is now cheaper, and Clef is faster",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-09-clef-omni-workers-ai/",
-      "published_at": "2026-10-09T00:00:00+00:00",
-      "summary": "<p><a href=\"https://developers.cloudflare.com/workers-ai/models/clef-omni/\"><code>@cf/cloudflare/clef-omni</code></a> is now available on Workers AI. Clef-omni is a decision model that takes audio (WAV or MP3) and video (MP4 or WebM) input alongside text and images. It joins <a href=\"https://developers.cloudflare.com/workers-ai/models/clef/\">Clef</a> and <a href=\"https://developers.cloudflare.com/workers-ai/models/clef-flash/\">Clef-flash</a> in the Clef family of open-weight decision models. We ",
-      "source": "Cloudflare Changelog",
-      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
-      "tags": [
-        "cloudflare",
-        "devtools"
-      ],
-      "ai_summary": "Workers AIに新たに@cf/cloudflare/clef-omniモデルが追加され、テキスト、画像、音声（WAV/MP3）、動画（MP4/WebM）を同時に入力できるマルチモーダル意思決定モデルとなります。30BパラメータのMixure‑of‑Expertsバックボーン（アクティブ3B）により、テキスト約20ms、画像／音声未満100ms、21秒動画約300msの低遅延でスコアリングが行われ、BANKING77でマクロF1 94.8、CLINC150+OOSで97.7などのベンチマーク結果を示しています。併せてClef-flashの価格が$0.038/百万入力トークンに引き下げられ（コンテキストウィンドウ24Kトークン）、Clefは$0.240/百万入力トークンで64Kウィンドウを維持し、SGLangへの移行により median遅延が最大2.0倍高速化されています。"
-    },
-    {
-      "title": "LINEbotを作る ～今あるものを再現する～",
-      "link": "https://qiita.com/yukina24/items/276f0d959aacb6b73bd8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T23:03:59+00:00",
-      "summary": "きっかけ\nあとで確認しようと思っていたURLやSNSのリンクをLINEのKeepに投稿している。\n投稿しているが、目に入らなくなると見なくなる...ってことが続いたので\nURLをまとめてくれるLINE BOTを作成したいと思った\nやったことはないため、コードが展開されてい...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Google Apps ScriptでLINE Botを作り、LINE Keepに投稿したURLやSNSリンクをアーカイブする。最初はScriptProperties.getPropertyや関数外のconst宣言で動作せず、PropertiesService.getScriptProperties()への変更と関数内でのconst宣言に修正したところ正常に動作し、リンクの保存・取得が可能になった。"
-    },
-    {
-      "title": "AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric",
-      "link": "https://zenn.dev/headwaters/articles/12175106cd8c79",
-      "published_at": "2026-10-08T23:00:05+00:00",
-      "summary": "はじめに\nClaude Code のようなコーディングエージェントに Microsoft Fabric の開発を手伝わせようとすると、二つの問題があります。一つは操作の手段です。Fabric の操作は Web の画面で行うことが多いので、エージェントが端末から使える手段を別に用意する必要があります。もう一つは知識です。エージェントは、Fabric 固有の API の呼び方や、Notebook の定義ファイルの形式を最初から正確に知っているわけではありません。\nFabric には、ワークスペースやアイテムを外部から操作するための Fabric REST API があります。エージェント...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Microsoft Fabricの操作手段と知識の二つの問題を解決するため、Fabric CLIとSkills for Fabricを用いてAIエージェントが端末からFabricを操作できるようにした。Fabricにはワークスペースやアイテムを外部から操作するFabric REST APIがあり、これをエージェントが呼び出すことで開発を支援できる。これにより、コーディングエージェントがFabric開発に参加しやすくなった。"
-    },
-    {
-      "title": "24時間動かすPythonボットで、Windowsターミナルがメモリを7.5GB食っていた話と対策",
-      "link": "https://qiita.com/minipc_lab/items/6b234bf607deb13c5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T22:31:27+00:00",
-      "summary": "何が起きたか\nミニPC(メモリ16GB、実際に使えるのは約12.7GB)で、ビットコインの自動売買ボット(Python)を24時間動かしていました。ある朝、PCが重くてマウスもまともに動かない状態に。\nタスクマネージャーで調べると、犯人は ボットを表示していた Windo...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "16GB RAM（実使用可約12.7GB）のミニPCでPythonによるビットコイン自動売買ボットを24時間動作させたところ、タスクマネージャーでWindows Terminalが約7.5GBのメモリを消費していることが判明。原因はターミナルのバッファサイズが大きく、出力を保持し続けていたため。対策としてターミナルのバッファ上限を減らすか、出力をファイルにリダイレクトすることでメモリ使用量を抑えた。"
-    },
-    {
-      "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト",
-      "link": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T22:11:35+00:00",
-      "summary": "こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。\nここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのでは...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Webアプリセキュリティの初心者向けチェックリストを提示。1）.env、.git、バックアップファイルの意図しない公開有無。2）Gitleaksで公開リポジトリの秘密情報検出。3）XSS対策としてHTML/JSの適切なエスケープ・サニタイズ。4）SQLインジェクションとコマンドインジェクションの防止（パラメータ化クエリ、shell回避）。5）IDOR（他人データへの不正アクセス）の確認。6）マッサインメント（想定外パラメータ受付）の防止。7）ビジネスロジックの欠如（クーポン再利用等）のテスト。8）SSRFとパストラバーサルの確認。9）依存ライブラリの既知の脆弱性スキャン（npm audit, pip-audit等）。10）OAuth/OpenID、キャッシュポイズニング、GraphQL深度制限、WebSocket認証等の個別リスク確認。"
-    },
-    {
-      "title": "Renovate の更新 PR を AI エージェントにレビューさせ、自動マージまでつなげる",
-      "link": "https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346",
-      "published_at": "2026-10-08T22:00:05+00:00",
-      "summary": "はじめに\nAI エージェントが登場してから、作りたいものが増えていませんか。\nアイデアを思いついてから動くものができるまでの時間が、大きく縮みました。仕事でも、機能追加がこれまでにないスピードで実装されていると感じます。少ない人数でできることが増えた結果、AI エージェントの登場前より、チームの人数が減っている現場もあるのではないでしょうか。\n一方で、ライブラリのアップデートはどうでしょうか。\nDependabot や Renovate が更新用の PR を作ってくれるところまでは自動化されています。しかし、その PR を確認してマージするのは人です。リリースノートを読み、破壊的変更...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "AIエージェントの登場でアイデアから動くものまでの時間が大きく縮んだ一方で、ライブラリのアップデートPRのレビューとマージはまだ人間が行っていた。そこでAIエージェントにRenovateが作成する更新PRのレビューをさせ、リリースノートを読んで破壊的変更を確認した上で自動マージまでつなげた。これにより、依存関係のアップデートフローがさらに自動化された。"
-    },
-    {
-      "title": "Windows端末の操作ログを標準機能だけでCloudWatch Logsに集める",
-      "link": "https://qiita.com/infra365/items/9856ab92f4f29c97d5d1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T20:26:44+00:00",
-      "summary": "はじめに\n誰がいつどのサーバへ接続し、端末上で何を実行したかを記録として残したいことがあります。今回は追加のソフトウェアを使わず、AWSの標準機能だけでWindows端末のログを取得する方法を検証しました。\n\n水色が端末側で設定するもの、緑がAWS側のサービスです。\nAc...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Windowsの監査ポリシーをGPOで有効にし（プロセス作成4688にコマンドライン含め、PowerShellスクリプトブロックログ4104、ログオン4624/4625、RDPクライアント1024-1026/1029）、Systems Managerのハイブリッドアクティベーションでエンドポイントを登録（例：WorkSpaces）。CloudWatch Logsのロググループを作成し、IAMロールにlogs:PutLogEvents等を付与。SSMでCloudWatch Agentをインストールし、設定ファイルで各イベントIDを対応するロググループに転送。オンプレミスモードで起動し、SSMが提供する一時認証情報を使用。送信されたログはXML形式でタイムスタンプ、コンピュータ名、ユーザーSID、接続先IPを含む。"
-    },
-    {
-      "title": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/",
-      "published_at": "2026-10-08T19:41:00+00:00",
-      "summary": "<p>Today, AWS announces the availability of Ultrafast mode for GPT-6.1 Sol from OpenAI on Amazon Bedrock.&nbsp;Ultrafast mode provides faster inference for workloads where speed matters most. The Amazon Bedrock inference engine delivers the performance, security, and reliability required for production workloads.</p>\n<p>Use GPT-6.1 Sol&nbsp;Ultrafast for latency-sensitive applications such as real-time coding assistants, interactive agents, and customer-facing experiences that require fast, high",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "Amazon BedrockはOpenAIのGPT-6.1 Solモデルに対してUltrafastモードを提供し始めました。このモードは速度が重視されるワークロード向けに高速な推論を実現し、リアルタイムコーディングアシスタント、インタラクティブエージェント、高速・高品質な応答が求められるカスタマーフェーシング体験などに適しています。GPT-6.1 Solは機能構築、デバッグ、複雑なコードベースの調査、マルチステップワークフローの完結などに役立ち、AWSの既存の管理コントロールによりセキュリティ、アクセスガバナンス、モデル呼び出しの監査も可能です。利用方法はAmazon Bedrockコンソールまたは対応するAPIから始められ、サポートされているリージョン、エンドポイント、API、機能、インファレンスプロファイル、価格についてはドキュメントを参照してください。"
-    },
-    {
-      "title": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/",
-      "published_at": "2026-10-08T18:51:00+00:00",
-      "summary": "<p>AWS Cost Explorer, AWS Budgets, and AWS Cost Management Dashboards now let you analyze Amazon Bedrock costs by product attributes, a new dimension that breaks down Bedrock cost by model, model provider, inference type, and feature. In Cost Explorer and Dashboards, you can group and filter costs by these attributes. In Budgets, you can filter budgets by the same attributes.</p>\n<p>With this launch, finance and platform teams get a direct view of which models and workloads drive their Bedrock s",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "AWS Cost Explorer、AWS Budgets、およびAWS Cost Management Dashboardsは、Amazon Bedrockのコストを製品属性という新しい次元で分析できるようになりました。製品属性にはモデル（Claude Sonnet 5やClaude Haiku 4.5など）、モデルプロバイダー（AnthropicやCohereなど）、推論タイプ（入力トークンや出力トークンなど）、機能（オンデマンド推論やリランカーなど）が含まれます。Cost Explorerとダッシュボードではこれらの属性でコストをグループ化・フィルタリングでき、Budgetsでは同様の属性で予算をフィルタリングできます。さらに、コストアロケーションタグやIAMプリンシパルタグと組み合わせることで、どのアプリケーションやどのユーザー/ロールが特定のモデルに費用をかけているかを詳細に把握できます。この機能は追加料金なしで提供され、AWS GovCloud（米国）リージョンおよび中国（北京、寧夏）リージョンを除くすべてのAWSリージョンで利用可能です。"
-    },
-    {
-      "title": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/",
-      "published_at": "2026-10-08T18:00:00+00:00",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now lets you run a minor version upgrade precheck yourself, before you start an upgrade or before your scheduled maintenance window. RDS for Oracle now also emits a new event during patching that tells you when your DB instance is accepting connections again. With this event, you can bring your applications back while the remaining maintenance tasks are still in progress, which can redu",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "Amazon RDS for Oracleは、マイナーバージョンアップグレードの事前チェックをユーザーが自分で実行できる機能と、パッチ適用中にデータベースが再度接続を受け入れることを通知する新しいRDSイベントを導入しました。事前チェックはrdsadmin.rdsadmin_precheck_tasks.precheck_minor_upgradeプロシージャを呼び出すことで実行でき、読み取り専用でアップグレードを妨げる条件（空き容量不足、無効なOracleメンテナンスオブジェクト、無効なトリガーなど）を検出し、ログに出力します。新しいイベントRDS-EVENT-0596は、デーベース接続が再開されたときに発せられ、残りのメンテナンスタスクが進行中でもアプリケーションを早期に復帰させることでダウンタイムを削減します。これらの機能は、RDS for Oracleが利用可能なすべてのAWS商用リージョンおよびAWS GovCloud（米国）リージョンで利用できます。"
-    },
-    {
-      "title": "判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）",
-      "link": "https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T17:49:14+00:00",
-      "summary": "この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。\n\nみなさんGraphRAGの判断を全部LLMにや...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "ベクトルや埋め込みDBを使わずに判断特化モデルJevのみでGraphRAGを構築。Jevは与えられた質問に対して「はい」の確信度0-1を返し、エンティティの存在、関係の有無、質問対象、チャンクの有用性、関係が手がかりになるか、回答可能かの6種類の判断に使う。マスターデータにはキャラクター・組織などのエンティティ212種と関係12種（例：間柄がある）があり、ジェブによる逐次判定でグラフ探索を行う。ベクトルベースのGraphRAGと比較して同等の精度でありながら、呼び出し回数が約20〜30分の1となり、レイテンシとコストが大幅に削減される。"
-    },
-    {
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "published_at": "2026-10-08T17:02:52+00:00",
-      "summary": "<p>As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.</p>\n<p>The post <a href=\"https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/\">How one bug bounty researcher chooses the features they investigate</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "source": "GitHub Blog",
-      "source_url": "https://github.blog/feed/",
-      "tags": [
-        "github",
-        "devtools"
-      ],
-      "ai_summary": "サイバーセキュリティ啓発月に合わせて GitHub バグバウンティチームがトップ研究者 @vaib25vicky を spotlight した。VIP プログラムでは重要な脆弱性に対して最高 30,000 ドル以上の報酬が得られ、資格はクリティカル 1 つ、ハイ 2 つ、ミディアム 4 つ、またはロー 7 つの解決済み見つけ方が必要である。研究者は認可とアクセス制御に焦点を当て、AI をアシスタントとして活用しつつ、結果は自分で検証することを強調している。"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "published_at": "2026-10-08T16:00:00+00:00",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "source": "OpenAI Blog",
-      "source_url": "https://openai.com/blog/rss.xml",
-      "tags": [
-        "ai"
-      ],
-      "ai_summary": "Oracleは採用、エンジニアリング、運用の各分野で、ChatGPT WorkとCodexを組み合わせ、専門知識を高速で繰り返し可能なワークフローに変換しています。これにより業務のスピードが向上し、専門家のナレッジを迅速に活用できるようになりました。"
-    },
-    {
-      "title": "AWS Network Firewall adds wildcard support for container attribute filters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard",
-      "published_at": "2026-10-08T16:00:00+00:00",
-      "summary": "<p>AWS Network Firewall now supports wildcard matching in container attribute-based inspection filters for Amazon Elastic Kubernetes Service (Amazon EKS) and Amazon Elastic Container Service (Amazon ECS). This enhancement allows you to define attribute filters using wildcard patterns to match multiple container workloads in a single rule, eliminating the need to create individual container associations for each variant.</p>\n<p>With wildcard support, you can use patterns like app=payments-* to au",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "AWS Network Firewallは、Amazon EKSおよびECSのコンテナ属性ベースのインスペクションフィルタにワイルドカードマッチングをサポートし始めました。これにより、app=payments-* のようなワイルドカードパターンを使用して、payments-api、payments-worker、payments-cronなどのバリエーションを単一ルールでカバーでき、個別にコンテナ関連付けを作成する必要がなくなります。この機能により、動的なコンテナ環境におけるファイアウォールルール管理が簡素化され、運用オーバーヘッドが削減されます。ワイルドカードサポートは、コンテナ属性ベースのインスペクションがサポートされているすべてのAWSリージョンで利用できます。"
-    },
-    {
-      "title": "Kubernetesのログ入門",
-      "link": "https://qiita.com/yosshi_/items/361016945c68880297c3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T14:48:45+00:00",
-      "summary": "はじめに\nKubernetesを普段使っていても、kubectl logsでPodのログが見られることは分かるものの、実際にどんな種類のログがあるのか、どういう形で管理されているのか、保存期間はどれくらいなのか、長期間保存するにはどうすればいいのか、といったところまではな...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Kubernetesにおけるログの種類はコンテナログ、システムコンポーネントログ、Event、監査ログの4つ。コンテナログは/var/log/pods/<namespace>_<name>_<uid>/<container>/<restartCount>.logに書き込まれ、/var/log/containers/にシンボリックリンクがある。ローテーションはkubeletがCRIのReopenContainerLogを呼んで新しいファイルへ書き込みを再開させる方式（ファイル truncate ではない）。システムコンポーネントログ(kubelet,containerd)はjournald、static Podのコンテナは通常のコンテナログと同じローテーション。Log Query（v1.36で安定版）によりAPIサーバー経由でノードのjournaldや/var/logファイルを取得可能。Eventはデフォルト1時間TTLだが、eventrouter等でwatchし別出力先に転送すれば長期保存可能。"
-    },
-    {
-      "title": "EC2 ではなく AWS Lambda MicroVMs 上の code-server で Strands Decider ハンズオンを完走した話",
-      "link": "https://qiita.com/k_adachi_01/items/82d66350c44f7d3f2bea?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T14:06:12+00:00",
-      "summary": "やったことと結論\nAmazon EC2（t4g.xlarge）向けに公開された「Strands Decider ハンズオン」を、AWS Lambda MicroVMs 上の自作 code-server 環境へ移植し、一連の演習ステップを完走しました。\n検証を通じて確認でき...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Amazon EC2 t4g.xlarge向けのStrands DeciderハンズオンをAWS Lambda MicroVMs上の自作code-server環境に移植した。その結果、バースト最大16vCPUにより判定遅延がEC2の3000〜5400msから783〜1328ms（約1秒）へ短縮。約8.4GBのモデルはsuspend/resumeでメモリ状態を保持し、数秒で推論を再開（EC2ではフルリロードが必要）。1.5時間利用での費用はEC2約39円に対しMicroVM約114円だが、MicroVMは8時間後に自動終了し、放置しても最大約606円に抑えられる（EC2は自動終了無しで24時間放置すると約622円になる可能性）。長時間連続利用ではEC2が安価だが、作業の合間にsuspendを挟む運用でコスト効率が向上する。"
-    },
-    {
-      "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-      "link": "https://blog.cloudflare.com/radar-redesign/",
-      "published_at": "2026-10-08T13:00:00+00:00",
-      "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth.",
-      "source": "Cloudflare Blog",
-      "source_url": "https://blog.cloudflare.com/rss/",
-      "tags": [
-        "cloud",
-        "infra"
-      ],
-      "ai_summary": "Cloudflare Radar が再設計され、インタラクティブなマップと標準コンポーネントにより、ジャーナリストや一般ユーザーにもリアルタイムのトラフィック・障害データが容易にアクセス可能になった。技術的深みは保持されつつ、ナビゲーションが簡素化され、2020 年のサービス開始以降初めての大規模 UI 改善。データストーリーテリングの枠組みも拡充予定。"
-    },
-    {
-      "title": "ブラウザーだけで鳴らす2オペレーターFMドラムマシン",
-      "link": "https://qiita.com/tomokusaba/items/597138fc45e1bcb7f690?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T12:35:27+00:00",
-      "summary": "はじめに\nブラウザーでドラムマシンを作るとき、サンプル音源を再生する方法だけが選択肢ではありません。音の波形をその場で計算すれば、音色の仕組みをコードにしながら、パラメーターを動かして音を変える体験も作れます。\nこの記事では、ブラウザー上で動く 2オペレーター FM（周波...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "ブラウザ上で動作する2オペレーターFMドラムマシンをWeb Audio APIとAudioWorkletで実装。FM合成ではキャリアとモジュレーターの周波数比で音色を決め、エンベロープ（指数減衰）、ピッチフォール、ノイズブレンド、時間変化する変調指数で音を形作る。8種類のドラム音と16ステップ・4パターンのステップシーケンサーを備える。メインスレッドは25msごとのsetIntervalで120ms先まで発音イベントを予約し、AudioWorkletがサンプル単位で波形を生成して出力する。外部サンプルを使わず、リアルタイムで波形合成を行う。"
-    },
-    {
-      "title": "Jevをやってみよう",
-      "link": "https://qiita.com/moritalous/items/11b182fe57a20536a4d5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T12:29:41+00:00",
-      "summary": "社内でJev勉強会を行いました。もったいないので、その時の内容を公開します\n\n公式サイト\n\nニュース\n\nまずはわかりやすい資料で入門しよう\n今話題のAI「Jev」って何？ 宇宙最速で学ぶ会\n\n面白いユースケース\nトレード\n\nLint\n\nマリオ...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "JevはTypeSafe AIの判断特化モデルで、質問に対して『はい』の確からしさ0-1を返すだけでテキストは生成しない。社内では取引、リント、マリオ、絵文字、仮想試着、UI生成などに利用されている。ローカルでも動作可能であり、OpenAIやOSS（Ollama, SGLang, llama.cpp）でもJev風のエンドポイントが提供される。機能は単純だが、ミリ秒レベルのレイテンシが不要な用途や単一の判定にしか使わない場合は必須ではない。"
-    },
-    {
-      "title": "uv pip installとuv addは何が違うの？",
-      "link": "https://qiita.com/moritalous/items/92c559a3552db82be060?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T12:27:32+00:00",
-      "summary": "Claude Haiku 5.5に聞いてみました！\n\nuv pip install は pip 互換の操作で、uv add はプロジェクトの依存関係を管理する操作です。\nuv pip install\n\n現在有効な仮想環境にパッケージを入れるだけで、pyproject.tom...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "uv pip installはpip互換で、現在有効な仮想環境にパッケージをインストールするだけでpyproject.tomlやuv.lockは変更しない。一時的インストールやrequirements.txtベースの再現に適する。uv addはpyproject.tomlに依存を追記し、uv.lockを更新し、必要なら仮想環境を作成して同期する。--dev、--group、--optionalで開発用・任意・グループ依存も管理可能。プロジェクト開発ではuv addを基本とし、uv runで実行するのが標準フロー。"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "source": "OpenAI Blog",
-      "source_url": "https://openai.com/blog/rss.xml",
-      "tags": [
-        "ai"
-      ],
-      "ai_summary": "Pollo AIはGPT‑5.6、GPT‑6 Astra、GPT‑Image‑2.5を組み合わせ、クリエイターのアイデアを詳細な画像やシネマティックなビデオ広告に変換する支援を行っています。これにより創作プロセスが効率化され、高品質なビジュアルコンテンツの制作が可能になりました。"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "source": "OpenAI Blog",
-      "source_url": "https://openai.com/blog/rss.xml",
-      "tags": [
-        "ai"
-      ],
-      "ai_summary": "LegalOnはCodexの推定日次コストを65%削減しながら開発速度を維持しました。タスクに適したAstra、Sol、Lunaをマッチングさせ、予算を戦略的に管理することでコスト最適化を実現しています。"
-    },
-    {
-      "title": "Workflows, Workers - Create Workflow instance batches by count or list",
-      "link": "https://developers.cloudflare.com/changelog/post/2026-10-08-create-batch-object-form/",
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "summary": "<p><a href=\"https://developers.cloudflare.com/workflows/build/workers-api/#createbatch\"><code>createBatch()</code></a> now accepts an options object that creates up to 100 Workflow instances in one call. The result lists the created instances and explains why any others were not created. To use this form in local development and get its types from <code>wrangler types</code>, use Wrangler 4.148.0 or later.</p>\n<p>To create instances that share the same options, pass <code>count</code>. Each inst",
-      "source": "Cloudflare Changelog",
-      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
-      "tags": [
-        "cloudflare",
-        "devtools"
-      ],
-      "ai_summary": "WorkflowのcreateBatch()がオプションオブジェクトを受け入れるようになり、1回の呼び出しで最大100インスタンスを作成できるようになりました。ローカル開発で型を取得するにはWrangler 4.148.0以上が必要です。countオプションで同一設定のインスタンスを連番IDで生成し、instancesオプションで個別IDやパラメータを指定できます。結果は作成リストと、重複や既存IDなどによるエラー詳細を含み、従来の配列形式は非推奨ながら引き続き動作します。"
-    },
-    {
-      "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
-      "link": "https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
-      "published_at": "2026-10-08T11:42:21+00:00",
-      "summary": "はじめに\n株式会社GENDA 開発部エンジニアの奥山です。\nClaude Haiku 5.5 が出ました。\nhttps://www.anthropic.com/claude-haiku-5-5\nHaiku で effort を指定できるのは 5.5 が初めてで、単価は Haiku 4.5 のちょうど 1/10 になっています。\n\n\n\nモデル\ninput / output（per MTok）\nSonnet 5.5 比\n\n\n\n\nClaude Opus 5.5\n$4 / $20\n200%\n\n\nClaude Sonnet 5.5\n$2 / $10\n100%\n\n\nClaude Haiku 4....",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Claude Haiku 5.5がリリースされ、effortを指定できる初めてのバージョンとなった。単価はHaiku 4.5のちょうど1/10で、MTokあたりの料金はOpus $4/$20（200%）、Sonnet $2/$10（100%）、Haiku 4.5 $1/$5（50%）、Haiku 5.5 $0.10/$0.50（5%）※プロンプト100,000トークン以下。それ以上だと$0.50/$2.50に上がる。筆者はサブエージェントの役割ごとにHaikuとの相性を評価し、test-runnerは◎でHaiku/low、code-exploreは◯でSonnet/medium（Haiku/mediumを試験運用中）、fast-workerは△でSonnet/highのまま据え置いた。"
-    },
-    {
-      "title": "OpenAI の Decisions API を触ってみた",
-      "link": "https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T11:23:41+00:00",
-      "summary": "はじめに\n少し前に、TypeSafe AIのjevが話題になりました。文章を生成せず、決められた型の答えと確信度だけを返すモデルで、LLMより桁違いに速くて安いとうたわれています。\n同じ発想のAPIとして、OpenAIが2026年10月6日、Decisions APIを全...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "OpenAIが2026年10月6日にDecisions APIをベータリリース（モデルgpt-6-luna、入力100万トークンあたり0.10ドル）。回答タイプはpredicate（はい/いいえ確率）、choice（選択肢1つ＋各選択肢確率）、score（段階評価＋各段階確率）で、confidenceも付与。出力トークンは発生せず、入力トークン分のみ課金。Responses API Structured Outputsより約10倍高速とされる。レシート明細の家計簿カテゴリ分類テストでは中央値latency 195ms vs 1600ms、1000件あたり費用$0.033 vs $0.053。確率とconfidenceにより低確度判定を人間にエスカレートできる構造が得られる。"
-    },
-    {
-      "title": "Win32は死なズ #3 高DPIに対応させる",
-      "link": "https://qiita.com/mamPol/items/7abef4a65d0e3d198adf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T10:23:55+00:00",
-      "summary": "最近のWindowsでWin32アプリを作るなら、高DPI対応はほぼ避けて通れません。\n「Win32は死なズ」 第三回は高DPI対応をWin32で行う場合について書いてみようと思います。\n\nこの記事は厳密には、固定的な高DPI対応というより、モニターごとにDPIが変わる環...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "Win32アプリで可変DPI環境（モニターごとにDPIが変わる）に対応するには、ウィンドウ作成前にSetProcessDpiAwarenessContext(DPI_AWARENESS_CONTEXT_PER_MONITOR_AWARE_V2)を呼び出す。現在のDPIはGetDpiForWindow(hWnd)で取得し、MulDiv(value, dpi, 96)で座標・サイズをスケーリング（基準96DPI）。カスタムコントロールはウィンドウサイズをDpiScaleで設定し、内部描画はクライアント矩形(GetClientRect)を基準にすれば追加スケーリング不要。WM_DPICHANGEDでウィンドウと子コントロールをレイアウト関数で再配置。標準コントロール（リソースDLUベース）はOS側で処理、カスタム描画・フォントは自前でスケーリングが必要（例：フォント高さは-MulDiv(11, dpi, 72)）。"
-    },
-    {
-      "title": "若手エンジニアに必要だと感じた「AIを使う力」",
-      "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
-      "published_at": "2026-10-08T08:29:40+00:00",
-      "summary": "若手エンジニアに必要だと感じた「AIを使う力」\n\n はじめに\n私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニアがAIを使う際に陥りやすい問題」もあると感じるようになりました。\n若手エンジニアの方には、自身のAIの使い方を振り返るきっかけとして、若手を支援する立場の方には「若手がどこで迷いやすい...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "若手エンジニアがAIを使うことで実装や調査の効率化が図れる一方で、使いすぎると理解が浅くなりやすい問題があると感じた。著者はJavaやReactを使った金融系Webアプリ開発でAIを活用し、調査・実装・文書作成・レビューなど多岐にわたる場面で効率向上を実感した。若手には自身のAI利用を振り返る機会を、支援側には若手がどこで迷いやすいかを示すきっかけとして活用してもらいたい。"
-    },
-    {
-      "title": "Amazon GameLift Servers adds CPU burstability for container fleets",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability",
-      "published_at": "2026-10-08T08:00:00+00:00",
-      "summary": "<p>Amazon GameLift Servers now supports CPU burstability for container fleets, giving game developers greater flexibility in how compute resources are allocated and consumed at runtime. Previously, container fleets relied on a fixed CPU value that simultaneously controlled both container packing density and imposed a hard runtime cap. This dual constraint forced developers to choose between efficient resource utilization and maintaining performance headroom for their game server workloads.</p>\n<",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "Amazon GameLift Serversはコンテナフリートに対してCPUバースト機能を追加し、ゲーム開発者が実行時の計算リソース割り当てにさらに柔軟性を持てるようになりました。従来は固定のCPU値がコンテナの詰め込み密度と実行時間の上限を同時に制御していましたが、CPUバースト機能により典型的なCPUニーズに基づいてコンテナを配置しつつ、ピーク需要時のアイドルCPUをバースト利用できるようになります。このオプトイン機能はコンテナグループ定義ごとに設定でき、高密度デプロイでもピークパフォーマンスを犠牲にせず、追加コストはかかりません。中国リージョンを除く、コンテナフリートがサポートされているすべてのAWSリージョンで利用可能です。"
-    },
-    {
-      "title": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/",
-      "published_at": "2026-10-08T08:00:00+00:00",
-      "summary": "<p>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL databases. Available as RDS Protection for data activity, this new capability uses machine learning (ML)-based anomaly detection and integrated threat intelligence to continuously monitor database query patterns, helping you detect unusual data activity without ",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ],
-      "ai_summary": "Amazon GuardDutyのRDS Protectionは、ログイン異常以外にもデータの漏出および破壊攻撃を検出できるように拡張されました。この新機能は、Amazon Aurora PostgreSQLおよびAmazon RDS for PostgreSQLデータベースを対象とし、機械学習ベースの異常検出と統合された脅威インテリジェンスを用いてデータベースクエリパターンを継続的にモニタリングします。これにより、エージェントや追加インフラストラクチャ、データベース構成変更を必要とせずに異常なデータベースアクティビティを特定できます。利用方法はRDS Protectionのログインアクティビティに対するアドオンとして、GuardDutyコンソールまたはAPI、SDK、CLI、AWS CloudFormationから有効化でき、アカウントごとにリージョンごとに30日間の無料トライアルが提供されます。この機能は、AWSの商用リージョンおよびAWS GovCloud（米国）リージョンで、Aurora PostgreSQLおよびRDS for PostgreSQLに対応したGuardDuty RDS Protectionが提供されている範囲で利用できます。"
-    },
-    {
-      "title": "October 08, 2026",
-      "link": "https://docs.cloud.google.com/release-notes#October_08_2026",
-      "published_at": "2026-10-08T07:00:00+00:00",
-      "summary": "<h2 class=\"release-note-product-title\">Cloud SQL for MySQL</h2>\n<h3>Feature</h3>\n<p>Cloud SQL for MySQL now supports the\n<code>innodb_cloudsql_managed_buffer_pool_tuneup_pct</code> database flag.</p>\n<p>Managed buffer pool automatically adjusts the InnoDB buffer pool size to reduce\nout-of-memory events. When instance memory usage remains at or below 70% for 10\nminutes or longer after prior reductions, Cloud SQL increases the buffer pool\nsize. You can now use the <code>innodb_cloudsql_managed_buf",
-      "source": "Google Cloud Release Notes",
-      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
-      "tags": [
-        "gcp",
-        "cloud"
-      ],
-      "ai_summary": "Cloud SQL for MySQLはinnodb_cloudsql_managed_buffer_pool_tuneup_pctフラグを追加し、インスタンスメモリ使用率が70%以下で10分以上続くときにバッファープールサイズを自動調整します。ブルーグリーンデプロイメント（プレビュー）もサポート開始し、MySQL 8.0から8.4へのメジャーアップグレードなどをダウンタイム最小化で行えます。Gemini EnterpriseではSingapore（sg）リージョンでGemini 3.8 FlashがGAとなり、リージョン内データ常駐とMLPが提供されます。さらにGemini EnterpriseのAI開発者ツールにAnthropic Claude Opus 5.5とClaude Sonnet 5.5が追加され、グローバル、us、euでの利用と消費ベース課金が可能になりました。Google Cloud Contact Center as a Serviceはバージョン6.19をリリースし、チャット割り当て超過や通話ルーティング遅延など複数の不具合を修正しました。GKEは2026-R43としてバージョンアップを行い、Rapidチャンネルのデフォルトが1.36.4-gke.2046002、Regularチャンネルが1.36.4-gke.1391002などとなり、セキュリティアップデートとして新しいContainer-Optimized OSイメージが適用されています。"
-    },
-    {
-      "title": "CSSの`text-box`で文字を上下中央に揃えたい",
-      "link": "https://zenn.dev/chot/articles/be424332489e7a",
-      "published_at": "2026-10-08T06:20:08+00:00",
-      "summary": "ボタンの文字などを上下中央に配置するとき、CSSで中央揃えを指定しても、少しズレて見えることがあります。この記事では、文字がズレて見える理由と、上下中央に揃えるための考え方を、CSSとフォントの仕組みから解説します。\n\n 中央揃えなのにズレて見える理由\n次のボタンは、横書きで1行のラベルをFlexboxで上下中央に配置した例です。\n&lt;button class=\"button\"&gt;\n  &lt;span class=\"button-label\"&gt;Save&lt;/span&gt;\n&lt;/button&gt;\n.button {\n  display: flex;\n  al...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "ボタンの文字をFlexboxで上下中央に配置しても少しズレて見えるのは、フォントのベースラインや行間などのメトリクスによるものである。このズレを解消するため、CSSのtext-boxプロパティ（leading-trimなど）を用いて文字の内容ボックスに合わせた垂直中央揃えを行う方法を示す。これにより、真の中央揃えが実現できる。"
-    },
-    {
-      "title": "【3秒遅れたら負けるw】格闘ゲームで学ぶWebSocketとポーリングの違い",
-      "link": "https://qiita.com/jota9613/items/212ac2067f9a0172ea8d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T05:47:27+00:00",
-      "summary": "はじめに\n実務でポーリングを実装していたのですが理解が曖昧だったので復習のためブログをかこうと思いました！\nついでに調べたらWebSocketという通信の方法も出てきたので違いを比べていこうと思います！\n\nポーリングとは\n一定時間ごとにサーバへ情報を確認しにいく仕組みのこ...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "ポーリングは一定時間ごとにサーバーへ「変わったか？」と問い合わせる仕組みで、間隔（例：3秒）分の遅延が生じる。WebSocketはサーバーとクライアント間で永続的な双方向接続を保ち、変化が起きたら即座にプッシュする。格闘ゲームの例では3秒ポーリングだと相手のパンチが最大3秒遅れて見え、大きな不利になるが、WebSocketならリアルタイムで反映され不利がない。どちらが優れるかではなく、なぜその通信手段が必要かを考えることが重要。"
-    },
-    {
-      "title": "なぜ最新のIoT家電は2.4GHzが主流なのか？Wi-Fi周波数の選定理由と技術的背景",
-      "link": "https://qiita.com/sc-noguchi/items/b791f8cd3885816e2b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T05:04:38+00:00",
-      "summary": "はじめに\nこんにちは。今年の4月から株式会社Shizen ConnectでShizenboxというIoTデバイスの開発に携わっているエンジニアです。まだまだITやネットワークの知識は勉強中なのですが、日々の業務や身の回りの体験を通じて学んだことを発信していきたいと思います...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "IoT家電が2.4GHz帯を主に使う理由は、まずコストと実装のバランス：2.4GHz専用無線モジュールは安価かつ調達容易で、5GHz/6GHz対応モジュールは高価かつ設計複雑。次にデータ量が小さい：ON/OFF、設定温度、センサー情報など数バイト〜数十バイト程度のため高速通信は不要。最後に電波の到達性：2.4GHzは波長が長く障害物に強く、壁や家具を越えて安定的に通信しやすい（5GHz/6GHzは直進性が強く遮断されやすい）。2.4GHzはISMバンドのため電子レンジ等から干渉ありだが、到達性の面でIoTに適している。"
-    },
-    {
-      "title": "【実務で撃沈】LLMを実装していたのに「ハルシネーション」を知らなかった話",
-      "link": "https://qiita.com/jota9613/items/f7391e7379a8623c13f8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T02:38:26+00:00",
-      "summary": "はじめに\n〇〇さんは実装しているときにハルシネーション対策って何を考えているのですかって？って同僚に聞かれて答えられませんでした、、そもそもハルシネーションってなんだよwってとこから始まりました\n\nハルシネーションとは\nハルシネーションとはAIが事実と異なる情報を、もっと...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "ハルシネーションとはLLMが事実と異なる情報をもっともらしく生成する現象で、学習したパターンから次トークンを予測するため事実確認を行わないことが原因。対策としてRAGによる情報参照、出力の元データとの照合、影響の抑制（確認後に反映）の3つがあるが完全防止は不可能。AIが回答できることとその回答の正しさは別であり、両方を理解したエンジニアが求められる。"
-    },
-    {
-      "title": "【AWS AI League】Bedrock AgentCore でAIエージェントを作ってハマった6つのこと",
-      "link": "https://qiita.com/AyaKunisawa/items/4e1d87e075a3bae93f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-10-08T01:01:51+00:00",
-      "summary": "何をやったのか\nAWS がやっている「AWS AI League」の Agentic AI チャレンジに参加してきました。\n参加したのは、DNPグループ会社向けにプライベート開催された回で、League開催期間は72時間でした。\nルール自体はめちゃくちゃシンプルで、自分...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "AWS AI LeagueのAgentic AIチャレンジに参加し、Bedrock AgentCoreでスーパーバイザー(DungeonOrchestrator)と3つのLambdaツール(pathfinding2, calc, fetch-url)を構成した。ハマった点と対策：①Guardrailsの出力側をブロックするとエージェントが黙る→入力側ブロック、出力側検出のみに分離。②モデルが自力で断るとダメージ→拒否トピック（機密情報盗難等）を定義し入力段階でブロック。③LLMがツール出力を書き直すと整合性崩れ→システムプロンプトに「出力はツール結果とbyte‑ identicalで、並べ替え・要約・検証をしない」と明記。④起動位置の誤り→ツール側でマップ内の'start'セルから開始位置を取得し、引数start_posに依存しない設計。⑤ツールは単に付けるだけでは呼ばれない→プロンプトに「いかなる計算でもcalcツールを呼ぶ」「URLが示されたらfetch-urlツールを呼ぶ」「経路探索はpathfindingツールを呼ぶ」と明示。⑥AgentCore Memoryの残存回答が別質問に混入→プロンプトに「Memoryを参照するのは記憶チャレンジのみ」と制限。ベストスコア8004点、上位は12050点超。"
-    },
-    {
-      "title": "🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと",
-      "link": "https://zenn.dev/bita/articles/1616afdb93c4a6",
-      "published_at": "2026-10-08T00:43:37+00:00",
-      "summary": "TL;DR\n\n9/11〜10/5に公表（続報を含む）された不正アクセス・情報漏洩19件の公表文をすべて読みました。侵入の手口まで公表された8件は、どれも脆弱性か不正ログインでした。AIへの言及は0件です\nただ、穴を見つけて突くコストはAIで下がりつつあります（AnthropicによるGLM-5.3の評価、警察庁の検挙事例）\n対策は、更新できる状態を保つこと、第三者による診断、侵入される前提の設計です\n\n\n はじめに\nタイムズカーの漏洩では、社内にも対象者がいました。そこから漏洩のニュースを追い始めると、わずか2週間ほどの間に、名前を知っている企業の公表が次々と続いていました。\n筆者は...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ],
-      "ai_summary": "2026年9月11日から10月5日に公表された不正アクセス・情報漏洩19件の公表文を全文読んだところ、侵入手口が公表された8件はすべて脆弱性または不正ログインであり、AIへの言及は0件だった。ただし、AI（AnthropicのGLM-5.3評価や警察庁の検挙事例）により穴を見つけて突くコストは低減傾向にある。対策としては、更新可能な状態を保つこと、第三者による診断、侵入される前提の設計が重要である。"
+      "ai_summary": "EC2インスタンスからS3バケットへのアクセスを例にとり、AWS IAMの基本概念を整理した。ポリシー、ロール、権限の付与方法を具体的に示し、初学者でも理解しやすいように説明している。実践的な設定手順とベストプラクティスが紹介されている。"
     }
   ],
-  "day_summary": "AIエージェントの活用が広がり、Claude CodeのExploreをHaikuに切り替えてコストを34〜43%削減した事例や、OpenAIのDaybreakやGPT-6 Astraなどのモデルで業務自動化が進んでいる。インフラストラクチャでは、AWSがGraviton4ベースのインスタンス拡張とUltrafast推論モデルを発表し、CloudflareがDenoを買収して分散Durable Objectsのオープン化を推進している。セキュリティ面では、AWSのSecurity HubがS3エクスポート機能を強化し、GuardDutyのデータ漏洩検出を拡張し、CloudflareがWAFルールに失敗検出フィールドを追加している。データサービスでは、Google CloudがDatastreamに空間データ型サポートを追加し、Cloudflare RadarのマップベースUIを刷新してデータ可視化を向上させている。その他、GitHubハッカソンとバグバウンティがCopilotを活用してスキル習得と脆弱性発見を効率化し、ZennではSteamの更新時書き込み削減やCSSのtext-boxプロパティによるレイアウト改善が注目されている。",
-  "broadcast": "10月10日、本日のテックダイジェストです。\n\nCloudflareがDenoを買収したことを発表しました。これにより、DenoのランタイムをCloudflare Workers上でよりシームレスに利用できるようになり、分散Durable Objectsのオープン化が進むほか、開発者はEdge環境でTypeScriptとRustを組み合わせたアプリケーションを簡単にデプロイできるようになります。\n\nAWSがGraviton4ベースの新インスタンスを拡張し、Ultrafast推論モデルをリリースしました。これにより、処理速度が従来比で2倍向上し、コストパフォーマンスが改善されると期待されており、さらに、これらのインスタンスはAI推論ワークロードに特化した最適化が施されており、レイテンシの低減にも寄与すると見込まれています。\n\nGoogle Cloud Storageのus-central1地域でアップロードと書き込みのレイテンシが上昇し、エラー率が増加しました。エンジニアはトラフィックのドレイン、最適化の無効化、データベース更新のロールバックによりサービスを復旧させ、今後同様の問題を防ぐ調査を進めており、これにより、影響を受けたユーザーは数時間以内に正常なアクセスを取り戻し、サービス品質は段階的に回復しています。\n\n多くの企業がOpenAIのDaybreakやGPT-6 Astraなどのモデルを活用し、業務の自動化とコスト削減を実現しています。これにより、サイバーセキュリティからソフトウェア開発、採用・エンジニアリング・運用、クリエイティブ制作、法務領域まで幅広い分野で効率が向上しており、特に、金融業界ではリスクモデルの高速化が進み、製造業では予測保守の精度が向上していると報告されています。\n\n以上、本日のダイジェストでした。",
+  "day_summary": "AI エージェントの進化が複数のプラットフォームで見られ、AWS、Google Cloud、OpenAI が新たなエージェント機能と効率向上を発表しました。AWS は欧州ソブリンクラウド（ドイツ）向けに Graviton4 ベースの R8gd インスタンスの提供を開始し、計算インスタンスの性能向上と地域展開が進みました。一方 Cloudflare は Agents プラットフォームで Model Context Protocol のスキル提供機能を拡張し、開発者が外部スキルを利用しやすくしました。データ分野では Google Cloud が東京リージョンで BigQuery の AI エージェントを一般提供し、最新の言語モデルをサポートし、AWS は S3 Vectors のメタデータプリフィルタリングと SageMaker Unified Studio のカスタムツーリングブループリントを追加しました。セキュリティと観測性では Cloudflare のマルチモーダル AI モデル（Cleft シリーズ）の強化、OpenAI の脅威調査の高速化、そして AWS の Security Hub S3 エクスポートと Lambda の Kafka OAuth 認証が報告されました。さらにオープンソースライセンスの変更やユニカーネルの再評価、クラウドコストの可視化などが議論され、ソフトウェア供給チェーンの信頼性と運用効率への関心が高まっています。",
+  "broadcast": "10月11日、本日のテックダイジェストです。\n\nAWS は欧州ソブリンクラウド（ドイツ）向けに Graviton4 ベースの R8gd インスタンスの提供を開始しました。\nこれにより計算インスタンスの性能向上と地域展開が進みます。\n\n一方 Cloudflare は Agents プラットフォームで Model Context Protocol のスキル提供機能を拡張し、開発者が外部スキルを利用しやすくしました。\nこれにより AI エージェントのカスタマイズ性と相互運用性が高まります。\n\n続いて Google Cloud は東京リージョンで BigQuery の AI エージェントを提供開始しました。\nこのエージェントは最新の言語モデルをサポートし、データエンジニアリングのAI活用が広がります。\n\nこのほか OpenAI は業務プロセスの自動化に AI エージェントを活用し、コスト削減と脅威調査の高速化を報告しました。\nこれにより企業の効率性とスケーラビリティが向上すると述べられています。\n\n以上、本日のダイジェストでした。",
   "service_summaries": {
-    "Hacker News (front page)": "今回のHacker Newsフロントページでは、AIエージェントによる自動化や形式証明、アーカイブ探索など、AIを活用した研究・開発が多数見られた。また、Rustへの移行や意思決定モデルの最適化、CloudflareによるDeno買収など、インフラストラクチャや言語基盤の変化も話題となった。一方で、ソマリアの海賊を漁師に転じた事例や、旧炭鉱を人工湖に変える環境プロジェクトなど、テクノロジー以外の社会・環境テーマも注目を集めた。",
-    "AWS What's New": "本日のAWS What's Newは、パフォーマンス向上とセキュリティ強化が主要なテーマです。Graviton4ベースのインスタンス拡張やCPUバースト機能、Ultrafast推論モデルなど、処理速度と効率を高める発表が多数見られます。同時に、Security HubのS3エクスポートやLambdaのOAuth認証、GuardDutyのデータ漏洩検出拡張など、セキュリティおよびコンプライアンス対応の機能強化も目立ちます。さらに、Bedrockでの推論説明や新モデル提供、S3 Vectorsのプレフィルタリング、Cost Explorerの属性別コスト分析など、AI・データ活用と開発者生産性を支えるアップデートも含まれています。",
-    "Cloudflare Blog": "今日の Cloudflare Blog は、AI モデル族の拡張と高速化・低価格化、開発者向けプロファイリングツールの提供、オープンソースランタイムとの連携による自己ホスティングの促進、そしてデータ可視化プラットフォームの使いやすさ向上という4つのテーマが見られる。AI ではマルチモーダルと推論速度向上、Observability では本番環境でのフレームグラフプロファイリング、インフラストラクチャ では Deno チーム参加による分散 Durable Objects のオープン化、データサービス では Radar のマップベースUI刷新が挙げられる。全体として、開発者体験とデータアクセシビリティの両方を強化する方向性が示されている。",
-    "Google Cloud Status": "本日のGoogle Cloud Statusでは、Google Cloud Storageのus-central1地域において、アップロードと書き込みのレイテンシ上昇とエラー率増加が発生した唯一のインシデントが報告された。根本原因はトラフィックソート最適化によるバックエンドリソース枯渇とメタデータデータベースの問題であり、他の地域やサービスへの影響は確認されていない。エンジニアはトラフィックのドレイン、最適化の無効化、データベース更新のロールバックによりサービスを復旧させた。今後同様の容量短絡を防ぐための根本原因調査が進行中である。",
-    "GitHub Blog": "GitHub Blog の本日の記事は、ハッカソンを通じた実践的なスキル習得と、バグバウンティプログラムによるセキュリティ研究の二本立てで構成されている。どちらも AI アシスタント（特に GitHub Copilot）が活用され、学習や脆弱性発見の効率化が強調されている。また、バグバウンティでは報酬の上限や階段式の資格基準が示され、質の高い貢献がインセンティブとなっている。全体として、コミュニティ主導の学びとセキュリティ向上が今日の傾向である。",
-    "Qiita Trending (official)": "今日のQiita Trendingは、AIエージェントの効率化とコスト削減が大きなテーマであり、Claude CodeのExploreをHaikuに切り替えて費用を34〜43%削減する例や、AWS Lambda MicroVMsでStrands Deciderハンズオンを高速・低コストに実装した事例、さらにOpenAI Decisions APIの高速・低価格な分類処理が注目されている。同時に、Windowsの操作ログをCloudWatch Logsに集める方法やKubernetesのログ管理入門、EC2からS3へのアクセスをIAMで整理するなど、インフラストラクチャとセキュリティの基礎知識への関心も高い。さらに、正規表現やWin32の高DPI対応、WebSocketとポーリングの違いといった基本的なプログラミングトピックも引き続きトレンドに残っており、AIの最適化と土台となるエンジニアリングスキルの両方を磨こうとする姿勢が見える。",
-    "OpenAI Blog": "本日のOpenAI Blogでは、企業がOpenAIの各種モデル（Daybreak、GPT‑6 Astra、GPT‑5.6、GPT‑Image‑2.5、Codexなど）を活用して業務の自動化・高速化・コスト削減を実現している事例が多数紹介されています。サイバーセキュリティ、ソフトウェア開発、採用・エンジニアリング・運用、クリエイティブ制作、法務領域など多岐にわたる分野で、モデル選択とタスクマッチングによる最適化が進んでおり、人間の監視を保ちながら効率向上が図られています。全体として、コスト削減や処理速度の向上という具体的な数値効果が示され、実務への導入が加速している傾向が見られます。",
-    "Google Cloud Release Notes": "本日のGoogle Cloudリリースノートでは、データベース関連の機能強化が目立ち、Datastreamの空間データ型サポートやCloud SQLのバッファープール管理機能、ブルーグリーンデプロイメントのプレビューが発表されました。AI/ML分野ではGemini Code Assistの提供終了とGemini Enterpriseでの新しいリージョン提供・サードパーティモデルの追加が行われています。セキュリティと観測可能性については、Model ArmorのWorkspace保護強化やSecurity Command Centerの削除通知機能が追加されています。インフラストラクチャでは、Managed Service for Apache Kafkaのアドレス形式変更やGKEのバージョンアップ（2026-R43）とそれに伴うセキュリティアップデートが報告されています。",
-    "Zenn Trending": "本日のZenn Trendingでは、AIエージェントを活用した自動化や効率化が複数の記事で取り上げられ、Steamの更新時書き込み削減やMicrosoft Fabricの操作、Renovate PRのレビューなど、開発プロセスにおけるAIの実装事例が目立ちます。また、Claude Haiku 5.5の登場によりコスト削減が可能になったサブエージェントの役割見直しや、若手エンジニアにおけるAI活用の利点と課題についての考察も見られます。さらに、情報漏洩事例の分析からセキュリティ対策の重要性が強調され、CSSのtext-boxプロパティによるレイアウト改善など、基盤技術の最適化にも関心が集まっています。全体として、AIを活用した生産性向上とコストパフォーマンスの改善、そしてセキュリティと品質を意識した開発が今日の傾向です。",
-    "Cloudflare Changelog": "Cloudflareは本日、HTTP/3のキャンセル処理改善やエッジでのストリーミング変換による効率化、R2の帯域可視化強化など、エッジコンピューティングの観測性と効率向上に焦点を当てたアップデートをリリースしました。同時に、Workers AIにマルチモーダル入力対応のClef-omniモデルを追加し、価格引き下げと高速化を行うなど、AI推論の柔軟性とコストパフォーマンスを向上させました。さらに、WAFルールでの失敗検出フィールドやWorkflowのバッチ作成機能拡張により、開発者が細かい制御とスケーラブルな処理を容易に実装できるようになりました。これらは全体として、エッジでのデータ処理の高速化と、AI・セキュリティ・ワークフローの統合を進める方向性を示しています。"
+    "Hacker News (front page)": "今日のHacker Newsフロントページは、AIエージェントや自動ソフトウェアエンジニアリングが注目される中、意思決定モデルの構築やDuckDB 2.0のパフォーマンス向上、Telegramのセキュリティ脆弱性、プロパーティ税改革など、幅広い技術テーマが見られた。AIモデルの評価では人間のアルゴリズムイノベーションに匹敵する結果は出にくい一方、独自のAIエージェント（Talorys、REA、MOLT Sinai）が実用化されつつある。また、オープンソースライセンスの変更やUnikernelの再評価など、ソフトウェア供給チェーンの信頼性も話題になった。",
+    "Qiita Trending (official)": "今日のQiita Trendingでは、AIが開発コスト見積もりに与える影響や、セキュリティベストプラクティス、ドメイン駆動設計の実践例が多数見られた。また、RustやPrismaなどのツールを用いた国際化やデータシードの実装技術、フロントエンドのビルドトラブルシューティングも話題となっている。さらに、TypeScriptやReactにおける型安全実装のノウハウや、AWS IAMの基本解説など、インフラと開発プロセス全体にわたる知識共有が活発である。",
+    "Zenn Trending": "今日のZenn Trendingは、制御理論の過去論文紹介や個人投資シミュレーションなど、理論と実践の両極端な話題が混在している。AIを活用した開発支援が目立ち、RSpecやdbt、Brainなど特化ツール・汎用エージェントの比較や、AIによって生まれた時間の使い方が議論されている。さらに、クラウドコストの可視化やPower BIゲートウェイのトラブルシューティングなど、インフラ運用面での実務的な課題も取り上げられている。AIエージェントの導入検討と、それに伴う環境構築やコスト管理への関心が高まっている傾向が見られる。",
+    "Google Cloud Release Notes": "Google Cloudのリリースノートでは、Cloud SQLでMySQLのマイナーバージョンが8.0.46にデフォルト変更され、バージョン管理の自動化が進んでいることが確認できます。一方で、BigQueryのData Engineering Agentが東京リージョンで利用可能になり、gemini-3.5-flashモデルをサポートするなど、AIエージェントの地域展開と一般提供が進んでいます。また、Cloud SQLでのKnowledge Catalog連携の近リアルタイム同期や、Datastreamの空間データ型サポートなど、データ連携と分析機能の強化も見られます。全体として、データベースの運用効率化とAIを活用したデータ処理の拡張が今日の傾向です。",
+    "Cloudflare Changelog": "Cloudflare は今日、Agents プラットフォームにおける Model Context Protocol (MCP) のスキル提供機能を拡張し、開発者が外部スキルを簡単に利用できるようになったことを示しています。これにより、MCP 対応クライアントは Cloudflare が提供するスキルをリストし、ファイルへアクセスできるようになります。今日の変更は、AI エージェントのカスタマイズ性と相互運用性を高める方向性を示しています。",
+    "AWS What's New": "今日AWSのWhat's Newでは、計算インスタンスの強化とリージョン拡張が目立ち、特に欧州 sovereign クラウド（ドイツ）へのGraviton4ベースのR8gdおよびR8gインスタンスの提供が行われた。一方、AI・ML分野ではAmazon BedrockがOpenAIモデルの理由付け要約やTwelveLabs Pegasus 1.5ビデオ処理モデルをサポートし、KiroでのClaude 5.5シリーズの提供により開発者向けの生成AIツールが拡充された。さらに、データ処理ではS3 VectorsのメタデータプリフィルタリングやSageMaker Unified StudioのカスタムToolingブループリントにより、ベクトル検索やプロジェクト環境のカスタマイズが強化され、セキュリティと運用面ではSecurity HubのS3エクスポートやLambdaのKafka OAuth認証が追加された。これらの傾向は、パフォーマンス向上、地域展開、AIサービスの統合、そして開発者の生産性とガバナンスの向上に焦点を当てている。",
+    "Cloudflare Blog": "今日 の Cloudflare Blog では、マルチモーダル対応の AI モデル群（Clef シリーズ）の強化と、開発者向けの観測性・プロファイリング機能の拡充が目立つ。また、Deno チームの参加により、Workers と Durable Objects のセルフホスティング環境をオープンソースで整備し、エコシステムを広げようとしている。全体として、AI エッジ処理の高度化と、開発者が自分のインフラストラクチャで同等の体験を得られるようにするプラットフォーム戦略が見られる。",
+    "Google Cloud Status": "本日のGoogle Cloud Statusでは、Google Cloud Storageのus-central1地域においてアップロードおよび書き込み操作のレイテンシ上昇とエラー率増加という単一のインシデントが発生しました。このインシデントは、トラフィックソーティング最適化によるバックエンドノードのリソース枯渇と、ベースとなるデータベースサービスの問題が組み合わさって引き起こされました。他のリージョンや他のサービスへの影響は報告されておらず、影響は特定地域のストレージに限定されました。",
+    "GitHub Blog": "GitHub Blog の今日のは、ハッカソンがスキル習得の場として依然重要であることを強調し、AI ツール（GitHub Copilot）の活用例や短期間でのプロトタイピング、コミュニティ形成への影響を紹介している。",
+    "OpenAI Blog": "OpenAI Blog 今日では、AI エージェントを活用した業務プロセスの自動化とコスト削減が中心テーマとなっています。セキュリティ分野では脅威調査の高速化が、開発・ツール分野ではモデル利用コストの大幅な低減がそれぞれ具体的な数値とともに紹介されています。これらの事例は、AI が実務における効率性とスケーラビリティをどのように向上させるかを示しています。"
   }
 }
