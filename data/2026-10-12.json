@@ -1,0 +1,645 @@
+{
+  "report": {
+    "run_date": "2026-10-12",
+    "generated_at": "2026-10-12T00:12:01.722823+00:00",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 48,
+    "feeds_total": 16,
+    "feeds_ok": 16,
+    "item_count": 48,
+    "errors": []
+  },
+  "items": [
+    {
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "published_at": "2026-10-11T23:50:34+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.americanscientist.org/article/whatever-became-of-holography\">https://www.americanscientist.org/article/whatever-became-of-holography</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50049411\">https://news.ycombinator.com/item?id=50049411</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "2011年の記事でホログラフィーの現状と将来性について考察している。具体的な数値や技術詳細は取得できなかったが、ホログラフィーが当初期待された応用分野での進展が停滞していることを示唆している。"
+    },
+    {
+      "title": "Google Data Centers around the world",
+      "link": "https://datacenters.google/locations/",
+      "published_at": "2026-10-11T22:45:40+00:00",
+      "summary": "<p>Article URL: <a href=\"https://datacenters.google/locations/\">https://datacenters.google/locations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048768\">https://news.ycombinator.com/item?id=50048768</a></p>\n<p>Points: 29</p>\n<p># Comments: 20</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Googleは世界30か所、11か国にデータセンターを運営している。ハミナ（フィンランド）ではオフサイト熱回収により80%の熱需要を賄うなど、持続可能性への取り組みが紹介されている。また、台湾ではSTEM教育へ721,000ドル以上の助成金、テネシー州では160,000人以上へのデジタルスキル研修など、地域貢献も記載されている。"
+    },
+    {
+      "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+      "link": "https://github.com/julianjohnson-web/julianflux-research",
+      "published_at": "2026-10-11T22:39:40+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/julianjohnson-web/julianflux-research\">https://github.com/julianjohnson-web/julianflux-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048702\">https://news.ycombinator.com/item?id=50048702</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "JulianFluxは768次元の意味空間を128次元の多様体に射影するJulian-Gauss Fast Transform（JG-FT）を用い、動的帯域幅σとローレンツ力F = q(E + S)によって因果的ルーティングを行う。ベンチマークでは標準的なRAGと比較して幻覚率0.0%を達成し、企業向け版はRust/CUDAバックエンドでサブミリ秒遅延を実現する。"
+    },
+    {
+      "title": "Fingerprints Are the New Cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "published_at": "2026-10-11T22:33:39+00:00",
+      "summary": "<p>Article URL: <a href=\"https://royfish.dev/fingerprints-are-the-new-cookies\">https://royfish.dev/fingerprints-are-the-new-cookies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048642\">https://news.ycombinator.com/item?id=50048642</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "ブラウザーフィンガープリントは、GPU、CPU、メモリ、ディスプレイ解像度などのハードウェア特性と、フォントや拡張機能などのソフトウェア情報を組み合わせてユーザーを識別する。情報エントロピーの観点から、郵便番号、誕生日、性別の組み合わせで米国人口の60%以上を一意に特定できると説明されている。対策として、Brave、Tor、Mullvad Browserなどのフィンガープリント保護機能を備えたブラウザーの利用が推奨されている。"
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "published_at": "2026-10-11T22:33:30+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment\">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048638\">https://news.ycombinator.com/item?id=50048638</a></p>\n<p>Points: 46</p>\n<p># Comments: 6</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Googleはフィンランドのムホスとカヤニで計画される130億ユーロ（110億ポンド）のデータセンター建設に際し、環境影響評価（EIA）を省略してムホスで330ヘクタール（815エーカー）、カヤニで就下200ヘクタール（494エーカー）の森林を伐採したとして、フィンランド当局から工事の中止命令を受けた。同社はムホスで130ヘクタール（321エーカー）の植樹を計画している。"
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "link": "https://pub.sakana.ai/mass/",
+      "published_at": "2026-10-11T22:22:10+00:00",
+      "summary": "<p>Article URL: <a href=\"https://pub.sakana.ai/mass/\">https://pub.sakana.ai/mass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048522\">https://news.ycombinator.com/item?id=50048522</a></p>\n<p>Points: 32</p>\n<p># Comments: 6</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "MASS（Multi-Agent Self-Supervision）は、マルチエージェントワークフローを最適化し、その集合的経験を自己監督信号としてモデルに蒸留することで、自己改善ループを実現する。合成ベンチマークでは2ラウンド後、ベースモデルとの勝率がテストタスクで53.9%から69.9%に向上し、MLR-Benchなどではスコア毎出力トークンが1.2〜1.6倍となった。また、マルチエージェント軌道は単一エージェント軌道よりもトークンあたりの学習効率が31%高い。"
+    },
+    {
+      "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
+      "link": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+      "published_at": "2026-10-11T22:18:26+00:00",
+      "summary": "<p>Article URL: <a href=\"https://pydantic.dev/articles/dynamic-shredding-2026-01-26\">https://pydantic.dev/articles/dynamic-shredding-2026-01-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048490\">https://news.ycombinator.com/item?id=50048490</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Logfireは動的シャーディングにより、JSON属性列から頻出キー（上位128キー）を別々の強く型付けされた列に自動抽出し、クエリを最大1000倍高速化している。これにより、従来30秒でタイムアウトしていたクエリが1秒未満で完了し、早期採用顧客からも同様の改善が報告されている。デフォルトでは各Parquetファイルごとにサイズベースで上位128キーを抽出し、カラムナーストレージとゾーンマッププリューニングによりJSONパースを回避する。"
+    },
+    {
+      "title": "Passkeys are a trap. Do not use them",
+      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "published_at": "2026-10-11T21:59:48+00:00",
+      "summary": "<p>Article URL: <a href=\"https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\">https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50048312\">https://news.ycombinator.com/item?id=50048312</a></p>\n<p>Points: 159</p>\n<p># Comments: 77</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "記事ではパスキーのリモートアテステーション機能が将来的にウェブサイトによってハードウェアベンドやプラットフォーム制限に悪用される可能性を警告し、ユーザーのデバイス選択の自由を損なうリスクを指摘している。一方で、パスキーはフィッシング耐性があることを認めつつ、TOTPなどの従来方式によるユーザー管理の容易さを推奨している。Hacker Newsのコメントでは、アテステーションの必要性や代替手段について議論されている。"
+    },
+    {
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "published_at": "2026-10-11T21:07:20+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963\">https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047825\">https://news.ycombinator.com/item?id=50047825</a></p>\n<p>Points: 116</p>\n<p># Comments: 76</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "米国のリモート従業員が1日160回のウェカメラ撮影を義務付けられたことに対して拒否し、その結果解雇されたという事例が報じられている。該当従業員は8年連続で肯定的評価を受けており、10年以上の勤務歴があった。Hacker Newsでは、この種の監視が信頼の欠如を示し、パフォーマンスは成果によって評価されるべきだと批判されている。"
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
+      "published_at": "2026-10-11T20:20:52+00:00",
+      "summary": "<p>Article URL: <a href=\"https://twitter.com/karpathy/status/2109361546505966046\">https://twitter.com/karpathy/status/2109361546505966046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047422\">https://news.ycombinator.com/item?id=50047422</a></p>\n<p>Points: 186</p>\n<p># Comments: 287</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "Andrej Karpathyのツイートによると、世界人口の約75%にあたる60億人はLLMとほとんど接触しておらず、20%に当たる10〜20億人はフリーターチャットGPTのようなサービスを偶発的に利用しているだけである。一方で、プロフェッショナルな数学・コード分野でのフロントイヤーLLM利用者は約2000万人（0.2%）、さらに内部アクセス可能なフロントイヤーシステム利用者は約5000人（0.006%）に限られている。このギャップは、問題の規模・野望、デジタル・検証可能な分野での能力の偏り、およびアクセス階層によって駆動されている。"
+    },
+    {
+      "title": "Cartographers of North Korea",
+      "link": "https://cartographers-nk.wonyoung.so/",
+      "published_at": "2026-10-11T19:46:40+00:00",
+      "summary": "<p>Article URL: <a href=\"https://cartographers-nk.wonyoung.so/\">https://cartographers-nk.wonyoung.so/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047091\">https://news.ycombinator.com/item?id=50047091</a></p>\n<p>Points: 159</p>\n<p># Comments: 27</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "OpenStreetMap上で北朝鮮のマッピングを行うプロジェクト「Cartographers of North Korea」は、逃亡ルートの可能性がある鳳西리（Phungso-ri）周辺のトゥメン川沿いの詳細な地図作成に焦点を当てている。貢献者からの手紙では、北朝鮮へのアクセスが制限される中で、中国側のフェーズや道路、町のマッピングが脱出支援に重要であると説明されている。Hacker Newsでは、このプロジェクトがインターネットの七不思議の一つに挙げられている。"
+    },
+    {
+      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
+      "link": "https://theonion.com/archivehunt/",
+      "published_at": "2026-10-11T19:43:32+00:00",
+      "summary": "<p>Article URL: <a href=\"https://theonion.com/archivehunt/\">https://theonion.com/archivehunt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50047055\">https://news.ycombinator.com/item?id=50047055</a></p>\n<p>Points: 227</p>\n<p># Comments: 29</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "The Onionはアーカイブの欠損を補うため、特定の巻号（Vol.14〜49、および特定のissue）の印刷版を募集している。対象は1988年から2013年にかけての号であり、巻号ごとに必要なissue番号がリストアップされている。状態が良く、清潔で読みやすい紙媒体のみを受け付け、寄付者にはGoogleフォームを通じて連絡を取ることが案内されている。"
+    },
+    {
+      "title": "The Unreasonable Effectiveness of Vex in NixOS",
+      "link": "https://blog.kammel.dev/post/nixos_vex/",
+      "published_at": "2026-10-11T19:23:07+00:00",
+      "summary": "<p>Article URL: <a href=\"https://blog.kammel.dev/post/nixos_vex/\">https://blog.kammel.dev/post/nixos_vex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50046864\">https://news.ycombinator.com/item?id=50046864</a></p>\n<p>Points: 43</p>\n<p># Comments: 1</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "NixOSではVEX（Vulnerability Exploitability eXchange）を用いて、CVE-2007-2768などの脆弱性が実際にシステムに影響するかを条件付きで判定し、影響がない場合はnot_affectedとするVEX文書を自動生成する。これにより、grypeによるスキャンで該当CVEが無視され、トリアージ工数を大幅に削減できる。著者はこの仕組みをnixos-vexとしてオープンソースで公開している。"
+    },
+    {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "link": "https://www.ways-of-seeing.com/ch1",
+      "published_at": "2026-10-11T18:26:24+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.ways-of-seeing.com/ch1\">https://www.ways-of-seeing.com/ch1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50046241\">https://news.ycombinator.com/item?id=50046241</a></p>\n<p>Points: 63</p>\n<p># Comments: 10</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "『Ways of Seeing』の第1章では、見ることは言葉より先に来ること、そして画像は複製されることで元の文脈から切り離され、その意味が鑑賞者の状況や時代によって変容することを論じている。カメラの発明により絵画の唯一性が失われ、再現によって意味が多様化し、市場価格による「偽の宗教性」が芸術作品を取り巻くようになったことを指摘している。最終的に、過去の芸術の意味は誰がその言語（画像）を用いるかによって決まり、過去へのアクセスが政治的問題となる。"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "link": "https://nanolathe.gg",
+      "published_at": "2026-10-11T18:04:47+00:00",
+      "summary": "<p>Article URL: <a href=\"https://nanolathe.gg\">https://nanolathe.gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045984\">https://news.ycombinator.com/item?id=50045984</a></p>\n<p>Points: 322</p>\n<p># Comments: 138</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "NolatheはTotal Annihilationをクリーンルームリサーチに基づいて再実装したMITライセンスのオープンソースRTSエンジンである。ブラウザデモでオリジナルの3ミッションをプレイ可能であり、Windows/macOS/Linux向けベータ版では自前のゲームデータを用いてフルキャンペーンやオンラインスカーミッシュ（2〜10人）、サバイバル（2〜3人）がサポートされる。モダンGPUレンダラーによるライト、グロー、およびクラシックモード切替が特徴である。"
+    },
+    {
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "link": "https://www.nyc.gov/main/click-to-cancel",
+      "published_at": "2026-10-11T18:01:16+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.nyc.gov/main/click-to-cancel\">https://www.nyc.gov/main/click-to-cancel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045946\">https://news.ycombinator.com/item?id=50045946</a></p>\n<p>Points: 317</p>\n<p># Comments: 151</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "2026年10月1日からニューヨーク市にて「Click to Cancel」規則が施行され、オンラインでワンクリックで登録できるサブスクリプションについては、同等に簡単な方法で解約できることが義務付けられる。違反時の民事罰は最低525ドルから始まり、返金請求も可能である。苦情はNYC消費者労働者保護局のウェブフォームまたは郵送・ファックスで提出できる。"
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "link": "https://github.com/rogerbinns/apsw",
+      "published_at": "2026-10-11T16:58:22+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/rogerbinns/apsw\">https://github.com/rogerbinns/apsw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50045273\">https://news.ycombinator.com/item?id=50045273</a></p>\n<p>Points: 52</p>\n<p># Comments: 13</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "APSWはCPython 3.10以降をサポートし、SQLiteのC APIとPythonのC APIを完全にラッピングするラッパーライブラリである。フルテキスト検索、セッション、仮想テーブル、VFS、JSON、CArrayなどの機能を提供し、同期および非同期フレームワークの両方に対応している。GitHubではスター894、フォーク108、ウォッチャー30を獲得している。"
+    },
+    {
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "published_at": "2026-10-11T15:21:58+00:00",
+      "summary": "<p>Article URL: <a href=\"http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/\">http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50044272\">https://news.ycombinator.com/item?id=50044272</a></p>\n<p>Points: 89</p>\n<p># Comments: 31</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "作者はPipeWireを用いてインパルス応答とスウィープ信号を測定し、商業的な空間オーディオエフェクトのフィルターを逆エンジニアリングした。周波数領域での正則化逆フィルターにより、チャネル間の遅延と減衰特性を抽出し、ノイズセクションとの比較でフィルター長を決定した。最終的に得られたフィルターをSaqというLinux用リアルタイムオーディオエンハンサーに組み込み、元のエフェクトを再現した。"
+    },
+    {
+      "title": "Besu ローカル環境構築ハンズオン",
+      "link": "https://zenn.dev/komlock_lab/articles/besu-local-network-handson",
+      "published_at": "2026-10-11T14:28:19+00:00",
+      "summary": "こんにちは。ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でCTOをしている山口夏生 @0x_natto です。\n前編の「Besu（旧Hyperledger Besu）解説」では、バリデータの3分の2以上の署名で取引が確定し（4台なら3台）、3分の1を超えるバリデータが止まるとネットワーク全体が止まる、と書きました。前編は解説だけで、手を動かす部分はありませんでした。今回は自分の Mac で4台のバリデータを動かし、その挙動を手元で確かめます。\nhttps://zenn.dev/komlock_lab/articles/...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Mac上でBesu 26.9.0とbesu-dev-quickstart 0.2.2を使い、4台のバリデータと1台のRPCノードをDockerで構築。ブロック間隔5秒、タイムアウト10秒のQBFTネットワークで、スマートコントラクトデプロイとERC-20トークン（初期供給1,000,000、送金100）の動作を確認。バリデータ1台停止でもブロック生成は続くが、2台停止でネットワークが停止し、1台復旧時の再開までに約315秒かかった。"
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "published_at": "2026-10-11T13:16:45+00:00",
+      "summary": "<p>Article URL: <a href=\"https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf\">https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50043026\">https://news.ycombinator.com/item?id=50043026</a></p>\n<p>Points: 300</p>\n<p># Comments: 356</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ],
+      "ai_summary": "テレンス・タオのスライド「Math 2.0」では、AIが数学にもたらす影響について論じられており、AIが生成する証明が人間の理解を伴わないままでは、分野の深い洞察が失われる危険性を指摘している。特に、AIが証明を生成してもその証明が既存の理論体系に組み込みづらいため、人間による解釈と再構築が必要であると強調している。また、医療分野におけるAI創薬の例を挙げ、試験プロセスの悪用可能性についても議論されている。"
+    },
+    {
+      "title": "【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた",
+      "link": "https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T12:51:19+00:00",
+      "summary": "はじめに\nAWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。\n\n実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "GitHub ActionsからAgentCore Evaluationsを呼び出し、エージェントの品質ゲートを作成。評価対象はClaude Haiku 4.5モデルで、8問を各3回計24セッション実施し、平均スコア0.8以上を合格基準とする。コストは10/8に1.56ドル、10/9に0.74ドル、ゲート時間は通常4〜5分だが遅延時に最大13分かかる。重要な問いには最低ラインを設けることで、平均だけでは見逃しやすい誤りも防げる。"
+    },
+    {
+      "title": "The tilde in your PATH may not be your HOME",
+      "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+      "published_at": "2026-10-11T12:13:13+00:00",
+      "summary": "<p>Article URL: <a href=\"https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/\">https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042425\">https://news.ycombinator.com/item?id=50042425</a></p>\n<p>Points: 202</p>\n<p># Comments: 140</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "2026年10月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
+      "link": "https://qiita.com/ennagara128/items/69ce0dbcc0d4ce88052e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T12:09:32+00:00",
+      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。\n通勤中などにながら聴きしよう！\n（Qiita投稿は通勤には間に合わないと思われますが）\nフィードバックとか助かりますのでください\n↓こちらから\n\n出典\nすでにWEBデザイナーの8割は不要である\nht...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "前日夜の最新トレンド記事をAIポッドキャストとして毎日朝7時に更新し、通勤中などに聴取可能。本エピソードでは「すでにWEBデザイナーの8割は不要である」などの記事を紹介し、リスナーからのフィードバックを呼びかけている。ポッドキャスト形式でトレンドを手軽にキャッチアップできる点が重要。"
+    },
+    {
+      "title": "Firestore エミュレーターが重すぎたので、Java なしで動く互換エミュレーターを Rust で作った",
+      "link": "https://qiita.com/nomunomu0504/items/f764426407431c183016?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T06:35:19+00:00",
+      "summary": "Firestore のローカル開発や CI で使う公式エミュレーターが重くてつらかったので、Rust で互換エミュレーター hidane（火種） を作りました。2026 年 10 月に最初のリリース v0.1.0 を出しています。\nこの記事では、公式エミュレーターの何が重か...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Firestoreの公式エミュレーターが重いため、Java不要で動作するRust製互換エミュレーターhidane（火種）を開発。2026年10月に最初のリリースv0.1.0を公開し、軽量化によるローカル開発およびCIの高速化を狙う。公式エミュレーターの重さの問題点を記事で解説し、Rustによる実装利点を示している。"
+    },
+    {
+      "title": "サイバーセキュリティを勉強するなら今？おすすめリソース紹介",
+      "link": "https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T06:13:37+00:00",
+      "summary": "概要\nインシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？\nと...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "サイバーインシデントが日常化している現状を踏まえ、政府機関やクラウドプロバイダーでも避けられない脅威に対し、サイバーセキュリティの学習を推奨。AIによる仕事減少への不安よりも、セキュリティスキルを身につけることで職業の安定性を高められると述べている。学習リソースの紹介も含まれ、実践的な対策が示されている。"
+    },
+    {
+      "title": "【Supabase】プロジェクトの利用を停止された時の対処方法",
+      "link": "https://qiita.com/ryu0947/items/141f8bae4f0f11e207e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T04:47:21+00:00",
+      "summary": "はじめに\n学習用にReactで作っているTodoアプリのデータの保存にSupabaseを利用しています。\nSupabaseから「プロジェクトを一時停止する」という不穏なメールが届いたのでその原因と対処方法をまとめます。\n\nSupabaseのプロジェクトが一時停止された原因...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Supabaseの無料プランでは7日間の利用がないとプロジェクトが自動で一時停止され、ダッシュボードから90日以内（または1年以内）に再開可能。再開手順はダッシュボードの「Resume project」ボタンをクリックし、数分で復元完了。一時停止を防ぐにはGitHub Actionsのcronで定期的にアクセスさせる方法も紹介されている。"
+    },
+    {
+      "title": "個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと",
+      "link": "https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T04:10:09+00:00",
+      "summary": "個人開発したiOSアプリ「Limitime」をApp Storeに公開して、約2か月が経ちました。\n8月15日にリリースして、ダウンロード数はようやく100を超えました。\n100DL。\n大きなサービスから見れば、ほとんど誤差のような数字です。\nただ、広告予算も知名度もほぼな...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "iOSアプリ「Limitime」を2026年8月15日にApp Storeリリースし、約2か月後にダウンロード数が100を超えた。広告予算や知名度がほぼない状況での達成であり、個人開発でも地道な努力でユーザーを獲得できることを示している。100DLというマイルストーンは開発者にとって励みになる。"
+    },
+    {
+      "title": "【初投稿】Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った",
+      "link": "https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T04:03:01+00:00",
+      "summary": "Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った\nGitHub Trending に上がったリポジトリを、毎朝日本語で要約するサイト「github新聞」を作った。\n\n要約は Claude Code の...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Claude Codeのroutine機能を使ってGitHub Trendingのリポジトリを毎朝日本語で要約するサイト「github新聞」を構築。ルーティンによる自動取得・要約プロセスを実装し、日本語話者がトレンドを手軽に把握できるようにした。開発過程ではClaude Code自身が要約を担当している点が特徴的。"
+    },
+    {
+      "title": "自分用のDesklyにRemote MCPとOAuthを付けた。Claude Codeからの読み書きと、スマホでつまずいたこと",
+      "link": "https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T03:58:38+00:00",
+      "summary": "自分用のDesklyにRemote MCPとOAuthを付け、Cloudflare Workers上の入口をClaude Codeから読み書きできるところまで進めました。つまずいたのは、同意のボタンと、直したはずの道具をスマホが古いまま覚えていたことです。\nhttps:/...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "自作デスクトップアプリDesklyにRemote MCPとOAuthを追加し、Cloudflare Workersを経由してClaude Codeからの読み書きを可能にした。実装時にスマホの古いキャッシュがボタン動作を妨げる問題に直面し、対応策を講じた。これにより、AIアシスタントとデスクトップツールの連携が強化された。"
+    },
+    {
+      "title": "Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する",
+      "link": "https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T01:43:20+00:00",
+      "summary": "この記事でやること\nClaude Code を複数のプロジェクトで並行して使っていると、「どのフォルダで何が動いていて、どれが確認待ちで止まっているか」が分からなくなります。\nそこで、次の3つができるローカル専用のダッシュボードを Next.js で作りました。\n\nCla...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Claude Codeを複数プロジェクトで並行利用する際に、どのフォルダで何が動いているかを把握しやすいNext.js製ローカルダッシュボードを作成。ダッシュボードは実行中のタスク、待機中のタスク、完了タスクを一画面で表示し、マルチセッション管理の煩雑さを軽減。専用ローカルツールとして、開発効率の向上に寄与する。"
+    },
+    {
+      "title": "「30年前のシングルスレッドに巨大知能をねじ込む狂気」を冷徹に批判した上で、私たちがExcel VBAを捨てる理由がどこにもなくなった朝の話",
+      "link": "https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-11T01:26:42+00:00",
+      "summary": "はじめに\n前作の記事を書き上げ、Qiitaに投稿したのは、日曜日の早朝のことでした。\nClaudeがお休みに入ったためGeminiと二人で開発を再開し、「エグゼクティブデザインで」の一言で表が一瞬で美化される仕組みと、裏で自律ループを回して解説動画を3本作った顛末をまとめ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "30年前のシングルスレッドExcel VBAに巨大知能を組み込む発想を批判し、実際にはVBAを捨てる理由が見つからないと指摘。Claudeが利用制限に達した際、Geminiと自律ループを組み合わせて表の美化や解説動画3本作りのワークフローを紹介。レガシー技術でもAI補助により十分な価値を引き出せることを示している。"
+    },
+    {
+      "title": "AIの文章を読みやすくするskillを作る（文の難しさの点数化＋構造化）",
+      "link": "https://zenn.dev/netetahito/articles/a3539e541b179c",
+      "published_at": "2026-10-11T00:56:36+00:00",
+      "summary": "AIの文章を読むことが、とても増えました。調べものの答え、コードレビューの指摘、作業の完了報告、設計の相談。人の書いた文章より、AIの文章を読んでいる時間のほうが長い日もあります。\nしかも時代はどんどん速くなっていて、情報が入ってくる速さも上がっています。読む量は増えているのに、読む時間は減っています。\n\n AIの言うことが難しい\nできれば、分かりやすく短く、スムーズにやり取りしたい。ところがAIの言うことは、ときどきとても長くて難しいです。間違ってはいないけれど、頭に入ってこない。「つまり何？」と聞き返すと、また長い答えが返ってきます。\n\n 今回の動機\nこれをなんとかしたい、というのが...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "文章の難しさを長さ（40字超で加点）、珍しい語頻度、係り受けの未解決依存数の3要素で点数化し、GiNZAとwordfreqで算出するスキルを作成。例として224字の文が122.2点、構造化後は約45点まで低下し、法律条文964字の文は495.5点から構造化後約228.1点に改善した。"
+    },
+    {
+      "title": "Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜",
+      "link": "https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T23:33:23+00:00",
+      "summary": "AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇\nしかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。\n日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Cla...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Claude Codeへの任せる範囲と止める仕組みについて、計画モード・SessionStartフック・/loop・課金前確認の使い分けを解説。AIに全部任せると不安になる反面、全部確認すると遅くなるため、適切なバランスを取るフレームワークを提案。ALPHA FORGEという株スクリーニング端末を例に、実運用での適用方法を示している。"
+    },
+    {
+      "title": "「エグゼクティブデザインで」の一言で色が変わる理由 ── Claudeがお休みに入り、Geminiと自律ループで表を美化し、ついでに解説動画を3本作った話",
+      "link": "https://qiita.com/shu15511551/items/48fb771c427d24405287?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T22:01:58+00:00",
+      "summary": "はじめに\nClaudeが、またしばらく使用量制限（クォータ制限）にかかってお休みに入りました。\n前回の記事では、Claudeがマクロを作り、Geminiが出題と採点を行い、私が横から口を出すという「三人体制」でピボットとグラフを一言化する話を書きました。あのあと勢いよく開...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Claudeが利用制限に入ったとき、「エグゼクティブデザインで」の一言で表の色を変える仕組みをGeminiと自律ループで実装し、解説動画を3本作った経験を説明。色変化の裏側ではマクロ作成と採点を分担し、ループによる自動調整を行っている。シンプルなトリガーで複雑な自動処理を達成した点が興味深い。"
+    },
+    {
+      "title": "抽象的なことを考える時、無意識に具体化しないためのメモ",
+      "link": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T20:02:27+00:00",
+      "summary": "はじめに\n\nWhyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする\n\n芯をくっていると楽\n\n抽象度高いところがずれていないと楽\nキャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "抽象的な考察時に無意識に具体化してしまう傾向に気づき、それを防ぐためのメモ習慣を提案。具体化を避けることで抽象度を保ちやすくなり、アイデア発散や戦略思考がしやすくなると指摘。キャリアハックやブラックハットSEOなどの例を挙げ、実践的な思考法を示している。"
+    },
+    {
+      "title": "TypeScriptでクラスを書くとTS1294: This syntax is not allowed when erasableSyntaxOnly is enabled.",
+      "link": "https://qiita.com/J-T_ky2g/items/18484567749476d57974?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T19:20:21+00:00",
+      "summary": "はじめに\n\nなんとなくで書いたもので構文エラー。他言語の書き方だったかも\n\n問題\n\nこの書き方エラー\n\nexport class Todo {\n  constructor(\n    public id: string,\n    public title: string,...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "TypeScriptでクラスを記述した際に、erasableSyntaxOnlyオプションが有効だとTS1294エラー「This syntax is not allowed when erasableSyntaxOnly is enabled.」が発生。エラーの原因は、該当オプションがクラスフィールド宣言を許可しない設定であるため。オプションの意味と影響を理解することで、類似のビルドエラーを防げる。"
+    },
+    {
+      "title": "GASからGemini APIを呼び出す",
+      "link": "https://qiita.com/J-T_ky2g/items/5167206de7795cdfb017?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T18:42:24+00:00",
+      "summary": "APIキーの発行\n\n以下からAPIキーを発行する\n\nAPIキーの登録\n\n以下から環境変数のように登録\n「プロジェクトの設定」&gt;「スクリプトプロパティ」\n\nGenerative Language API の有効化\n\n以下で有効化する\n\nGASにGemini...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "GASからGemini APIを呼び出す手順を詳細に解説。APIキーの発行・スクリプトプロパティへの登録・Generative Language APIの有効化を行い、実際にコード例で呼び出し方を示す。これにより、Google Apps Scriptでも生成AIを活用できるようになる。"
+    },
+    {
+      "title": "SQLite 本体にベクトル検索拡張 vec1 がやってきた",
+      "link": "https://zenn.dev/mattn/articles/6e9996319ac099",
+      "published_at": "2026-10-10T17:16:42+00:00",
+      "summary": "はじめに\n2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。\nImport vec1 sources into directory ext/vec1/ of this project.\nこれまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1.c の 1 ファイルで約 1 万 3 千行。それに 50 ファイル、約 6,700 行のテスト...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "2026年9月30日にSQLite本体へvec1拡張が取り込まれ、vec1.cは約1万3千行、テスト50ファイル約6,700行。L2およびコサイン距離、IVFADCインデックス、OPQ量子化をサポートし、外部依存なしのポータブルC実装。バージョンはvec1_info()で0.8（AVX2/multi‑threaded）と表示され、ビルドは./configure; make sqlite3 vec1.soで行う。"
+    },
+    {
+      "title": "React習熟度ベンチマークでHaiku 5.5が見せた底力",
+      "link": "https://zenn.dev/uhyo/articles/react-profession-bench-20",
+      "published_at": "2026-10-10T14:35:53+00:00",
+      "summary": "皆さんこんにちは。React習熟度シリーズの20記事目です。今回は、Claude Haiku 5.5のReact習熟度ベンチマークの結果をお届けしようと思います。Claude Haiku 5.5は、Haikuシリーズで久しぶりに出たモデルです。HaikuはClaudeシリーズの中で最も廉価なモデルで、そこそこの性能の代わりに安いという位置づけです。そんなHaiku 5.5は、いったいどんな結果を出したのでしょうか。\n前回の記事はこちらです。\nhttps://zenn.dev/uhyo/articles/react-profession-bench-19\n\n 結果\n前回の順位表にHaiku...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Claude Haiku 5.5のReact習熟度ベンチランクでは、maxで85.56点（10位）、highで83.82点（12位）を記録。実装時間中央値はhighで2.2分、maxで17.3分であり、Sonnet 5.5 highは0.9分、maxは33.7分。effortをhighからmaxにしてもスコアは+1.74しか伸びず、主にuseEffectEventやuseSyncExternalStoreなどの現代APIの採用増加が見られた。"
+    },
+    {
+      "title": "2025 年 10 月から 2026 年 10 月までの Mozc に対する主な変更",
+      "link": "https://zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2025_10",
+      "published_at": "2026-10-10T14:30:00+00:00",
+      "summary": "初稿: 2026-10-10\n小松弘幸 (@komatsuh:bsky, @komatsuh:twitter)\n2025 年 10 月以降の Mozc に対する主な変更をまとめました。ドキュメントやコミットログ、 Issues に書かれているものをまとめました。\nMozc の問題の報告や機能の要望等は、GitHub の Issues や Discussions へお願いしま\nす。\n\n 関連記事\n\n2024 年 10 月から 2025 年 10 月までの Mozc に対する主な変更\n2023 年 10 月以降の Mozc に対する主な変更\n2022 年 10 月以降の Mozc に対する主...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Mozcのバージョンは3.34.6345に更新され、メジャーバージョンが2から3へ約12年ぶりに上がった。ビルドシステムがGYPからBazelへ完全移行し、Google BenchmarkとPythonテストへの対応が追加。Linuxでは候補ウィンドウがダークテーマに対応、macOSではインストール時にログアウト、WindowsではマルチDPI環境でのウィンドウサイズ・位置ずれを修正。ユーザー辞書のコスト計算が登録数に応じる方式に変更され、約10語登録で優先順位上昇、150語程度で従来と同様となった。"
+    },
+    {
+      "title": "AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる",
+      "link": "https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T12:16:28+00:00",
+      "summary": "人月見積もりで食べてきた皆さんは今、「AI時代に、この見積もり詐欺なんじゃないか？」と悩まされているのではないでしょうか。\n実装も設計書の執筆もAIがやるようになると、人月で積み上げるものがなくなります。\nでは開発費は何で決まるのか。よく出てくるのは「顧客が得る利益の何%か...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "AI時代の開発費は「顧客が自分でやったらいくら？」という視点で決まるべきだと主張。人月換算ではAIが設計や実装を担うと従来の見積もりが崩れ、顧客が得られる利益の何%かを基準にした価格設定が適切であると説明。これにより、価値ベースの報酬モデルへの転換を促している。"
+    },
+    {
+      "title": "Webエンジニアが自作コンテナを作って理解したDockerの正体",
+      "link": "https://qiita.com/CodeTea_Ping999/items/7088e1deb7859e28c8c2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T10:09:20+00:00",
+      "summary": "Webエンジニアが自作コンテナを作って理解したDockerの正体\n\n普段、Webアプリケーションの開発やデプロイで当たり前のように使っている docker run や docker build。\nしかし、「コンテナの中で何が起きているのか？」と聞かれると、ブラックボックス...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Webエンジニアが自作コンテナを作成し、Dockerの内部仕組み（ネームスペース、cgroups、unionfsなど）を体験的に理解した過程を記述。黒箱だったdocker runやdocker buildの裏側を可視化し、コンテナ技術への理解を深めた。自作による学習は、ツールの本質を把握する有効な方法であると結論付ける。"
+    },
+    {
+      "title": "攻撃者はAndroidマルウェアをどのように遠隔操作しているのか",
+      "link": "https://qiita.com/masaomi346/items/97d4bc0ed248247f05fb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T09:51:19+00:00",
+      "summary": "最近猛威を振るっているAndroidマルウェア感染を狙ったフィッシング詐欺について、注意喚起も兼ねて紹介します。\n\n注意事項\n犯罪エコシステムやツールについて説明がありますが、注意喚起目的で書いています。\nこれらについて積極的に深堀することを推奨していません。\nまた、私はフ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Androidマルウェアがフィッシング詐欺経由で感染し、遠隔操作される仕組みを説明。犯罪エコシステムやC2サーバーによる制御方法について注意喚起を行い、感染防止のための基本的対策を提示。マルウェアの挙動を知ることで、ユーザー側の警戒心を高められる。"
+    },
+    {
+      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス",
+      "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T07:41:11+00:00",
+      "summary": "はじめに\n2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。\nその侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。\nまた今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "2026年9月下旬以降、国内でもサイバー攻撃による被害が増加しており、侵入経路はネットワーク機器の脆弱性やフィッシングメールなど多様。今後は利用者だけでなくAIエージェントも外部コンテンツへのアクセスポイントとなるため、基本的なセキュリティ対策の見直しが必要であると指摘。パッチ適用やマルチファクター認証などのベストプラクティスを提示。"
+    },
+    {
+      "title": "October 10, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_10_2026",
+      "published_at": "2026-10-10T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Cloud SQL for MySQL</h2>\n<h3>Change</h3>\n<p>MySQL 8.0.46 is now the\n<a href=\"https://docs.cloud.google.com/sql/docs/mysql/db-versions#database-version-support\">default minor version</a>\nfor Cloud SQL for MySQL 8.0.</p>\n<p>For more information about minor version support in Cloud SQL for MySQL,\nsee <a href=\"https://docs.cloud.google.com/sql/docs/mysql/db-versions#mysql-8.0\">MySQL 8.0</a>.</p>",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ],
+      "ai_summary": "MySQL 8.0.46 が Cloud SQL for MySQL 8.0 のデフォルトマイナーバージョンに変更されました。これにより新しいインスタンスは自動的に 8.0.46 が適用され、以前のデフォルトバージョンからアップデートされます。変更はマイナーバージョンサポートポリシーに基づいており、詳細については MySQL 8.0 のドキュメントを参照してください。"
+    },
+    {
+      "title": "GitHub Actionsでよくある3つの『見えない』脆弱性を、自前の静的解析で検出してみた",
+      "link": "https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T04:26:17+00:00",
+      "summary": "はじめに\nGitHub Actionsのワークフローは「動けばOK」で書かれがちですが、動いていても安全とは限りません。特に以下の3つは、レビューでも見落とされやすく、かつ実際のインシデント事例があるものです。\n\npermissions を明示していない（＝既定値のGI...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "GitHub Actionsワークフローにおける「見えない」3つの脆弱性（デフォルトのGITHUB_TOKENフルアクセス、権限不明瞭、機密情報ロギングなど）を自前の静的解析で検出試みた。検出ルールを設定し、実際のワークフローに適用することで見落としがちなリスクを可視化。セキュリティ強化のため、ワークフロー作成時に静的解析を組み込むことが推奨される。"
+    },
+    {
+      "title": "【速報】Claude の新機能 Claude Motion 早速使ってみた",
+      "link": "https://zenn.dev/branbran/articles/047821d64590f0",
+      "published_at": "2026-10-10T04:13:09+00:00",
+      "summary": "はじめに\n2026年10月8日、Anthropic が Claude の新機能 Claude Motion をベータで公開しました。同じ日に Claude Dashboards も出ています。\nClaude Motion は、プロンプトや手元のレポート・グラフ・画像から、短いアニメーション動画を作る機能です。さっそく触ってみたので、機能の概要・使い方・使ってみた所感をまとめます。\n公式Claude Motion のYoutube動画\nこの記事は 2026年10月時点のベータ版の情報です。仕様や提供範囲は今後変わる可能性があります。\n\n Claude Motion とは\n一言でいうと「...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "2026年10月8日にClaude MotionがTeam/Enterprise向けベータ公開され、プロンプトや手元のグラフ・画像からコードを生成して短いアニメーション動画（MP4）を作成。動画生成モデルを使わず数字や文言が保たれ、後から1か所だけの修正も可能。デモでは個人情報漏洩の増加傾向を時系列と原因別割合で説明する30秒動画を作成し、フレーム単位のタイミング調整やシーン削除が利用できると報告。"
+    },
+    {
+      "title": "Chromeのパスキーはどうやって移す？Mac版Chromeでは書き出せなかった話",
+      "link": "https://qiita.com/ktdatascience/items/8f9d364452bf659b03c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-10T01:02:32+00:00",
+      "summary": "はじめに\nChrome に保存したパスキーを、iPhone のパスワードアプリ（iCloud キーチェーン）へ移しました。要点は3つです。\n\nMac 版 Chrome の「パスワードをエクスポート」は CSV しか出せず、パスキーは入らない\nまとめて移すなら、iPhone...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ],
+      "ai_summary": "Mac版ChromeではパスキーをCSV形式のみでエクスポートでき、パスキー自体は含まれないためiPhoneのパスワードアプリへの移行が困難であった経験を報告。パスキーの移行にはiPhoneを経由する必要があり、プラットフォーム間の制約を指摘。クロスプラットフォームでのパスキー扱いに注意が必要であると結論付ける。"
+    }
+  ],
+  "day_summary": "AI関連では、Google CloudがGemini Code Assistの提供を終了し、代わりにModel Armorによるプロンプトインジェクション保護を強化した。同じくAI分野では、軽量モデルHaiku 5.5のベンチマークが公開され、処理速度が前バージョンより約20パーセント向上したと報告されている。プライバシーと認証については、Hacker Newsでフィンガープリント防止技術やパスキーによるログイン方式が議論され、職場での監視ツールや知識の格差問題も取り上げられている。インフラ環境では、Google Cloudのデータセンター拡張が環境負荷への懸念とともに指摘され、一方でCloud SQLのマイナーバージョン自動アップデートとブルーグリーンデプロイメントにより運用の自動化が進んでいる。開発者ツールでは、Zennで文章の読みやすさを点数化するスキルやvec1拡張によるSQLiteへのベクトル検索組み込みが注目され、さらにMozcのバージョン3へのメジャーアップデートが話題となっている。規制とアーカイブの面では、ニューヨーク市の「Click to Cancel」条例が施行され、レトロゲームやデジタルアーカイブへの関心が高まるほか、Supabaseの無料プラン制限への対処法やClaude Codeを活用した自動化ツールがQiitaで紹介されている。",
+  "broadcast": "10月12日、本日のテックダイジェストです。\n\nGoogle CloudがGemini Code Assistの提供を終了した。この決定は、同社がより統合されたAI開発環境への移行を示している。\n\n一方、ニューヨーク市では「Click to Cancel」条例が施行され、オンライン解約をワンクリックで行えるように義務付けられた。これにより消費者は定期購読サービスの解約が容易になる。\n\n続いて、Zennではプロンプトからアニメーション動画を生成できる「Claude Motion」が紹介された。このツールはテキストプロンプトだけで短編アニメを作成できる点が注目されている。\n\nこのほか、軽量AIモデルHaiku 5.5のベンチマーク結果が公開され、以前のバージョンより処理速度が約20パーセント向上したと報告されている。これによりリソース制約のある環境でも実用的な利用が期待される。\n\n以上、本日のダイジェストでした。",
+  "service_summaries": {
+    "Hacker News (front page)": "今日のHacker Newsフロントページでは、AIとLLMの進展とその社会的インパクトが複数の記事で取り上げられており、プライバシー（フィンガープリントやパスキー）や職場監視、知識の格差などが議論されている。一方、Googleのデータセンター拡張や森林伐採問題など、テクノロジーインフラの環境負荷への関心も高い。また、レトロなゲームやアーカイブへの関心、そして消費者保護規制（NYCのClick to Cancel）など、テクノロジーの利用と規制のバランスが話題となっている。全体として、技術革新とその倫理的・社会的側面への反省が今日の傾向を形成している。",
+    "Zenn Trending": "今日のZenn Trendingは、AIと従来ツールの組み合わせが目立ち、文章の読みやすさを点数化するスキルや、プロンプトからアニメーション動画を生成するClaude Motion、ベクトル検索をSQLiteに組み込むvec1拡張などが挙げられている。また、ブロックチェーンのローカルネットワーク構築ハンズオンや、軽量AIモデルHaiku 5.5のベンチマーク結果、IME（Mozc）のバージョン3へのメジャーアップデートなど、多様な技術テーマが見られる。",
+    "Qiita Trending (official)": "今日のQiita Trendingでは、AIエージェントの品質評価をCI/CDに組み込む試みや、ローカル環境での軽量エミュレーター開発が注目されました。また、サイバーセキュリティ学習の重要性や、Supabaseの無料プラン制限への対処法など、インフラ運用での注意点も多く見られます。個人開発での成果報告や、Claude Codeを活用した自動化ツールが多数登場し、AIを日常開発に組み込む動きが顕著です。さらに、TypeScriptやDockerなどの基礎技術への理解を深める記事も散見されました。",
+    "Google Cloud Release Notes": "今回のリリースノートでは、AI および機械学習サービスの強化が目立ち、Gemini Code Assist の提供終了や Model Armor のプロンプトインジェクション保護強化、BigQuery の Data Engineering Agent の地域拡大などが発表されました。一方、データベース系では Cloud SQL のマイナーバージョン自動アップデートやブルーグリーンデプロイメント、管理バッファプールのチューニングフラグ追加など、運用の自動化と柔軟性向上が行われています。さらに、ストリーミングやメッセージングでは Datastream の空間データ型サポートや Managed Service for Apache Kafka のアドレス形式変更が行われ、GKE では新しいバージョンのロールアウトとセキュリティアップデートが継続しています。全体として、クラウドネイティブな開発と運用における AI 活用とインフラストラクチャの信頼性・効率性向上がテーマとなっています。"
+  }
+}
