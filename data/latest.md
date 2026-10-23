@@ -1,64 +1,48 @@
-# RSS digest — 2026-10-22
+# RSS digest — 2026-10-23
 
-- Generated (UTC): 2026-10-21T23:53:43.148949+00:00
-- Items: 116
+- Generated (UTC): 2026-10-22T23:52:35.679045+00:00
+- Items: 119
 - Feeds OK: 16 / 16
 
 
 ## Hacker News (front page)
 
-- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) — `2026-10-21T21:58:03+00:00`
-- [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/) — `2026-10-21T21:12:59+00:00`
-- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame) — `2026-10-21T21:08:59+00:00`
-- [Claude Duet](https://claude.com/resources/articles/claude-duet) — `2026-10-21T19:40:18+00:00`
-- [Claude Duet](https://claude.com/product/claude-duet) — `2026-10-21T19:14:01+00:00`
-- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html) — `2026-10-21T19:11:57+00:00`
-- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) — `2026-10-21T19:01:12+00:00`
-- [Canary Tokens](https://canarytokens.org/) — `2026-10-21T18:45:04+00:00`
-- [Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case](https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html) — `2026-10-21T17:45:13+00:00`
-- [EA is shutting down BioWare](https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware) — `2026-10-21T17:29:33+00:00`
-- [New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic](https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs) — `2026-10-21T16:20:37+00:00`
-- [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/) — `2026-10-21T16:09:28+00:00`
-- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) — `2026-10-21T15:48:56+00:00`
-- [Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin](https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488) — `2026-10-21T15:20:04+00:00`
-- [Patch the Planet: global response coordination as agents uncover vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/) — `2026-10-21T14:03:43+00:00`
-- [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200) — `2026-10-21T14:01:22+00:00`
-- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) — `2026-10-21T14:00:26+00:00`
-- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35) — `2026-10-21T13:45:33+00:00`
-- [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data/) — `2026-10-21T13:37:00+00:00`
-- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud/) — `2026-10-21T12:53:11+00:00`
-
-## OpenAI Blog
-
-- [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards) — `2026-10-21T21:00:00+00:00`
-- [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal) — `2026-10-21T17:00:00+00:00`
-- [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries) — `2026-10-21T13:00:00+00:00`
-- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) — `2026-10-21T12:00:00+00:00`
-- [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) — `2026-10-21T07:00:00+00:00`
-- [How we built ChatGPT’s novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack) — `2026-10-21T07:00:00+00:00`
-- [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) — `2026-10-21T04:50:00+00:00`
-- [Democratic governance of frontier AI, part II: Empowering cyber defenders](https://openai.com/index/empowering-cyber-defenders) — `2026-10-21T00:00:00+00:00`
-- [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) — `2026-10-20T10:00:00+00:00`
-- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x) — `2026-10-20T07:00:00+00:00`
-- [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio) — `2026-10-20T00:00:00+00:00`
-
-## Cloudflare Changelog
-
-- [Cloudflare One Client - Cloudflare One Client for Windows (version 2026.7.1384.0)](https://developers.cloudflare.com/changelog/post/2026-10-21-warp-windows-ga/) — `2026-10-21T19:42:32+00:00`
-- [Cloudflare One Client - Cloudflare One Client for macOS (version 2026.7.1384.0)](https://developers.cloudflare.com/changelog/post/2026-10-21-warp-macos-ga/) — `2026-10-21T19:42:14+00:00`
-- [Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider](https://developers.cloudflare.com/changelog/post/2026-10-21-createai/) — `2026-10-21T00:00:00+00:00`
-- [Basin SQL, Basin - Basin SQL supports OFFSET](https://developers.cloudflare.com/changelog/post/2026-10-21-basin-sql-offset/) — `2026-10-21T00:00:00+00:00`
-- [WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Managed Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/) — `2026-10-21T00:00:00+00:00`
-- [WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Free Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-free/) — `2026-10-21T00:00:00+00:00`
-- [Cloudflare One Client - Cloudflare One Client for Windows (version 2026.8.2115.0)](https://developers.cloudflare.com/changelog/post/2026-10-20-warp-windows-ga/) — `2026-10-20T01:21:08+00:00`
-- [Cloudflare One Client - Cloudflare One Client for macOS (version 2026.8.2115.0)](https://developers.cloudflare.com/changelog/post/2026-10-20-warp-macos-ga/) — `2026-10-20T01:20:49+00:00`
-- [Cloudflare One Client - Cloudflare One Client for Linux (version 2026.8.2115.0)](https://developers.cloudflare.com/changelog/post/2026-10-20-warp-linux-ga/) — `2026-10-20T00:55:37+00:00`
-- [Agents, Workers - Think agents now use a @cloudflare/computer workspace](https://developers.cloudflare.com/changelog/post/2026-10-20-think-computer-workspace/) — `2026-10-20T00:00:00+00:00`
-- [Workers, Cloudflare CLI - Wrangler and cf now upload source maps by default](https://developers.cloudflare.com/changelog/post/2026-10-20-source-maps-on-by-default/) — `2026-10-20T00:00:00+00:00`
+- [Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI](https://github.com/Coverage-Cat/consumer-agent-testing-tool) — `2026-10-22T22:18:40+00:00`
+- [Railpass](https://train.samismith.com/) — `2026-10-22T21:38:32+00:00`
+- [Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations) — `2026-10-22T21:24:41+00:00`
+- [Hedra is a 3D open world game I wrote from scratch while in highschool](https://github.com/maxilevi/project-hedra/tree/pre-ai) — `2026-10-22T18:44:36+00:00`
+- [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) — `2026-10-22T18:32:57+00:00`
+- [AI and the Enclosure of the Scientific Commons](https://arxiv.org/abs/2610.27251) — `2026-10-22T18:28:16+00:00`
+- [AI analysis of CT scans finds 42.9% of patients have coronary inflammation](https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients) — `2026-10-22T18:02:54+00:00`
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) — `2026-10-22T17:44:06+00:00`
+- [A farewell to Arc browser](https://arc.net/) — `2026-10-22T16:27:47+00:00`
+- [Mini brain organoids ‘reading’ Braille key step towards biohybrid computing](https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence) — `2026-10-22T16:16:45+00:00`
+- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) — `2026-10-22T16:14:31+00:00`
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) — `2026-10-22T16:08:00+00:00`
+- [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) — `2026-10-22T15:26:22+00:00`
+- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) — `2026-10-22T14:32:38+00:00`
+- [What’s getting pwned right now](https://pwn.watch/) — `2026-10-22T14:08:12+00:00`
+- [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) — `2026-10-22T13:33:39+00:00`
+- [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) — `2026-10-22T13:11:00+00:00`
+- [Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress](https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/) — `2026-10-22T13:03:14+00:00`
+- [Xbox wants you to pay 24 to 40 cents per hour to stream games you bought](https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/) — `2026-10-22T11:42:03+00:00`
+- [Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416) — `2026-10-22T10:11:44+00:00`
 
 ## AWS What's New
 
+- [Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp) — `2026-10-22T21:10:00+00:00`
+- [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available) — `2026-10-22T21:00:00+00:00`
+- [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/) — `2026-10-22T18:34:00+00:00`
+- [AWS CloudFormation now simplifies stack update rollback operations](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/) — `2026-10-22T17:30:00+00:00`
+- [Amazon SageMaker AI announces training session APIs for serverless model customization](https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai) — `2026-10-22T16:30:00+00:00`
+- [AWS Direct Connect announces 100G expansion in Bangalore, India](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/) — `2026-10-22T16:00:00+00:00`
+- [AWS announces AWS Interconnect - last mile preview with Megaport](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/) — `2026-10-22T12:00:00+00:00`
+- [Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/) — `2026-10-22T08:00:00+00:00`
+- [AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback](https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/) — `2026-10-22T08:00:00+00:00`
+- [AWS Lambda MicroVMs is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions) — `2026-10-22T07:06:00+00:00`
+- [Amazon Quick Now Available in the AWS Singapore Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/) — `2026-10-22T07:00:00+00:00`
 - [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/) — `2026-10-21T19:10:00+00:00`
+- [AWS Service Reference Information now supports global condition keys, service names, and data plane classification](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-service-reference-information-global-condition-keys-service-names-data-plane/) — `2026-10-21T18:00:00+00:00`
 - [AWS Direct Connect announces 100G expansion in Manchester, England](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/) — `2026-10-21T17:21:00+00:00`
 - [Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/) — `2026-10-21T17:00:00+00:00`
 - [Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/) — `2026-10-21T17:00:00+00:00`
@@ -66,90 +50,112 @@
 - [AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0) — `2026-10-21T15:00:00+00:00`
 - [Amazon Connect Customer launches two new layouts for agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace) — `2026-10-21T13:48:00+00:00`
 - [Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/) — `2026-10-21T13:00:00+00:00`
-- [Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/) — `2026-10-21T08:00:00+00:00`
 - [AWS Network Firewall now supports Route 53 Resolved IP Validation](https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/) — `2026-10-21T08:00:00+00:00`
-- [Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services](https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/) — `2026-10-20T23:26:00+00:00`
-- [Amazon DynamoDB global tables now support disassociating replicas](https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/) — `2026-10-20T23:00:00+00:00`
-- [Amazon WorkSpaces simplifies secure AI agent access to enterprise cloud desktops with less infrastructure to operate and manage](https://aws.amazon.com/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management) — `2026-10-20T17:00:00+00:00`
-- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/) — `2026-10-20T15:32:00+00:00`
-- [AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium (Public Beta)](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium) — `2026-10-20T15:00:00+00:00`
-- [Structured outputs for Claude models available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/) — `2026-10-20T14:00:00+00:00`
-- [AWS Clean Rooms now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks) — `2026-10-20T12:23:00+00:00`
-- [AWS IAM Identity Center simplifies identity source changes from Active Directory](https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/) — `2026-10-20T08:00:00+00:00`
-- [Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/) — `2026-10-20T08:00:00+00:00`
-- [AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review](https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/) — `2026-10-20T08:00:00+00:00`
-- [Amazon CloudWatch Alarms now supports tags in alarm actions payload](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-tags-on-alarm-actions-payload) — `2026-10-20T08:00:00+00:00`
-- [Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/) — `2026-10-20T08:00:00+00:00`
-- [AWS Transform for migrations expands support for existing landing zones](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/) — `2026-10-20T08:00:00+00:00`
-- [Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/) — `2026-10-20T07:00:00+00:00`
+- [Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/) — `2026-10-21T08:00:00+00:00`
+- [AWS Transform now builds new networks and modernizes security groups](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks/) — `2026-10-21T08:00:00+00:00`
 
-## Cloudflare Blog
+## OpenAI Blog
 
-- [Introducing full transaction detection for Cloudflare WAF](https://blog.cloudflare.com/full-transaction-waf/) — `2026-10-21T14:10:42+00:00`
-- [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/) — `2026-10-21T13:56:45+00:00`
-- [How Commerce.com and Cloudflare are getting storefronts ready for AI agents](https://blog.cloudflare.com/webmcp-commerce/) — `2026-10-21T13:00:00+00:00`
-- [8 eMudhra certificates are compromised. Here's what you need to know](https://blog.cloudflare.com/emudhra-certificate-compromise/) — `2026-10-20T22:20:16+00:00`
-- [Introducing tsrs: A port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/) — `2026-10-20T13:00:00+00:00`
+- [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api) — `2026-10-22T19:00:00+00:00`
+- [Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout) — `2026-10-22T00:00:00+00:00`
+- [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards) — `2026-10-21T21:00:00+00:00`
+- [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal) — `2026-10-21T17:00:00+00:00`
+- [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries) — `2026-10-21T13:00:00+00:00`
+- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) — `2026-10-21T12:00:00+00:00`
+- [Patch the Planet: global response coordination as agents uncover critical vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities) — `2026-10-21T07:00:00+00:00`
+- [How we built ChatGPT’s novel ad stack for user trust and relevance](https://openai.com/index/building-chatgpt-ad-stack) — `2026-10-21T07:00:00+00:00`
+- [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) — `2026-10-21T04:50:00+00:00`
+- [Cloudflare links vulnerability discovery to defense with OpenAI](https://openai.com/index/cloudflare-cyber) — `2026-10-21T00:00:00+00:00`
+- [Democratic governance of frontier AI, part II: Empowering cyber defenders](https://openai.com/index/empowering-cyber-defenders) — `2026-10-21T00:00:00+00:00`
 
 ## Zenn Trending
 
-- [cronのclaude -pが"ok"だけで4万トークン——--safe-modeと--tools ""で98%削減](https://zenn.dev/yosiki/articles/claude-p-cron-token-diet) — `2026-10-21T09:22:14+00:00`
-- [個人事業主が App Store の有料アプリ契約を有効にするまで。Apple は組織を選べず、私は納税フォームを2つ出した](https://zenn.dev/hk_work/articles/sole-proprietor-app-store-paid-apps-agreement) — `2026-10-21T07:43:30+00:00`
-- [Amazon Bedrock Guardrails を AnswerCarefully で試してみた](https://zenn.dev/aws_japan/articles/bedrock-guardrails-japanese-tier) — `2026-10-21T05:08:24+00:00`
-- [EKS に Graviton を導入して、arm64 と amd64 を混ぜて運用を始めました](https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration) — `2026-10-21T03:00:07+00:00`
-- [Package.resolved の originHash は何のためにあるのか](https://zenn.dev/zunda_pixel/articles/ecba94910fa062) — `2026-10-21T01:58:50+00:00`
-- [Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた](https://zenn.dev/canly/articles/9c19bb123e208c) — `2026-10-21T01:10:05+00:00`
-- [Laravel の token guard 認証バイパス、表に無い 11 以下はどうなの？全タグのソースを確認してみた](https://zenn.dev/nix/articles/236ceb8194a9c5) — `2026-10-21T00:52:36+00:00`
-- [安くて速い Jev を6回チューニングしたら、最後に Claude の grep に2倍差で負けた話](https://zenn.dev/koudai0711/articles/f7a5cc10496820) — `2026-10-20T23:39:57+00:00`
-- [dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド](https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10) — `2026-10-20T23:00:06+00:00`
-- [LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした](https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture) — `2026-10-20T14:37:43+00:00`
-- [PTCG AI Battle Challenge Simulation振り返り＆反省](https://zenn.dev/ryyy_my/articles/d35d4c655c63f2) — `2026-10-20T11:50:57+00:00`
-- [AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした](https://zenn.dev/flinters_blog/articles/3b377ce568d676) — `2026-10-20T03:00:05+00:00`
-- [Oxlint + Oxfmt で規約をコード化するモノレポ運用](https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006) — `2026-10-20T02:00:05+00:00`
-- [Chromium(V8)のArray.prototype.fillを最大約7倍高速化した](https://zenn.dev/dinii/articles/5b8edc7856c25b) — `2026-10-20T01:00:05+00:00`
+- [Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した](https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629) — `2026-10-22T17:52:59+00:00`
+- [Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した](https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1) — `2026-10-22T17:21:33+00:00`
+- [自宅サーバーの定期バックアップの失敗に気付かなかった話](https://zenn.dev/komorebi_note/articles/d9df64e7e1da82) — `2026-10-22T13:11:28+00:00`
+- [Rootless Dockerと学ぶSELinux【初心者向け】](https://zenn.dev/nexryai/articles/afb828d7dda6b7) — `2026-10-22T11:50:59+00:00`
+- [テニス解析をピックルボールに使ってみた：四隅の指定でコートの俯瞰表示を補う①](https://zenn.dev/nauh_blog/articles/7f19a2f193d15d) — `2026-10-22T06:31:34+00:00`
+- [KMPデスクトップはAIエージェントに速いのか？検証してみる](https://zenn.dev/shogo/articles/f847c35ea8dccb) — `2026-10-22T05:46:57+00:00`
+- [脆弱性管理の仕組みを整えた](https://zenn.dev/dress_code/articles/be5550254695cd) — `2026-10-22T01:30:07+00:00`
+- [エージェント用 IDE を3つ試して、今さら cmux を使い始めた](https://zenn.dev/yoshi47/articles/cmux-after-agent-ides) — `2026-10-22T00:00:15+00:00`
+- [【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI](https://zenn.dev/tyamadadd/articles/c02a27af771dd2) — `2026-10-21T20:00:09+00:00`
+- [「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話](https://zenn.dev/56drich/articles/f52bd4a1dae988) — `2026-10-21T18:52:44+00:00`
+- [10月21日、PHP2Shell対応の後片付けが終わらない](https://zenn.dev/subara3/articles/1165119ef70e75) — `2026-10-21T16:17:09+00:00`
+- [セキュアな実装をするために意識したいこと](https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation) — `2026-10-21T06:00:05+00:00`
+- [Next.js の脆弱性に Dependabot が反応しなかったので、GitHub Advisory Database までの流れを追った](https://zenn.dev/rakko_inc/articles/dependabot-cve-to-pr-flow) — `2026-10-21T04:55:56+00:00`
+- [仕組みを理解する動画を、Claude Codeに作らせると便利すぎる](https://zenn.dev/explaza/articles/c749042ecbe232) — `2026-10-21T02:14:44+00:00`
+
+## GitHub Blog
+
+- [How bug bounty sharpens one researcher’s security skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/) — `2026-10-22T17:21:30+00:00`
+- [The bridge to agent-scale Git infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/) — `2026-10-21T16:00:00+00:00`
+
+## Google Cloud Status
+
+- [RESOLVED: Multiple services were experiencing issues in the europe-west2 region.](https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj) — `2026-10-22T16:19:08+00:00`
 
 ## Qiita Trending (official)
 
+- [耳で聞く！Python で学ぶ マクロ経済学 入門 33](https://qiita.com/maskot1977/items/302bc82b65d7c5bb54d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T15:12:16+00:00`
+- [Copilot で TOEIC 対策してみる](https://qiita.com/masakichiXO/items/1b4bb5191463bc35f600?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T11:44:18+00:00`
+- [【初学者向け】PHPの緊急パッチのニュースで理解した「Dependabotを放置してはいけない理由」と対処法](https://qiita.com/Elu_72b/items/acbf3ba68785e90202b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T11:14:10+00:00`
+- [【初心者の備忘録】初めての Pull Request で戸惑った GitHub の画面](https://qiita.com/mizu_ky/items/9e6790fc2051bffdce92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T09:25:29+00:00`
+- [【考察】ip default-gateway未設定のL2スイッチが通信できたのはなぜ？](https://qiita.com/YN_net/items/9c78c097cbb5859a0694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T05:52:53+00:00`
+- [【Oracle × Snowflake】Data Transformsで ADB の表を AICAT 管理の Iceberg テーブルに全量・差分ロードする](https://qiita.com/yushibats/items/4ab9a6f3e99b78c5f09b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T04:57:45+00:00`
+- [【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法](https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T04:46:40+00:00`
+- [PHP2Shell確認ツール](https://qiita.com/hokutoh/items/2beff120afb168bdec1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T03:56:28+00:00`
+- [「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない](https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T03:50:13+00:00`
+- [PHP2Shell をどう検知し、どう止めるか — パッチ適用までの空白期間を Sysdig Secure で守り抜く](https://qiita.com/takao-shimizu/items/37006609b3265d265d0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T03:43:08+00:00`
+- [MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話](https://qiita.com/sugumura/items/d52a567f7450b5539665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T03:19:25+00:00`
+- [【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較](https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T02:34:34+00:00`
+- [「経済主権」が語られない理由 ― 通商・経済外交の設計バグ : システム設計視点の行動経済学 (46)](https://qiita.com/maskot1977/items/f9586adc7ba5818fe909?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T01:42:18+00:00`
+- [楽観ロックと悲観ロックの違いと役割](https://qiita.com/kaitoszk/items/33dcf0ee91832956124d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T00:30:32+00:00`
+- [PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録](https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T00:21:30+00:00`
+- [「表領域どれくらい空いてる？」を日本語で聞く。Oracle の DB 管理チャットを作ってみた](https://qiita.com/engchina/items/46f956e123cd942d13f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T00:13:38+00:00`
+- [コーディングエージェントの「指示書・Skill・Hooks」役割分担](https://qiita.com/acshu_moriyama/items/0d35781c10fe8d436b5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-22T00:10:31+00:00`
+- [MCPサーバーを5分で作る — TypeScript + @modelcontextprotocol/sdk の最小実装](https://qiita.com/joinclass/items/60abfc1f42358424b26f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T23:30:06+00:00`
+- [AIに美容室5店舗の社長を演じてもらい、コアドメインを特定する練習をしてみた！](https://qiita.com/jota9613/items/4d84d4a9e276104c7411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T19:42:57+00:00`
+- [PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃](https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T17:15:15+00:00`
+- [Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする](https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T15:02:18+00:00`
+- [【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法](https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T14:17:51+00:00`
+- [is-* クラスや data-state を活用しよう！ HTML・CSS・JS の責務分離](https://qiita.com/Yudai-HARA/items/73d20fd44b626dc74840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T11:34:10+00:00`
 - [「ドパ資料」の作り方](https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T09:04:32+00:00`
-- [Lambda Web Functionsについて！](https://qiita.com/PDC-Kurashinak/items/510620a2938af38f319d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T07:47:02+00:00`
 - [はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～](https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T07:34:12+00:00`
-- [Claude Code の長い会話は、閉じずに席を外したほうが安かった。1時間後に戻った費用は閉じた場合の1割](https://qiita.com/suwa_nobu/items/bc2e80a8c1d61b0b2cfe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T07:01:56+00:00`
-- [ARC-AGI-3 の 99.9% を中心に GPT-6 Astra のベンチマークを理解したい](https://qiita.com/masa-asa/items/9d62bfeb91140c7a88a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T06:45:26+00:00`
-- [「どうせ変わらない」は設計されたバグだ ― 政治改革・選挙制度の工学的分析 : システム設計視点の行動経済学 (45)](https://qiita.com/maskot1977/items/32f57ea5e95bafcd322f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T01:47:06+00:00`
-- [AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた](https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T00:45:54+00:00`
 - [AI Data Platform(AIDP) にオープンデータを取り込んで東京都62市区町村を分析してみてみた](https://qiita.com/shirok/items/399e0042896dcc4c0b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T00:30:11+00:00`
-- [JevでAWS AI Business Strategistの自作問題の質を上げてみた](https://qiita.com/news_it_enj/items/35737c4d6947770e9f62?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-21T00:16:15+00:00`
-- [この本、今だれが持ってる？SharePoint × Power Automate で書籍貸出システムを作ってみた](https://qiita.com/KoheiKushida/items/efd3bbc324fec6e3c18e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T23:52:21+00:00`
-- [Claude Codeの新コマンド「/advisor fable」で、難所だけFableへ自動で相談するAI活用](https://qiita.com/inoyu-qiita/items/2bf7c23b9586ccafb9fd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T23:46:16+00:00`
-- [ngrok のような HTTP トンネルを docker compose 1つで自前運用できる OSS「gridbase」を試す](https://qiita.com/nogataka/items/170f99bb52ecd720d3ff?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T23:32:55+00:00`
-- [パスワード管理ツールについて調べた（1Password・Bitwarden）](https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T23:08:58+00:00`
-- [Claude Code に運用を任せるとき、計画を変える条件は「日付つきの判断ルール」で先に書く：10月19日にルールが発火して、計画を組み直した記録](https://qiita.com/kaiyaku_iyada/items/339a7e78ba476ca1c810?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T22:58:14+00:00`
-- [APIキー・パスワードをGitHubに漏らさない7つの設定(.gitignore・gitleaks・コピペOK)](https://qiita.com/jiis-sasaki/items/fc4e677334d67ee1d472?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T22:30:00+00:00`
-- [🔒「ファイルを送信しない」をCSPとPlaywrightで保証する](https://qiita.com/Ruria1024/items/70c607a7899e1bda24b4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T22:21:20+00:00`
-- [Summernoteで挿入した画像を署名付きURLでS3に直接アップロードする](https://qiita.com/ishi720/items/5468cfb47e7e3c96ddbb?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T22:16:16+00:00`
-- [耳で聞く！Python で学ぶ マクロ経済学 入門 31](https://qiita.com/maskot1977/items/2212572eb9b28044f4ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T22:01:15+00:00`
-- [2026年10月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/19da01cfd8b63abfd018?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T15:39:24+00:00`
-- [【2026年版】AIを駆使した開発手法をざっくりまとめてみた](https://qiita.com/kobori_slj/items/b9683ce90f4c26a6e7ae?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T12:39:49+00:00`
-- [動画で学ぶハニカム構造 : ボロノイ分割とドロネー三角形分割](https://qiita.com/ken_aizawa/items/f9445a64f938fc3a6a00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T09:58:06+00:00`
-- [AI時代の開発プロセスとチームのあり方を考える](https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T04:15:47+00:00`
-- [SQL初心者の基本のキ](https://qiita.com/komaba/items/b15321f2efd73ff248df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T02:20:46+00:00`
-- [怠惰の化身が資格取得するための勉強の習慣を身につけるまで](https://qiita.com/giganticsaki_A/items/f0ed9ec5cff12106978e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T02:12:07+00:00`
-- [Oracle AI Data Platform(AIDP)：Private Endpointの AI Lakehouseで Knowledge Base・RAG検索してみてみた](https://qiita.com/shirok/items/8dd19291f959da310c99?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T01:21:10+00:00`
-- [古くさいと思っていた報連相を、PMになってから今一度考えた話](https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-20T01:03:59+00:00`
+
+## Cloudflare Changelog
+
+- [Cloudflare One Client - Cloudflare One Client for Windows (version 2026.9.1555.1)](https://developers.cloudflare.com/changelog/post/2026-10-22-warp-windows-beta/) — `2026-10-22T13:08:10+00:00`
+- [Cloudflare One Client - Cloudflare One Client for macOS (version 2026.9.1555.1)](https://developers.cloudflare.com/changelog/post/2026-10-22-warp-macos-beta/) — `2026-10-22T13:08:01+00:00`
+- [Agents - Cloudflare MCP servers no longer serve /sse](https://developers.cloudflare.com/changelog/post/2026-10-22-cloudflare-mcp-servers-retire-sse/) — `2026-10-22T00:00:00+00:00`
+- [Agents - Agents SDK now supports the latest Pi 1.4 release](https://developers.cloudflare.com/changelog/post/2026-10-22-pi-harness-pi-1-4/) — `2026-10-22T00:00:00+00:00`
+- [Cloudflare Tunnel, Cloudflare Tunnel for SASE - Cloudflare Tunnel supports URL normalization](https://developers.cloudflare.com/changelog/post/2026-10-22-cloudflared-path-normalization/) — `2026-10-22T00:00:00+00:00`
+- [Cloudflare Fundamentals, Cloudflare One, Cloudflare Tunnel for SASE, Cloudflare Tunnel - Granular Tunnel Read And Monitor role is generally available](https://developers.cloudflare.com/changelog/post/2026-10-22-granular-read-and-monitor-ga/) — `2026-10-22T00:00:00+00:00`
+- [WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Managed Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-cfmr/) — `2026-10-22T00:00:00+00:00`
+- [WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Free Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-free/) — `2026-10-22T00:00:00+00:00`
+- [Cloudflare One Client - Cloudflare One Client for Windows (version 2026.7.1384.0)](https://developers.cloudflare.com/changelog/post/2026-10-21-warp-windows-ga/) — `2026-10-21T19:42:32+00:00`
+- [Cloudflare One Client - Cloudflare One Client for macOS (version 2026.7.1384.0)](https://developers.cloudflare.com/changelog/post/2026-10-21-warp-macos-ga/) — `2026-10-21T19:42:14+00:00`
+- [Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider](https://developers.cloudflare.com/changelog/post/2026-10-21-createai/) — `2026-10-21T00:00:00+00:00`
+- [Basin SQL, Basin - Basin SQL supports OFFSET](https://developers.cloudflare.com/changelog/post/2026-10-21-basin-sql-offset/) — `2026-10-21T00:00:00+00:00`
+- [WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Managed Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/) — `2026-10-21T00:00:00+00:00`
+- [WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Free Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-free/) — `2026-10-21T00:00:00+00:00`
+
+## Cloudflare Blog
+
+- [Localizing compliance at scale: achieving South Korea’s ISMS certification](https://blog.cloudflare.com/k-isms/) — `2026-10-22T13:00:00+00:00`
+- [Introducing full transaction detection for Cloudflare WAF](https://blog.cloudflare.com/full-transaction-waf/) — `2026-10-21T14:10:42+00:00`
+- [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/) — `2026-10-21T13:56:45+00:00`
+- [How Commerce.com and Cloudflare are getting storefronts ready for AI agents](https://blog.cloudflare.com/webmcp-commerce/) — `2026-10-21T13:00:00+00:00`
 
 ## Google Cloud Release Notes
 
+- [October 22, 2026](https://docs.cloud.google.com/release-notes#October_22_2026) — `2026-10-22T07:00:00+00:00`
 - [October 21, 2026](https://docs.cloud.google.com/release-notes#October_21_2026) — `2026-10-21T07:00:00+00:00`
-- [October 20, 2026](https://docs.cloud.google.com/release-notes#October_20_2026) — `2026-10-20T07:00:00+00:00`
+
+## Stripe Blog
+
+- [Trends from Money20/20 2026: The rise of “hidden” financial services](https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services) — `2026-10-22T00:00:00+00:00`
 
 ## Google AI Blog
 
 - [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/) — `2026-10-21T04:00:00+00:00`
-
-## GitHub Blog
-
-- [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/) — `2026-10-20T16:05:03+00:00`
-
-## Google Cloud Status
-
-- [RESOLVED: Multiple services are experiencing issues in the europe-west2 region.](https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj) — `2026-10-20T14:05:42+00:00`

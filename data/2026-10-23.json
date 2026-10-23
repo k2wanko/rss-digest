@@ -1,0 +1,1436 @@
+{
+  "report": {
+    "run_date": "2026-10-23",
+    "generated_at": "2026-10-22T23:52:35.679045+00:00",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 48,
+    "feeds_total": 16,
+    "feeds_ok": 16,
+    "item_count": 119,
+    "errors": [],
+    "summary_error": "one or more services failed; see workflow logs"
+  },
+  "items": [
+    {
+      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+      "link": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+      "published_at": "2026-10-22T22:18:40+00:00",
+      "summary": "<p>Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.<p>The problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.<p>The solution: CATT ",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Railpass",
+      "link": "https://train.samismith.com/",
+      "published_at": "2026-10-22T21:38:32+00:00",
+      "summary": "<p>Article URL: <a href=\"https://train.samismith.com/\">https://train.samismith.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201414\">https://news.ycombinator.com/item?id=50201414</a></p>\n<p>Points: 28</p>\n<p># Comments: 7</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+      "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+      "published_at": "2026-10-22T21:24:41+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50201259\">https://news.ycombinator.com/item?id=50201259</a></p>\n<p>Points: 178</p>\n<p># Comments: 66</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
+      "published_at": "2026-10-22T21:10:00+00:00",
+      "summary": "<p>Amazon Connect Customer Profiles now allows administrators to customize which customer data that agents see in the agent workspace, and how it is displayed, using layouts they build in Profile Explorer. Customer Profiles provides agents with a real-time, unified view of each customer during interactions, combining contact history with customer data from multiple sources. Agents who handle different kinds of requests need different customer data in front of them.<br /> <br /> Within Profile Ex",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
+      "published_at": "2026-10-22T21:00:00+00:00",
+      "summary": "<p>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities&nbsp;discovers, validates, prioritizes, and remediates code vulnerabilities at machine speed.</p> \n<p>Continuum for code vulnerabilities builds a context graph from your AWS environment, including resource topology, identity relationships, and network reachability. It knows which resources are part of your application, and which findings carry real business risk. It inge",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "summary": "Fast, focused, low-cost decisions for any application.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "published_at": "2026-10-22T18:44:36+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/maxilevi/project-hedra/tree/pre-ai\">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199389\">https://news.ycombinator.com/item?id=50199389</a></p>\n<p>Points: 102</p>\n<p># Comments: 26</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
+      "published_at": "2026-10-22T18:34:00+00:00",
+      "summary": "<p>Starting today, Amazon OpenSearch Serverless reduces the default refresh interval to 5 seconds for both search and vector collections. The refresh interval controls how quickly newly ingested documents become available for search. By lowering the default from 10 seconds to 5 seconds, newly written data becomes searchable faster, giving applications quicker read-after-write visibility automatically, with no configuration changes and no action required on your part.</p> \n<p>This improvement app",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "link": "https://www.typeui.sh/micro-interactions",
+      "published_at": "2026-10-22T18:32:57+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.typeui.sh/micro-interactions\">https://www.typeui.sh/micro-interactions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199290\">https://news.ycombinator.com/item?id=50199290</a></p>\n<p>Points: 68</p>\n<p># Comments: 37</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "link": "https://arxiv.org/abs/2610.27251",
+      "published_at": "2026-10-22T18:28:16+00:00",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.27251\">https://arxiv.org/abs/2610.27251</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199230\">https://news.ycombinator.com/item?id=50199230</a></p>\n<p>Points: 97</p>\n<p># Comments: 55</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "published_at": "2026-10-22T18:02:54+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients\">https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50198940\">h",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した",
+      "link": "https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629",
+      "published_at": "2026-10-22T17:52:59+00:00",
+      "summary": "!\n受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。\n\n2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE のおそれ）や、TLS 証明書のホスト名チェックを回避できるものなど、High が4件あります。\nhttps://nodejs.org/en/blog/vulnerability/october-2026-security-releases\n修正版は 24.22.1 / 22.23.4 / 2...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "published_at": "2026-10-22T17:44:06+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/NVIDIA/OpenShell\">https://github.com/NVIDIA/OpenShell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50198675\">https://news.ycombinator.com/item?id=50198675</a></p>\n<p>Points: 261</p>\n<p># Comments: 136</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AWS CloudFormation now simplifies stack update rollback operations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/",
+      "published_at": "2026-10-22T17:30:00+00:00",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/cloudformation/\">AWS CloudFormation</a>&nbsp;now makes it simpler to complete an update rollback and get back to deploying. An update rollback returns your stack to a known good state. Starting today, if some resources cannot roll back automatically, force rollback enables you to complete the rollback it in a single operation. It works across every CloudFormation workflow, from the <a href=\"https://docs.aws.amazon.com/cli/latest/reference/cloudformation/\">",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した",
+      "link": "https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1",
+      "published_at": "2026-10-22T17:21:33+00:00",
+      "summary": "!\nクライアント案件のリポジトリ名は伏せています。容量の数字は、dfとduで実際に測った値です。\n\n1TBのMacBook Airで、ストレージの空きが8GBまで減っていました。\nClaude Codeに「ストレージがほぼないので整理したい」と頼んで、何が容量を使っているかを調べてもらいながら掃除しました。原因はほとんどが開発まわりで、最終的に空きは約380GBまで戻りました。\n最近はClaude CodeやCodexに作業を並列でお願いすることが多く、そのたびにGitのworktreeが作られます。このやり方だと溜まりやすいものがいくつか分かったので、消した順に紹介します。\n\n 何が容...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published_at": "2026-10-22T17:21:30+00:00",
+      "summary": "<p>As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.</p>\n<p>The post <a href=\"https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/\">How bug bounty sharpens one researcher’s security skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "source": "GitHub Blog",
+      "source_url": "https://github.blog/feed/",
+      "tags": [
+        "github",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI announces training session APIs for serverless model customization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai",
+      "published_at": "2026-10-22T16:30:00+00:00",
+      "summary": "<p>Amazon SageMaker AI serverless model customization now supports training session APIs, giving customers full control over their post-training algorithm without provisioning or managing GPU infrastructure. Managed techniques, including SFT, DPO, and other reinforcement learning methods, let customers pick a technique and a model and have SageMaker AI run the training. With training session APIs, teams get to write the training loop, whether that's reproducing SFT or DPO on their own terms or i",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "A farewell to Arc browser",
+      "link": "https://arc.net/",
+      "published_at": "2026-10-22T16:27:47+00:00",
+      "summary": "<p>Article URL: <a href=\"https://arc.net/\">https://arc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197601\">https://news.ycombinator.com/item?id=50197601</a></p>\n<p>Points: 217</p>\n<p># Comments: 197</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "RESOLVED: Multiple services were experiencing issues in the europe-west2 region.",
+      "link": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj",
+      "published_at": "2026-10-22T16:19:08+00:00",
+      "summary": "<p> Incident began at <strong>2026-10-19 23:00</strong> and ended at <strong>2026-10-20 05:10</strong> <span>(all times are <strong>US/Pacific</strong>).</span></p><div class=\"cBIRi14aVDP__status-update-text\"><h2>Preliminary Incident Report</h2>\n<p>We recognize that Google Cloud services are critical to your organization, and we sincerely apologize for the disruption this incident may have caused to your business. We are working to address the root cause and prevent this from occurring in the fu",
+      "source": "Google Cloud Status",
+      "source_url": "https://status.cloud.google.com/en/feed.atom",
+      "tags": [
+        "gcp",
+        "cloud",
+        "status"
+      ]
+    },
+    {
+      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
+      "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+      "published_at": "2026-10-22T16:16:45+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence\">https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197450\">https://news.ycombinator.com/item?id=50197450</a></p>\n<p>Points: 36</p>\n<p># Comments: 38</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "published_at": "2026-10-22T16:14:31+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.taler.net/en/news/2026-13.html\">https://www.taler.net/en/news/2026-13.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197404\">https://news.ycombinator.com/item?id=50197404</a></p>\n<p>Points: 210</p>\n<p># Comments: 73</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "published_at": "2026-10-22T16:08:00+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans\">https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197313\">https://news.ycombinator.com/item?id=50197313</a></p>\n<p>Points: 187</p>\n<p># Comments: 214</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
+      "published_at": "2026-10-22T16:00:00+00:00",
+      "summary": "<p>Today, AWS announced the expansion of 100 Gbps dedicated connections at the existing <a href=\"https://aws.amazon.com/directconnect\">AWS Direct Connect</a> location in the Netmagic DC2 data center near Bangalore, India. You can now establish private, direct network access to all public AWS Regions (except those in China), AWS GovCloud Regions, and <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/localzones/\">AWS Local Zones</a> from this location.</p> \n<p>The Direct Connect serv",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "published_at": "2026-10-22T15:26:22+00:00",
+      "summary": "<p><a href=\"https://hackios-web.vercel.app/en\" rel=\"nofollow\">https://hackios-web.vercel.app/en</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196718\">https://news.ycombinator.com/item?id=50196718</a></p>\n<p>Points: 296</p>\n<p># Comments: 116</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 33",
+      "link": "https://qiita.com/maskot1977/items/302bc82b65d7c5bb54d6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T15:12:16+00:00",
+      "summary": "user:\nソース動画のタイトル、そしてこの動画の内容について教えてください。\n\nGemini:\nご質問ありがとうございます！\n本動画のタイトル、および動画で解説されている詳細な内容について整理してお伝えします。\n\n動画のタイトル\n\n本動画のタイトルは 「富裕層への増...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "link": "https://quad9.net/news/blog/au-revoir-france/",
+      "published_at": "2026-10-22T14:32:38+00:00",
+      "summary": "<p>Article URL: <a href=\"https://quad9.net/news/blog/au-revoir-france/\">https://quad9.net/news/blog/au-revoir-france/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195959\">https://news.ycombinator.com/item?id=50195959</a></p>\n<p>Points: 933</p>\n<p># Comments: 340</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "published_at": "2026-10-22T14:08:12+00:00",
+      "summary": "<p>Article URL: <a href=\"https://pwn.watch/\">https://pwn.watch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195543\">https://news.ycombinator.com/item?id=50195543</a></p>\n<p>Points: 326</p>\n<p># Comments: 152</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "published_at": "2026-10-22T13:33:39+00:00",
+      "summary": "<p>Article URL: <a href=\"https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195110\">https://news.ycombinator.com/item?id=50195110</a></p>\n<p>Points: 899</p>\n<p># Comments: 611</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "自宅サーバーの定期バックアップの失敗に気付かなかった話",
+      "link": "https://zenn.dev/komorebi_note/articles/d9df64e7e1da82",
+      "published_at": "2026-10-22T13:11:28+00:00",
+      "summary": "はじめに\nはじめまして。現在はLinuxを勉強中で、中古パソコンに写真管理サーバーを動かしています。\nこの記事では、設定したはずのバックアップが機能していなかったので、その過程を書きます。\n\n 背景\nGoogleフォトに頼らず写真を自分で管理すべくImmichを使用している。スマホで撮った写真はImmichに自動で保存し、スマホからは手動で削除している。つまり写真はサーバーにしかないため、サーバーが壊れたら全ての写真が無くなる。そこで、rcloneでGoogleドライブに暗号化してバックアップする設定をしていた。\n\n 環境\n\n中古PC + Rocky Linux\nDocker で I...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "published_at": "2026-10-22T13:11:00+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html\">https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50194833\">https://news.ycombinator.com/item?id=50194833</a></p>\n<p>Points: 422</p>\n<p># Comments: 418</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Cloudflare One Client - Cloudflare One Client for Windows (version 2026.9.1555.1)",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-warp-windows-beta/",
+      "published_at": "2026-10-22T13:08:10+00:00",
+      "summary": "<p>A new Beta release for the Windows Cloudflare One Client is now available on the <a href=\"https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/beta-releases/\">beta releases downloads page</a>.</p>\n<p>This release includes the following highlights:</p>\n<ul>\n<li>Added automatic endpoint selection for Global Acceleration. When Global Acceleration is enabled for an organization, the client connects to the Global Acceleration endpoints while th",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Cloudflare One Client - Cloudflare One Client for macOS (version 2026.9.1555.1)",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-warp-macos-beta/",
+      "published_at": "2026-10-22T13:08:01+00:00",
+      "summary": "<p>A new Beta release for the macOS Cloudflare One Client is now available on the <a href=\"https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/beta-releases/\">beta releases downloads page</a>.</p>\n<p>This release includes the following highlights:</p>\n<ul>\n<li>macOS 15.0 is now the minimum supported version. This release does not run on macOS 14.</li>\n<li>Added automatic endpoint selection for Global Acceleration. When Global Acceleration is",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+      "link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+      "published_at": "2026-10-22T13:03:14+00:00",
+      "summary": "<p>When I founded my business a whistle-blowing-service for enterprises, I’ve seeked for a working solution to block spam bots on that home page. The solution was intended to comply with EU data privacy law, no cookies, no sniffing, light-weight-size, on my webserver only, beeing invisible for my site visitors and no running costs at all.<p>I came across Hashcash, a proof-of-work approach, to block spam. When I implemented it, it worked immediately and blocked 100 percent without blocking any in",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+      "link": "https://blog.cloudflare.com/k-isms/",
+      "published_at": "2026-10-22T13:00:00+00:00",
+      "summary": "Cloudflare has achieved South Korea's ISMS certification following an audit across 80 controls. Learn how we localized user consent flows, adapted social sign-up paths at the edge, and validated our global security program.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "AWS announces AWS Interconnect - last mile preview with Megaport",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/",
+      "published_at": "2026-10-22T12:00:00+00:00",
+      "summary": "<p>AWS launches AWS Interconnect - last mile preview with Megaport, a fully managed connectivity offering that allows customers to connect their branch offices, data centers, and remote locations to AWS with just a few clicks, eliminating the friction and complexity of network setup. As a milestone collaboration between AWS and Megaport, AWS Interconnect - last mile combines AWS cloud innovation with Megaport operating one of the world's largest Software Defined Networks (SDN), with 1,200+ enabl",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Rootless Dockerと学ぶSELinux【初心者向け】",
+      "link": "https://zenn.dev/nexryai/articles/afb828d7dda6b7",
+      "published_at": "2026-10-22T11:50:59+00:00",
+      "summary": "!\nこの記事の作成にあたって、図の生成、調査、校正に生成AIを使用していますが、本文は人の手で書かれたものです。\n\n\n 環境\n\nRocky Linux 10.2\n\n\n あらすじ\n私の自宅サーバーでは、/var/composeにDocker Composeのファイル一式を格納し、composeユーザーでRootless Dockerを動かしています。\nRocky Linux（というかRHEL）ではデフォルトでrootで動作する常駐プロセスがありますが、これらからのアクセス制限がどんな感じでかかってるのかを調査してSELinuxの基礎を学んだというお話です。\n\n 前提知識\nSELinuxは主...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Copilot で TOEIC 対策してみる",
+      "link": "https://qiita.com/masakichiXO/items/1b4bb5191463bc35f600?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T11:44:18+00:00",
+      "summary": "私が前回 TOEIC 受けたのはもう 20 年くらい前の話なので、参考にならなかったら本当すみません。\n\nなんでも Copilot Global のコミュニティ登壇の英語スライドはこちら。\n\n0. TOEIC に私たちは何を試されているのか？\n\n1) 英語を素...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "published_at": "2026-10-22T11:42:03+00:00",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/\">https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50194009\">https://news.ycombinator.com/item?id=50194009</a></p>\n<p>Points: 170</p>\n<p># Comments: 182</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "【初学者向け】PHPの緊急パッチのニュースで理解した「Dependabotを放置してはいけない理由」と対処法",
+      "link": "https://qiita.com/Elu_72b/items/acbf3ba68785e90202b3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T11:14:10+00:00",
+      "summary": "はじめに\nハーブティーのレシピ管理アプリ「Herb Recipe Lab」（Rails 8.1 / Turbo 8 / Render / Neon）を個人開発しています。\nMVPをリリースし、本リリースに向けて開発していたところ、コードレビューしてくださった先輩にこう言わ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
+      "published_at": "2026-10-22T10:11:44+00:00",
+      "summary": "<p>I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.<p>I am truly sorry. I take full responsibility for my actions.<p>It was not remotely my intention to cause any of the subsequent side effects.<p>At the time of posting, I didn't know about any embargo. My contact had told me there was no embargo, and her contact had t",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "【初心者の備忘録】初めての Pull Request で戸惑った GitHub の画面",
+      "link": "https://qiita.com/mizu_ky/items/9e6790fc2051bffdce92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T09:25:29+00:00",
+      "summary": "はじめに\n業務で Git と GitHub を使い始めた初心者です。\n前回の記事では、git add・git commit・git push をしたときに、ファイルがどこに行くのかを整理しました。最後に「次は Pull Request とマージまわりを整理したい」と書いた...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/",
+      "published_at": "2026-10-22T08:00:00+00:00",
+      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen3.8 27B, and Ministral 3 3B, 8B, and 14B models. In addition to deploying these models on SageMaker AI, you can now adapt them to your specific domains and workflows, using supervised fine-tuning (SFT), direct preference optimization (DPO), and reinforcement fine-tuning (RFT) techniques. You can also adapt these models with either low-rank adaptation (LoRA) or full fine-tuning techniques. This launch adds th",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/",
+      "published_at": "2026-10-22T08:00:00+00:00",
+      "summary": "<p>Amazon Bedrock AgentCore Gateway now supports the Amazon Bedrock InvokeModel and InvokeModelWithResponseStream APIs on its inference endpoint, along with model fallback routing for inference traffic. With InvokeModel support, you can point your existing Amazon Bedrock SDK integration at the gateway and reach any model provider through one governed endpoint, without rewriting client code for each provider. With model fallback, the gateway automatically routes a request to an alternative model ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions",
+      "published_at": "2026-10-22T07:06:00+00:00",
+      "summary": "<p>AWS Lambda MicroVMs is now available in 4 additional AWS Regions: Asia Pacific (Hong Kong), Asia Pacific (Malaysia), Asia Pacific (Thailand), and Europe (Spain). With this launch, you can use Lambda MicroVMs in a total of 14 AWS Regions.</p> \n<p>Lambda MicroVMs is a serverless compute primitive that provides VM-level isolation, near-instant launch and resume speeds, and state preservation for executing user or AI generated code.&nbsp; Developers can use Lambda MicroVMs to give each user or jo",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon Quick Now Available in the AWS Singapore Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "summary": "<p>Amazon Quick is now available in the AWS Asia Pacific (Singapore) region (ap-southeast-1). This launch allows customers in Singapore to access the full power of Amazon Quick while meeting local requirements for data sovereignty.</p> \n<p>Amazon Quick provides business users an agentic teammate that quickly answers questions at work and turns those answers into actions. With Amazon Quick, every user is empowered to make better decisions faster and take actions without switching applications usi",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "October 22, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_22_2026",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">App Engine flexible environment PHP</h2>\n<h3>Security</h3>\n<p>All supported versions of <a href=\"https://docs.cloud.google.com/appengine/docs/flexible/lifecycle/support-schedule#php\">PHP 8.2</a> and later are patched. Take immediate protective action by redeploying your resources with updated dependencies.</p>\n<p>See <a href=\"https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619\">Resp",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "テニス解析をピックルボールに使ってみた：四隅の指定でコートの俯瞰表示を補う①",
+      "link": "https://zenn.dev/nauh_blog/articles/7f19a2f193d15d",
+      "published_at": "2026-10-22T06:31:34+00:00",
+      "summary": "やってみたこと\nテニス映像を解析するTennisProjectを、ピックルボールの試合映像に適用しました。ボール追跡に加えて、コートの検出と人物位置の俯瞰表示を試しています。\nテニス用の自動コート推定をそのまま使うと、実際のコート形状とずれが生じました。そこで固定カメラを前提に、コートの四隅を手動指定し、ピックルボール用の俯瞰図に変換する処理を追加しました。\n\n テニス用の構成をそのまま使うとどうなるか\n今回使った構成は次のとおりです。\n\n\n\n処理\n使用しているもの\n\n\n\n\nボール追跡\nテニス用の学習済みTrackNet\n\n\n自動コート検出\nテニスコートの14点を推定するモデル\n\n\n...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【考察】ip default-gateway未設定のL2スイッチが通信できたのはなぜ？",
+      "link": "https://qiita.com/YN_net/items/9c78c097cbb5859a0694?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T05:52:53+00:00",
+      "summary": "本記事に掲載している構成、機器名、IPアドレス、VLAN番号、ネットワーク構成およびコマンド出力は、説明用に置き換えた仮の情報です。筆者の環境とは関係ありません。\n\n1　はじめに\nあるとき、ネットワーク環境を確認していると不思議な状態に気づきました。\nL2スイッチに...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "KMPデスクトップはAIエージェントに速いのか？検証してみる",
+      "link": "https://zenn.dev/shogo/articles/f847c35ea8dccb",
+      "published_at": "2026-10-22T05:46:57+00:00",
+      "summary": "はじめに\nこの記事 を読みました。\nAI エージェントにアプリを操作させて動作を確認するとき、Android エミュレータではなく Kotlin Multiplatform のデスクトップ版を使った方が速い、という内容です。記事には実測値も載っています。\n\n\n\nエージェントがアプリを操作する方式\n1 件あたり\n\n\n\n\nAndroid エミュレータ（Android CLI の layout + adb）\n5.68 秒\n\n\nAndroid エミュレータ（生の UIAutomator + adb）\n4.14 秒\n\n\nデスクトップ（Compose MCP）\n0.60 秒\n\n\nデスクトップ（U...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【Oracle × Snowflake】Data Transformsで ADB の表を AICAT 管理の Iceberg テーブルに全量・差分ロードする",
+      "link": "https://qiita.com/yushibats/items/4ab9a6f3e99b78c5f09b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T04:57:45+00:00",
+      "summary": "Oracle Database の表を Apache Iceberg のテーブルとして書き出すとき、SQL で一括に書き出すほかに、画面で表を選んで定期的に送りたい場面があります。\nADB（Autonomous AI Database）に同梱の Oracle Data Tr...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法",
+      "link": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T04:46:40+00:00",
+      "summary": "はじめに\n2026年10月21日、Node.jsプロジェクトが脆弱性10件を修正するセキュリティリリースを公開しました。同じ日にPHPの重大な脆弱性も話題になったため、見逃した方もいるかもしれません。\nこの記事では、次の内容を初心者向けに整理します。\n\n何が修正されたのか...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "PHP2Shell確認ツール",
+      "link": "https://qiita.com/hokutoh/items/2beff120afb168bdec1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T03:56:28+00:00",
+      "summary": "タイトルの通りです。\n\n外側から確認できる内容をチェックしているだけなので、\nサーバーの設定によってはチェックできない項目もあります\n\nチェック内容\n\nPHP2Shell\n\nチェック内容\nチェック対象\n\nPHPバージョンを修正版（8.2.35 / 8.3.36...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない",
+      "link": "https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T03:50:13+00:00",
+      "summary": "PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。\n対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目に...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "PHP2Shell をどう検知し、どう止めるか — パッチ適用までの空白期間を Sysdig Secure で守り抜く",
+      "link": "https://qiita.com/takao-shimizu/items/37006609b3265d265d0a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T03:43:08+00:00",
+      "summary": "前回の記事「PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録」では、2026年10月に緊急公開された PHP の深刻な脆弱性「PHP2Shell（CVE-2026-109618 / CVE-2026-109619、とも...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話",
+      "link": "https://qiita.com/sugumura/items/d52a567f7450b5539665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T03:19:25+00:00",
+      "summary": "はじめに\n業務で保守しているプロダクトに、Firestore を使っているアプリケーションがあります。保守ではログを出力したり、何か起きたときにデータを調べたりする作業が日常的に発生します。この調査を AIエージェントに手伝ってもらいたいと考えました。\nCSV などにエク...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較",
+      "link": "https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T02:34:34+00:00",
+      "summary": "要約\n株式会社Sapeet のアルゴリズム・エンジニアの西田です．\n本記事では，社内のプロジェクトへのアサインを想定し，TypeSafe AI の Jev1 で，プロジェクトの募集要項とエンジニアのスキルシートの組み合わせ（以下，ペア）がどれだけ合うかを採点しました．人手...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「経済主権」が語られない理由 ― 通商・経済外交の設計バグ : システム設計視点の行動経済学 (46)",
+      "link": "https://qiita.com/maskot1977/items/f9586adc7ba5818fe909?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T01:42:18+00:00",
+      "summary": "user:\n「システム設計視点の行動経済学」、第46回を始めましょう。その前に、まず前回の復習として、\n「どうせ変わらない」は設計されたバグだ ― 政治改革・選挙制度の工学的分析 : システム設計視点の行動経済学 (45)\nhttps://qiita.com/maskot...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "脆弱性管理の仕組みを整えた",
+      "link": "https://zenn.dev/dress_code/articles/be5550254695cd",
+      "published_at": "2026-10-22T01:30:07+00:00",
+      "summary": "はじめに\nこんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。\n以前、SOC2 Type1 取得に向けてやったことを整理した記事を投稿しました。\nhttps://zenn.dev/dress_code/articles/1823b6c22c2534\n引き続き、プロダクトセキュリティを見ており、社内の協力もあって SOC2 Type2 の継続審査も終えることができました。\n今回は、今後の継続審査に向けて、脆弱性を管理する仕組みを整えたので書いてみます。\n特に、これからプロダクトの脆弱性管理の仕組みを用意しようとしている方や、すでにある対策を一連の運用と...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "楽観ロックと悲観ロックの違いと役割",
+      "link": "https://qiita.com/kaitoszk/items/33dcf0ee91832956124d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T00:30:32+00:00",
+      "summary": "みなさん、エンジニア楽しんでいますか？\n現在私は、Goの学習として在庫、受注管理のAPIを開発しています。\n商品更新処理に際して、排他制御の楽観ロックを使うことになりました。\nただ、排他制御は私が苦手な分野で、雰囲気でしかわからなかったので深掘りすることにしました。\n\n記事...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録",
+      "link": "https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T00:21:30+00:00",
+      "summary": "2026年10月、PHP コミュニティから緊急性の高いセキュリティ修正が公開されました。対象となったのは、CVE-2026-109618 と CVE-2026-109619。いずれも PHP Core に起因する重大な問題で、未認証のリモートコード実行 につながる可能性があ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「表領域どれくらい空いてる？」を日本語で聞く。Oracle の DB 管理チャットを作ってみた",
+      "link": "https://qiita.com/engchina/items/46f956e123cd942d13f7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T00:13:38+00:00",
+      "summary": "初めに\nデータベースの面倒を見ていると、毎日のように小さな「調べもの」が発生します。\n\n今のバージョンは？ 表領域はあとどれくらい空いている？ いま何で待たされている？\n\nどれも SQL を書けば分かります。ただ、DBA_TABLESPACE_USAGE_METRICS ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "コーディングエージェントの「指示書・Skill・Hooks」役割分担",
+      "link": "https://qiita.com/acshu_moriyama/items/0d35781c10fe8d436b5c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-22T00:10:31+00:00",
+      "summary": "コーディングエージェントの「指示書・Skill・Hooks」役割分担\nClaude Code や Codex などのコーディングエージェントには、エージェントの振る舞いを調整する仕組みとして 指示書・Skill・Hooks の3つがあります。本記事では、それぞれの役割と使...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "エージェント用 IDE を3つ試して、今さら cmux を使い始めた",
+      "link": "https://zenn.dev/yoshi47/articles/cmux-after-agent-ides",
+      "published_at": "2026-10-22T00:00:15+00:00",
+      "summary": "cmux は少し前に話題になっていたターミナルで、自分もそのとき一度試してみました。ただ、乗り換えるどころか使い始めるところまでも行きませんでした。通知が来たワークスペースがサイドバーの一番上に勝手に並び替わるのが合わなかったですし、当時 tmux で悩んでいた通知まわりのことも cmux にしたからといって解決しませんでした。サイドバーの表示をすっきりさせられることも知らなかったので、そのままやめています。\nそれから数か月たって、Claude Code を並列に回す道具をあらためて探しました。エージェント用の IDE を3つ試して、結局たどり着いたのが一度やめた cmux でした。\n普...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Agents - Cloudflare MCP servers no longer serve /sse",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-cloudflare-mcp-servers-retire-sse/",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "<p>Cloudflare's <a href=\"https://developers.cloudflare.com/agents/model-context-protocol/cloudflare/servers-for-cloudflare/#product-specific-mcp-servers\">product-specific MCP servers</a> now serve only <code>/mcp</code>. A request to <code>/sse</code> returns <code>410 Gone</code> with the server's <code>/mcp</code> URL, which most MCP clients show in their connection error.</p>\n<p>If your MCP client is configured with an <code>/sse</code> URL, change it to <code>/mcp</code>, for example <code>h",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Agents - Agents SDK now supports the latest Pi 1.4 release",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-pi-harness-pi-1-4/",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "<p>Agents SDK v0.30.0 runs <a href=\"https://developers.cloudflare.com/agents/harnesses/pi/\"><code>PiHarness</code></a> on <a href=\"https://github.com/earendil-works/pi/blob/v1.4.0/packages/durable/CHANGELOG.md#140---2026-10-21\" rel=\"noopener\" target=\"_blank\">Pi 1.4<span class=\"external-link\"> ↗︎</span></a>, and makes it recover more reliably from evictions, crashes, and storage errors.</p>\n<ul>\n<li><strong>Hibernation while Pi's tasks sleep.</strong> <code>PiHarness</code> passes Pi's new <code>",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Cloudflare Tunnel, Cloudflare Tunnel for SASE - Cloudflare Tunnel supports URL normalization",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-cloudflared-path-normalization/",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "<p>Starting from version <code>2026.10.0</code>, <a href=\"https://developers.cloudflare.com/tunnel/\">Cloudflare Tunnel</a> can normalize URLs before matching ingress rules. This improves security for tunnels with rules that require Cloudflare Access validation. The URL path sent to your origin stays the same.</p>\n<p>In three months, starting 2027-01-25, new <code>cloudflared</code> releases will turn on URL normalization by default. Test your path-based routing before that date, as this change m",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Cloudflare Fundamentals, Cloudflare One, Cloudflare Tunnel for SASE, Cloudflare Tunnel - Granular Tunnel Read And Monitor role is generally available",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-granular-read-and-monitor-ga/",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "<p>The <strong>Cloudflare Tunnel - Granular Connector cloudflared Read And Monitor</strong> role is now generally available. You can grant a member read access and log streaming for specific <a href=\"https://developers.cloudflare.com/tunnel/\">Cloudflare Tunnel</a> instances without granting write access or access to every Tunnel in your account.</p>\n<p>This role includes the same access as <strong>Cloudflare Tunnel - Granular Connector cloudflared Read</strong>: viewing selected Tunnels, their I",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Managed Ruleset",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-cfmr/",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "<p>This emergency release updates the names and metadata of seven existing rules in the Cloudflare Managed Ruleset to identify CVE-2026-109618 and CVE-2026-109619. Detection logic and rule actions remain unchanged.</p>\n<table style=\"width: 100%;\"><thead><tr><th>Ruleset</th><th>Rule ID</th><th>Legacy Rule ID</th><th>Description</th><th>Previous Action</th><th>New Action</th><th>Comments</th></tr></thead><tbody><tr><td>Cloudflare Managed Ruleset</td><td><span class=\"rule-id\"><button class=\"border-",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "WAF - WAF Release - 2026-10-22 - Emergency - Cloudflare Free Ruleset",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-22-emergency-waf-release-free/",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "<p>This emergency release updates the names and metadata of seven existing rules in the Cloudflare Free Ruleset to identify CVE-2026-109618 and CVE-2026-109619. Detection logic and rule actions remain unchanged.</p>\n<table style=\"width: 100%;\"><thead><tr><th>Ruleset</th><th>Rule ID</th><th>Legacy Rule ID</th><th>Description</th><th>Previous Action</th><th>New Action</th><th>Comments</th></tr></thead><tbody><tr><td>Cloudflare Free Ruleset</td><td><span class=\"rule-id\"><button class=\"border-border",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Trends from Money20/20 2026: The rise of “hidden” financial services",
+      "link": "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "summary": "As fintech products become increasingly capable, the infrastructure behind them fades into the background. Three trends from Money20/20 show how stablecoins, agents, and always-on money are changing financial services.",
+      "source": "Stripe Blog",
+      "source_url": "https://stripe.com/blog/feed.rss",
+      "tags": [
+        "fintech",
+        "devtools"
+      ]
+    },
+    {
+      "title": "MCPサーバーを5分で作る — TypeScript + @modelcontextprotocol/sdk の最小実装",
+      "link": "https://qiita.com/joinclass/items/60abfc1f42358424b26f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T23:30:06+00:00",
+      "summary": "はじめに：自動化ジョブが33個あると、「今どうなってる？」に答えるだけで一苦労\n当社（合同会社ジョインクラス）では、社内業務のほとんどを Claude Code と launchd で動かしています。2026年9月に棚卸ししたところ、ジョブは 33個 ありました。STAT...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "【速報：2026/10/22 04:00】PHP2Shellの対応状況まとめ：PHP本体、Linux、レンタルサーバ、KUSANAGI",
+      "link": "https://zenn.dev/tyamadadd/articles/c02a27af771dd2",
+      "published_at": "2026-10-21T20:00:09+00:00",
+      "summary": "PHPerの皆様、お疲れさまでした。\n少し体力が残っているので、現在の対応状況をまとめてみました。\n生成AIでまとめたものを当方で確認しております。\nまた気になる追加情報を補足に追加しました。\n2026年10月21日、PHP の重大な脆弱性2件（CVE-2026-109618 / CVE-2026-109619、通称「PHP2Shell」）の修正版が公開されました。\nPHP 本体の修正版がリリースされても、実際に自分のサーバへ届くかどうかは、利用している OS のパッケージ、レンタルサーバ事業者、KUSANAGI などの実行環境の対応状況に左右されます。\n各所の一次情報を確認した範囲で、...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AIに美容室5店舗の社長を演じてもらい、コアドメインを特定する練習をしてみた！",
+      "link": "https://qiita.com/jota9613/items/4d84d4a9e276104c7411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T19:42:57+00:00",
+      "summary": "はじめに\n最近、システム開発における「コアドメイン・支援ドメイン・汎用ドメイン」について学習しています！\nただ、書籍を読んで概念は理解できても、実際の業務をヒアリングして分類するとなると、なかなか難しいと感じました。\nそこで今回は、ChatGPTに美容室5店舗を経営する社...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Cloudflare One Client - Cloudflare One Client for Windows (version 2026.7.1384.0)",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-21-warp-windows-ga/",
+      "published_at": "2026-10-21T19:42:32+00:00",
+      "summary": "<p>A new GA release for the Windows Cloudflare One Client is now available on the <a href=\"https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/\">stable releases downloads page</a>.</p>\n<p>This hotfix addresses an issue building trusted certificate chains.</p>",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Cloudflare One Client - Cloudflare One Client for macOS (version 2026.7.1384.0)",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-21-warp-macos-ga/",
+      "published_at": "2026-10-21T19:42:14+00:00",
+      "summary": "<p>A new GA release for the macOS Cloudflare One Client is now available on the <a href=\"https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/\">stable releases downloads page</a>.</p>\n<p>This hotfix addresses an issue building trusted certificate chains.</p>",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/",
+      "published_at": "2026-10-21T19:10:00+00:00",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/transform/latest/userguide/transform-app-assessments.html\" target=\"_blank\">Migration assessments in AWS Transform</a> now evaluate on-premises storage for migration to AWS. Instead of manually analyzing thousands of volumes across protocols, capacity, and performance, you upload a storage inventory and AWS Transform does the mapping for you. It matches each workload to the best-fit service, sizes the recommendation, and projects costs to produce a total co",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話",
+      "link": "https://zenn.dev/56drich/articles/f52bd4a1dae988",
+      "published_at": "2026-10-21T18:52:44+00:00",
+      "summary": "「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話\n\n 1. はじめに\n2026/10/21、PHPに関してCVSS v4.0で9.2の重大な脆弱性（CVE-2026-109618・CVE-2026-109619）が2件出たと大騒ぎになった。日本時間21日23時に修正版（8.5.12 / 8.4.27 / 8.3.36 / 8.2.35）が公開されている。\nhttps://www.php.net/archive/2026.php#2026-10-21-5\n私の管理しているマイクラサーバーでPHPを使っているものがないか調査する中で、DynmapがPHPを使っている疑惑...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AWS Service Reference Information now supports global condition keys, service names, and data plane classification",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-service-reference-information-global-condition-keys-service-names-data-plane/",
+      "published_at": "2026-10-21T18:00:00+00:00",
+      "summary": "<p>AWS is expanding programmatic service reference information to help you automate IAM policy management and keep your policies aligned with the latest service updates. The service reference now includes all aws:-prefixed global condition keys in a single machine-readable file, a ServiceName field mapping service identifiers to human-readable names, and an IsDataPlane property identifying which actions are data plane operations.</p> \n<p>You can automate retrieval of this information to eliminat",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Direct Connect announces 100G expansion in Manchester, England",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/",
+      "published_at": "2026-10-21T17:21:00+00:00",
+      "summary": "<p>Today, AWS announced the expansion of 10 Gbps and 100 Gbps dedicated connections with MACsec encryption capabilities at the existing <a href=\"https://aws.amazon.com/directconnect\">AWS Direct Connect</a> location in the Equinix MA3 data center near Manchester, England. You can now establish private, direct network access to all public AWS Regions (except those in China), AWS GovCloud Regions, and <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/localzones/\">AWS Local Zones</a> f",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃",
+      "link": "https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T17:15:15+00:00",
+      "summary": "2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。\n\n修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。\n(高市早苗 on X)\n\nP...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "summary": "<p>Starting today, you can reserve compute capacity for your Amazon Aurora and Amazon RDS DB instances in one or more Availability Zones for as long as you need it. Reserving capacity helps ensure that DB instance create, restore, scale-compute, and start operations don't fail because of insufficient capacity.</p> \n<p>On-Demand Capacity Reservations are designed for workloads that need assurance that specific DB instance capacity will be available when they need it for business-critical events, ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "summary": "<p>Amazon Cognito multi-Region replication (MRR) now supports AWS GovCloud (US) Regions, extending the resilience benefits of MRR to more workloads. MRR lets you synchronize user and machine identity data, including credentials, user pool configurations, and federation setups, to a secondary user pool in a standby Region you designate, in near real-time. With user data in the standby Region, you can redirect traffic and keep authentication available if there is a disruption in your primary Regio",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "10月21日、PHP2Shell対応の後片付けが終わらない",
+      "link": "https://zenn.dev/subara3/articles/1165119ef70e75",
+      "published_at": "2026-10-21T16:17:09+00:00",
+      "summary": "10月21日の22時ちょいに、PHPので～っかい修正版が出ました。\nこれが結構やばい修正＆攻撃が来るからすぐ手当てして、というもののようで、今日はもうひっきりなしの対応に追われている方も多いんじゃないでしょうか。\n私も緊急対応を一通り終えて、ようやく帰れるところです。やれやれ。\n今回報告されたのは、PHP本体の脆弱性2件（CVE-2026-109618、CVE-2026-109619）で、通称は「PHP2Shell」です。\n深刻度はどちらもCVSS v4.0で9.2です。9.2！！\nPHP公式は、認証なしでリモートからコードを実行されうると説明しています。\n国内では、BASE、Cygam...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "published_at": "2026-10-21T16:00:00+00:00",
+      "summary": "<p>We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/\">The bridge to agent-scale Git infrastructure</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "source": "GitHub Blog",
+      "source_url": "https://github.blog/feed/",
+      "tags": [
+        "github",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Amazon Linux 2023 の PHP を CVE-2026-109618 修正版へ先行ビルドする",
+      "link": "https://qiita.com/amu-kuroneko/items/46f00fbe8b5bac009c1c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T15:02:18+00:00",
+      "summary": "Amazon Linux 2023 の PHP を CVE-2026-109618 / 109619 の修正版へ自前ビルドで上げる（公式パッケージ配布前の暫定対応）\n\nはじめに\n2026-10-21 に PHP の修正版 8.2.35 / 8.3.36 / 8.4.27 ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+      "published_at": "2026-10-21T15:00:00+00:00",
+      "summary": "<p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight models in its class, with strong performance across reasoning, coding, and agentic benchmarks. Beam is for teams who build on and with an open weight model, not just call one. Customers who want to adapt a frontier model to their own domain can fine-tune it, inspect and modify its ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "published_at": "2026-10-21T15:00:00+00:00",
+      "summary": "<p>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, in eager mode or with torch.compile. This release also introduces Neuron Observer in public beta, which detects Trainium health issues in under a second and identifies the affected node or device.</p> \n<p>The vLLM Neuron plugin upgrades to vLLM 0.29.0, and the vLLM Omni Neuron pl",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法",
+      "link": "https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T14:17:51+00:00",
+      "summary": "はじめに\n2026年10月21日(日本時間の夜)、PHP公式から 認証なしでリモートコード実行(RCE)が可能になる重大な脆弱性2件 の修正版がリリースされました。通称「PHP2Shell」と呼ばれています。\n脆弱性のCVE番号が10月20日に事前流出したため、PHP開発...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Introducing full transaction detection for Cloudflare WAF",
+      "link": "https://blog.cloudflare.com/full-transaction-waf/",
+      "published_at": "2026-10-21T14:10:42+00:00",
+      "summary": "Cloudflare's web application firewall can now correlate an HTTP request with its response. Full transaction detection helps every customer find successful exploits, data exposure, and risky misconfigurations that request-only inspection can miss.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "published_at": "2026-10-21T13:56:45+00:00",
+      "summary": "Cloudflare has deployed default web application firewall (WAF) protections for newly disclosed PHP vulnerabilities before public disclosure. The rules use request and response signals to stop exploit attempts and prevent exposed data from reaching attackers.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "Amazon Connect Customer launches two new layouts for agent workspace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace",
+      "published_at": "2026-10-21T13:48:00+00:00",
+      "summary": "<p>Amazon Connect Customer now offers two different layouts that optimize screen space on the agent workspace. Contact center agents spend hours each day in the agent workspace, which includes all of the contact controls and applications they need to resolve customer issues. Agents who handle different channels and workflows want the workspace arranged differently, so that they can quickly read, respond, and access their tools. Now, administrators can choose the best layout for each team, maximi",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "link": "https://blog.cloudflare.com/webmcp-commerce/",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "summary": "<p>Amazon S3 server access log delivery to Amazon CloudWatch Logs is now available in the AWS GovCloud (US) Regions, AWS European Sovereign Cloud, and AWS China Regions. With your access logs in CloudWatch Logs, you can query them as they arrive, set alarms, and encrypt them with AWS Key Management Service (AWS KMS) keys. This new delivery path complements the existing delivery of server access logs to S3 general purpose buckets, giving you more flexibility in how you monitor and analyze access ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "is-* クラスや data-state を活用しよう！ HTML・CSS・JS の責務分離",
+      "link": "https://qiita.com/Yudai-HARA/items/73d20fd44b626dc74840?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T11:34:10+00:00",
+      "summary": "はじめに\nWeb ページを作っている皆さん！\n「is-* クラス」や「data-state」をうまく活用していますか？\n「そんなの聞いたことないよ」という人も多いかもしれません。私もそうでした。\nしかし、これらは HTML・CSS・JavaScript の責務を整理し、\n...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「ドパ資料」の作り方",
+      "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T09:04:32+00:00",
+      "summary": "この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。\n\n👀 対象読者\n\n技術記事を...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "summary": "<p>AWS Network Firewall now supports IP validation, extending domain-based filtering beyond HTTP/HTTPS to protocols such as SFTP and SSH. This new capability validates that a connection's destination IP address was resolved through your VPC's Amazon Route 53 VPC Resolver, closing security gaps where clients could bypass domain rules.</p> \n<p>This feature enables Network Firewall customers to implement domain filtering rules for any protocol, not just HTTP/HTTPS, providing more flexible security ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "summary": "<p>Today, Amazon SageMaker AI announces the ability to configure the sequence length used during your serverless model customization job. Amazon SageMaker AI serverless model customization supports fine-tuning for many open-weight models, including models from popular families including gpt-oss, Gemma, Llama, Nemotron, and Qwen. Previously, each fine-tuning recipe ran at a fixed sequence length that customers could not modify. Customers sometimes need to modify these parameters to achieve better",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Transform now builds new networks and modernizes security groups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-new-networks/",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "summary": "<p>AWS Transform for migrations now gives you three ways to bring your network to AWS. In addition to migrating and modernizing your existing network, you can build a new network from scratch or convert your on-premises access rules into optimized security groups and deploy them into existing VPCs. Whichever path you choose, you arrive on AWS with a secure and scalable network foundation.</p> \n<p>On-premises networks accumulate years of definitions and access rules that you may not want to carry",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～",
+      "link": "https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T07:34:12+00:00",
+      "summary": "はじめに\nこの記事は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただいたものです。\n\n生成AIを業務で活用するには、社内ナレッジや業務デー...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "October 21, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_21_2026",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Apigee X</h2>\n<h3>Announcement</h3>\n<p><strong>Apigee Emulator</strong></p>\n<h3 id=\"apigee_emulator_v202\">Apigee Emulator v2.0.2</h3>\n<p>On October 21, 2026, we released Apigee Emulator version 2.0.2.</p>\n<p>This release upgrades the Apigee Emulator runtime to Java 21 (Eclipse Temurin\nJRE 21) to align local proxy development and policy execution with the\nproduction Apigee runtime, while keeping the embedded Apache Cassandra\ndatastore pinned to Java 8. It al",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "セキュアな実装をするために意識したいこと",
+      "link": "https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation",
+      "published_at": "2026-10-21T06:00:05+00:00",
+      "summary": "こんにちは、Dress Code でプロダクトエンジニアをしているてちです！\n最近、「不正アクセスにより個人情報が流出した可能性があります」というニュースを本当によく見かけます。しかも数万件ではなく、数百万件から数千万件規模のものが続いています。\nニュースではどれも「不正アクセス」の一言でまとめられてしまいますが、公表資料を読んでいくと、侵入の入口はかなりバラバラでした。そこで今回は、2025〜2026 年の国内事例と統計を整理しながら、Web アプリを作る側として意識したいことをまとめてみました。\n!\n数字と事例は、2026 年 10 月時点の公的機関の統計と、各社が公表した資料をもと...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Next.js の脆弱性に Dependabot が反応しなかったので、GitHub Advisory Database までの流れを追った",
+      "link": "https://zenn.dev/rakko_inc/articles/dependabot-cve-to-pr-flow",
+      "published_at": "2026-10-21T04:55:56+00:00",
+      "summary": "最近のセキュリティ被害を見て、ウェブアプリのセキュリティを見直している人や、とりあえず Dependabot を入れている人向けの記事です。\nNext.js の脆弱性が公表されたのに、うちのリポジトリには Dependabot から alert も PR も来ない。そういえばどういう流れで検知してるんだろう？と思い調査してみました。\n\n TL;DR\n\n今回の Next.js の脆弱性は、メンテナ側では 2026-10-14 に公表済みでしたが、GitHub Advisory Database には約 1 週間後の 10-20 になっても載っていませんでした\n\nDependabot al...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published_at": "2026-10-21T04:50:00+00:00",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+      "source": "Google AI Blog",
+      "source_url": "https://blog.google/technology/ai/rss/",
+      "tags": [
+        "ai",
+        "google"
+      ]
+    },
+    {
+      "title": "仕組みを理解する動画を、Claude Codeに作らせると便利すぎる",
+      "link": "https://zenn.dev/explaza/articles/c749042ecbe232",
+      "published_at": "2026-10-21T02:14:44+00:00",
+      "summary": "最近は動画で説明資料を作っている\nアプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが\n最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。\nめちゃくちゃ便利なので、Claude Code に作らせる指示テンプレートと、動画の作りを紹介します。\nhttps://github.com/musoukun/skills\n上記の\n「animated-arch-diagram」スキルです。\n\n 完成形\nまずこんな感じの動...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AI Data Platform(AIDP) にオープンデータを取り込んで東京都62市区町村を分析してみてみた",
+      "link": "https://qiita.com/shirok/items/399e0042896dcc4c0b4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-21T00:30:11+00:00",
+      "summary": "■ はじめに\n前回は、Oracle AI Data Platform（AIDP）を作成し、外部Databaseの表へSQLを実行してみてみました。今回は、Databaseの外にあるデータをAIDPへ取り込み、SQLで比較できる形に整えるところから試してみます。\n使用する...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Agents, Workers AI, AI Gateway - createAI replaces workers-ai-provider and ai-gateway-provider",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-21-createai/",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "<p>The Agents SDK has a new <a href=\"https://developers.cloudflare.com/agents/models/\"><code>createAI</code></a> function for the <a href=\"https://developers.cloudflare.com/agents/models/ai-sdk/\">AI SDK</a> and <a href=\"https://developers.cloudflare.com/agents/models/pi-ai/\">Pi AI</a>. It unifies what <code>workers-ai-provider</code> and <code>ai-gateway-provider</code> did: Workers AI models, AI Gateway catalog models, dynamic routes, and vendor models, through the <code>AI</code> binding or an",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Basin SQL, Basin - Basin SQL supports OFFSET",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-21-basin-sql-offset/",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "<p><a href=\"https://developers.cloudflare.com/basin-sql/\">Basin SQL</a> is a serverless, distributed SQL engine for querying Apache Iceberg tables in Basin Catalog. It now supports <code>OFFSET</code>, which lets you skip a specified number of rows when retrieving query results.</p>\n<p>Use <code>LIMIT</code> to set the page size and <code>OFFSET</code> to skip earlier rows. With a page size of 100, use <code>OFFSET 0</code> for the first page, <code>OFFSET 100</code> for the second, and increase",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Managed Ruleset",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-cfmr/",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "<p>This emergency release adds seven rules to the Cloudflare Managed Ruleset to detect anomalous request patterns.</p>\n<table style=\"width: 100%;\"><thead><tr><th>Ruleset</th><th>Rule ID</th><th>Legacy Rule ID</th><th>Description</th><th>Previous Action</th><th>New Action</th><th>Comments</th></tr></thead><tbody><tr><td>Cloudflare Managed Ruleset</td><td><span class=\"rule-id\"><button class=\"border-border bg-muted hover:border-foreground/30 hover:bg-accent inline-flex cursor-copy items-center roun",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "WAF - WAF Release - 2026-10-21 - Emergency - Cloudflare Free Ruleset",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-21-emergency-waf-release-free/",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "summary": "<p>This emergency release adds seven rules to the Cloudflare Free Ruleset to block anomalous request patterns.</p>\n<table style=\"width: 100%;\"><thead><tr><th>Ruleset</th><th>Rule ID</th><th>Legacy Rule ID</th><th>Description</th><th>Previous Action</th><th>New Action</th><th>Comments</th></tr></thead><tbody><tr><td>Cloudflare Free Ruleset</td><td><span class=\"rule-id\"><button class=\"border-border bg-muted hover:border-foreground/30 hover:bg-accent inline-flex cursor-copy items-center rounded-md ",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    }
+  ],
+  "day_summary": "",
+  "broadcast": "",
+  "service_summaries": {}
+}
