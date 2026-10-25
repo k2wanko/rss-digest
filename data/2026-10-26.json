@@ -1,0 +1,774 @@
+{
+  "report": {
+    "run_date": "2026-10-26",
+    "generated_at": "2026-10-25T23:00:49.654763+00:00",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 48,
+    "feeds_total": 16,
+    "feeds_ok": 16,
+    "item_count": 63,
+    "errors": [],
+    "summary_error": "one or more services failed; see workflow logs"
+  },
+  "items": [
+    {
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "published_at": "2026-10-25T21:08:28+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/\">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236081\">https://news.ycombinator.com/item?id=50236081</a></p>\n<p>Points: 106</p>\n<p># Comments: 43</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "published_at": "2026-10-25T20:32:31+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235780\">https://news.ycombinator.com/item?id=50235780</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "published_at": "2026-10-25T20:27:09+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.disneyanimation.com/process/\">https://www.disneyanimation.com/process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235738\">https://news.ycombinator.com/item?id=50235738</a></p>\n<p>Points: 48</p>\n<p># Comments: 17</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Focused Company Operating Principles",
+      "link": "https://focused.io/operating-principles",
+      "published_at": "2026-10-25T20:16:51+00:00",
+      "summary": "<p>Article URL: <a href=\"https://focused.io/operating-principles\">https://focused.io/operating-principles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235639\">https://news.ycombinator.com/item?id=50235639</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Crosscut – Drawing Dynamic Models",
+      "link": "https://www.inkandswitch.com/crosscut/",
+      "published_at": "2026-10-25T20:01:53+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.inkandswitch.com/crosscut/\">https://www.inkandswitch.com/crosscut/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235513\">https://news.ycombinator.com/item?id=50235513</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "published_at": "2026-10-25T19:40:27+00:00",
+      "summary": "<p>Article URL: <a href=\"https://armincat.com/articles/eunice-is-almost-here\">https://armincat.com/articles/eunice-is-almost-here</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235316\">https://news.ycombinator.com/item?id=50235316</a></p>\n<p>Points: 49</p>\n<p># Comments: 42</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "published_at": "2026-10-25T19:29:16+00:00",
+      "summary": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/\">https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235217\">https://news.ycombinator.com/item?id=50235217</a></p>\n<p>Points: 134</p>\n<p># Comments: 25</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "published_at": "2026-10-25T19:11:31+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.alfie.wtf/programming/why-i-am-a-programmer.html\">https://www.alfie.wtf/programming/why-i-am-a-programmer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235017\">https://news.ycombinator.com/item?id=50235017</a></p>\n<p>Points: 79</p>\n<p># Comments: 14</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "published_at": "2026-10-25T19:10:36+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles\">https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235010\">https://news.ycombinator.com/item?id=50235010</a></p>\n<p>Points: 39</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に",
+      "link": "https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T19:00:26+00:00",
+      "summary": "AI エージェントの料金の話では、よく「プロンプトキャッシュで入力が 9 割安くなる」と言われます。上の図のとおり、キャッシュから読む料金は、Claude Sonnet 5.5 で通常の入力の 0.05 倍（95% 引き）、OpenAI の GPT-5.6 以降と Gem...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた",
+      "link": "https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T19:00:21+00:00",
+      "summary": "我々が運営する IT連携マップの技術ガイド（プロンプトキャッシュとは など）では、「前のやり取りと先頭が同じ部分はキャッシュから読まれ、料金が大きく下がる」という仕組みを解説してきました。プロンプトキャッシュは、AI エージェントと AI サービス側（Anthropic ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "published_at": "2026-10-25T18:58:14+00:00",
+      "summary": "<p>Article URL: <a href=\"https://iosiflazaridis.github.io/battles-of-the-romans/\">https://iosiflazaridis.github.io/battles-of-the-romans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234879\">https://news.ycombinator.com/item?id=50234879</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "published_at": "2026-10-25T18:23:54+00:00",
+      "summary": "<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>\n<hr ",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+      "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+      "published_at": "2026-10-25T18:11:38+00:00",
+      "summary": "<p>Article URL: <a href=\"https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics\">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234329\">https://news.ycombinator.com/item?id=50234329</a></p>\n<p>Points: 76</p>\n<p># Comments: 26</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "published_at": "2026-10-25T18:04:11+00:00",
+      "summary": "<p>Article URL: <a href=\"https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234232\">https://news.ycombinator.com/item?id=50234232</a></p>\n<p>Points: 310</p>\n<p># Comments: 79</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "published_at": "2026-10-25T17:30:55+00:00",
+      "summary": "<p>Article URL: <a href=\"https://talkweb.eu/openweb/4558/\">https://talkweb.eu/openweb/4558/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233929\">https://news.ycombinator.com/item?id=50233929</a></p>\n<p>Points: 327</p>\n<p># Comments: 169</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "published_at": "2026-10-25T17:15:38+00:00",
+      "summary": "<p>Article URL: <a href=\"https://lynchlab.net/llm-skin-cancer\">https://lynchlab.net/llm-skin-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233779\">https://news.ycombinator.com/item?id=50233779</a></p>\n<p>Points: 348</p>\n<p># Comments: 176</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "link": "https://unicode.org/reports/tr39/",
+      "published_at": "2026-10-25T16:40:37+00:00",
+      "summary": "<p>Article URL: <a href=\"https://unicode.org/reports/tr39/\">https://unicode.org/reports/tr39/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233438\">https://news.ycombinator.com/item?id=50233438</a></p>\n<p>Points: 29</p>\n<p># Comments: 5</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "published_at": "2026-10-25T16:28:26+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html\">https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233304\">https://news.ycombinator.com/item?id=50233304</",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "JetBrains Thinkrail",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "published_at": "2026-10-25T16:27:12+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/JetBrains/thinkrail\">https://github.com/JetBrains/thinkrail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233294\">https://news.ycombinator.com/item?id=50233294</a></p>\n<p>Points: 143</p>\n<p># Comments: 102</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装",
+      "link": "https://zenn.dev/hotaka_noda/articles/74a3b28185af5c",
+      "published_at": "2026-10-25T13:58:04+00:00",
+      "summary": "はじめに\nPHPの脆弱性対応をきっかけに、Lightsail上のBitnami版WordPressからLightsail提供版へ移行しました。移行に合わせてCloudFrontとWAFを導入し、キャッシュ削除をSlackから実行できるようにしています。\n前編で説明した構成へ移す際には、固定ページが404になるなど、DBとファイルのコピーだけでは解決しない問題がありました。ここでは初動と移行の判断、問題への対処、Slackアプリの実装をまとめます。\nhttps://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d\n\n 最初の対応\n\n 公開範囲を絞...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？",
+      "link": "https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T13:54:38+00:00",
+      "summary": "はじめに\nこんにちは、Watanabe Jin(@Sicut_study)です。\n2026年8月末、クリーンアーキテクチャでコードが汚くなったというYouTube動画が投稿されました。\n公開から間もなく2.3万回再生され、コメント欄には議論が集まりました。\nXでもそこか...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す",
+      "link": "https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d",
+      "published_at": "2026-10-25T13:52:37+00:00",
+      "summary": "はじめに\nPHPの脆弱性に対応しようとしたら、WordPressの環境移行が必要になりました。\n先日、PHPの脆弱性対応を行った際に、利用していた環境の制約から、WordPressを新しい環境へ移すことになりました。\n実行環境にはAmazon Lightsailを使っています。Lightsailは、仮想サーバーやストレージなどを月額料金のプランで利用できるAWSのサービスです。WordPressなどがあらかじめ組み込まれたブループリントを選び、サイトの実行環境を作れます。\n今回使っていたのはBitnami版WordPressです。通常のパッケージ更新ではPHPが更新されず、ブループリ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "美容室ヒアリングからみるコアドメインの考え方",
+      "link": "https://qiita.com/o68606007/items/1d2493da81e969fc5e02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T13:33:13+00:00",
+      "summary": "はじめに\nドメイン駆動設計についての記事です。\n今回は業務をサブ、支援、汎用の3つに分類することを行いました。\n\n背景・目的\n事業（ビジネスドメイン）は、各業務ごと（サブドメイン）に分類できます。\nそのうち、競争力を生み出している部分がサブコアドメイン、サブコアドメインを...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Active incident at Dreamhost forcing password reset",
+      "link": "https://www.dreamhoststatus.com/",
+      "published_at": "2026-10-25T13:09:16+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.dreamhoststatus.com/\">https://www.dreamhoststatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50231166\">https://news.ycombinator.com/item?id=50231166</a></p>\n<p>Points: 95</p>\n<p># Comments: 35</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "【個人開発】SSR / SSG / ISRとキャッシュを使い分けた技術ブログを作りました【Next.js/TypeScript/microCMS】",
+      "link": "https://qiita.com/takahiro_honda/items/19f15f755afbd922afe7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T10:57:04+00:00",
+      "summary": "はじめに\nNext.js 16 × microCMS × Vercelで、個人の技術ブログ 「KAIZEN 技術ブログ」 を作りました。その感想を書いていきます。\n\nなぜ作ったのか\n\nプラットフォーム依存ではない発信する場所がほしかった\n\nプラットフォーム依存ではなく...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
+      "link": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
+      "published_at": "2026-10-25T10:00:05+00:00",
+      "summary": "こんにちは。@rikachiii です。POPOPO 株式会社でバックエンドを担当していました。\n\n この記事は何？\n前回は、POPOPO のバックエンドチームが、なぜ数あるコーディングエージェントの中から Devin を選び、チームに推奨したのかを書きました。今回はその続きとして、Devin を選んだ後、AI とどう向き合い、どう運用していたかを書いていこうと思います。\n\n AI を活かす心構え・ノウハウ\n前回は4つの理由を挙げました。\n\n開発のコンテキストが自然と残る\n並行開発ができる\n作業状況がプロジェクトに対して開かれる\n開発のやり方と知見が開かれる\n\nこのうち1と4は、ツールを...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】",
+      "link": "https://zenn.dev/mana1001/articles/homelab-01-install",
+      "published_at": "2026-10-25T09:47:50+00:00",
+      "summary": "はじめに\n大学2年の夏、中古のラックサーバを買いました。この連載では、そのサーバに Proxmox VE を入れてホームラボを作り、運用してきた記録を、できるだけ時系列で書いていきます。\n第1回は、サーバが届いてから Proxmox VE のインストールが終わるまでです。\n\n なぜ自分専用のサーバが欲しかったのか\nネットワーク系のサークルに入っていて、サークルにはサーバもあります。ただ、それは部員みんなで使う共有の環境で、自分ひとりの判断で自由に壊したり作り直したりはできません。\nもう一つのきっかけは、応募したNOCの選考に落ちたことです。実際のネットワークの構築・運用に関わる機会を...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)",
+      "link": "https://zenn.dev/yoru_build/articles/b5569fce05651a",
+      "published_at": "2026-10-25T09:43:44+00:00",
+      "summary": "私が作っている自動売買(売り買いの判断と注文を、プログラムに任せる仕組み)は、「取得・記録・判断・発注」の4つの段を順に通る流れと、記録した価格で戦略(どういう条件で売買するかのルール)を試す「バックテスト」の、2つでできています。この記事では、その全体を1枚の図で表現します。\n\n 売買の対象\nシステムが扱っているのは、国内の証券会社で扱っている、株価指数(多くの株の値動きを、一つの数字で表したもの)に連動するCFDです。CFDは、株や指数そのもの(現物)を持たずに、価格の差額だけをやり取りする取引の仕組みです。\n\n 全体の流れ\n\n短い間隔で繰り返す流れが上の段で、記録した価格を使う検証...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "エージェントとワークフローが混じってしまったので責務を分け直した",
+      "link": "https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T09:29:43+00:00",
+      "summary": "AIエージェントを使って、情報収集やポッドキャスト制作などを自動化しています。\n最初は、仕事に必要な能力を作り、それらを順番につなげればよいと考えていました。ところが、安定して動かすために条件や検査を足していくうちに、エージェントとワークフローが混じってしまいました。\nたと...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした",
+      "link": "https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T09:16:56+00:00",
+      "summary": "はじめに\n麻雀の点数計算は面倒です。符と翻を数え、親か子か、ツモかロンかで表を引く。覚えていても間違えますし、間違えるとそのあとのカラオケ代が変わります。\n牌を写真に撮って点数を出すサービスはすでにありましたが、対局中に使うと、撮って、認識させて、間違っていたら直す、とい...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AIに「答えを言わないで」と頼んでRustを学んだ2週間の日記 ― 生成AI時代に、新しい技術をちゃんと身につけるためのメモ",
+      "link": "https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T08:04:53+00:00",
+      "summary": "2週間前の日曜日から、Rust の勉強を始めました。\n仕事では PHP と Python と TypeScript が中心で、Rust はずっと「いつかやる」リストに入っていたものです。今回、重い腰を上げたのには理由があります。\n最近、新しいライブラリやフレームワークを触...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！",
+      "link": "https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3",
+      "published_at": "2026-10-25T07:46:55+00:00",
+      "summary": "自己紹介\n普段はセキュリティやAIに興味があり、脆弱性、CVE-2026-73683を発見し、報告したことで採番されたり、AIを個人的に勉強している現役学生です。\n\n この記事を書く目的\n\n業務でPyppeteerを使うシステムのコスト削減に取り組んだから\n応用的な使い方も説明したいから\n\n\n はじめに\nこの記事では、Python から本物のブラウザを動かしてスクレイピングできるライブラリ Pyppeteer を、手を動かしながら学びます。\n前半の入門編では、スクレイピング練習用のサイトを相手に、STEP 1 から STEP 5 まで順にコードを動かします。\n最後には、商品一覧の全ペ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AlphaEngine : 最適化編②",
+      "link": "https://zenn.dev/reu/articles/0f77f6eb0940af",
+      "published_at": "2026-10-25T07:19:40+00:00",
+      "summary": "はじめに\n今回は最適化の続きとして全ピクセルや全フロクセルで行っていた\nfor (uint i = 0; i &lt; light_count; ++i)\nをやめるべく\nClustered Lightingを実装してみた話をしていきたいと思います。\n\n Clustered Lighting\nClustered Lightingはカメラの視錐台を3Dグリッドに分割し、各クラスタに影響するライトだけをリスト化し、後段のライティング時に行う計算数を減らす最適化手段です。\n詳細な説明は他のサイトにお願いします。\n(頭の中に絵はあるけど言葉での説明がむずかしいでござ;;)\n何がいいのかというと...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "October 25, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_25_2026",
+      "published_at": "2026-10-25T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Google SecOps SOAR</h2>\n<h3>Announcement</h3>\n<p>Release 6.3.104 is being rolled out to the first phase of regions as listed\n<a href=\"https://docs.cloud.google.com/chronicle/docs/soar/overview-and-introduction/soar-gradual-release\">here</a>.</p>\n<p>This release contains internal and customer bug fixes.</p>",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Claude Code の「ブロック済み」を1か月信じていた。フックは何も止めていなかった",
+      "link": "https://qiita.com/devoctane/items/eb3ac408041b2f04c780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T06:45:56+00:00",
+      "summary": "自分のリポジトリの CLAUDE.md に、こう書いていた。\n\nPreToolUse Hook で rm -rf / git push --force / git reset --hard をブロック済み。\n\n2026-10-25、この一文が嘘だったと分かった。フックは1度...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Claude Codeにghを使わせても、GH_TOKENをコンテナの環境変数に置かないdevcontainer構成",
+      "link": "https://zenn.dev/hii_chi/articles/claude-code-gh-token-wrapper",
+      "published_at": "2026-10-25T06:03:07+00:00",
+      "summary": "devcontainer で Claude Code が PR や Issue を作成できるように、GitHub CLI（gh）を利用させることにしました。そのためには、GitHub のトークンをコンテナに渡す必要があります。環境変数に入れれば手軽ですが、Claude Code がうっかり env を出力すると、トークンがそのまま表示されてしまいます。\nこの記事では、トークンを環境変数にも gh の設定ファイルにも置かずに gh を使える構成を、3 つのファイルに分けて紹介します。あわせて、この構成でも防げないことを、実際に試した結果とともに書きます。\n\n 結論\n本物の gh を PAT...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【AWS re:Invent準備】女性向け持ち物をまとめてみた",
+      "link": "https://qiita.com/hoshi7_n/items/de663b2bea8e87c2984f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T04:25:36+00:00",
+      "summary": "忙しい人用\n\nリュックの中身\nスーツケースの中身\n\nはじめに\nre:Invent2025に初参加した際、スーツケースMサイズと大きめリュックで参加したのですが、実際に参加してみて必要だったもの・いらなかったものがあったので持ち物をまとめてみました。\n\nリュック（機内持ち...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "デザインのコンセプト練習4",
+      "link": "https://qiita.com/a_kawasaki/items/3ebff5b3927c4ff534e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T04:22:03+00:00",
+      "summary": "デザイン練習続き\n先端的な未来感で先月ラフを描いたので、今月はラフを詰めていきました。\n作っていくうちに、色はこっちの方がイメージに近いなと思い、先月のラフでは白っぽかったですが、やっぱり黒基調に転向させました。\n\nデザインの意図を言語化する\n\n街並みの上にネットワーク...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "1枚0.3秒!!Cloudflareの爆速抽出モデルClairicを試してみた",
+      "link": "https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T04:17:10+00:00",
+      "summary": "🎬 取引文書を 爆速分類→テキスト抽出\n\n書類の画像をまとめてアップロードして分類から項目の抽出まで流れる様子です。シュバババーっと仕分けして内容を抽出してくれています。この記事では検証内容や結果について記載していきます。\n\n👀 対象読者\n\nCloudflareの\"Cle...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "gh api -f body=@file で、PR に一時ファイルのパスが載った",
+      "link": "https://zenn.dev/hotto_ken/articles/gh-api-raw-field-posted-temp-path",
+      "published_at": "2026-10-25T04:11:54+00:00",
+      "summary": "連載『疑って確かめる』第1話（全8話）。成功に見える失敗を、1話に1つずつ確かめます。\n「エラーが出ていない」「URL が返ってきた」「完了しました」。どれも成功の証拠ではなく、成功の自己申告です。\nこの連載では、自己申告を信じずに確かめる手順を、私が実際に踏んだ失敗から1話ずつ取り出します。\n全8話を読み終えると、次のことができるようになります。\n\n終了コード・HTTP ステータス・完了報告を、それだけで成功と判定しない書き方ができる\n失敗を見つける順番（文言から判定条件へ降りる・生データをダンプする・ファイルで数える）を手で再現できる\nAI に確かめの問いを投げるとき、原文に当たれる...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン",
+      "link": "https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime",
+      "published_at": "2026-10-25T02:37:59+00:00",
+      "summary": "git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタンプをUTCで作成すべき\n\n 要約\n\nzip ファイルには DOS タイムスタンプと拡張タイムスタンプがある\nDOS タイムスタンプはタイムゾーン無しのタイムスタンプ\n拡張タイムスタンプはUTCで格納されたタイムスタンプ\nAWS CodePipeline は zip ファイル展開時にDOSタイムスタンプでmtimeを設定するようだ\nAWS CodePipeline のソースとして利用する zip ファイルは TZ=UTC として作成すべき\n\n\n 何...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "published_at": "2026-10-25T01:33:49+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227356\">https://news.ycombinator.com/item?id=50227356</a></p>\n<p>Points: 344</p>\n<p># Comments: 127</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "ラズパイ初心者が、第一子誕生をきっかけにClaudeとの壁打ちだけで見守りロボットを作ってみた(1) 設計編 ― ぬいぐるみ案をAIとの相談で自ら却下するまで",
+      "link": "https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-25T01:27:38+00:00",
+      "summary": "はじめに\n先日、第一子が生まれました。\n夜中に何度も起きてはベビーベッドをのぞきに行く生活の中で、ふと「市販のベビーモニターって、結局ただの監視カメラなんだよな」と思うようになりました。異常があれば通知してくれるのはありがたいけれど、もう少し、赤ちゃんのそばに\"温かいもの...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "C# × Oracle ストアドプロシージャ早見表（WinForms の取得・登録・更新・削除・CSV 出力）",
+      "link": "https://zenn.dev/hiroshi00000000/articles/078de5ac61693b",
+      "published_at": "2026-10-25T00:56:37+00:00",
+      "summary": "C# の Windows フォームで Oracle を使う画面を作るたびに調べ直していた「ストアドプロシージャの呼び方」と「取得・登録・更新・削除・CSV 出力の書き方」を、1 ページにまとめました。ストアドが OUT 引数で返す結果コード・メッセージの受け取り方と、エラーになったときの流れも入れています。早見表からやりたいことのコードを見て、表名・列名を書きかえれば、そのまま使えます。\n.NET 8 / Windows フォーム / Oracle Database 12c 以降 / ODP.NET（Oracle.ManagedDataAccess.Core）\n!\nこの記事の前提\n\n取得...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/",
+      "published_at": "2026-10-25T00:00:00+00:00",
+      "summary": "<p>This emergency release will add two rules related to the Brotli vulnerability <strong>CVE-2026-111497</strong> to the Cloudflare Managed Ruleset. Both rules will be <strong>enabled by default</strong> with their action set to <strong>Log</strong>, providing visibility into matching requests so customers can evaluate the impact before choosing to block them.</p>\n<p><strong>Rule behavior</strong></p>\n<ul>\n<li><strong>Brotli rule:</strong> Matches incoming requests that declare Brotli request-bo",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 35",
+      "link": "https://qiita.com/maskot1977/items/6db42783901df1982d5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T23:35:05+00:00",
+      "summary": "user:\nソース動画のタイトル、そしてこの動画の内容について教えてください。\n\nGemini:\n動画のタイトル\n\nタイトル: 『PB黒字化目標が経済を自滅させる : Pythonで学ぶマクロ経済学入門 Podcast 35』\n\n配信チャンネル: PythonEc...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝",
+      "link": "https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T22:41:26+00:00",
+      "summary": "はじめに\n前回の記事は、マクロのコードを読まなくなった私の机の上で、散らばっていた窓を一枚にまとめた「統合マクロフォーム」の話でした。\n\nあの記事のあと、番頭役のオーパス先生（Claude Opus）がバリバリと働いてくれていたのですが……またまたやってきました、使用...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【個人開発】AI課金沼にサヨナラ：月20ドルで最新Gemini 4 Argon & Claude Sonnet 5.5をフル活用する僕のリアル構成",
+      "link": "https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T20:40:46+00:00",
+      "summary": "個人開発や副業プロジェクトを進めていると、気づけばChatGPT Plus、Claude Proなど複数のサブスクに毎月100〜200ドルも溶かしている人が少なくありません。\nしかし、ログを冷静に振り返ると、高価なフロンティアモデルの枠を簡単なリファクタリングや型変換などの...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "600人規模のイベント運営を支えたインカムを、学生1人で作った話",
+      "link": "https://zenn.dev/kodak_20/articles/3b0ba74333b56c",
+      "published_at": "2026-10-24T17:23:14+00:00",
+      "summary": "はじめに\n2026年10月18日に開催された DevFest Kansai 2026 で、スタッフが連絡に使うインカムアプリ「inkam」を作りました。\nhttps://gdgkwansai.connpass.com/event/388434/\n当日は60人を超えるスタッフが使ってくれました。朝8時から夜8時までで、1,493回。特に朝から昼過ぎまでは1時間に150〜200回ほど話されていました！！\nちなみに自分はコダックといいます！！神戸電子専門学校の3年生で、GDG Greater Kwansai (Google の技術を扱う開発者コミュニティ) のオーガナイザーをしています（X...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "学習過程備忘録アウトプット　ReactのuseXXX系の雑感 useState,useEffect,useCallback",
+      "link": "https://qiita.com/polymetisoutis/items/8c9c5383512311db2825?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T17:11:15+00:00",
+      "summary": "お断りと本記事のナラティブ\n\n3年前くらいからReactについて耳にしていたと思う。\n1年前に漸く身を乗り出しReactに向き合ってみようと調べだし、\nQiita記事にも触れるようになった。\n仕事でも、一時期全然分かっていない状態でReactのWebアプリケーションの改修...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "eMudhra事件でWebアプリ開発者が点検すべきこと",
+      "link": "https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T16:45:38+00:00",
+      "summary": "2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。\nただし、この事件を正しく理解することはなかな...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Xcode 27 で ＠State がマクロになった理由 ― 遅延評価は private だけ、＠StateObject との違い",
+      "link": "https://zenn.dev/takehito/articles/50145459523321",
+      "published_at": "2026-10-24T15:56:27+00:00",
+      "summary": "!\n確認日：2026-10-24、2026-10-25\n確認に使った環境は、Xcode 26.6（Build 17F113）、Xcode 27.1（Build 27A9275）、macOS 26.7.1 です。iOS 26.5 シミュレータ（Build 23F77）でも一部を確認しました。2026-10-25 には、@StateObject との比較、LazyState の計測、iOS シミュレータでの計測、そのほかの追加の計測をしました。Apple の SwiftUI リファレンスと移行ガイドも、同じ日に確認しました。記事の内容は、Apple の資料の改訂や Xcode の更新によって...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【Unity】UniTaskを使ってシューティングゲームを作ってみた",
+      "link": "https://qiita.com/solt2001/items/a85d3a1531776ecd9c6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T15:07:47+00:00",
+      "summary": "皆さんこんにちは。\n非同期処理、していますか？\n私は宗教上の理由から、コルーチンだけを使って非同期処理をしています。\n今回はその宗教から足を洗うべく、UniTaskを使ってコルーチンよりも簡単に、そして扱いやすい非同期処理を学びましたので、その備忘録です。\nUniTaskを...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "人間がコードを書く時代は終わる",
+      "link": "https://qiita.com/sogenasano/items/53f85a23a6c83af61484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T14:49:53+00:00",
+      "summary": "AI にコードを書かせるようになって、3年ほどが経った。\n最初はチャット欄にコードを貼る使い方だったが、その間に、自分の仕事のやり方はまるごと変わった。今は設計も実装もまず AI に任せ、自分はその理解に追いつく側に回っている。\nここでいう AI は、チャットで質問に答えて...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来",
+      "link": "https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T14:42:12+00:00",
+      "summary": "AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。\n2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe ab...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "個人開発で学ぶKubernetes入門【#1】―Dockerでの運用に限界が見えた話",
+      "link": "https://qiita.com/takuteh/items/a097bd02403bbee7e3fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T13:54:58+00:00",
+      "summary": "はじめに\n今回は、個人開発で直面した問題を通して、コンテナ化やKubernetesを導入するメリットを紹介します。\n題材は、自宅の玄関の鍵を自動で開け閉めする「Autolock」というシステムです。\n開発を始めたきっかけは、玄関で毎回物理鍵を探し、2箇所の鍵を開け閉めする...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう",
+      "link": "https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T10:54:53+00:00",
+      "summary": "MetaのMuseが日本で使えるようになりました！\n\nそしてMuseにはハードウェアと連携するMuse Gadgetsというものが用意されています！楽しそう\n\nSDKも用意されています。\n\n現時点では、ESP32とLinuxが対応しているようで、ESP32を使...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "LLM が書いた返信を人の承認なしで送る前に「事実台帳に無い主張」を列挙させて止める（fail-closed の関門）",
+      "link": "https://qiita.com/suikou0/items/d77b4a2158248f618849?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T10:38:54+00:00",
+      "summary": "SNS で質問している人への返信の下書きを LLM に作らせ、人が1本ずつ承認してから送る運用をしていました。ところが、承認待ちの間に候補が古くなって、見送りの半分近くが「間に合わなかった」ものでした。\nそこで承認をやめて自動で送ることにしました。ただ、人の目の代わりになる...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "LLMにローグライクを遊ばせて分かった、測り方の落とし穴",
+      "link": "https://qiita.com/tamaki_omoto/items/f49a97ff8c202c7a33e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T08:19:41+00:00",
+      "summary": "はじめに\nローカルの LLM に、ターン制のローグライク Dungeon Crawl Stone Soup（DCSS）を遊ばせていました。\n目標は「生きたまま、できるだけ深い階に着く」。プロンプトを直し、道具を足し、比べる。これを何週間も繰り返しました。\n振り返ると、直した...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【書評】プロフェッショナルAI駆動開発を読んだ",
+      "link": "https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-24T07:39:50+00:00",
+      "summary": "『プロフェッショナルAI駆動開発』を、著者の一人であるサカモトさんから献本いただいた。もう一人の著者の松本さんもSNSでよくお見かけする方で、2人とも自分とかなり近い界隈にいる方かなと思う。\n\nこの本は8月に発売されている。\nすでにベストセラーというくらい評価の高い本な...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "October 24, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_24_2026",
+      "published_at": "2026-10-24T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">App Engine flexible environment .NET</h2>\n<h3>Security</h3>\n<p>The following runtime language contains important security updates:</p>\n<ul>\n<li><a href=\"https://docs.cloud.google.com/appengine/docs/flexible/lifecycle/support-schedule#net\">.NET 6 and later</a>: <code>6.0.428</code>, <code>8.0.415</code>, <code>10.0.100</code></li>\n</ul>\n<p>The following stacks and their underlying operating system packages have also been updated:</p>\n<ul>\n<li><code>google-22",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "prpr: Rust 向けのシンプルで高速な Parser generator",
+      "link": "https://zenn.dev/tanakh/articles/prpr-packrat-parser",
+      "published_at": "2026-10-24T06:57:58+00:00",
+      "summary": "prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。\nhttps://crates.io/crates/prpr\nhttps://github.com/tanakh/prpr\n詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。\nhttps://tanakh.github.io/prpr/\n開発の背景についてちょっと説明しておきますと、これ自体はずいぶん昔から開発していたものなのですが、あまり公開するに足るクオリティーに達する前に放置して...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    }
+  ],
+  "day_summary": "",
+  "broadcast": "",
+  "service_summaries": {}
+}
