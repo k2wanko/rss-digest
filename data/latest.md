@@ -1,84 +1,111 @@
-# RSS digest — 2026-10-26
+# RSS digest — 2026-10-27
 
-- Generated (UTC): 2026-10-25T23:00:49.654763+00:00
-- Items: 63
+- Generated (UTC): 2026-10-27T00:13:44.595553+00:00
+- Items: 81
 - Feeds OK: 16 / 16
 
 
 ## Hacker News (front page)
 
-- [Serbia's Vucic concedes election defeat in historic win for student movement](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/) — `2026-10-25T21:08:28+00:00`
-- [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) — `2026-10-25T20:32:31+00:00`
-- [What goes into making an animated film?](https://www.disneyanimation.com/process/) — `2026-10-25T20:27:09+00:00`
-- [Focused Company Operating Principles](https://focused.io/operating-principles) — `2026-10-25T20:16:51+00:00`
-- [Crosscut – Drawing Dynamic Models](https://www.inkandswitch.com/crosscut/) — `2026-10-25T20:01:53+00:00`
-- [Eunice is almost here](https://armincat.com/articles/eunice-is-almost-here) — `2026-10-25T19:40:27+00:00`
-- [Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/) — `2026-10-25T19:29:16+00:00`
-- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) — `2026-10-25T19:11:31+00:00`
-- [Gheist campaign plants secret-dumping workflows using stolen GitHub tokens](https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles) — `2026-10-25T19:10:36+00:00`
-- [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/) — `2026-10-25T18:58:14+00:00`
-- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) — `2026-10-25T18:23:54+00:00`
-- [All you need is Wide Events, not "Metrics, Logs and Traces"](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics) — `2026-10-25T18:11:38+00:00`
-- [Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/) — `2026-10-25T18:04:11+00:00`
-- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) — `2026-10-25T17:30:55+00:00`
-- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) — `2026-10-25T17:15:38+00:00`
-- [UTS #39: Unicode Security Mechanisms](https://unicode.org/reports/tr39/) — `2026-10-25T16:40:37+00:00`
-- [AI use leads UC Berkeley math professor to see 'no point' in grading homework](https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html) — `2026-10-25T16:28:26+00:00`
-- [JetBrains Thinkrail](https://github.com/JetBrains/thinkrail) — `2026-10-25T16:27:12+00:00`
-- [Active incident at Dreamhost forcing password reset](https://www.dreamhoststatus.com/) — `2026-10-25T13:09:16+00:00`
-- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) — `2026-10-25T01:33:49+00:00`
+- [Just Imagining a Workout Can Make You Stronger](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068) — `2026-10-26T23:08:27+00:00`
+- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) — `2026-10-26T22:41:48+00:00`
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) — `2026-10-26T21:59:15+00:00`
+- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/) — `2026-10-26T21:35:28+00:00`
+- [CorridorKey 2.0](https://corridorkey.com/) — `2026-10-26T21:18:05+00:00`
+- [Magic state cultivation on a superconducting quantum processor](https://arxiv.org/abs/2512.13908) — `2026-10-26T19:37:59+00:00`
+- [The EPA Is Quietly Killing Its Web Archive](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/) — `2026-10-26T19:05:41+00:00`
+- [US designates helium as a critical material](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c) — `2026-10-26T18:31:39+00:00`
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) — `2026-10-26T18:14:49+00:00`
+- [GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/) — `2026-10-26T18:01:17+00:00`
+- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) — `2026-10-26T17:56:55+00:00`
+- [In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real](https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/) — `2026-10-26T17:54:00+00:00`
+- [A Man from the Future: Why Johnny Can't Stop Abstracting](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html) — `2026-10-26T17:49:55+00:00`
+- [Nietzschian Debugger](https://github.com/DilawarShafiq/nietzschian-debugger) — `2026-10-26T17:25:30+00:00`
+- [Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob) — `2026-10-26T16:12:29+00:00`
+- [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) — `2026-10-26T15:51:23+00:00`
+- [Microsoft offers mass buyouts for roughly a quarter of its workforce](https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/) — `2026-10-26T15:35:12+00:00`
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) — `2026-10-26T15:11:59+00:00`
+- [Anthropic S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm) — `2026-10-26T13:04:50+00:00`
+- [Pharo 14](https://pharo.org/news/2026-10-26-Pharo14Release.html) — `2026-10-26T11:15:50+00:00`
 
-## Qiita Trending (official)
+## OpenAI Blog
 
-- [トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に](https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T19:00:26+00:00`
-- [AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた](https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T19:00:21+00:00`
-- [【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？](https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T13:54:38+00:00`
-- [美容室ヒアリングからみるコアドメインの考え方](https://qiita.com/o68606007/items/1d2493da81e969fc5e02?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T13:33:13+00:00`
-- [【個人開発】SSR / SSG / ISRとキャッシュを使い分けた技術ブログを作りました【Next.js/TypeScript/microCMS】](https://qiita.com/takahiro_honda/items/19f15f755afbd922afe7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T10:57:04+00:00`
-- [エージェントとワークフローが混じってしまったので責務を分け直した](https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T09:29:43+00:00`
-- [「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした](https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T09:16:56+00:00`
-- [AIに「答えを言わないで」と頼んでRustを学んだ2週間の日記 ― 生成AI時代に、新しい技術をちゃんと身につけるためのメモ](https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T08:04:53+00:00`
-- [Claude Code の「ブロック済み」を1か月信じていた。フックは何も止めていなかった](https://qiita.com/devoctane/items/eb3ac408041b2f04c780?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T06:45:56+00:00`
-- [【AWS re:Invent準備】女性向け持ち物をまとめてみた](https://qiita.com/hoshi7_n/items/de663b2bea8e87c2984f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T04:25:36+00:00`
-- [デザインのコンセプト練習4](https://qiita.com/a_kawasaki/items/3ebff5b3927c4ff534e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T04:22:03+00:00`
-- [1枚0.3秒!!Cloudflareの爆速抽出モデルClairicを試してみた](https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T04:17:10+00:00`
-- [ラズパイ初心者が、第一子誕生をきっかけにClaudeとの壁打ちだけで見守りロボットを作ってみた(1) 設計編 ― ぬいぐるみ案をAIとの相談で自ら却下するまで](https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T01:27:38+00:00`
-- [耳で聞く！Python で学ぶ マクロ経済学 入門 35](https://qiita.com/maskot1977/items/6db42783901df1982d5d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T23:35:05+00:00`
-- [壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝](https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T22:41:26+00:00`
-- [【個人開発】AI課金沼にサヨナラ：月20ドルで最新Gemini 4 Argon & Claude Sonnet 5.5をフル活用する僕のリアル構成](https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T20:40:46+00:00`
-- [学習過程備忘録アウトプット　ReactのuseXXX系の雑感 useState,useEffect,useCallback](https://qiita.com/polymetisoutis/items/8c9c5383512311db2825?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T17:11:15+00:00`
-- [eMudhra事件でWebアプリ開発者が点検すべきこと](https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T16:45:38+00:00`
-- [【Unity】UniTaskを使ってシューティングゲームを作ってみた](https://qiita.com/solt2001/items/a85d3a1531776ecd9c6e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T15:07:47+00:00`
-- [人間がコードを書く時代は終わる](https://qiita.com/sogenasano/items/53f85a23a6c83af61484?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T14:49:53+00:00`
-- [「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来](https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T14:42:12+00:00`
-- [個人開発で学ぶKubernetes入門【#1】―Dockerでの運用に限界が見えた話](https://qiita.com/takuteh/items/a097bd02403bbee7e3fe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T13:54:58+00:00`
-- [MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう](https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T10:54:53+00:00`
-- [LLM が書いた返信を人の承認なしで送る前に「事実台帳に無い主張」を列挙させて止める（fail-closed の関門）](https://qiita.com/suikou0/items/d77b4a2158248f618849?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T10:38:54+00:00`
-- [LLMにローグライクを遊ばせて分かった、測り方の落とし穴](https://qiita.com/tamaki_omoto/items/f49a97ff8c202c7a33e6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T08:19:41+00:00`
-- [【書評】プロフェッショナルAI駆動開発を読んだ](https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-24T07:39:50+00:00`
+- [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) — `2026-10-26T22:00:00+00:00`
+- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities) — `2026-10-26T14:30:00+00:00`
+- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) — `2026-10-26T13:45:00+00:00`
+- [ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work) — `2026-10-26T10:00:00+00:00`
+- [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience) — `2026-10-26T07:00:00+00:00`
+- [How Ultrafast cut incident investigation from hours to minutes at OpenAI](https://openai.com/index/openai-cut-incident-investigation) — `2026-10-26T07:00:00+00:00`
+- [Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra) — `2026-10-26T00:00:00+00:00`
+
+## AWS What's New
+
+- [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/) — `2026-10-26T18:27:00+00:00`
+- [Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/) — `2026-10-26T18:00:00+00:00`
+- [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode) — `2026-10-26T15:32:00+00:00`
+- [Amazon Connect Customer expands testing and simulation to validate flow action outcomes](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/) — `2026-10-26T15:00:00+00:00`
+- [Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/) — `2026-10-26T13:47:00+00:00`
+- [Amazon Connect Customer now measures the outcomes that drive retention and revenue](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/) — `2026-10-26T13:31:00+00:00`
+- [AWS IAM Identity Center now supports cross-Region trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/) — `2026-10-26T08:00:00+00:00`
+- [AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/) — `2026-10-26T08:00:00+00:00`
+- [AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation](https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/) — `2026-10-26T08:00:00+00:00`
+- [Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/) — `2026-10-26T07:30:00+00:00`
 
 ## Zenn Trending
 
-- [PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装](https://zenn.dev/hotaka_noda/articles/74a3b28185af5c) — `2026-10-25T13:58:04+00:00`
-- [PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す](https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d) — `2026-10-25T13:52:37+00:00`
-- [POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-](https://zenn.dev/rikachiii/articles/03c7f77393a772) — `2026-10-25T10:00:05+00:00`
-- [中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】](https://zenn.dev/mana1001/articles/homelab-01-install) — `2026-10-25T09:47:50+00:00`
-- [自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)](https://zenn.dev/yoru_build/articles/b5569fce05651a) — `2026-10-25T09:43:44+00:00`
-- [Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！](https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3) — `2026-10-25T07:46:55+00:00`
-- [AlphaEngine : 最適化編②](https://zenn.dev/reu/articles/0f77f6eb0940af) — `2026-10-25T07:19:40+00:00`
-- [Claude Codeにghを使わせても、GH_TOKENをコンテナの環境変数に置かないdevcontainer構成](https://zenn.dev/hii_chi/articles/claude-code-gh-token-wrapper) — `2026-10-25T06:03:07+00:00`
-- [gh api -f body=@file で、PR に一時ファイルのパスが載った](https://zenn.dev/hotto_ken/articles/gh-api-raw-field-posted-temp-path) — `2026-10-25T04:11:54+00:00`
-- [git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン](https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime) — `2026-10-25T02:37:59+00:00`
-- [C# × Oracle ストアドプロシージャ早見表（WinForms の取得・登録・更新・削除・CSV 出力）](https://zenn.dev/hiroshi00000000/articles/078de5ac61693b) — `2026-10-25T00:56:37+00:00`
-- [600人規模のイベント運営を支えたインカムを、学生1人で作った話](https://zenn.dev/kodak_20/articles/3b0ba74333b56c) — `2026-10-24T17:23:14+00:00`
-- [Xcode 27 で ＠State がマクロになった理由 ― 遅延評価は private だけ、＠StateObject との違い](https://zenn.dev/takehito/articles/50145459523321) — `2026-10-24T15:56:27+00:00`
-- [prpr: Rust 向けのシンプルで高速な Parser generator](https://zenn.dev/tanakh/articles/prpr-packrat-parser) — `2026-10-24T06:57:58+00:00`
+- [昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】](https://zenn.dev/microsoft/articles/112ff28ccc30e3) — `2026-10-26T18:01:40+00:00`
+- [学生2人で日本語音声LLMを作り、FT-LLM 2026 自由形タスクで1位を獲得した話](https://zenn.dev/ayutaso/articles/ftllm2026-ja-speech-llm) — `2026-10-26T13:54:50+00:00`
+- [OpenWrt 25.12のadblock 4.5に豆腐フィルタを適用する（ruleの書式が変わった）](https://zenn.dev/yotan/articles/openwrt-25-adblock-tofu-filter) — `2026-10-26T10:49:33+00:00`
+- [Vue Fes Japan 2026 「 Vite+への貢献と、Team Memberになって見えてきた風景」スピーカーノート](https://zenn.dev/comm_vue_nuxt/articles/33f8491afbc66d) — `2026-10-26T08:44:09+00:00`
+- [AI時代のアーキテクチャ：実装を任せるために、詳細設計を自分のものにする](https://zenn.dev/simplex/articles/f2b41d3367e9c7) — `2026-10-26T07:02:56+00:00`
+- [AI の謎な説明文を直すスキル](https://zenn.dev/microsoft/articles/explain-before-shorten) — `2026-10-26T04:32:54+00:00`
+- [Node.js の Brotli 脆弱性 CVE-2026-111497 を読む](https://zenn.dev/chot/articles/79e6c94e27782d) — `2026-10-26T02:29:36+00:00`
+- [最近の E2E 戦略（2026 年 10 月現在）](https://zenn.dev/polyco/articles/26624b38c951b5) — `2026-10-26T01:18:03+00:00`
+- [AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア](https://zenn.dev/tokium_dev/articles/internship-mentoring-2026) — `2026-10-26T01:00:06+00:00`
+- [S3のParquet、そのままSnowflakeで分析しても遅くない？Parquet Directを検証](https://zenn.dev/snowflakejp/articles/parquet-direct-pruning-benchmark) — `2026-10-26T00:41:46+00:00`
+- [スタックトレースを読むとヒープが約1,470 MB増えていた話](https://zenn.dev/dress_code/articles/f2a51226c9ec6f) — `2026-10-26T00:00:13+00:00`
+- [育休復帰のキャッチアップをAI に手伝ってもらった話](https://zenn.dev/nextbeat/articles/862dd45c304c13) — `2026-10-25T23:35:58+00:00`
+- [私が5種類のコーディングエージェントを使い分ける理由](https://zenn.dev/rimon/articles/45c1fd2f015af8) — `2026-10-25T22:44:03+00:00`
+
+## Google AI Blog
+
+- [Our newest AI Quest: Mapping the human brain](https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/) — `2026-10-26T16:00:00+00:00`
+
+## Qiita Trending (official)
+
+- [実際に試したClaude便利術20選 まとめ](https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T11:05:51+00:00`
+- [LLMを組み込むETLパイプラインの設計：品質をどう証明し、欠陥をどう特定するか](https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T08:28:56+00:00`
+- [CloudFront + AWS WAF のパストラバーサル対策 ― パス条件のルールは `../` ですり抜けられるのか検証した](https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T08:04:33+00:00`
+- [どこから始めるか ― 財源幻想脱却の制度的ロードマップ : システム設計視点の行動経済学 (49)](https://qiita.com/maskot1977/items/f1b4c5d0be3ad99f74ce?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T06:02:10+00:00`
+- [【AI-DLC】GitHub Copilot Quest Lv3：Hack the LegacyでAI-DLCを初めて実践してみた！](https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T04:53:56+00:00`
+- [生成AIに渡す仕様書はどう書くべきか ― AIが「読みやすい」形式と「読みにくい」形式](https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T03:44:28+00:00`
+- [2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！](https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T02:06:20+00:00`
+- [New Relic AI Knowledge × Autopilot で「怪しいアクティビティ」を検知させてみた](https://qiita.com/nr-mito/items/eca8767bb68723645e6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T02:01:28+00:00`
+- [エンジニア歴数か月の私「理論上、理解できない物事はない」](https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T01:50:31+00:00`
+- [【Google Workspace × Gemini】Geminiを使用してスプレッドシート／ドキュメントを作成してみよう（初級）](https://qiita.com/hiroki_mu/items/c760b60dd09723fea29c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T01:50:24+00:00`
+- [VueFes Japan 2026 参加(出展)記](https://qiita.com/oyashimi_c/items/2272340c078d9281a922?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T01:34:38+00:00`
+- [後継GPUで倍精度が約30分の1に。インスタンスタイプを型番で選んで大丈夫ですか？](https://qiita.com/kaga-yasumitsu/items/dce9b08af79ac74c2106?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T01:16:40+00:00`
+- [Kimi Codeは遅い。それでも使い道を感じた理由](https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-26T00:48:54+00:00`
+- [ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる](https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T23:28:41+00:00`
+- [【C# / Unity】型制約なしゼロアロケでDisposeする方法](https://qiita.com/Omochaya/items/c396ca2910e1c5e90e92?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T22:34:26+00:00`
+- [トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に](https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T19:00:26+00:00`
+- [AWS Certified AI Business Strategist(AIB-C01)ベータ版に満点合格したので学習方法をまとめる](https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T16:38:51+00:00`
+- [Oracle AI World 2026 開幕！注目講演と日本時間の視聴スケジュールまとめ](https://qiita.com/shirok/items/fb1d5dded8654002d2c1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T15:24:44+00:00`
+- [【登壇レポート】「JAWS-UG 茨城 #18 祝！2周年記念祭」 で承認依頼を電話で鳴らしてきました📞](https://qiita.com/yosuke-suzuki/items/cd8e63528eb5958d8c3d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T14:59:54+00:00`
+- [【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？](https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T13:54:38+00:00`
+- [Symbol のコンセンサスをいじらず、誰にも預けない、なんか DEX っぽいものが作れてしまった話](https://qiita.com/HinaBlogChannel/items/b5f3020e0e42235dda0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T12:29:41+00:00`
+- [AIに「答えを言わないで」と頼んでRustを学んだ2週間の日記 ― 生成AI時代に、新しい技術をちゃんと身につけるためのメモ](https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T08:04:53+00:00`
+- [Object.hasOwnとinとundefined比較は何が違う？継承・未定義値・getterをNode.jsで実測](https://qiita.com/ennagara128/items/a62d80d619f98c3e7394?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T08:01:18+00:00`
+- [Oracle Database@AWS の Exadata Dedicated Infrastructure への接続方式を整理してみる。](https://qiita.com/ora_gonsuke777/items/25bef1613f1ca7df58be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T04:54:10+00:00`
+- [【AWS re:Invent準備】女性向け持ち物をまとめてみた](https://qiita.com/hoshi7_n/items/de663b2bea8e87c2984f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items) — `2026-10-25T04:25:36+00:00`
 
 ## Google Cloud Release Notes
 
+- [October 26, 2026](https://docs.cloud.google.com/release-notes#October_26_2026) — `2026-10-26T07:00:00+00:00`
 - [October 25, 2026](https://docs.cloud.google.com/release-notes#October_25_2026) — `2026-10-25T07:00:00+00:00`
-- [October 24, 2026](https://docs.cloud.google.com/release-notes#October_24_2026) — `2026-10-24T07:00:00+00:00`
 
 ## Cloudflare Changelog
 
-- [WAF - WAF Release - 2026-10-25 - Emergency - Cloudflare Managed Ruleset](https://developers.cloudflare.com/changelog/post/2026-10-25-emergency-waf-release/) — `2026-10-25T00:00:00+00:00`
+- [Agents, Workers - Cloudflare Computer now helps agents recover from interruptions and wait for approval](https://developers.cloudflare.com/changelog/post/2026-10-26-computer-durable-javascript/) — `2026-10-26T00:00:00+00:00`
+- [DNS - Advanced Nameservers use a nameserver type](https://developers.cloudflare.com/changelog/post/2026-10-26-foundation-dns-nameserver-type/) — `2026-10-26T00:00:00+00:00`
+- [Workers - Workers tracing — new spanContext(), setStatus(), and updateName() APIs](https://developers.cloudflare.com/changelog/post/2026-10-26-span-context-status-update-name/) — `2026-10-26T00:00:00+00:00`
