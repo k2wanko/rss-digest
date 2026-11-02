@@ -1,0 +1,672 @@
+{
+  "report": {
+    "run_date": "2026-11-02",
+    "generated_at": "2026-11-02T00:12:56.815399+00:00",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 48,
+    "feeds_total": 16,
+    "feeds_ok": 15,
+    "item_count": 54,
+    "errors": [
+      {
+        "name": "Cursor Blog (mirror)",
+        "url": "https://raw.githubusercontent.com/leontloveless/ai-rss-feeds/main/feeds/cursor-blog.xml",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ],
+    "summary_error": "one or more services failed; see workflow logs"
+  },
+  "items": [
+    {
+      "title": "U.S. workers took home their smallest share of capital since at least 1947",
+      "link": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+      "published_at": "2026-11-01T23:20:31+00:00",
+      "summary": "<p>Article URL: <a href=\"https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/\">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330939\">https://news.ycombinator.com/item?id=50330939</a></p>\n<p>Points: 131</p>\n<p># Comments: 29</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "published_at": "2026-11-01T22:10:45+00:00",
+      "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330456\">https://news.ycombinator.com/item?id=50330456</a></p>\n<p>Points: 86</p>\n<p># Comments: 64</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Game Off 2026: The theme is SHIFT",
+      "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "published_at": "2026-11-01T21:36:00+00:00",
+      "summary": "<p>GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/\">Game Off 2026: The theme is SHIFT</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "source": "GitHub Blog",
+      "source_url": "https://github.blog/feed/",
+      "tags": [
+        "github",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "link": "https://news.ycombinator.com/item?id=50328896",
+      "published_at": "2026-11-01T19:35:27+00:00",
+      "summary": "<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am cur",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】",
+      "link": "https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-01T19:05:20+00:00",
+      "summary": "AI エージェントのトークン代を節約するには、どうすればよいでしょうか。\n1 つの方法は、プロンプトキャッシュを上手に使うことです。プロンプトキャッシュは、前の問い合わせと先頭が同じ部分を提供元のサーバーに保存しておき、次から安く読む仕組みです。Claude Sonnet ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "published_at": "2026-11-01T18:28:42+00:00",
+      "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/\">https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50328251\">https://news.ycombinator.com/item?id=50328251</a></p>\n<p>Points: 205</p>\n<p># Comments: 215</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Patrick Stewart taught us what good men do with power",
+      "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+      "published_at": "2026-11-01T17:28:16+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism\">https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50327650\">https://news.ycombinator.com/item?id=50327650</a></p>\n<p>Points: 346</p>\n<p># Comments: 244</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "published_at": "2026-11-01T16:46:33+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/\">https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50327266\">https://news.ycombinator.com/item?id=50327266</a></p>\n<p>Points: 167</p>\n<p># Comments: 55</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "published_at": "2026-11-01T16:23:26+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml\">https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50327058\">https://news.ycombinator.com/item?id=50327058</a></p>\n<p>Points: 128</p>\n<p># Comments: 32</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "link": "https://hackerbooks.org",
+      "published_at": "2026-11-01T15:58:28+00:00",
+      "summary": "<p>Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).<p>It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.<p>To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.<p>It counts mentions, so it's not perfect (praising a ",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "published_at": "2026-11-01T15:33:49+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673\">https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326609\">https://news.ycombinator.com/item?id=50326609</a></p>\n<p>Points: 124</p>\n<p># Comments: 95</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "【みのるん式】Claude Code仕事術を読んだら、自分のモノレポの答え合わせになりました！",
+      "link": "https://qiita.com/yosuke-suzuki/items/94a3794c8c6bb5e10079?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-01T14:59:28+00:00",
+      "summary": "はじめに\nこんにちは。\n最近職場でもボソボソ音声入力をしているすずきです。\nみのるんさん(@minorun365)の『［みのるん式］ビジネスパーソンのためのClaude Code仕事術』を読み「これは学ぶことが多いぞ！」と思ったため書籍レビュー(?)という名の感想を記事に...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "published_at": "2026-11-01T14:34:43+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/\">https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326099\">https://news.ycombinator.com/item?id=50326099</a></p>\n<p>Points: 372</p>\n<p># Comments: 133</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Novellas with Groff",
+      "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "published_at": "2026-11-01T13:51:41+00:00",
+      "summary": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html\">https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325694\">https://news.ycombinator.com/item?id=50325694</a></p>\n<p>Points: 107</p>\n<p># Comments: 47</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "link": "https://arxiv.org/abs/2610.39302",
+      "published_at": "2026-11-01T13:24:49+00:00",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.39302\">https://arxiv.org/abs/2610.39302</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325454\">https://news.ycombinator.com/item?id=50325454</a></p>\n<p>Points: 105</p>\n<p># Comments: 56</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "published_at": "2026-11-01T13:02:30+00:00",
+      "summary": "<p>I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.<p>OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...<p>It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.<p>It's open source. AGPLv3.<p>It's based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a ",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "ISUCON 2026 Writeup / チーム nicklegr",
+      "link": "https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3",
+      "published_at": "2026-11-01T12:20:12+00:00",
+      "summary": "ISUCON2026 に参加しました。初参加です。\n暫定結果は19890点で497位でした。\nプロの方のブログが多数出てるので高度な話を読みたい方はそちらをどうぞ。\n初心者の立場の記事もあるといいかなと思って書いてみます。\n\n 筆者のスキル\n\nVPSや自宅サーバをSSHでいじったことはある\n\nでもほぼDockerなのでLinuxの深い部分は知らない\n\n\nWebアプリはいくつか作ったことがある\nDBは使ったことがある。負荷に困ったことはない\n\n重いとこにインデックス張ってN+1問題に気をつけるんでしょ？くらい\n\n\nAWSは主な要素だけ雰囲気で知ってるレベル\n\nなのでインフラのチューニングは...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ISUCON2026 にツールを捨てて勝ちたかった",
+      "link": "https://zenn.dev/mazrean/articles/5c968503fd69a3",
+      "published_at": "2026-11-01T12:16:33+00:00",
+      "summary": "ISUCON2026 に INUCON2026(いい感じに猫を動かすコンテスト ニャオニャム)として参加したのでその参加記です。\n最終スコアは 198,146、順位としては 40~50 位あたりになりそうです。\nISUCON には ISUCON 9 から参加していて、ISUCON 12 からは「誰でも ISUCON 優勝クラスのチューニングができる」ようにできないかと思い、ツールの力で勝とうと 1人チームで参加していました。\nhttps://trap.jp/post/2434/\nただ、前回の ISUCON 14 から2年たち、少なくとも昨年以前の問題では「誰でも ISUCON 優勝クラス...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "link": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "published_at": "2026-11-01T10:44:20+00:00",
+      "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/\">https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50324371\">https://news.ycombinator.com/item?id=50324371</a></p>\n<p>Points: 52</p>\n<p># Comments: 47</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方",
+      "link": "https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-01T08:41:55+00:00",
+      "summary": "はじめに\nこんにちは、Watanabe Jin(@Sicut_study)です。\nAIエージェントによる開発が当たり前になり、多くの現場でスピードを求められるようになりました。\nしかし、便利になったと感じると同時に、こんな瞬間はありませんでしたか？\n「一年前と比べて、ス...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AIに証明を書かせてセキュアに開発する言語 Tauto をリリースしました！",
+      "link": "https://qiita.com/ryo33/items/3a1a9d1ba2b289b23244?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-01T08:06:32+00:00",
+      "summary": "はじめに\nAIにコードを書いてもらうのが当たり前になってきました。\nでも、こんなモヤモヤはありませんか？\n\nAIが書いたコード、差分を全部読むのはもう限界\n\nテストは通っている。でも テストを書いていないケースは大丈夫？\n\nAIに「なぜ正しいの？」と聞いても、その説明が正...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "published_at": "2026-11-01T06:06:19+00:00",
+      "summary": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50323088\">https://news.ycombinator.com/item?id=50323088</a></p>\n<p>Points: 286</p>\n<p># Comments: 224</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "私の趣味はお人形さん集めです。ただし Qiitan 人形に限る。Qiita に書き続けてきたから、雑誌、書籍、賞、昇降デスク、そして 6 体の Qiitan 人形にまでつながった。Qiita さん、ありがとう。",
+      "link": "https://qiita.com/torifukukaiou/items/52ffbb51faf8dd9a2858?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-01T04:46:00+00:00",
+      "summary": "はじめに\n\n断言します。私の趣味はお人形さん集めです。ただし Qiitan 人形に限る。\n\nQiita 15周年記念カレンダーに参加しています。テーマは、技術や開発環境の「当時」と「今」を振り返ることです。\n私にとっての「当時」と「今」は、どちらも Qiita...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話",
+      "link": "https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82",
+      "published_at": "2026-11-01T04:39:46+00:00",
+      "summary": "こんにちは、三つ子育児系エンジニアのsakoponです！\n2026年10月31日に開催されたISUCON2026に、ソロで出場しました🏃\n今回はそのイベントでの感想を記事にしました。\nISUCONとは、お題のWebアプリを制限時間内にどこまで速くできるかを競うチューニングコンテストです。\n私はパフォーマンスチューニングの経験がありません。事前準備もろくにできず、当日もほとんどの部分をAIに頼りました。最終スコアは25717です。\nそれでも、参加してよかったと思っています。\n\n 何のために参加したのか\n一番は、パフォーマンスチューニングについて学びたかったためです。\nあとは、お祭り感があっ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ISUCON 2026 参加記",
+      "link": "https://zenn.dev/catatsuy/articles/159edffe202c0c",
+      "published_at": "2026-11-01T03:40:42+00:00",
+      "summary": "ChatGPTにGitHubのログをまとめてもらいました。\n最終スコアは26000点台くらいで、完全敗北でした。repoはこちらです。\nhttps://github.com/catatsuy/isu2026\n\n はじめに\n今回はAIを活用することを前提として、1人でISUCONに参加しました。\n事前にAIに作業してもらうための準備をしておき、当日はCodexなどを使いながら最適化を進めました。自分は主に方針決定、ベンチマーク、ログの分析、デプロイを担当する形です。\n\n 10時台：競技開始、まずは計測から\n\nAWS上に競技環境を構築して、Go実装を選択。\nDBがPostgreSQLだったこ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "10か月間レートが停滞した自分が突如黄パフォを出し青コーダーになれた理由",
+      "link": "https://qiita.com/river0525/items/b1a996308f0566a01384?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-01T03:30:43+00:00",
+      "summary": "こんにちは。\n競技プログラマーのriver0525です。\n執筆時点（2026/11/1）ではAtCoderのアルゴリズム部門で青レートに到達しています。\n本記事では、10か月間レートが停滞し続けて才能の壁を感じ、半ば諦めかけていた私が突如黄パフォを出して入青できた理由を解説...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "「画面でデプロイしてください」と AI に言わせない ── GAS をブラウザゼロ・1秒台で直しきる『秀GASマネージャー』ができるまで",
+      "link": "https://qiita.com/shu15511551/items/228dfa134c76e15ab1a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T23:24:19+00:00",
+      "summary": "はじめに\n今朝、こんな記事を公開しました。\n\nGoogle Apps Script（GAS）の公式ツールである clasp がパソコンの中に保存している認証ファイル（~/.clasprc.json）を Python から直接読みに行かせたところ、重たいコマンドを一度も...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ローカル LLM の監視強化（前編）：Qwen の「外への送信」報道を受けて、AI エージェントを OS とネットワークで止める",
+      "link": "https://qiita.com/nabe2030/items/0b89543adbf2ba60bf25?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T23:07:08+00:00",
+      "summary": "1. 背景：LLM モデルが勝手に外部にデータ送信！？\n最初に、LLM モデル単体では、インターネットに勝手にアクセスしたり、不正な操作をしたりすることはできません。 LLM モデルがするのは、文字を受け取って文字を返すことだけです。チャットの画面で LLM モデルと話し...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "受験生用鉄緑風プリント作成プロンプト",
+      "link": "https://qiita.com/KKTeX/items/c2612d68b2882afd620a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T22:55:06+00:00",
+      "summary": "非公式です。鉄緑会とは関係ありません。\n\n出力例\n上が ChatGPT（思考量「極高」）、下が Claude です。\n\n使い方\n下のプロンプト全文を貼り、末尾の「以下が教材です。」の下に作りたいプリントの中身を書いて送るだけです。写真や PDF も添付できます。\n\nプロン...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "published_at": "2026-10-31T22:41:06+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/\">https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320963\">https://news.ycombinator.com/item?id=50320963</a></p>\n<p>Points: 763</p>\n<p># Comments: 197</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Bidirectional charging during grid outages",
+      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "published_at": "2026-10-31T20:21:55+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.jefftk.com/p/bidirectional-charging-during-grid-outages\">https://www.jefftk.com/p/bidirectional-charging-during-grid-outages</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319749\">https://news.ycombinator.com/item?id=50319749</a></p>\n<p>Points: 81</p>\n<p># Comments: 119</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "link": "https://karpathy.bearblog.dev/hacker-tube/",
+      "published_at": "2026-10-31T19:56:53+00:00",
+      "summary": "<p>YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.<p><a href=\"https://hackertube.org/\" rel=\"nofollow\">https://hackertube.org/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319510\">https://news.ycombinator.com/item?id=50319510</a></p>\n<p>Points: 2224</p>\n<p># Comments: 533</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "脆弱性情報を開発チームで見逃さないようにSlackにRSSフィードを設定してみた",
+      "link": "https://qiita.com/yukmaru/items/a3f358cc3e58e435df61?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T18:52:30+00:00",
+      "summary": "はじめに\nphp2shell をきっかけに、脆弱性情報に社内でいち早く気づける仕組みを作ることになりました。\n社内のやり取りには Slack を使っているので、Slack に流せて手軽でお金のかからない方法を探していたところ、RSS フィードが要件に合っていました。\nこの...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "JavaScriptのdocumentをインスタンス化せずに使える理由とDOMの実体を調べてみた",
+      "link": "https://qiita.com/yukmaru/items/7ef2bebeb3e227baa8d4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T17:41:28+00:00",
+      "summary": "はじめに\nReactの学習でJavaScriptを書いていたときに document が出てきました。そういえば、自分でインスタンス化していないのに、なぜメソッドを使えるのだろうと気になりました。そこで、Documentオブジェクトがどこで定義されていて、いつインスタンス...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "The She-Wolves of Jülich",
+      "link": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "published_at": "2026-10-31T17:29:39+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.historytoday.com/archive/history-matters/she-wolves-julich\">https://www.historytoday.com/archive/history-matters/she-wolves-julich</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50318129\">https://news.ycombinator.com/item?id=50318129</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "PicoRubyKaigi 2026 に行ってきた",
+      "link": "https://qiita.com/tomoasleep/items/80b624b64d17eeb14d74?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T14:12:08+00:00",
+      "summary": "PicoRubyKaigi 2026 Assemble に行ってきました！\n\nPicoRuby、RubyKaigi 2026 で知って Ruby でデバイスが動くのいいなあと思っていくつかデバイス買ったはいいものの実機デバッグで大苦戦したり、本業が忙しくなったりとでなか...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Claudeくん！これ作って！~コスト可視化~",
+      "link": "https://qiita.com/hotate_2235/items/b72c85b001fcf6b575da?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T14:09:12+00:00",
+      "summary": "Claudeくん！これ作って！~コスト可視化~\nClaude Code の細かい tips 記事です。\n今回は、Claude Code の利用料を手元で見張る話です。\nClaude Enterprise は、シート料金とは別に、使ったトークンを標準の API 料金で払う形...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Podcast の文字起こしから、X に 1 日 5 回自動投稿してみた（GitHub Actions・月約 $3）",
+      "link": "https://qiita.com/t_maki/items/5591e87b3d40797861d7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T14:00:01+00:00",
+      "summary": "はじめに\n「信州プルリクエスト」という Podcast をやっています。長野で働くエンジニア 2 人が、ゆるく雑談する番組です。\n\nX への投稿は、以前は手動でしていましたが、反応もなく、だんだん面倒になってきました。一方で、エピソードは 19 話になり、話した内容も...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "APEXlangでVibe Coding：画面デザイン集",
+      "link": "https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T13:58:17+00:00",
+      "summary": "APEXの画面をいろいろ作ってみてます\nAPEXというと、標準の表やフォームを並べた、お決まりの見た目を想像するかもしれません。でも、APEXの画面はもっと自由に変えられます。\nAPEXlangを使って、HTMLやCSSでAPEXの見た目をどこまで変えられるか、いろいろ試...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ISUCON2026 本番に出た",
+      "link": "https://zenn.dev/ntk221/articles/98b17a773669a1",
+      "published_at": "2026-10-31T13:14:45+00:00",
+      "summary": "10/31 の ISUCON2026 本番に出ました。ISUCON は今回が初参加です。結果は 最終スコア ____ 点・____ 位 です。どちらもまだ確定していないので、いまは空けておきます。最後のベンチはたしか9万点に届かないくらいでしたね\nこの記事は、当日の Claude Code の会話ログ（~/.claude/projects/ の JSONL）と git の履歴から Claude Code が時刻を拾い直して書いたものを、自分でこね直したものです。数字や経緯は claude-recall で会話を検索して確かめました。\n\n 準備\n\n suburi と template リポ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）",
+      "link": "https://zenn.dev/kauche/articles/f3736c660aab77",
+      "published_at": "2026-10-31T12:31:11+00:00",
+      "summary": "この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。\n\n3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207,039 点です。\n各メンバーが自分の PC で Claude Code を動かし、調査からデプロイ、ベンチマークの実行までを任せました。エージェントどうしは会話の履歴を共有していません。連絡はすべてチームの Slack チャンネルで行い、4 台のサーバーへのデプロイがベンチマークの実行と...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ISUCONに初めて出たら、直すたびに次のボトルネックが出てきて、超面白かった",
+      "link": "https://zenn.dev/paraponera/articles/2026-10-31-isucon-2026-isureal",
+      "published_at": "2026-10-31T12:17:24+00:00",
+      "summary": "はじめに\n船長（せんちょう）と申します。\n2年ぶりに開催された ISUCON 2026 に、初めて出てきました。\n実務でパフォーマンスチューニングをやった経験はほぼないです。前職で Datadog を眺めて、エラーが起きたらログを追って解消する、くらい。インフラとバックエンドも、まあちょっと触ったことはあるよ、という程度でした。\nそれでも出ようと思ったのは、裏側をまるっと全部直そうぜ、というのが単純にめっちゃ面白そうだったからです。\nそれと、同じ問題を解いた強い人たちが、終わったあとに体験談を出してくれるじゃないですか。それを全部読める。これがすごくいいなと思いました。\n自分が詰まっ...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "世界を「巨大なJSON」として捉えたら、人間関係のバグとAIのディストピアに気づいてゾッとした話",
+      "link": "https://qiita.com/nuhaha_2023/items/30d0bc3cc1149bca17b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T11:21:35+00:00",
+      "summary": "世界を「巨大なJSON」として捉えたら、人間関係のバグとAIのディストピアに気づいてゾッとした話\n\nまえがき\n\n人間関係のすれ違いって、要は「リクエストヘッダー（バイアス）の違い」と「モック相手にPR投げてコンフリクトしてる状態」じゃない？\nそもそもJSでもオブジェクト同...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ISUCON2026に人間1人＋AIエージェント軍団で出て19.6万点、ループは閉じたけど中身が弱かった反省文😇",
+      "link": "https://zenn.dev/tak848/articles/20261031-isucon2026-writeup",
+      "published_at": "2026-10-31T10:53:26+00:00",
+      "summary": "!\nこの記事は全部AIが書きました。\n全部を自動化して記録に残していたので、何が起きたかを一番よく知っているのは当日の指揮役のClaude Codeでした。その記録（自分のプロンプトも含む）を材料に、終わった直後に書いています。\n\nこんにちは。いや、こんいす〜！！\n@tak848です。\n10月31日のISUCON2026に、人間は自分1人、手を動かすのはClaude CodeとCodexのエージェントたち、という体制で出ました。\n問題は、地域ごとに台が分かれた写真共有SNS「ISUReal.」でした（中身は振り返りの節で）。\n前回のISUCON14は1人で出て、30位以内に入ったと思った...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Databricks発のOSS Omnigentの解説書『Omnigentによるメタハーネス入門』が全3巻そろいました — エンタープライズ編の中身と、どの巻から読むか",
+      "link": "https://qiita.com/taka_yayoi/items/7767dbdfb9234560de1a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T10:22:52+00:00",
+      "summary": "はじめに\n2026年10月30日に、『Omnigentによるメタハーネス入門』の第3巻 (3) エンタープライズ編が翔泳社電書部から刊行されました。9月30日に同時刊行された (1) 基礎編と (2) チーム運用編とあわせて、シリーズ全3巻がそろいました。私も著者の一人と...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ペイントツール上でニューラルネットワークを動かす",
+      "link": "https://zenn.dev/melville/articles/953aa2b41f674b",
+      "published_at": "2026-10-31T10:16:28+00:00",
+      "summary": "ペイントツール（ここではKrita）で数字を描くと、その数字に対応する棒が伸びます。\n\nKritaの標準フィルターと合成レイヤーのみで計算しています。入力レイヤーを変更すると、クローンレイヤーとフィルターレイヤーの依存関係に従って出力が更新されます。\n以前ペイントツール上でライフゲームを動かすという記事を書きましたが、今回はその発展として手書き数字を認識するニューラルネットワークを作成してみた形になります。\n\n 下準備\n各ピクセルで負の数も含めた計算を行いたいため、プロジェクト設定は RGBA・32bit浮動小数点・linear RGB にします。\n\n 何を計算するか\n\nこれは今回作った...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "link": "https://www.nature.com/articles/s41560-026-02144-0",
+      "published_at": "2026-10-31T10:14:08+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41560-026-02144-0\">https://www.nature.com/articles/s41560-026-02144-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50314617\">https://news.ycombinator.com/item?id=50314617</a></p>\n<p>Points: 114</p>\n<p># Comments: 39</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "逸般家庭のProxmoxにPenpotを立てて、Claude Codeにデザインを見ながらアプリを作ってもらう",
+      "link": "https://qiita.com/hikaruright/items/b2d741c38f3f97366e56?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T09:47:11+00:00",
+      "summary": "この記事の目標\n逸般家庭のProxmoxにPenpotを立てて、Claude Codeにデザインを見ながらiPhoneアプリを作ってもらう\n\nきっかけ\niPhoneアプリを作るにあたって、画面のモックをちゃんと管理したくなった。\nせっかく家にProxmoxがあるので、オー...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AIにありがちな「イマイチなコードコメント」9パターン",
+      "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T07:17:19+00:00",
+      "summary": "はじめに\n「コードはAIに書いてもらう」という人が増えてきました。\n僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。\nまた、コードレビューをして...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "October 31, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#October_31_2026",
+      "published_at": "2026-10-31T07:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Google SecOps</h2>\n<h3>Feature</h3>\n<p><strong>Basic Mode search</strong></p>\n<p>This feature is in public preview. The <strong>SIEM Search</strong> page now provides two search-execution modes: <strong>Basic Mode</strong> and <strong>Advanced Mode</strong>. <strong>Basic Mode</strong> (the default option) uses a streamlined, fast-path execution pipeline that bypasses secondary enrichment steps during search execution. This approach reduces end-to-end searc",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "【テスト入門】Vitestの導入とテストを行う",
+      "link": "https://qiita.com/ryu0947/items/0c96cb3a529feb18e33a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T06:42:07+00:00",
+      "summary": "はじめに\nReactアプリのテストを行うためにVitestを利用しています。\n環境構築からテストの実行までの手順と躓いたところをまとめていきます。\n\nテストとは\nテストとは書いたコードが期待通りの動作をするか自動的に確認する仕組みです。\nテスト自体は手動で行う事もできます...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ADRを書いて、AIに \"Why\" を理解させよう【Architecture Decision Record】",
+      "link": "https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T05:31:15+00:00",
+      "summary": "はじめに\nAIエージェントにコードを書かせるのが当たり前になった。\nAIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。\nただ、コードをいくら読んでもわからないことがある。\nなぜその実装になっているのか、つまり「Why」の部分だ。\nこの記...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【最速解説】goda.vimでHello, worldする",
+      "link": "https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim",
+      "published_at": "2026-10-31T01:57:43+00:00",
+      "summary": "トリックオアトリート！\nお菓子をくれなきゃあなたを今後Vim/Neovim/Emacsしか使えない体にします。こまもかです。\n今週から一段と冷えこんできたこの頃ですが、こんな寒い季節は家に籠ってdotfilesを整備するのが相場と決まっています。\nという訳で、Shougoさんの新作goda.vimを使ってHello, worldする方法を解説していきます。\ngoda.vimを簡単に解説すると、GoでVim pluginを書けるようにするというものです。\nDenoでVim pluginを書けるdenops.vimの精神的後継という立ち位置にいると僕は解釈しています。\n開発の経緯は作者のSh...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Vitestでdata-testidで取得した要素の文字列だけを期待したい",
+      "link": "https://qiita.com/J-T_ky2g/items/e6df6e90c887421efeb1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-10-31T00:48:15+00:00",
+      "summary": "はじめに\n\nそれらしいマッチャがなかった\n\n問題\n\ndomを厳密に比較してしまい落ちる\n\nimport { render } from \"@testing-library/react\";\nimport { describe, expect, it, vi } from ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    }
+  ],
+  "day_summary": "",
+  "broadcast": "",
+  "service_summaries": {}
+}
