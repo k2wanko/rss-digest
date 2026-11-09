@@ -1,21 +1,21 @@
 {
   "report": {
-    "run_date": "2026-11-08",
-    "generated_at": "2026-11-08T00:10:52.703654+00:00",
+    "run_date": "2026-11-09",
+    "generated_at": "2026-11-09T00:30:09.945039+00:00",
     "timezone": "Asia/Tokyo",
     "lookback_hours": 48,
     "feeds_total": 16,
     "feeds_ok": 16,
-    "item_count": 66,
+    "item_count": 48,
     "errors": [],
     "summary_error": "one or more services failed; see workflow logs"
   },
   "items": [
     {
-      "title": "GitHub New pull request overview page in public preview",
-      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "published_at": "2026-11-07T23:09:40+00:00",
-      "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408931\">https://news.ycombinator.com/item?id=50408931</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "link": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "published_at": "2026-11-08T23:28:01+00:00",
+      "summary": "<p>Article URL: <a href=\"https://isocpp.org/files/papers/P4454R0.pdf\">https://isocpp.org/files/papers/P4454R0.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418818\">https://news.ycombinator.com/item?id=50418818</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -24,10 +24,10 @@
       ]
     },
     {
-      "title": "IRA Velinsky – Commodore's Industrial Designer",
-      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-      "published_at": "2026-11-07T22:45:39+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\">https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408750\">https://news.ycombinator.com/item?id=50408750</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+      "title": "Chimera Vocal Synth",
+      "link": "https://chimera-vocal-synth.vercel.app/",
+      "published_at": "2026-11-08T22:36:03+00:00",
+      "summary": "<p>Article URL: <a href=\"https://chimera-vocal-synth.vercel.app/\">https://chimera-vocal-synth.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418182\">https://news.ycombinator.com/item?id=50418182</a></p>\n<p>Points: 43</p>\n<p># Comments: 8</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -36,10 +36,10 @@
       ]
     },
     {
-      "title": "Making any integer with four 2s (2025)",
-      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "published_at": "2026-11-07T22:38:58+00:00",
-      "summary": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408713\">https://news.ycombinator.com/item?id=50408713</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "link": "https://ketchup3d.github.io/app/",
+      "published_at": "2026-11-08T22:35:35+00:00",
+      "summary": "<p>Article URL: <a href=\"https://ketchup3d.github.io/app/\">https://ketchup3d.github.io/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418176\">https://news.ycombinator.com/item?id=50418176</a></p>\n<p>Points: 88</p>\n<p># Comments: 13</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -48,10 +48,10 @@
       ]
     },
     {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "link": "https://eyesrhythm.com/",
-      "published_at": "2026-11-07T21:47:47+00:00",
-      "summary": "<p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating ",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "published_at": "2026-11-08T22:20:09+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418016\">https://news.ycombinator.com/item?id=50418016</a></p>\n<p>Points: 266</p>\n<p># Comments: 257</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -60,10 +60,10 @@
       ]
     },
     {
-      "title": "MeccanicOS",
-      "link": "https://meccanicos.com/",
-      "published_at": "2026-11-07T21:13:44+00:00",
-      "summary": "<p>Article URL: <a href=\"https://meccanicos.com/\">https://meccanicos.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408129\">https://news.ycombinator.com/item?id=50408129</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "link": "https://news.ycombinator.com/item?id=50417407",
+      "published_at": "2026-11-08T21:20:20+00:00",
+      "summary": "<p>What are you working on? What have you been curious about lately?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50417407\">https://news.ycombinator.com/item?id=50417407</a></p>\n<p>Points: 93</p>\n<p># Comments: 369</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -72,10 +72,10 @@
       ]
     },
     {
-      "title": "Shadow of the Sun (2021)",
-      "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-      "published_at": "2026-11-07T21:11:05+00:00",
-      "summary": "<p>Article URL: <a href=\"https://mattlakeman.org/2021/07/27/shadow-of-the-sun/\">https://mattlakeman.org/2021/07/27/shadow-of-the-sun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408104\">https://news.ycombinator.com/item?id=50408104</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "published_at": "2026-11-08T20:26:43+00:00",
+      "summary": "<p>Article URL: <a href=\"https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors\">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416801\">https://news.ycombinator.com/item?id=50416801</a></p>\n<p>Points: 347</p>\n<p># Comments: 267</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -84,10 +84,10 @@
       ]
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "published_at": "2026-11-07T20:45:32+00:00",
-      "summary": "<p>Article URL: <a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50407882\">https://news.ycombinator.com/item?id=50407882</a></p>\n<p>Points: 114</p>\n<p># Comments: 82</p>",
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "published_at": "2026-11-08T19:49:46+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.spacex.com/launches/starship-flight-15\">https://www.spacex.com/launches/starship-flight-15</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416471\">https://news.ycombinator.com/item?id=50416471</a></p>\n<p>Points: 75</p>\n<p># Comments: 34</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -96,10 +96,10 @@
       ]
     },
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "link": "https://blog.bosscher.ch/posts/openstick/",
-      "published_at": "2026-11-07T18:12:12+00:00",
-      "summary": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 286</p>\n<p># Comments: 69</p>",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "published_at": "2026-11-08T19:48:32+00:00",
+      "summary": "<p>Article URL: <a href=\"https://ftrain.com/aboard-the-web-is-more-than-enough\">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416456\">https://news.ycombinator.com/item?id=50416456</a></p>\n<p>Points: 55</p>\n<p># Comments: 28</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -108,10 +108,10 @@
       ]
     },
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "link": "https://hunch.net/?p=13764006",
-      "published_at": "2026-11-07T18:02:17+00:00",
-      "summary": "<p><a href=\"https://archive.is/AaY5O\" rel=\"nofollow\">https://archive.is/AaY5O</a><p><a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\" rel=\"nofollow\">https://businessexaminer.ca/victoria-articles/item/microsoft...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406563\">https://news.ycombinator.com/item?id=50406563</a></p>\n<p>Points: 331</p>\n<p># Comments: 193</p>",
+      "title": "How I Fight AI Brain Fry",
+      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "published_at": "2026-11-08T19:37:42+00:00",
+      "summary": "<p>Article URL: <a href=\"https://sergeykuhne.com/blog/fighting-ai-brain-fry\">https://sergeykuhne.com/blog/fighting-ai-brain-fry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416363\">https://news.ycombinator.com/item?id=50416363</a></p>\n<p>Points: 132</p>\n<p># Comments: 115</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -120,10 +120,10 @@
       ]
     },
     {
-      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-      "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-      "published_at": "2026-11-07T17:54:56+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor\">https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406502\">https://news.ycombinator.com/item?id=50406502</a></p>\n<p>Points: 37</p>\n<p># Comments: 12</p>",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "published_at": "2026-11-08T19:20:32+00:00",
+      "summary": "<p>Article URL: <a href=\"https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\">https://mailroute.net/blog/outlook-rejecting-email-without-dmarc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416158\">https://news.ycombinator.com/item?id=50416158</a></p>\n<p>Points: 208</p>\n<p># Comments: 168</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -132,10 +132,22 @@
       ]
     },
     {
-      "title": "Five memorable books about programming (2008)",
-      "link": "https://prog21.dadgum.com/19.html",
-      "published_at": "2026-11-07T17:30:49+00:00",
-      "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/19.html\">https://prog21.dadgum.com/19.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406319\">https://news.ycombinator.com/item?id=50406319</a></p>\n<p>Points: 76</p>\n<p># Comments: 47</p>",
+      "title": "部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった",
+      "link": "https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T19:10:12+00:00",
+      "summary": "AI が、広く使われるソフトウェア部品（コンポーネント）の脆弱性を見つけ始めました。Google の AI のエージェント（Big Sleep） は SQLite の脆弱性を、Google の AI で作ったテスト（OSS-Fuzz） は OpenSSL の脆弱性を見つけ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "link": "https://duxlabs.dev/",
+      "published_at": "2026-11-08T19:08:51+00:00",
+      "summary": "<p>Article URL: <a href=\"https://duxlabs.dev/\">https://duxlabs.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416053\">https://news.ycombinator.com/item?id=50416053</a></p>\n<p>Points: 171</p>\n<p># Comments: 54</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -144,10 +156,10 @@
       ]
     },
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "link": "https://github.com/hedgerow-dev/coldframe",
-      "published_at": "2026-11-07T17:27:30+00:00",
-      "summary": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds o",
+      "title": "Playing with the STM32MP2",
+      "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "published_at": "2026-11-08T19:04:07+00:00",
+      "summary": "<p>Article URL: <a href=\"https://serd.es/2026/11/08/playing-with-stm32mp2.html\">https://serd.es/2026/11/08/playing-with-stm32mp2.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50416014\">https://news.ycombinator.com/item?id=50416014</a></p>\n<p>Points: 28</p>\n<p># Comments: 17</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -156,10 +168,10 @@
       ]
     },
     {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "published_at": "2026-11-07T17:19:00+00:00",
-      "summary": "<p>Article URL: <a href=\"https://maxxbench.unlap.ai/research/why-maxxbench/\">https://maxxbench.unlap.ai/research/why-maxxbench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406222\">https://news.ycombinator.com/item?id=50406222</a></p>\n<p>Points: 176</p>\n<p># Comments: 55</p>",
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "link": "https://kevinboone.me/cpmzork.html",
+      "published_at": "2026-11-08T18:33:50+00:00",
+      "summary": "<p>Article URL: <a href=\"https://kevinboone.me/cpmzork.html\">https://kevinboone.me/cpmzork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415750\">https://news.ycombinator.com/item?id=50415750</a></p>\n<p>Points: 26</p>\n<p># Comments: 12</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -168,10 +180,10 @@
       ]
     },
     {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "published_at": "2026-11-07T17:06:36+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you\">https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406111\">https://news.ycombinator.com/item?id=50406111</a></p>\n<p>Points: 315</p>\n<p># Comments: 218</p>",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "published_at": "2026-11-08T18:16:07+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=50415628</a></p>\n<p>Points: 555</p>\n<p># Comments: 328</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -180,10 +192,10 @@
       ]
     },
     {
-      "title": "How Long Can Life Wait?",
-      "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "published_at": "2026-11-07T16:22:59+00:00",
-      "summary": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/how-long-can-life-wait\">https://mceglowski.substack.com/p/how-long-can-life-wait</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405789\">https://news.ycombinator.com/item?id=50405789</a></p>\n<p>Points: 119</p>\n<p># Comments: 69</p>",
+      "title": "A Little Snitch for Windows",
+      "link": "https://packethound.app/",
+      "published_at": "2026-11-08T17:16:07+00:00",
+      "summary": "<p>Article URL: <a href=\"https://packethound.app/\">https://packethound.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415135\">https://news.ycombinator.com/item?id=50415135</a></p>\n<p>Points: 86</p>\n<p># Comments: 42</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -192,10 +204,10 @@
       ]
     },
     {
-      "title": "Every processor die anyone has photographed and given away",
-      "link": "https://sheets.works/data-viz/cpu-dies",
-      "published_at": "2026-11-07T16:21:36+00:00",
-      "summary": "<p>Article URL: <a href=\"https://sheets.works/data-viz/cpu-dies\">https://sheets.works/data-viz/cpu-dies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405782\">https://news.ycombinator.com/item?id=50405782</a></p>\n<p>Points: 67</p>\n<p># Comments: 16</p>",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "link": "https://goldstein.lol/posts/deno-security/",
+      "published_at": "2026-11-08T14:42:38+00:00",
+      "summary": "<p>Article URL: <a href=\"https://goldstein.lol/posts/deno-security/\">https://goldstein.lol/posts/deno-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413769\">https://news.ycombinator.com/item?id=50413769</a></p>\n<p>Points: 80</p>\n<p># Comments: 39</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -204,10 +216,10 @@
       ]
     },
     {
-      "title": "Terry Pratchett's Study",
-      "link": "https://www.sussi.dk/terry-pratchetts-study",
-      "published_at": "2026-11-07T16:05:45+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.sussi.dk/terry-pratchetts-study\">https://www.sussi.dk/terry-pratchetts-study</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405674\">https://news.ycombinator.com/item?id=50405674</a></p>\n<p>Points: 87</p>\n<p># Comments: 22</p>",
+      "title": "How to prove equations using diagrams, part 1",
+      "link": "https://www.epatters.org/post/e-graphs-1/",
+      "published_at": "2026-11-08T12:51:38+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.epatters.org/post/e-graphs-1/\">https://www.epatters.org/post/e-graphs-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412830\">https://news.ycombinator.com/item?id=50412830</a></p>\n<p>Points: 59</p>\n<p># Comments: 6</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -216,10 +228,34 @@
       ]
     },
     {
-      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-      "link": "https://www.retrosongbird.com/",
-      "published_at": "2026-11-07T15:06:54+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.retrosongbird.com/\">https://www.retrosongbird.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405172\">https://news.ycombinator.com/item?id=50405172</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+      "title": "Viteのキャッシュ削除",
+      "link": "https://qiita.com/J-T_ky2g/items/5613fa8313b472cbe71f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T12:36:55+00:00",
+      "summary": "コマンド\nrm -r ./node_modules/.vite\n\n参考",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AIエージェントのための git worktree の使い方",
+      "link": "https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T10:52:57+00:00",
+      "summary": "はじめに\nAIエージェントで複数のセッションを立ち上げ、並列でタスクを進めたい時、\nそれぞれのエージェントが同じファイルを編集しようとすると、片方のエージェントが編集した内容がもう片方のエージェントによって書き換えられてしまい、うまく行きません。\nそれを解決するためにgi...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "published_at": "2026-11-08T10:42:15+00:00",
+      "summary": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p>\n<p>Points: 92</p>\n<p># Comments: 17</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
@@ -228,15 +264,231 @@
       ]
     },
     {
-      "title": "The $8 Linux Computer (2022)",
-      "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "published_at": "2026-11-07T14:00:20+00:00",
-      "summary": "<p>Article URL: <a href=\"http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404599\">https://news.ycombinator.com/item?id=50404599</a></p>\n<p>Points: 192</p>\n<p># Comments: 84</p>",
+      "title": "Writing as a thinking tool",
+      "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "published_at": "2026-11-08T10:41:52+00:00",
+      "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></p>\n<p>Points: 259</p>\n<p># Comments: 79</p>",
       "source": "Hacker News (front page)",
       "source_url": "https://hnrss.org/frontpage",
       "tags": [
         "tech",
         "news"
+      ]
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "published_at": "2026-11-08T10:22:04+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/synchopate/llama-modchip\">https://github.com/synchopate/llama-modchip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411961\">https://news.ycombinator.com/item?id=50411961</a></p>\n<p>Points: 346</p>\n<p># Comments: 143</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "【AWS初心者】AWSの基礎を学び、VPCとサブネットを作成してみた",
+      "link": "https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T09:34:56+00:00",
+      "summary": "はじめに\nこれまでC#やASP.NETなどを使用したWebアプリケーション開発を経験してきましたが、AWSについては初心者です。\n今回、AWS Certified Solutions Architect – Associate（SAA）の取得を目標に、AWSの学習を始めま...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった",
+      "link": "https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T09:00:22+00:00",
+      "summary": "AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。\nでは、悪用される...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【React】再レンダリングが起きるタイミングと memo / useCallback で防ぐ方法",
+      "link": "https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T08:26:55+00:00",
+      "summary": "はじめに\nReact の再レンダリングについて、実際にコードを書いて確かめながらまとめました。\n\n再レンダリングはいつ起きるのか\n不要な再レンダリングを memo と useCallback で防ぐ方法\n\nの 2 つを、例を出しながら説明します。\n\n環境\n\nReact ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "November 08, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#November_08_2026",
+      "published_at": "2026-11-08T08:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Google SecOps SOAR</h2>\n<h3>Announcement</h3>\n<p>Release 6.3.106 is being rolled out to the first phase of regions as listed\n<a href=\"https://docs.cloud.google.com/chronicle/docs/soar/overview-and-introduction/soar-gradual-release\">here</a>.</p>\n<h3>Feature</h3>\n<p><strong>Case activity tagging</strong></p>\n<p>You can now use custom tags for individual activities, comments, tasks, and\nactions on the Case Wall, and filter the wall view by those tags. This al",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！",
+      "link": "https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T07:43:07+00:00",
+      "summary": "どうもこんにちは。\n2026/11/7（土）にJAWS FESTA 2026が開催されましたね。（いぎだがっだぁ...）\n\n前日の夜から翌日まで楽しそうなツイートを見てて、いいなぁ...って。\n↓を見てください。ほんとに楽しそうなんですよ。\n\n来年は行きますからね！...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【AWS】結果を返すか、答えを返すか。Web SearchとWeb Answerの使い分け【AgentCore】",
+      "link": "https://qiita.com/Nana_777/items/6e466fb974972a79a323?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T06:26:43+00:00",
+      "summary": "はじめに\nAIエージェントに最新のウェブ情報を渡したい場面は多いです。これまでは、検索APIを呼び、ページを取得し、要約して、出典を付ける、というパイプラインを自分で組む必要がありました。\nAmazon Bedrock AgentCoreには、この部分をマネージドで提供す...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った",
+      "link": "https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T06:17:41+00:00",
+      "summary": "はじめに\n社内勉強会向けに、Amazon Bedrock AgentCore のハンズオン環境を Terraform で作りました。\n受講者1人に1台の EC2 を用意し、EC2 で動く code-server をブラウザから開いてもらう構成です。全体の構成は以前の記事に...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "GitHub Copilot app で「自分の文脈」を管理してみる。me.md を作って常に参照させるまで",
+      "link": "https://qiita.com/carol0226/items/3e52fd2570c246b6cf0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T05:47:37+00:00",
+      "summary": "はじめに\n私は、昨日 以下の記事を書きました。\nこの記事では、今まで GitHub Copilot を使わなかった理由から GitHub Copilot app を使うことを決意するところまでポエムを記載していました。\n周回遅れ？インフラエンジニア、今さら GitHub ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AWS Community Day Hong Kong 2026 で登壇してきた！",
+      "link": "https://qiita.com/yakumo_09/items/14f8f32b8fc4ebd61333?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T04:03:33+00:00",
+      "summary": "はじめに\n先日、AWS Community Day Hong Kong 2026に登壇してきました。\n\n初めての海外登壇で、しかも全部英語。準備から当日までいろいろありましたが、行ってよかったと心から思えるイベントだったので、振り返りをまとめておきます。\n\nAWS ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Reactのアンマウントはいつ起きる？位置と種類で理解する",
+      "link": "https://qiita.com/shun123/items/586906ea13bc03bfcea6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T02:34:44+00:00",
+      "summary": "はじめに\nReactを書いていると「アンマウント」という言葉をよく目にします。なんとなく「コンポーネントが消えること」だと思っていましたが、いざ「どんな条件でアンマウントされるのか」「props が変わったらアンマウントされるのか」と聞かれると、うまく説明できませんでした...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 41",
+      "link": "https://qiita.com/maskot1977/items/5399ad17d61a16f332a3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T02:11:11+00:00",
+      "summary": "user:\nソース動画のタイトル、そしてこの動画の内容について教えてください。\n\nGemini:\nソース動画のタイトルは 『日本の技術を殺す家計簿の錯覚 : Pythonで学ぶマクロ経済学入門 Podcast 41』 です。\nこの動画は、YouTubeチャンネル「P...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "機能したシステム再設計 ― フィードバックループの修復事例 : システム設計視点の行動経済学 (58)",
+      "link": "https://qiita.com/maskot1977/items/8873b86cc612cbe35d86?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-08T01:30:05+00:00",
+      "summary": "user:\n「システム設計視点の行動経済学」、第58回を始めましょう。その前に、まず前回の復習として、\n寛容のパラドックスと法の下の平等 ― 最も反差別的な立場 : システム設計視点の行動経済学 (57)\nhttps://qiita.com/maskot1977/item...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Vitestでモックをテストケースごとに差し替えた値が残る",
+      "link": "https://qiita.com/J-T_ky2g/items/fc1d307ea464e734af9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-07T22:25:04+00:00",
+      "summary": "はじめに\n以下の後に次のテストを書いてうまくいかなかった\n\n問題\n\n「学習履歴が表示される」でモックが残ってうまくいかない\n\nconst { useGetLearnRecords } = vi.hoisted(() =&gt; {\n  return {\n    useGe...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Vitestでモックをテストケースごとに差し替えるようにする",
+      "link": "https://qiita.com/J-T_ky2g/items/a0284d1131cfc643cbbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-07T21:51:44+00:00",
+      "summary": "はじめに\n\nvitestでapiレスポンスが取れている時、取れていない時のモックを差し替えたい\n\n追記） この記事の内容でモックが差し替えできるようにはなるが、残ってしまい毎回内容を書かないといけないことについては以下に記載\n\n問題\n\nもともと以下のようにモックして...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "dots vs Muse",
+      "link": "https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-07T16:24:19+00:00",
+      "summary": "AIアシスタント間で壁打ちして議論を闘わせてみたので久々の記事にしてみます。\n自分のPCにCodex入れてちょとしたAIアプリケーション開発をやっています。\ndotsが登場したのでさくやと名付けて基本さくやと会話しながら作業を進めてきました。\n意外と役に立つ秘書になったので...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "[宇宙最速!?]AI音声チャットでTTFA 0.2秒を実現したった~Jev × ElevenLabs~",
+      "link": "https://qiita.com/kikuziro/items/027679848c85f95b7ef7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-07T15:17:14+00:00",
+      "summary": "TTFA（Time To First Audio）とはメッセージを送ってからAIの最初の声が鳴り始めるまでの時間のことをこの記事では指します。人は相手がしゃべり出した時点で返事が来たと感じるので会話のテンポはほぼこの数字で決まります。\n\n💬 はじめに\n皆さんはAI...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Geminiを使って社内勉強会の資料を作ってみた！　プロンプトの「壁打ち」で見えた生成AI活用のコツ",
+      "link": "https://qiita.com/cw_inada/items/1f36d18c3c60b48b4466?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-07T14:22:58+00:00",
+      "summary": "はじめに\n日々の業務に追われる中で、「社内勉強会の資料作り」のような準備作業に十分な時間を割けず、困った経験はありませんか？\n生成AIを活用した業務効率化が注目される中、「自分もAIを使ってサクッと資料を作ってみたいけれど、実際の業務でどう使えばいいか分からない」と感じて...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
       ]
     },
     {
@@ -264,30 +516,6 @@
       ]
     },
     {
-      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "published_at": "2026-11-07T11:11:15+00:00",
-      "summary": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/\">https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403507\">https://news.ycombinator.com/item",
-      "source": "Hacker News (front page)",
-      "source_url": "https://hnrss.org/frontpage",
-      "tags": [
-        "tech",
-        "news"
-      ]
-    },
-    {
-      "title": "Reactで学習記録アプリを作ってみた",
-      "link": "https://qiita.com/Tukirukiki/items/caf31e82f1fb28affa4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-07T09:32:35+00:00",
-      "summary": "はじめに\nReactの練習で、学習記録アプリを作ってみました。\nあくまでReactの練習なので、CSSやDBなどは全く作ってないです。\n工夫したことを復習がてら書きます。\n\nリポジトリはこちら\nhttps://github.com/KuroishiTomoki/react...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
       "title": "【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！",
       "link": "https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
       "published_at": "2026-11-07T09:11:57+00:00",
@@ -300,15 +528,15 @@
       ]
     },
     {
-      "title": "Uncaught ReferenceError: Link is not defined",
-      "link": "https://qiita.com/polymetisoutis/items/7e8e8dee73ed3b58bed4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-07T08:28:42+00:00",
-      "summary": "Link is not defined　「\"Linkが定義されてない\"ってことは、ルーティングが上手くいってないのかな？」\n\n\"Link is not defined\"\nって出てきたから、Linkって所謂Pathという思い込みが強く、\n\"/page2/100\"のパスが上...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
+      "title": "November 07, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#November_07_2026",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">Google SecOps SOAR</h2>\n<h3>Announcement</h3>\n<p><a href=\"https://docs.cloud.google.com/chronicle/docs/soar/release-notes#November_01_2026\">Release 6.3.105</a> is now\navailable for all regions.</p>",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
       "tags": [
-        "tech",
-        "ja"
+        "gcp",
+        "cloud"
       ]
     },
     {
@@ -324,12 +552,12 @@
       ]
     },
     {
-      "title": "OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた",
-      "link": "https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-07T04:47:45+00:00",
-      "summary": "はじめに\n2026年10月にOCI Database Servicesで機能拡張があり、マネージドMCPサーバーが利用できるようになりました。\nこの機能により、ユーザーはMCP対応のAIクライアントから自然言語で依頼し、OCI上のデータベース環境の構成や状態を確認できるよ...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
+      "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+      "link": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+      "published_at": "2026-11-07T06:44:47+00:00",
+      "summary": "はじめに\n2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるものです。\nhttps://blog.cloudflare.com/zero-wire/\n読み物としても便利ですが、せっかく RSS もあるので、自分の公開サーバーに影響するかを毎朝自動で判定する仕組みを GitHub Actions で作ってみま...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
       "tags": [
         "tech",
         "ja"
@@ -357,449 +585,6 @@
       "tags": [
         "tech",
         "ja"
-      ]
-    },
-    {
-      "title": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock",
-      "published_at": "2026-11-06T22:47:00+00:00",
-      "summary": "<p>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance that customers rely on. Customers using Amazon Bedrock can now run agentic use cases such as coding and document processing on Kimi K3.1 Pro (Highspeed), which delivers high output tokens per second (OTPS) for faster, more responsive results.</p> \n<p>According to Moonshot AI, Kimi K3.1 Pro is an open-weight, natively multimodal agentic model with a 1",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "published_at": "2026-11-06T22:15:59+00:00",
-      "summary": "<p>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/\">Beyond code generation: A developer&#8217;s guide to agentic engineering</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
-      "source": "GitHub Blog",
-      "source_url": "https://github.blog/feed/",
-      "tags": [
-        "github",
-        "devtools"
-      ]
-    },
-    {
-      "title": "周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？",
-      "link": "https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T21:05:58+00:00",
-      "summary": "はじめに\n周りはみんな使っている。でも、私は使えなかった\n私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。\nやまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。\nみんな GitHub ...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "【ServiceNow】自動採番の仕組みが変わったらしいので調査したメモ",
-      "link": "https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T20:07:38+00:00",
-      "summary": "事象\nBuild Agent でカスタムテーブルを作成し、その際に自動採番される Number フィールドを作らせました。\n一通り検証を終えた後で採番をリセットしたいと思い、[System Definition] &gt; [Number Maintenance] を開いてみた...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
-      "published_at": "2026-11-06T19:48:00+00:00",
-      "summary": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in the AWS GovCloud (US-West) Region.</p> \n<p>AWS Agent Registry is a fully managed discovery service that gives your organization a central catalog for organizing, curating, and discovering resources. You can publish MCP servers, tools, agents, agent skills, and custom resources to a searchable registry, and control what becomes discoverable through an approval workflow. People and AI agents can then find the ri",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "Gemini を主力エージェントから外して、Claude に移った（全 3 回）",
-      "link": "https://qiita.com/kassyi/items/c134f3b244368d913f09?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T17:04:24+00:00",
-      "summary": "シリーズ「Gemini と Claude を自分のコードで比べる」（全 3 回）\n\n「Claude のほうがコードを読める」は本当か？重複検知ベンチマークで比べた\nGemini を主力エージェントから外して、Claude に移った（この記事）\nGemini のレビューは...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "What’s new with Google Cloud",
-      "link": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
-      "published_at": "2026-11-06T17:00:00+00:00",
-      "summary": "<div class=\"block-paragraph\"><p>Want to know the latest from Google Cloud? Find it here in one handy location. Check back regularly for our newest updates, announcements, resources, events, learning opportunities, and more. </p><hr /><p><b>Tip</b>: Not sure where to find what you’re looking for on the Google Cloud blog? Start here: <a href=\"https://cloud.google.com/blog/topics/inside-google-cloud/complete-list-google-cloud-blog-links-2021\">Google Cloud blog 101: Full list of topics, links, and r",
-      "source": "Google Cloud Blog",
-      "source_url": "https://cloudblog.withgoogle.com/products/gcp/rss/",
-      "tags": [
-        "gcp",
-        "cloud"
-      ]
-    },
-    {
-      "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
-      "published_at": "2026-11-06T16:00:00+00:00",
-      "summary": "<p>You can now use Amazon MSK Replicator in the AWS GovCloud (US-East, US-West) Regions to replicate streaming data across <a href=\"https://aws.amazon.com/msk/\">Amazon MSK</a> clusters and from external Apache Kafka clusters including on-premises, self-managed on AWS, or other cloud providers to Amazon MSK Provisioned clusters.</p> \n<p>MSK Replicator is a feature of Amazon MSK that automates data replication between Kafka clusters, eliminating the need to manage custom replication infrastructure",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
-      "published_at": "2026-11-06T16:00:00+00:00",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports individual strings up to 16 million bytes within <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/r_SUPER_type.html\">SUPER data types</a>. Once you opt in through a database parameter, this enhancement applies when ingesting structured or semi-structured data from JSON, PARQUET, TEXT, and CSV source files, and when transforming data through extract load and transform (ELT) processes. Previously, individual stri",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "Claude Codeに「サブエージェントを使って」と書くのはやめよう。288回測ったら見つかる量は同じでコストだけ最大221%増えた",
-      "link": "https://qiita.com/yunany90/items/631be4b879ec5e1b6b33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T15:31:24+00:00",
-      "summary": "Claude Code 2.1.318で新しい設定が増えました。サブエージェントのeffort（CLAUDE_CODE_SUBAGENT_EFFORT）です。検索をExploreサブエージェントに任せてeffortを上げれば、もっと見つけてくれそうです。\nそこで288回測り...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "AWS launches support for amortization of EC2 Capacity Blocks for ML",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/",
-      "published_at": "2026-11-06T15:00:00+00:00",
-      "summary": "<p>AWS Data Exports for Cost and Usage Report (CUR) 2.0 and AWS Cost Explorer now amortize the upfront fee for Amazon EC2 Capacity Blocks for ML across the duration of each reservation. You can see the amortized cost of each instance launched into a Capacity Block and the amortized cost of unused capacity, so you can attribute your upfront fee to the workloads that used it and identify capacity that went unused.</p> \n<p>Previously, a Capacity Block's upfront fee appeared as a single charge on th",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
-      "link": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
-      "published_at": "2026-11-06T14:39:45+00:00",
-      "summary": "「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。\n\n\n 何が起きたか\nありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような感じです。サンプルコードは C# / .NET です。\n\n和暦への変換\n// 和暦のカルチャ情報を作る\nvar culture = new CultureInfo(&quot;ja-jp&quot;);\nculture.DateTimeFormat.Calendar = new Jap...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "The post-quantum future of web privacy",
-      "link": "https://blog.cloudflare.com/vole-mole/",
-      "published_at": "2026-11-06T14:00:00+00:00",
-      "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
-      "source": "Cloudflare Blog",
-      "source_url": "https://blog.cloudflare.com/rss/",
-      "tags": [
-        "cloud",
-        "infra"
-      ]
-    },
-    {
-      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud (US) Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions",
-      "published_at": "2026-11-06T14:00:00+00:00",
-      "summary": "<p>Starting today, you can add Amazon EC2 Capacity Blocks for ML and interruptible Capacity Reservations to Capacity Reservation Resource Groups in AWS GovCloud (US) Regions. Amazon EC2 offers different reservation offerings such as On-Demand Capacity Reservations (ODCRs), interruptible Capacity Reservations, and Capacity Blocks for ML. Previously, a Capacity Reservation Resource Group could only include ODCRs. Now you can add any type of Capacity Reservation to a Capacity Reservation Resource G",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "【Mac】React の環境構築をして、GitHub に最初のコミットを上げてPRを作るまで",
-      "link": "https://qiita.com/Tukirukiki/items/2a9d046a5d79e605e62d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T11:41:39+00:00",
-      "summary": "はじめに\nMac で React の開発環境を作り、GitHub に最初のコミットを push するまでの手順をまとめます。\nGitHub のリポジトリ作成からブランチ作成まで、git の操作はすべてコマンドで行います。\nこの記事で使うもの:\n\nツール\n役割\n\n...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "ISUCON 2026参加記",
-      "link": "https://zenn.dev/smasui/articles/1e38c0d5881ac9",
-      "published_at": "2026-11-06T11:39:40+00:00",
-      "summary": "ISUCON 2026に、3人チーム「pythonista」で参加しました。私にとっては3年目で、最終スコアは60,719点、参加856チーム中274位でした。\n公式の利用言語別TOP10ではPythonを使った16チームの中で最高スコアでした。\n今回は問題の作りがこれまでのISUCONの定石と異なり、何から手を付けたらよいのか戸惑いました。\n\n これまでの定石と違ったところ\nお題は画像投稿アプリのISURealで、Python実装を使いました。当日マニュアルの初期構成は次のとおりです。\n\nインデックスの追加やクエリの改善に加え、次の条件を考える必要がありました。\n\neurope1・am...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Web 標準動向 2026年10月版",
-      "link": "https://zenn.dev/cybozu_frontend/articles/web-standards-trends-202610",
-      "published_at": "2026-11-06T09:08:06+00:00",
-      "summary": "こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。\n\n はじめに\nサイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。\nhttps://blog.cybozu.io/entry/joining-w3c\n標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web 標準のキャッチアップを行っています。\nそこで、毎月メンバーが興味を持った Web 標準に関する話題や、実際に標準化プロセスに関わることができた場合にはその報告などを 1 つの記事としてまとめ...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "link": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "published_at": "2026-11-06T08:59:24+00:00",
-      "summary": "はじめに\nこんにちは、しもちです。\n前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。\n今回は画面を中心に、その確認待ちを普段どう捌いているかを紹介します。\n\n 画面の全体\n\n左が司令塔の Claude Code で、右が Orca の右サイドバーに出している「確認待ち」のパネルです。パネ...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Claude Code で WPF 業務アプリに単体テストを作成した話 ― 意識した 3 つのこと",
-      "link": "https://qiita.com/kazutoyamaura/items/d63520304cca26f033d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T08:45:40+00:00",
-      "summary": "はじめに\n.NET Framework / WPF の業務アプリに、Claude Code を使って MSTest の単体テストを後付けしました。\n対象は、パン屋さんの「作業実績入力アプリ（店頭タブレット版）」のような画面だと思ってください。\nもとのアプリは、テストのしや...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "「プロンプトを書くClaude」と「実装するClaude」を分けたら開発が回り始めた話",
-      "link": "https://qiita.com/kazutoyamaura/items/5a0874965d892a5acdb2?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T08:34:33+00:00",
-      "summary": "はじめに\nここ1か月ほど、業務の開発をほぼ Claude Code（デスクトップアプリ） で進めています。\nこの記事では、実際にどのように Claude を使っていたのかを振り返りながら、うまくいったやり方をまとめます。\nこの1か月で Claude と一緒にやったことは、...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "source": "OpenAI Blog",
-      "source_url": "https://openai.com/blog/rss.xml",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "summary": "<p>​​AWS Elemental MediaConvert now integrates Smart Subtitles, an AI-powered subtitling solution built on AWS Elemental Inference and the latest speech recognition models. This feature brings automated subtitle generation directly into your video-on-demand (VOD) transcoding and packaging workflows, eliminating the need for separate external captioning pipelines. Customers can now manage both transcoding and subtitle creation within a single, unified workflow.</p> \n<p>​Smart subtitles automatica",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "summary": "<p>AWS Glue Data Catalog now supports external catalog's vended credentials in Apache Iceberg REST catalog federation. You can now read external Iceberg tables from Amazon Athena, Amazon EMR, Amazon Redshift, and AWS Glue using coarse-grained table grants in your external Iceberg catalog.</p> \n<p>Glue Data Catalog already federates to external Iceberg REST catalogs through an AWS IAM role that you configure with access to your Amazon S3 buckets. This enhancement in Glue Data Catalog provides ano",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "Amazon Simple Email Service is now available in six new AWS Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (Amazon SES)&nbsp;</a> is now available in the Asia Pacific (New Zealand, Melbourne, Taipei, Thailand), Mexico (Central), EU (Spain). Customers can now use these new Regions to leverage Amazon SES to send emails and, if needed, to help manage data requirements.</p> \n<p>Amazon SES is a scalable, cost-effective, and flexible cloud-based email service that allows digital marketers and application developers to send marketing, noti",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
-      ]
-    },
-    {
-      "title": "November 06, 2026",
-      "link": "https://docs.cloud.google.com/release-notes#November_06_2026",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "summary": "<h2 class=\"release-note-product-title\">Agent Registry</h2>\n<h3>Feature</h3>\n<p>Skill security scanning and governance in Agent Registry are available. You can\nautomatically scan standalone skill revisions for security issues, review\n<code>Finding</code> resources, enforce scanning policies across your organization using\ncustom Organization Policy constraints, and grant least-privilege skill\nmanagement access.</p>\n<p>You can also protect skill payloads at rest with customer-managed encryption\nkey",
-      "source": "Google Cloud Release Notes",
-      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
-      "tags": [
-        "gcp",
-        "cloud"
-      ]
-    },
-    {
-      "title": "無人で動かす claude -p に渡す道具を絞る(--allowedTools で git をサブコマンドごとに・専用の --settings でフックだけ足す)",
-      "link": "https://qiita.com/takamatt_ai/items/d9c67f245a794e659f30?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T07:52:31+00:00",
-      "summary": "この記事を読み終えると、claude -p を cron や launchd で無人で動かすときに、「やってよいこと」だけを渡す設定が書けます。\n根拠は、手元の Mac で毎日 15:00 に動かしているスクリプトの、2026-11-04〜11-05 の3回分の実行です。\n...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】",
-      "link": "https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T07:20:39+00:00",
-      "summary": "はじめに\n2026年11月5日、テストセンターで Claude Certified Developer – Foundations（CCDV-F） を受験し、896点で合格しました。\nざっくりまとめると、\n\n勉強時間は 10時間未満\n\n教材は みのるんさんが公開している問...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "EC2 がダウンしていてもメンテナンス画面を出せるようにした（ALB の固定レスポンス）",
-      "link": "https://qiita.com/Tukirukiki/items/c8ee91004e6d47c5f0a4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T07:03:57+00:00",
-      "summary": "はじめに\nEC2 がダウンしていても、ユーザーにメンテナンスの案内を出せるようにしました。\nALB（Application Load Balancer）のリスナールールで「固定レスポンス」を返す設定にして実現しています。サーバーを一切使わずに、ALB 自身がメンテナンス...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "種族値合計600以上のポケモンを返すAPIをクリーンアーキテクチャで作成した【TypeScript/Hono/Vitest/TDD/PokeAPI】",
-      "link": "https://qiita.com/keikeigo/items/937f993ba3bdafa4184c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T06:24:13+00:00",
-      "summary": "1. はじめに\n今回は、Honoとクリーンアーキテクチャを学ぶことを目的としてAPIを作成しました。\n↓作ったAPIのリポジトリ\n\n2. 何を作ったか\n\nAPIの概要\n種族値の合計が600以上の第一世代のポケモンを返すAPIです。\n600以上をハイスタッツと定義して...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録",
-      "link": "https://zenn.dev/genda_jp/articles/7b423bcd20b532",
-      "published_at": "2026-11-06T05:13:04+00:00",
-      "summary": "2026年10月、MagicPodのMCPサーバーが刷新されました。Claudeのコネクタ一覧から接続するだけで、Claudeとの対話を通じてMagicPodのテストケースを作成・編集・実行できるようになっています。\nhttps://prtimes.jp/main/html/rd/p/000000079.000027392.html\n以前、MagicPod MCPサーバーとClaudeを組み合わせて、テストケースをAIでレビューする仕組みについて書きました。\nhttps://zenn.dev/genda_jp/articles/e2697df23813a5\nそのときはテストを「読む」話で...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "【2026年11月版】WordPressの移行先を本気で考えてみた（19候補を比較）",
-      "link": "https://qiita.com/MURAMASA2470/items/87982443cbae67657f4c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T04:30:58+00:00",
-      "summary": "はじめに\n先日、PHP本体にPHP2Shellと呼ばれる重大な脆弱性が公表されました。\n認証なしでサーバー上のコードを実行される恐れがあります。\n深刻度はCVSS v4.0で9.2です。\n米CISAは、実際に悪用が確認された脆弱性の一覧にも登録しています。\n国内でも、国の...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Claude Codeでリポジトリを作らずに試作する",
-      "link": "https://qiita.com/kentasatomi/items/1c3e1ac9244d973ce5e0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T03:27:07+00:00",
-      "summary": "11月4日付のClaude Code 2.1.318の変更履歴で、クラウドセッションに「No repository」が加わったことが案内されました。Anthropicがホストする環境で、リポジトリを選ばずにセッションを始められます。小さな処理を試すだけなら、GitHubに検...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Figmaのリアルタイム同期の仕組みを、Node.js + WebSocketの最小構成で実装してみた",
-      "link": "https://qiita.com/keishin_nishiura/items/b13d72afb085891e4fc9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T03:11:21+00:00",
-      "summary": "1. はじめに\nソーイ株式会社の西浦です。\n前回の記事「Figmaの同時編集、なぜこんなになめらか？CRDTに着想を得た同期設計を公式ブログから読み解く」は、Figmaで他の人が動かしているオブジェクトが、自分の操作のようになめらかに追従してくることへの違和感から始まりま...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話",
-      "link": "https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T03:09:39+00:00",
-      "summary": "一緒にQiita書きましょう！！！！！\nこの熱量で社内に呼びかけました。\n一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、約3か月後に投稿一覧を見たら、、、、\nQiita投稿文化を社内に広めようと...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置",
-      "link": "https://zenn.dev/aakei/articles/csharp-stack-box",
-      "published_at": "2026-11-06T03:01:26+00:00",
-      "summary": "!\nこの記事は、C# とランタイムの挙動を調べるための実験です。unsafe な操作やランタイム内部の構造に依存する実装を含みます。手動でボックスをスタックに置く方法は、実用を推奨しません。\n\n\n はじめに\n最近（2026 年 11 月 6 日現在）、Omochaya さんの 「【C# / Unity】型制約なしゼロアロケでDisposeする方法」 を読みました。\n型制約のない T に対して、ボックスを再利用して Dispose を呼ぶ方法です。Unsafe.Unbox&lt;T&gt; でボックスの中身を置き換え、呼び出し後の変更を元の変数に書き戻します。\n以前 .NET で、IL（中...",
-      "source": "Zenn Trending",
-      "source_url": "https://zenn.dev/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "ぐちゃぐちゃだった AWS IAM を整理した話（ユーザー・グループ・ポリシー・ロール）",
-      "link": "https://qiita.com/Tukirukiki/items/45d489328f0647aff899?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
-      "published_at": "2026-11-06T02:46:40+00:00",
-      "summary": "なぜ整理しようと思ったのか\nAWS の IAM 権限がぐちゃぐちゃになっていました。\n\n過去に在籍していたエンジニアのアカウントが残ったまま\nグループを場当たり的に作っていて、どのグループが何のためのものか分からない\n誰に何の権限が付いているのか、パッと見て分からない\n...",
-      "source": "Qiita Trending (official)",
-      "source_url": "https://qiita.com/popular-items/feed",
-      "tags": [
-        "tech",
-        "ja"
-      ]
-    },
-    {
-      "title": "AWS Security Hub now provides an SBOM inventory for your compute resources",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/",
-      "published_at": "2026-11-06T00:30:00+00:00",
-      "summary": "<p>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applications installed on their compute resources.</p> \n<p>Security Hub builds the inventory from the SBOMs that Amazon Inspector generates for Amazon EC2 instances, Amazon ECR container images, and AWS Lambda functions, with no additional configuration. The SBOM page lists each package ",
-      "source": "AWS What's New",
-      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
-      "tags": [
-        "aws",
-        "cloud"
       ]
     }
   ],
