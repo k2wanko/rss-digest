@@ -1,0 +1,1013 @@
+{
+  "report": {
+    "run_date": "2026-11-22",
+    "generated_at": "2026-11-22T00:55:32.643643+00:00",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 48,
+    "feeds_total": 16,
+    "feeds_ok": 16,
+    "item_count": 83,
+    "errors": [],
+    "summary_error": "one or more services failed; see workflow logs"
+  },
+  "items": [
+    {
+      "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
+      "link": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/",
+      "published_at": "2026-11-22T00:47:00+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/\">https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50595122\">https://news.ycombinator.com/item?id=50595122</a></p>\n<p>Po",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "published_at": "2026-11-21T23:10:21+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse\">https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594564\">https://news.ycombinator.com/item?id=50594564</a></p>\n<p>Points: 29</p>\n<p># Comments: 3</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "published_at": "2026-11-21T22:09:58+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/sebaandrada-cell/PcapAnalyzer\">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594132\">https://news.ycombinator.com/item?id=50594132</a></p>\n<p>Points: 44</p>\n<p># Comments: 3</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "link": "https://linebender.org/blog/next-100-guis/",
+      "published_at": "2026-11-21T21:17:53+00:00",
+      "summary": "<p>Article URL: <a href=\"https://linebender.org/blog/next-100-guis/\">https://linebender.org/blog/next-100-guis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593737\">https://news.ycombinator.com/item?id=50593737</a></p>\n<p>Points: 72</p>\n<p># Comments: 6</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "link": "https://tasklet.ai/careers",
+      "published_at": "2026-11-21T21:11:08+00:00",
+      "summary": "<p>Article URL: <a href=\"https://tasklet.ai/careers\">https://tasklet.ai/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593679\">https://news.ycombinator.com/item?id=50593679</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+      "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+      "published_at": "2026-11-21T21:06:14+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746\">https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593637\">https://news.ycombinator.com/item?id=50593637</a></p>\n<p>Points: 22</p>\n<p># Comments: 11</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "link": "https://www.pandex.io",
+      "published_at": "2026-11-21T20:47:41+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.pandex.io\">https://www.pandex.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593481\">https://news.ycombinator.com/item?id=50593481</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "link": "https://pwn.ai/upload2shell",
+      "published_at": "2026-11-21T18:29:29+00:00",
+      "summary": "<p>Article URL: <a href=\"https://pwn.ai/upload2shell\">https://pwn.ai/upload2shell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50592097\">https://news.ycombinator.com/item?id=50592097</a></p>\n<p>Points: 73</p>\n<p># Comments: 29</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "published_at": "2026-11-21T18:02:19+00:00",
+      "summary": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p>\n<p>Points: 341</p>\n<p># Comments: 91</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "link": "https://jespino.github.io/gopgext/",
+      "published_at": "2026-11-21T17:08:04+00:00",
+      "summary": "<p>Article URL: <a href=\"https://jespino.github.io/gopgext/\">https://jespino.github.io/gopgext/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591260\">https://news.ycombinator.com/item?id=50591260</a></p>\n<p>Points: 117</p>\n<p># Comments: 20</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "link": "https://math.mit.edu/~drew/grh/",
+      "published_at": "2026-11-21T15:54:34+00:00",
+      "summary": "<p>Article URL: <a href=\"https://math.mit.edu/~drew/grh/\">https://math.mit.edu/~drew/grh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590441\">https://news.ycombinator.com/item?id=50590441</a></p>\n<p>Points: 90</p>\n<p># Comments: 35</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "published_at": "2026-11-21T15:39:09+00:00",
+      "summary": "<p>Article URL: <a href=\"https://onurgumus.github.io/zero-csharp/index.html\">https://onurgumus.github.io/zero-csharp/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590279\">https://news.ycombinator.com/item?id=50590279</a></p>\n<p>Points: 124</p>\n<p># Comments: 96</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "published_at": "2026-11-21T14:36:45+00:00",
+      "summary": "<p>Article URL: <a href=\"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589618\">https://news.ycombinator.com/item?id=50589618</a></p>\n<p>Points: 806</p>\n<p># Comments: 646</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "D言語の更新まとめ 2026年8月版（dmd 2.113.0）",
+      "link": "https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T14:27:07+00:00",
+      "summary": "はじめに\nD言語の公式コンパイラである dmd が更新され、2.113.0 が 2026/08/17 にリリースされました。\n今回のリリースには、コンパイラ13件、ランタイム1件、ライブラリ1件、Dub 1件の合計16件の主要な変更と、82件のGitHub Issueの修...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "published_at": "2026-11-21T13:23:14+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50588982\">https://news.ycombinator.com/item?id=50588982</a></p>\n<p>Points: 508</p>\n<p># Comments: 340</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "published_at": "2026-11-21T10:36:32+00:00",
+      "summary": "<p>Article URL: <a href=\"https://blog.tymscar.com/posts/studiodisplayethernet/\">https://blog.tymscar.com/posts/studiodisplayethernet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587875\">https://news.ycombinator.com/item?id=50587875</a></p>\n<p>Points: 472</p>\n<p># Comments: 227</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "pgvectorのHNSWでテナント絞り込みすると検索が0件になる問題と対策",
+      "link": "https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T09:51:37+00:00",
+      "summary": "マルチテナントのRAGで、pgvectorのHNSWインデックスに WHERE tenant_id = ... を付けると、LIMITより少ない件数しか返らないことがあります。この記事では、その仕組みと、再現・対策・検知までをコードで示します。\n私はマルチテナントのAI業務...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "ECSのアプリへSSMを使ったポートフォワーディングでアクセスする",
+      "link": "https://qiita.com/har1101/items/9b6902c42a637117798a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T09:45:32+00:00",
+      "summary": "課題\n最近PoCを進める際にこんな悩みがありました。\n\nECSのコンテナでアプリを動かす\n関係者にこのアプリへ実際にアクセスしてもらって動作確認してほしい\nただPoCなので認証などを入れるのは手間\nだけどインターネットに公開するわけにはいかない\n\nということでなんとかセキ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "社会人ドクターの経験から得られたこと，苦労したこと，そこから現在の活動につながっていること（後編）",
+      "link": "https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T09:40:15+00:00",
+      "summary": "はじめに\n　データ活用基盤の開発やデータ分析手法の研究を行いながら，大学で兼任講師をしている高須賀です．2019年4月から社会人ドクターとして研究活動を行い，2023年3月に博士（情報学）の学位を取得した．研究分野は，組合せ最適化，数理最適化，オペレーションズ・リサーチ，...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "RCE in Gnupg",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "published_at": "2026-11-21T08:32:58+00:00",
+      "summary": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50587208\">https://news.ycombinator.com/item?id=50587208</a></p>\n<p>Points: 228</p>\n<p># Comments: 93</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Geminiに「Cargry言語とはなんですか」と聞いたら、LLMの弊害を感じた",
+      "link": "https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T04:58:17+00:00",
+      "summary": "純粋関数型システム言語Cargryを開発しています\n\nさて、「Cargry」と打って検索すると、私の記事が出て、Chromeであれば、Geminiが答えてくれます\n\nGeminiに聞いてみた\n私のアカウントでは、GeminiにWeb検索を行わせないようにしているので、...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "360°カメラ×AIモデリング×UE 5.9：広域空間再構成の制作フロー展望",
+      "link": "https://qiita.com/kotohibi/items/890c1c1289e76fb5e977?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T04:30:48+00:00",
+      "summary": "はじめに\n前回の記事では、360°カメラで撮影した映像からMetashapeで高密度点群（dense point cloud）を作り、Claude CodeとBlenderで広域をAIモデリングする制作フローを紹介しました。dense point cloudをClaude...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【AWS】AgentCore Gatewayにおけるアクセスコントロールとメタデータフィルタリング",
+      "link": "https://qiita.com/yakumo_09/items/ea2debc1e73e27caa6a0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T04:21:02+00:00",
+      "summary": "はじめに\nManaged Knowledge Baseは、AgentCore GatewayのConnector Targetとしてエージェントから呼べます。このとき、Retrieve ツールの引数でメタデータフィルタも指定できます。\n部署ごとに文書を絞り込めるか、Gat...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【pre:Inventまとめ】AWSのAIエージェント認証がいろいろ進化！MCPサーバー構築を例に一挙解説",
+      "link": "https://qiita.com/minorun365/items/bd6091f2599a0f37326b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T04:03:14+00:00",
+      "summary": "AIエージェントの認証まわりがまとめて進化！\nもうすぐ12月ですね。AWS ユーザーにとっては、毎年ラスベガスで開かれる大型カンファレンス re:Invent の季節です。\n\nその直前の数週間は新機能の発表が相次ぎ、「pre:Invent」と呼ばれています。\n今年は ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Claude Codeのセッション名を日本語にするTips。自動生成の設定と /rename の使い方",
+      "link": "https://qiita.com/inoyu-qiita/items/ddd888c6be89c5e35016?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T03:24:52+00:00",
+      "summary": "はじめに\nClaude Codeで前の作業に戻ろうと /resume を開くと、fix-notification-branch-filter みたいな英語のセッション名が並びます。その度に思います、何がどれ！？\n「どのセッションがどれだ、、？」「あれ、選んだのこれじゃない...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/",
+      "published_at": "2026-11-21T02:58:00+00:00",
+      "summary": "<p>AWS Quick now supports plugins, agents, skills, connectors, and flows built for a specific task, role, or use case. Most work draws on several of these at once: connectors to reach your systems, skills for how your team works, agents to reason through tasks, and flows to orchestrate each process. Plugins package these capabilities together, so users can install everything a job needs in one step.</p> \n<p>To get started, users can browse and install official plugins from AWS, such as the Calen",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+      "link": "https://zenn.dev/karamage/articles/73027ee36796dc",
+      "published_at": "2026-11-21T02:12:39+00:00",
+      "summary": "「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」\nAIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって\nApproveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。\nなんか嫌な予感。。。\n実装を書いたのはAI\nレビューしたのもAI\nテストを書いたのも同じAI\nま、だいじょぶでしょ！(大丈夫じゃない)\nえぇい、ままよ！ マージしちゃえ！\n\n問い: AIがコードもテストも書く時代に、テストはどう変わるのか？\n結論: 人間は「テストケース」を書くのをやめて、「守るべきルール」を書く\n\n理由: テストケースを考えるのは機械のほうが得意で、ル...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "耳で聞く！ システム設計 視点の 行動経済学 10",
+      "link": "https://qiita.com/maskot1977/items/586eaa16cd4247d56f6f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T01:50:37+00:00",
+      "summary": "user:\nソース動画のタイトル、そしてこの動画の内容について教えてください。\n\nGemini:\nソース動画のタイトルは、「税は社会を支える会費なのか？ : システム設計視点の行動経済学 Podcast 10」 です。\nこの動画は、マクロ経済や日本の財政問題に対する社会...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "耳で聞く！Python で学ぶ マクロ経済学 入門 50",
+      "link": "https://qiita.com/maskot1977/items/64af8cebf2f560f3bd9e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-21T01:39:23+00:00",
+      "summary": "user:\nソース動画のタイトル、そしてこの動画の内容について教えてください。\n\nGemini:\nノートブックに登録されているソース動画のタイトルおよび詳細な内容について解説します。\n\n1. ソース動画のタイトルと配信情報\n\n動画タイトル: 「外国人を増やすほど日本...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
+      "published_at": "2026-11-21T01:10:00+00:00",
+      "summary": "<p>Amazon CloudWatch Omni now supports collecting Azure resource logs, Azure Monitor platform metrics, virtual network (VNet) flow logs, and traces from Application Insights. Teams that run workloads on both AWS and Azure no longer need separate monitoring tools or custom pipelines to see their whole environment. Central operations, DevOps, and site reliability engineering (SRE) teams can now view Azure telemetry alongside their AWS telemetry in one place.</p> \n<p>To get started, connect a Micro",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/",
+      "published_at": "2026-11-21T00:27:00+00:00",
+      "summary": "<p>The AWS Quick web app now brings the Quick desktop experience to your browser. Create, share, and use the same agents and skills as on desktop, with the same connectors. Start each day with a daily briefing and a prioritized feed of the email and messages that need your attention. Quick keeps your conversations, agents, and files synchronized across web, desktop, and mobile, so work you start on one surface carries over to the others. Your dashboards, topics, and spaces work as before.</p> \n<",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+      "published_at": "2026-11-21T00:17:00+00:00",
+      "summary": "<p>Web Search on Amazon Bedrock, the tool that grounds AI agents and applications in cited, current web information, now supports five new languages, plus non-US English, on Amazon Bedrock AgentCore and Amazon Bedrock: Spanish, French, German, Italian, and Japanese.&nbsp; Agents serving users in these languages get results that draw on local-language sources.</p> \n<p>We are also introducing a new optional country field that biases results toward sources from a specific country - just pass an ISO",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Build more capable automations through chat with Flows in AWS Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-flows-automations-chat/",
+      "published_at": "2026-11-20T23:59:00+00:00",
+      "summary": "<p>Flows in AWS Quick now lets users build, run, and refine automations for themselves and their teams, all through conversation. Users describe a process in chat, and Quick builds the flow, with no coding needed.</p> \n<p>Flows can now orchestrate agents, skills, and tools, with access to structured data, knowledge, and apps. A flow can pull answers from the business data a team already reports on, produce ready-to-share documents, spreadsheets, and presentations, and save the results to a team ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Databricksの新資格 Context Engineer とは？範囲と勉強法",
+      "link": "https://qiita.com/y0shidahr/items/bfa890be24af74e5ba43?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T23:57:55+00:00",
+      "summary": "先に答え\nDatabricks に、Context Engineer Associate という新しい認定試験ができました。公式の試験ガイドによると、公開は2026年7月29日です。AI エージェントが推論するときに受け取る情報（コンテキスト）を、Databricks の...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "バイブコーディング・isdd・AI-DLCに同じ依頼を出して、できあがりと手間を比べた",
+      "link": "https://qiita.com/notfolder/items/c4480072ef594e591dc8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T23:49:15+00:00",
+      "summary": "はじめに\nAIにアプリを作ってもらうとき、要件定義や設計の手順を踏ませたほうが、良いものができるのでしょうか。それとも、作りたいものをそのまま伝えるだけで十分なのでしょうか。\n私はisddという、AIが質問しながら要件を決め、設計してから実装する手順を作っています。作って...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "published_at": "2026-11-20T23:18:32+00:00",
+      "summary": "<p>I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.<p>In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for a",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+      "published_at": "2026-11-20T22:54:00+00:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now provides a Primary Endpoint, a DNS name that always resolves to the current primary DB instance in a replica configuration. When you switch over to an Oracle replica, Amazon RDS points the Primary Endpoint to the new primary DB instance, so you don't need to change your application connection strings. Previously, after each switchover, you had to update connection strings or DNS rec",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Lambda now publishes Event Function state change events to Amazon EventBridge",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/",
+      "published_at": "2026-11-20T22:40:00+00:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/lambda/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Lambda</a>&nbsp;now publishes Event Function state change events to <a href=\"https://aws.amazon.com/eventbridge/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon EventBridge</a>. Lambda emits an event each time an Event Function version changes state because of a customer action, such as creating, updating, publishing, or deleting a function. These events help platform and DevOps teams to trigger automatio",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
+      "published_at": "2026-11-20T22:38:00+00:00",
+      "summary": "<p>AWS Network Firewall announces the public preview of automated Internet firewall, a new centralized control that allows you to configure Network Firewall, with native network address translation (NAT) capability, on the internet gateways of all the Virtual Private Clouds (VPCs) in your environment. Using automated Internet firewall mode, you can centrally define your Network Firewall security rules and enforce them on all inbound and outbound traffic across the internet gateways of your VPCs.",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "published_at": "2026-11-20T22:11:05+00:00",
+      "summary": "<p>Article URL: <a href=\"https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body\">https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583028\">https://news.ycombinator.com/item?id=50583028</a></p>\n<p>Points: 139</p>\n<p># Comments: 49</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "AWS Quick now supports Japanese, German, Vietnamese, and Chinese",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/",
+      "published_at": "2026-11-20T22:11:00+00:00",
+      "summary": "<p>Today, AWS announces that AWS Quick, the AI workspace for business users, now supports Japanese, German, Vietnamese, and Chinese (Simplified and Traditional). AWS Quick now displays its interface in these languages and responds in the language each user chooses. Teams that work primarily in these languages can now use AWS Quick without switching to English.</p> \n<p>For example, a finance team in Japan can ask questions about their business data in Japanese and get answers in Japanese, and a m",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
+      "published_at": "2026-11-20T22:00:00+00:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Replica First Patching, which reduces downtime during minor version upgrades. Replica First Patching is available for Enterprise Edition DB instances. With Replica First Patching, you apply a minor version upgrade to a replica in the same AWS Region first while your primary DB instance continues to serve traffic, and then switch over to the replica when you're ready to comp",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
+      "published_at": "2026-11-20T22:00:00+00:00",
+      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> multi-Region replication (MRR) now supports additional AWS Regions, extending the resilience benefits of MRR to more workloads. Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes, and MRR lets you synchronize user and machine identity data, including credentials, user pool configurations, and federation setups, to a secondary user pool in a standby Region you desig",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
+      "published_at": "2026-11-20T21:50:00+00:00",
+      "summary": "<p><span style=\"color: inherit;\"><span style=\"color: inherit;\"><span style=\"color: inherit;\"><a href=\"https://docs.aws.amazon.com/neptune/latest/userguide/neptune-serverless.html\" rel=\"noopener noreferrer\" style=\"color: rgb(18,100,163); text-decoration: none;\" target=\"_blank\">Amazon Neptune Serverless</a></span></span></span> now delivers up to 30% better performance at the same price per Neptune Capacity Unit, running on AWS Graviton4 processors. The new Graviton4-based platform also brings an ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "WAF - Update: WAF Emergency Release - 2026-11-19",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-11-19-emergency-waf-release/#update-2026-11-19T00-00",
+      "published_at": "2026-11-20T21:33:51+00:00",
+      "summary": "<p>updated typo in CVE id, updating CVE:CVE-2026-13282 to CVE:CVE-2026-132825</p>\n<p>Refer to the <a href=\"https://developers.cloudflare.com/changelog/post/2026-11-19-emergency-waf-release/\">full release notes</a>.</p>",
+      "source": "Cloudflare Changelog",
+      "source_url": "https://developers.cloudflare.com/changelog/rss/index.xml",
+      "tags": [
+        "cloudflare",
+        "devtools"
+      ]
+    },
+    {
+      "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+      "published_at": "2026-11-20T21:23:00+00:00",
+      "summary": "<p>Amazon CloudWatch now supports a 30-day query window for PromQL queries against OpenTelemetry metrics, up from 7 days. You can query a month of data in a single request, chart month-over-month and week-over-week trends on one dashboard, and alarm on a 30-day baseline.</p> \n<p>Teams typically define service level objectives (SLOs) over a 30-day rolling window, longer than a 7-day query can measure. You can now calculate availability and remaining error budget for a full SLO period in one query",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "published_at": "2026-11-20T21:03:12+00:00",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib\">https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50582069\">https://news.ycombinator.com/item?id=50582069</a></p>\n<p>Points: 553</p>\n<p># Comments: 134</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Demand Center now available in AWS Partner Central",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
+      "published_at": "2026-11-20T21:00:00+00:00",
+      "summary": "<p>AWS Partners can now plan, launch, fund, and measure demand generation campaigns in one AI-powered experience. Demand Center in AWS Partner Central succeeds Marketing Central and brings together Marketing Central and MDF capabilities, letting you work in Partner Central, in your CRM, or in your AI agents.</p>\n<p>Create hero and distribution assets in multiple languages in minutes with AI campaign creation. Generate content from reference materials, a URL, or a description, and launch it acros",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Account Mapping and Planning now available in AWS Partner Central",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
+      "published_at": "2026-11-20T21:00:00+00:00",
+      "summary": "<p>AWS Partners can now map their target accounts against AWS records and find where to collaborate with AWS on joint go-to-market before an opportunity exists. Account Mapping and Planning in AWS Partner Central replaces manual, spreadsheet-based account mapping. Upload a target account list through CSV, API, or CRM integration, and accounts are matched automatically against AWS records, including accounts without an ACE opportunity and in any country.</p>\n<p>Partners can use Account Mapping an",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Lead groups and channel recommendations now available in AWS Partner Central",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
+      "published_at": "2026-11-20T21:00:00+00:00",
+      "summary": "<p>AWS Partners can now organize enriched leads and plan outreach with lead groups and channel recommendations in AWS Partner Central. Enriched leads are automatically grouped by solution area and segmented into sales-ready, marketing-ready, and limited-potential groups, so you no longer have to segment leads by hand. Limited-potential leads help you avoid spending time and budget on leads unlikely to convert, lowering your cost of acquiring new customers. For each enriched lead, you also get gu",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
+      "published_at": "2026-11-20T20:47:00+00:00",
+      "summary": "<p>Today, Amazon CloudWatch announces built-in monitoring for open source tools running on your Amazon EKS clusters, including Karpenter, KEDA, vLLM, KServe, SGLang, Ray and Knative Serving. You get dashboards for the tools you already use without running Prometheus or Grafana yourself.</p> \n<p>Monitoring starts automatically when you enable OTel Container Insights. For your AI inference workloads, you can see queued requests, time to first token, and KV cache usage for each model server. For au",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Quick now supports group assignments for custom permissions and limit profiles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
+      "published_at": "2026-11-20T20:42:00+00:00",
+      "summary": "<p>AWS Quick now supports assignments for custom permissions and limit profiles to groups from your enterprise identity provider (IdP).&nbsp;Administrators can now apply feature restrictions and per-user resource limits to IdP groups, in addition to the existing user, role, and account assignments. Organizations can align governance with their enterprise identity structure without maintaining assignments for individual users.<br /> <br /> Administrators manage user, account or group assignments ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Quick introduces enterprise guardrails (preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
+      "published_at": "2026-11-20T20:30:00+00:00",
+      "summary": "<p>AWS Quick now includes enterprise guardrails, giving administrators configurable content safety and sensitive-information controls for user prompts. Administrators can apply guardrail policies to individual users or enterprise identity provider (IdP) groups or set a policy as the account default. User-level policies take precedence over group policies and account defaults. When multiple group policies apply, Quick combines their content restrictions, using the stricter setting when controls o",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
+      "published_at": "2026-11-20T20:30:00+00:00",
+      "summary": "<p>Today, AWS announces the preview of Data Hub in AWS Billing and Cost Management, a managed data layer that enables AWS FinOps Agent to query cost and usage data with SQL. In preview, Data Hub is available to AWS FinOps Agent, so the agent can identify the individual resources behind a cost change, break down spend by team or cost allocation tag, and show how a resource's cost and usage change hour by hour. With AWS FinOps Agent and Data Hub, customers get these answers without setting up a da",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "published_at": "2026-11-20T20:24:38+00:00",
+      "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "published_at": "2026-11-20T20:12:19+00:00",
+      "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/inkling-2-mini/\">https://thinkingmachines.ai/news/inkling-2-mini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50581260\">https://news.ycombinator.com/item?id=50581260</a></p>\n<p>Points: 1378</p>\n<p># Comments: 280</p>",
+      "source": "Hacker News (front page)",
+      "source_url": "https://hnrss.org/frontpage",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "title": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/",
+      "published_at": "2026-11-20T20:05:00+00:00",
+      "summary": "<p>Today, Amazon CloudWatch announces support for your own application telemetry in the CloudWatch Observability EKS add-on. The CloudWatch agent you already run now accepts metrics, traces, and logs from your applications, so you don't deploy and operate a separate collector to get them into CloudWatch.</p> \n<p>Applications instrumented with an OpenTelemetry SDK send to an OTLP endpoint that the agent serves on every node, on by default. Metrics arrive as CloudWatch metrics you query with PromQ",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "published_at": "2026-11-20T20:00:45+00:00",
+      "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "Amazon DynamoDB vector search now supports new inline filter operators",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
+      "published_at": "2026-11-20T20:00:00+00:00",
+      "summary": "<p>Amazon DynamoDB vector search inline filters now support range comparisons, value lists, and logical operators in addition to the equality operator, so you can narrow a vector search to exactly the items you want. You can now filter on numeric ranges such as price, rating, or publish date, match an attribute against a list of values, check whether an attribute exists, and combine conditions with OR and NOT.&nbsp;Amazon DynamoDB vector indexes store vector embeddings alongside your operational",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon Transcribe announces a synchronous transcription API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/",
+      "published_at": "2026-11-20T20:00:00+00:00",
+      "summary": "<p>Amazon Transcribe now offers a synchronous transcription API, <b><i>TranscribeAudio</i></b>. Send a complete audio file in a single request and get the full transcript back in the same response. There is no job to start, no status to poll, no connection to manage.&nbsp;The transcripts are as accurate as Amazon Transcribe batch transcription, so you can add fast, accurate speech-to-text to interactive applications such as voice assistants, agent-assist tools and on-demand \"transcribe this clip",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon CloudWatch Observability EKS add-on now supports telemetry filtering",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-otel-addon-filtering/",
+      "published_at": "2026-11-20T19:52:00+00:00",
+      "summary": "<p>Today, Amazon CloudWatch announces telemetry filtering for the CloudWatch Observability EKS add-on, so you can stop paying to ingest telemetry you don't use.</p> \n<p>You can now set cluster-wide include and exclude lists for namespaces, metric names, and pod and node labels. Exclude the non-production namespaces you don't monitor, drop high-cardinality metrics by name, and keep only the labels you group by rather than every label on every resource. Because ingestion is billed per GB, collecti",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/",
+      "published_at": "2026-11-20T19:27:00+00:00",
+      "summary": "<p>Amazon SageMaker JumpStart now offers a model leaderboard in Amazon SageMaker Studio. You can use it to compare foundation models side by side on throughput, latency, and cost, and then deploy or customize the model that fits your workload.</p> \n<p>Comparing models has usually meant reading model cards one at a time and relying on benchmark scores that different sources published under different conditions. The JumpStart leaderboard puts consistent measurements in one view. AWS evaluates ever",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/",
+      "published_at": "2026-11-20T19:07:00+00:00",
+      "summary": "<p>AWS Partner Central Agents now help AWS Partners create and manage AWS Partner Central and AWS Marketplace support cases in one place. The agents are available 24/7 and draw on Partner Central account details and authoritative, partner-specific knowledge from AWS to resolve most inquiries instantly. If a inquiry needs a support engineer, the agents will gather details and create a case. This reduces the time partners spend looking for help, and gives support teams the context they need to res",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Spend limits in the new AWS experience now support SMS alerts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sms/",
+      "published_at": "2026-11-20T19:03:00+00:00",
+      "summary": "<p>Builders using the new AWS experience on the Paid plan can now receive spend limit alerts by text message (SMS), alongside existing email notifications. A spend limit sets the maximum monthly cost for a project. Notifications are sent as a project approaches its limit, and when a project reaches its limit, AWS automatically pauses it. SMS gives builders a second way to stay informed about their project costs.</p> \n<p>Email alerts can go unnoticed when builders are away from their inbox, leavi",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/",
+      "published_at": "2026-11-20T19:00:00+00:00",
+      "summary": "<p>Amazon S3 Vectors now supports up to 40 KB of filterable metadata per vector, up from 2 KB. You can attach and filter on more attributes per vector, such as category, permissions, timestamps, and descriptive tags, so your retrieval-augmented generation (RAG), agentic, and semantic-search applications can narrow results by more of the fields that matter to them.</p> \n<p>S3 Vectors provides native support to store and query vectors in Amazon S3, delivering purpose-built, cost-optimized vector s",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Lambda now provides cost optimization recommendations for Event Functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/",
+      "published_at": "2026-11-20T19:00:00+00:00",
+      "summary": "<p>AWS Lambda now provides cost optimization recommendations for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions-chapter.html\">Event Functions</a> in <a href=\"https://aws.amazon.com/premiumsupport/technology/trusted-advisor/\">AWS Trusted Advisor</a>.&nbsp;These recommendations identify on-demand functions&nbsp;where moving to <a href=\"https://aws.amazon.com/lambda/lambda-managed-instances/\">Lambda Managed Instances</a> (LMI) is estimated to reduce costs, and provide config",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
+      "published_at": "2026-11-20T19:00:00+00:00",
+      "summary": "<p>AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define data quality checks once for a catalog, a database, or a single table, and AWS Glue Data Quality evaluates every table in scope, including tables added later, on the cadence you choose. Quality issues surface as data changes, without per-table setup or manual runs, which helps ke",
+      "source": "AWS What's New",
+      "source_url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/",
+      "tags": [
+        "aws",
+        "cloud"
+      ]
+    },
+    {
+      "title": "【第10回】ゼロから目指す! CCDV-F合格への道：Claudeアプリの設計",
+      "link": "https://qiita.com/Ray_T/items/def0bc4fd7c2fb7029f6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T16:19:49+00:00",
+      "summary": "この記事について\n\nAnthropic社の公式認定資格「Claude Certified Developer – Foundations(CCDV-F)」に向けた、非公式の学習シリーズ(全24回)の第10回です。（Anthropic社とは関係ありません）\n公式の試験ガイ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "適度にバズりつつ読みやすい記事の書き方",
+      "link": "https://qiita.com/EndOfData/items/8cf8f3eb8a1d2c3a9465?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T16:10:04+00:00",
+      "summary": "$\\color{Red}{\\huge \\textbf{読ませる記事を書こう}}$\n参考：Qiitaのmarkdownで文字の大きさを変えたい\n※AI生成の文章はどれだけ良くても論外と言う事で。\n\n対象読者（普通に想定しなかったのでAIが雑に出した）\n「技術記事を書いてみたけ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AtomVM でブレッドボードから「パ・パ・パ」と歌わせてみた — PWM 音声回路を學ぶ",
+      "link": "https://qiita.com/mnishiguchi/items/fa300a537d549511ef20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T12:18:28+00:00",
+      "summary": "はじめに\nAtomVM を使って、Seeed Studio XIAO ESP32-C5 に接続したスピーカーから「パ・パ・パ」と歌わせる実験をしました。\nきっかけは、電子工作や IoT に詳しい友人の @kurokouji さんが作った、複数のデバイスが連携する音楽デモで...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "source": "OpenAI Blog",
+      "source_url": "https://openai.com/blog/rss.xml",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "第8回 自分のトレードルールを「言葉」で書き出してAIに渡すコツ",
+      "link": "https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T09:40:37+00:00",
+      "summary": "本記事は連載 「非エンジニアでもわかる！AIと作るFX自動売買入門」 の1本です。\n第7回では、OANDA APIで過去データを取得し、CSVファイルに保存しました。\n\n◀️ 前の記事：第7回 OANDAの過去データをAIに取得させる\n\n本記事では、そのデータに当てはめる売...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "Claude Code が調べずに「ありません」「できません」と答えるのを Stop フックで差し戻す(道具を1回も呼んでいない返事だけを止める)",
+      "link": "https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T08:39:14+00:00",
+      "summary": "読み終えるとできること\n道具で何も調べていないのに「入っていません」「できません」と言い切る返事を、Stop フックで差し戻せるようになります。\n根拠は、2026-11-18 に偽の会話記録を作って6通りを実行した結果です(下の「動かした結果」)。\n\n何に困ったか\nCla...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "November 20, 2026",
+      "link": "https://docs.cloud.google.com/release-notes#November_20_2026",
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "summary": "<h2 class=\"release-note-product-title\">App Engine flexible environment Java</h2>\n<h3>Security</h3>\n<p>The following runtime language contains important security updates:</p>\n<ul>\n<li><a href=\"https://docs.cloud.google.com/appengine/docs/flexible/lifecycle/support-schedule#java\">Java 17 and later</a>: <code>17.0.21.1+2</code>, <code>21.0.13.1+2</code>, <code>25.0.5.1+2</code></li>\n</ul>\n<p>Take immediate action by rebuilding and redeploying your applications to pick up\nthe patched Java runtime, a",
+      "source": "Google Cloud Release Notes",
+      "source_url": "https://cloud.google.com/feeds/gcp-release-notes.xml",
+      "tags": [
+        "gcp",
+        "cloud"
+      ]
+    },
+    {
+      "title": "家のPull型世代バックアップをランサム想定で攻撃シミュレーションして、1行直した",
+      "link": "https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T07:20:42+00:00",
+      "summary": "📚 3記事シリーズ\n\n設計・脅威モデル編（Zenn）\n物語・運用編（note）\n検証・実装編（この記事）\n検証コード → GitHub\n\nRaspberry Pi → Windows の自宅バックアップ（毎時 Pull、rrsync -ro、--delete なし、各...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "自宅サーバー上のアプリケーションを Cloudflare Tunnel + Access で安全に公開する",
+      "link": "https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access",
+      "published_at": "2026-11-20T07:14:41+00:00",
+      "summary": "はじめに\n最近は Coding Agent のおかげで、ちょっとしたアプリなら週末にサクッと作れるようになりました。「こういうのがあったら便利だな」と思ったら、とりあえず作ってみる。個人開発のハードルは本当に下がったと感じます。\nただ、作ったアプリをどこで動かすかは、意外と悩みどころです。クラウドなどの費用をできるだけ抑えるためにサービスやアーキテクチャを選定することは、ときには楽しい作業ですが、本質ではありません。\nそこで、安価なミニPCを購入して自宅にサーバーを置くことにしました。サーバーなら、非同期処理もバッチ処理もキューもDBも全部これだけで済みます。\nただし、自宅サーバーを...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "日本の法律をGitで管理してみた。法改正を `git diff` で追跡できる「houritsu」を作った",
+      "link": "https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T06:21:48+00:00",
+      "summary": "はじめに\n「法律をGitで管理したら面白いのでは？」\nそんなちょっとした思いつきから、日本の法令をGitの履歴として管理するプロジェクト houritsu を作りました。\n普段、ソフトウェア開発ではGitを使ってコードの変更履歴を管理しています。誰が、いつ、どこを変更した...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "AI に作らせた Skill を「期待値」で評価する",
+      "link": "https://qiita.com/rioriver/items/17308685b10b3a413427?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T06:03:48+00:00",
+      "summary": "はじめに\nこんにちは。KDDIテクノロジーのRioriverです。\n私たちのチームは、AI を使った開発の進め方を調べて試し、そこで作ったハーネスや Skill を社内の開発チームへ広げる活動をしています。自分たちで使うぶんには、使いながら直していけば済みます。しかし、ほ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "【紫のうさぎ ホラーゲーム】終電後の「新宿駅B1F＆地下街全域（180m×116m）」を外部画像ゼロ・プロシージャルPBRで超精密再現した3Dサバイバルホラーを作ってGitHub Pagesに公開した",
+      "link": "https://qiita.com/yangon/items/0f4a8fce9954e472e70d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T04:44:59+00:00",
+      "summary": "はじめに：世界一複雑な地下迷宮「新宿駅」に、終電後閉じ込められたら？\n毎日何百万人もの人々が行き交う世界最大のターミナル**「新宿駅」。\nその地下1階（B1F）は、JR東日本の東西自由通路**・中央通路・全1〜16番線ホーム階段を中心に、東京メトロ丸ノ内線メトロプロムナ...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
+      "link": "https://zenn.dev/chaki/articles/4545be3475fdb4",
+      "published_at": "2026-11-20T04:33:15+00:00",
+      "summary": "自宅のPCで日本のレシートを読むなら、今回いちばん良かったのは YomiToku でした。軽量モデルで全体を読み、自信のない行だけ高精度モデルで読み直す「2段読み」で、商品名の完全一致93%、金額100%、1枚約1.8秒。ただし YomiToku は非商用ライセンスです。商用なら NDLOCR-Lite や PP-OCRv6 が現実的な候補になります。話題の画像対応AI（VLM）は、長いレシートで同じ文字を延々と繰り返す失敗が目立ちました。ただし手書きの領収書では順位がほぼ逆転し、VLM が上位を占めました。\n\n きっかけと前提\n自作の経費管理アプリで、レシートの写真から店名・日付・品目...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "PHP が再び重大な脆弱性を修正。その修正版はもうあなたの PHP に届いているのか、公開から9時間で6つの入手先を調べたら、Ubuntu と brew install php はまだだった",
+      "link": "https://qiita.com/suwa_nobu/items/83e35e3be86b236cc807?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "published_at": "2026-11-20T03:16:58+00:00",
+      "summary": "「PHPが再び重大脆弱性を修正へ」（ITmedia、11月19日）。10月に続いて、PHP のセキュリティ修正が出ました。\nPHP の公式サイトは前日に「Upcoming Critical PHP Security Release」と予告し、11月19日 14:00〜14:...",
+      "source": "Qiita Trending (official)",
+      "source_url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    },
+    {
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "link": "https://blog.cloudflare.com/nginx2root/",
+      "published_at": "2026-11-20T01:58:29+00:00",
+      "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+      "source": "Cloudflare Blog",
+      "source_url": "https://blog.cloudflare.com/rss/",
+      "tags": [
+        "cloud",
+        "infra"
+      ]
+    },
+    {
+      "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+      "link": "https://zenn.dev/levtech/articles/14befd8e727f32",
+      "published_at": "2026-11-20T01:26:30+00:00",
+      "summary": "はじめに\nこんにちは！\nレバテック開発部の皆様と一緒に、開発に携わらせていただいているナカジーです！\nこの度は CDK 管理のリソースを Terraform に寄せる IaC 移行作業に携わりました。その際に 「所有権を移譲する手法」 をとることで本番インフラ（12 のサービス＋共通基盤、計 13 スタック）を停止させずに IaC 移行を完遂することができました！\n本記事では、そこで得られたナレッジやノウハウをまとめており、\nIaC 移行を検討している方の参考になれば幸いです。\n目次\n\nIaC 移行の背景\nTerraform に統一してよかったと感じる点\nCDK から Terrafo...",
+      "source": "Zenn Trending",
+      "source_url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "ja"
+      ]
+    }
+  ],
+  "day_summary": "",
+  "broadcast": "",
+  "service_summaries": {}
+}
